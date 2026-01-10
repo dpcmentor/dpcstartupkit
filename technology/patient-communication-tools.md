@@ -60,7 +60,7 @@ This guide covers communication options and strategies for DPC practices.
 - Personal cell phone (blurs boundaries)
 - Dedicated cell phone (separate number)
 - [Google Voice](https://voice.google.com/) (free; separate number)
-- VoIP service ([RingCentral](https://www.ringcentral.com/), [Grasshopper](https://grasshopper.com/), etc.)
+- VoIP service ([RingCentral](https://www.ringcentral.com/), [Grasshopper](https://grasshopper.com/), [Webfones](https://www.webfones.com/), etc.)
 - Practice landline (less common in DPC)
 
 **Google Voice advantages:**
@@ -80,6 +80,37 @@ This guide covers communication options and strategies for DPC practices.
 **Costs:**
 - Google Voice: Free
 - VoIP services: $20-$50/month
+
+---
+
+### VoIP vs. POTS (Traditional Landline)
+
+**POTS (Plain Old Telephone Service):**
+Traditional copper-wire landlines from phone companies.
+
+| Aspect | POTS | VoIP |
+|--------|------|------|
+| **Reliability** | Very reliable; works during power outages | Requires internet; needs power backup |
+| **Cost** | $40-80/month; long-distance extra | $20-50/month; usually unlimited calling |
+| **Features** | Basic (voicemail, call waiting) | Advanced (routing, auto-attendant, apps, transcription) |
+| **Flexibility** | Tied to physical location | Use anywhere with internet; mobile apps |
+| **Setup** | Phone company installation | Self-setup; usually plug-and-play |
+| **Fax** | Native support | Requires eFax service or adapter |
+
+**Recommendation for DPC:**
+
+VoIP is typically the better choice for most DPC practices because:
+- Lower cost
+- Mobile flexibility (answer from anywhere)
+- Professional features (separate business number, voicemail transcription)
+- Easy to set up and change
+
+**When POTS might make sense:**
+- Very rural area with unreliable internet
+- Strong preference for traditional phone
+- Already have a landline in shared office space
+
+**Hybrid approach:** Many physicians use VoIP for primary business line with cell phone as backup.
 
 ---
 

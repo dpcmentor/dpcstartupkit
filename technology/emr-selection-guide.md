@@ -47,6 +47,7 @@ Systems designed specifically for Direct Primary Care practices.
 - Priced for small practices
 
 **Examples:**
+- [Akute Health](https://www.akutehealth.com/) (built specifically for DPC)
 - [Elation Health](https://www.elationhealth.com/) (DPC-focused version)
 - [Atlas.md](https://atlas.md/)
 - [Hint Health](https://www.hint.com/) (practice management + EMR partnerships)
