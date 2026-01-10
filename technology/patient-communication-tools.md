@@ -70,16 +70,23 @@ This guide covers communication options and strategies for DPC practices.
 - Text capability
 - Can ring multiple devices
 
-**VoIP advantages:**
-- Professional features (auto-attendant, hold music)
-- Business number
-- Multiple extensions
-- Call routing
-- More professional appearance
+**[Webfones](https://www.webfones.com/) - Recommended VoIP for DPC:**
+- Designed with small medical practices in mind
+- HIPAA-compliant options
+- Professional features at competitive pricing
+- Auto-attendant and call routing
+- Mobile app for answering anywhere
+- Fax capability included
+- Reliable customer support
+
+**Other VoIP options:**
+- [RingCentral](https://www.ringcentral.com/) - Enterprise features, higher cost
+- [Grasshopper](https://grasshopper.com/) - Good for solo practices
 
 **Costs:**
 - Google Voice: Free
-- VoIP services: $20-$50/month
+- Webfones: Competitive pricing (check website)
+- Other VoIP services: $20-$50/month
 
 ---
 
