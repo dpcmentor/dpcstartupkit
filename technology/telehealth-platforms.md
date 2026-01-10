@@ -1,5 +1,27 @@
 # Telehealth Platforms
 
+> **Quick Summary:** Telehealth is a natural fit for DPC—no billing complexity, just clinical appropriateness. Start with free HIPAA-compliant options like Doxy.me, consider EMR-integrated solutions as you grow, and always verify BAA availability before using any platform.
+
+---
+
+## Table of Contents
+
+- [Why Telehealth Matters for DPC](#why-telehealth-matters-for-dpc)
+- [Telehealth Platform Categories](#telehealth-platform-categories)
+  - [EMR-Integrated Telehealth](#category-1-emr-integrated-telehealth)
+  - [Standalone HIPAA-Compliant Platforms](#category-2-standalone-hipaa-compliant-platforms)
+  - [Communication Platforms with Video](#category-3-communication-platforms-with-video)
+- [Key Features to Evaluate](#key-features-to-evaluate)
+- [Cost Considerations](#cost-considerations)
+- [HIPAA and Compliance](#hipaa-and-compliance)
+- [Implementation Best Practices](#implementation-best-practices)
+- [When Telehealth Is Appropriate](#when-telehealth-is-appropriate)
+- [Telehealth Consent](#telehealth-consent)
+- [Troubleshooting Common Issues](#troubleshooting-common-issues)
+- [Checklist](#checklist-telehealth-implementation)
+
+---
+
 ## Overview
 
 Telehealth has become an essential component of Direct Primary Care, expanding access and convenience for patients while improving practice efficiency. For DPC physicians, telehealth aligns naturally with the model—you are already being paid for access and care, not individual visit codes.
@@ -187,7 +209,8 @@ Consider:
 - Integration costs
 - Training time
 
-**For most solo DPC practices:** Free or low-cost options are sufficient.
+> [!TIP]
+> For most solo DPC practices, free or low-cost options like Doxy.me are sufficient. Save your budget for other startup needs.
 
 ---
 
@@ -208,12 +231,13 @@ Consider:
 - Microsoft 365 (Business tier+)
 - Most healthcare-specific platforms
 
-**Platforms that are NOT HIPAA compliant:**
-- Consumer Zoom (free version)
-- FaceTime (no BAA available)
-- Skype (consumer)
-- WhatsApp
-- Standard Google Meet (without Workspace BAA)
+> [!WARNING]
+> **Platforms that are NOT HIPAA compliant:**
+> - Consumer Zoom (free version)
+> - FaceTime (no BAA available)
+> - Skype (consumer)
+> - WhatsApp
+> - Standard Google Meet (without Workspace BAA)
 
 ---
 

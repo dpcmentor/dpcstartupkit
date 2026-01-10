@@ -1,5 +1,23 @@
 # Office Space Guide
 
+> **Quick Summary:** Start with shared/sublease space ($500-$2,500/month) rather than dedicated space. Most solo DPC practices need only 300-800 sq ft. Match your space to your current stage, not your five-year vision. Negotiate shorter lease terms (1-2 years) and free rent periods when possible.
+
+---
+
+## Table of Contents
+
+- [Starting Lean: Space by Stage](#starting-lean-space-by-stage)
+- [Finding Space](#finding-space)
+- [Space Requirements](#space-requirements)
+- [Lease Considerations](#lease-considerations)
+- [Setting Up Your Space](#setting-up-your-space)
+- [Home Office Considerations](#home-office-considerations)
+- [Shared Space Arrangement Tips](#shared-space-arrangement-tips)
+- [Budgeting for Space](#budgeting-for-space)
+- [Checklist](#checklist-office-space)
+
+---
+
 ## Overview
 
 Office space is often one of the largest expenses for a new Direct Primary Care practice—but it does not have to be. Your space needs will evolve as your practice grows. The key is matching your space to your current stage, not your five-year vision.
@@ -265,12 +283,14 @@ This guide covers office space options, requirements, and strategies for each st
 
 ### Red Flags
 
-- Very long lease required (5+ years) with no exit
-- Large personal guarantee
-- Significant build-out required at your expense
-- Hidden fees (CAM charges not disclosed)
-- Zoning uncertainty
-- Difficult parking situation
+> [!WARNING]
+> Watch out for these lease red flags:
+> - Very long lease required (5+ years) with no exit
+> - Large personal guarantee
+> - Significant build-out required at your expense
+> - Hidden fees (CAM charges not disclosed)
+> - Zoning uncertainty
+> - Difficult parking situation
 
 ---
 

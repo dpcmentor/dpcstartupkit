@@ -1,5 +1,25 @@
 # EMR Selection Guide
 
+> **Quick Summary:** DPC practices can choose EMRs based on usability and patient experience rather than billing optimization. Start with a DPC-specific or adaptable small-practice EMR, prioritize cloud access and patient portal quality, and avoid enterprise systems designed for large organizations.
+
+---
+
+## Table of Contents
+
+- [Why EMR Selection Differs for DPC](#why-emr-selection-differs-for-dpc)
+- [EMR Categories for DPC](#emr-categories-for-dpc)
+  - [DPC-Specific EMRs](#category-1-dpc-specific-emrs)
+  - [Small Practice EMRs](#category-2-small-practice-emrs-adaptable-to-dpc)
+  - [Enterprise EMRs](#category-3-enterprise-emrs-usually-overkill)
+- [Key Features to Evaluate](#key-features-to-evaluate)
+- [Evaluation Framework](#evaluation-framework)
+- [Implementation Planning](#implementation-planning)
+- [Common Mistakes to Avoid](#common-emr-mistakes-to-avoid)
+- [Making the Decision](#making-the-decision)
+- [Checklist](#checklist-emr-selection)
+
+---
+
 ## Overview
 
 Your Electronic Medical Record (EMR) system is the operational backbone of your Direct Primary Care practice. Unlike traditional practices where EMR selection is driven by billing optimization, DPC physicians can prioritize usability, patient experience, and clinical efficiency.
@@ -29,7 +49,8 @@ This guide helps you evaluate EMR options based on what actually matters for DPC
 4. Cost-effectiveness
 5. Patient portal quality
 
-**The shift:** Without insurance billing, you can choose systems optimized for care delivery rather than revenue capture.
+> [!TIP]
+> Without insurance billing, you can choose systems optimized for care delivery rather than revenue capture. This is a significant advantage of the DPC model.
 
 ---
 
@@ -108,7 +129,8 @@ Large health system EMRs generally not recommended for solo/small DPC.
 - Heavy billing focus
 - Overkill for small panels
 
-**Exception:** If joining an existing practice or health system that uses these, you may need to adapt.
+> [!NOTE]
+> If joining an existing practice or health system that uses these, you may need to adapt to their existing EMR.
 
 ---
 
@@ -324,7 +346,8 @@ Large health system EMRs generally not recommended for solo/small DPC.
 | Go-live and adjustment | 2-4 weeks |
 | **Total** | **7-14 weeks** |
 
-**Recommendation:** Start EMR selection 2-3 months before planned launch.
+> [!IMPORTANT]
+> Start EMR selection 2-3 months before planned launch to allow adequate time for evaluation, setup, and training.
 
 ---
 
@@ -411,7 +434,8 @@ Create a simple scoring matrix:
 - Has responsive support
 - Allows you to own/export your data
 
-**Remember:** No EMR is perfect. Choose "good enough" that you can grow with, rather than waiting for perfect.
+> [!TIP]
+> No EMR is perfect. Choose "good enough" that you can grow with, rather than waiting for perfect.
 
 ---
 

@@ -1,5 +1,22 @@
 # Pricing Your Practice
 
+> **Quick Summary:** Calculate your required revenue (operating costs + desired income + buffer), divide by target panel size and 12 months for base pricing. Validate against local market rates. Typical DPC pricing ranges from $50-150/month depending on location and practice style.
+
+---
+
+## Table of Contents
+
+- [The Pricing Formula](#the-pricing-formula)
+- [Step-by-Step Pricing Process](#step-by-step-pricing-process)
+- [Pricing Psychology](#pricing-psychology)
+- [Special Pricing Situations](#special-pricing-situations)
+- [When to Raise Prices](#when-to-raise-prices)
+- [Common Pricing Mistakes](#common-pricing-mistakes)
+- [Pricing Worksheet](#pricing-worksheet)
+- [Checklist](#checklist-setting-your-prices)
+
+---
+
 ## Overview
 
 Setting the right price for your Direct Primary Care membership is one of the most consequential decisions you will make. Price too high and you struggle to attract patients. Price too low and you cannot sustain the practice or deliver the value patients expect.
@@ -199,11 +216,12 @@ Present your value relative to alternatives:
 
 ### Avoid "Cheap" Positioning
 
-Pricing too low can backfire:
-- Patients may question quality
-- You may attract price-shoppers who leave easily
-- Harder to raise prices later
-- Unsustainable long-term
+> [!WARNING]
+> Pricing too low can backfire:
+> - Patients may question quality
+> - You may attract price-shoppers who leave easily
+> - Harder to raise prices later
+> - Unsustainable long-term
 
 **Better approach:** Price at fair value and clearly communicate what patients receive.
 
@@ -249,7 +267,8 @@ Seniors typically have higher utilization. Options:
 2. **Same fee, larger time allocation** in your panel calculations
 3. **Medicare coordination** (complex; consult healthcare attorney)
 
-**Important:** You cannot bill Medicare for services covered by their membership if they are Medicare beneficiaries. Structure carefully with legal guidance.
+> [!CAUTION]
+> You cannot bill Medicare for services covered by their membership if they are Medicare beneficiaries. Structure carefully with legal guidance.
 
 ---
 

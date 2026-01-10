@@ -42,11 +42,14 @@ This guide covers communication options and strategies for DPC practices.
 ### Stage 1: Just Starting (0-25 Patients)
 
 **You can manage with:**
-- Your cell phone (for calls/texts)
-- Personal email or simple professional email
+- A dedicated phone number (VoIP or second cell—not your personal number)
+- Simple professional email
 - No elaborate systems needed
 
 **Reality:** At low patient counts, you can personally handle all communication without sophisticated tools.
+
+> [!TIP]
+> Get a separate phone number from day one. Starting with your personal cell phone seems easy, but you'll regret it when you have to transition patients to a new number as you grow. A basic VoIP line costs $20-50/month and establishes professional boundaries from the start.
 
 **Key:** Set clear expectations about response times and methods.
 
@@ -55,11 +58,11 @@ This guide covers communication options and strategies for DPC practices.
 ### Stage 2: Growing (25-75 Patients)
 
 **Consider adding:**
-- Dedicated phone line (VoIP or second cell)
 - HIPAA-compliant messaging option
 - Patient portal (through EMR)
+- VoIP upgrade with advanced features (auto-attendant, voicemail transcription)
 
-**Why:** Separate work from personal; better security; easier to manage volume.
+**Why:** Better security; easier to manage volume; more professional patient experience.
 
 ---
 
@@ -161,7 +164,7 @@ VoIP is typically the better choice for most DPC practices because:
 > Secure messaging through a patient portal or HIPAA-compliant platform should be your primary channel for clinical discussions. It's documented, secure, and creates a record.
 
 **Options:**
-- EMR built-in portal ([Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
+- EMR built-in portal ([Akute Health](https://www.akutehealth.com/), [Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
 - Standalone platforms ([Spruce](https://www.sprucehealth.com/), [Klara](https://www.klara.com/), [OhMD](https://www.ohmd.com/))
 - Dedicated patient communication apps
 

@@ -1,5 +1,23 @@
 # HIPAA Compliance Basics
 
+> **Quick Summary:** HIPAA applies to all healthcare practices regardless of size. For solo DPC, focus on: complete a risk assessment, encrypt all devices, sign BAAs with all vendors handling PHI, create basic policies, and provide Notice of Privacy Practices to patients.
+
+---
+
+## Table of Contents
+
+- [Starting Lean: Right-Sizing Compliance](#starting-lean-right-sizing-compliance)
+- [HIPAA Fundamentals](#hipaa-fundamentals)
+- [Practical Compliance Steps](#practical-compliance-steps)
+- [Practical Technology Security](#practical-technology-security)
+- [Common HIPAA Mistakes](#common-hipaa-mistakes)
+- [Patient Rights Under HIPAA](#patient-rights-under-hipaa)
+- [HIPAA and DPC-Specific Considerations](#hipaa-and-dpc-specific-considerations)
+- [Budget-Friendly Compliance Resources](#budget-friendly-compliance-resources)
+- [Checklist](#checklist-hipaa-compliance)
+
+---
+
 ## Overview
 
 HIPAA (Health Insurance Portability and Accountability Act) compliance is required for all healthcare practices, including Direct Primary Care. The good news: DPC practices are often simpler to secure than traditional practices because you have fewer staff, simpler systems, and no insurance billing infrastructure.
@@ -209,7 +227,8 @@ A few pages covering the basics is sufficient initially. You can use templates f
 - Request before using any service for PHI
 - Keep signed copies
 
-**Red Flag:** If a vendor won't sign a BAA, don't use them for anything involving PHI.
+> [!CAUTION]
+> If a vendor won't sign a BAA, don't use them for anything involving PHI.
 
 ---
 

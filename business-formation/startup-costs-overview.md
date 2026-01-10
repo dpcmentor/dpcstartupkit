@@ -1,5 +1,21 @@
 # Startup Costs Overview
 
+> **Quick Summary:** Lean startup costs range $12,000-$27,000; shared space $18,000-$42,000; full clinic $40,000-$145,000. Plan for 6-12 months of operating reserves. Most DPC practices take 12-24 months to reach profitability.
+
+---
+
+## Table of Contents
+
+- [Practice Model Comparison](#practice-model-comparison)
+- [Detailed Cost Breakdown](#detailed-cost-breakdown)
+- [Essential Medical Equipment List](#essential-medical-equipment-list)
+- [Financing Options](#financing-options)
+- [Cash Flow Considerations](#cash-flow-considerations)
+- [Cost-Saving Strategies](#cost-saving-strategies)
+- [Checklist](#checklist-financial-planning)
+
+---
+
 ## Overview
 
 Understanding realistic startup costs is essential for planning your Direct Primary Care practice launch. Costs vary significantly based on your practice model, location, and existing resources.
@@ -165,7 +181,8 @@ This guide provides detailed cost breakdowns for three common practice models an
 - Personal financial risk
 - May limit startup options
 
-**Recommended minimum savings:** 6-12 months of operating costs plus startup costs
+> [!IMPORTANT]
+> Recommended minimum savings: 6-12 months of operating costs plus startup costs before launching.
 
 ---
 

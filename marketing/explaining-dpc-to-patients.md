@@ -1,5 +1,23 @@
 # Explaining DPC to Patients
 
+> **Quick Summary:** Lead with what patients hate about current healthcare (long waits, short visits, surprise bills), then explain DPC as the solution. Use simple analogies like "Netflix for primary care" or "gym membership for healthcare." Always clarify DPC is not insurance and doesn't replace coverage for hospitals, specialists, or emergencies.
+
+---
+
+## Table of Contents
+
+- [The Core Challenge](#the-core-challenge)
+- [The Elevator Pitch](#the-elevator-pitch)
+- [Key Messages by Audience](#key-messages-by-audience)
+- [Addressing Common Objections](#addressing-common-objections)
+- [Communication Frameworks](#communication-frameworks)
+- [Visual Aids](#visual-aids)
+- [Setting Expectations](#setting-expectations)
+- [Training for Conversations](#training-for-conversations)
+- [Checklist](#checklist-dpc-explanation-preparation)
+
+---
+
 ## Overview
 
 The biggest marketing challenge for Direct Primary Care physicians is education. Most potential patients have never heard of DPC and do not understand how it differs from traditional healthcare. Your ability to explain the model clearly, address concerns, and communicate value determines your success in building a patient panel.
@@ -188,7 +206,8 @@ This guide provides frameworks, language, and strategies for effectively explain
 **If you don't accept Medicare/Medicaid:**
 > "Due to regulatory complexity, we're not currently able to serve Medicare/Medicaid patients in our membership model. I'm happy to recommend other options in the community."
 
-**Note:** Medicare and DPC involves complex regulations. Consult a healthcare attorney for your specific approach.
+> [!CAUTION]
+> Medicare and DPC involves complex regulations. Consult a healthcare attorney for your specific approach.
 
 ---
 

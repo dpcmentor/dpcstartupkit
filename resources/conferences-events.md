@@ -1,5 +1,23 @@
 # Conferences and Events
 
+> **Quick Summary:** DPC Summit (hosted by DPC Alliance) is the premier annual event for comprehensive education and networking. Regional events and virtual webinars offer lower-cost alternatives. Budget $1,000-2,500 per major conference including travel.
+
+---
+
+## Table of Contents
+
+- [Major DPC Conferences](#major-dpc-conferences)
+- [Types of Events](#types-of-events)
+- [Getting Value from Conferences](#getting-value-from-conferences)
+- [Event Calendar Planning](#event-calendar-planning)
+- [For Those Exploring DPC](#for-those-exploring-dpc)
+- [For New DPC Practices](#for-new-dpc-practices)
+- [For Established Practices](#for-established-practices)
+- [Virtual Learning Resources](#virtual-learning-resources)
+- [Checklist](#checklist-event-participation)
+
+---
+
 ## Overview
 
 DPC conferences and events provide concentrated learning, networking, and inspiration. Whether you're exploring DPC, just starting, or years into practice, events connect you with the broader DPC community and accelerate your growth.

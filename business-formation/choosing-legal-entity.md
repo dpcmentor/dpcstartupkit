@@ -1,5 +1,21 @@
 # Choosing a Legal Entity for Your DPC Practice
 
+> **Quick Summary:** For most solo DPC physicians, form a PLLC (or LLC where PLLC not required), operate as a default LLC initially, then evaluate S-Corp election once profitable. This provides liability protection from day one with flexibility to optimize taxes as income grows.
+
+---
+
+## Table of Contents
+
+- [Entity Types Compared](#entity-types-compared)
+- [State-Specific Considerations](#state-specific-considerations)
+- [Tax Implications Summary](#tax-implications-summary)
+- [Decision Framework](#decision-framework)
+- [Recommended Approach for Most DPC Physicians](#recommended-approach-for-most-dpc-physicians)
+- [Working with Professionals](#working-with-professionals)
+- [Checklist](#checklist-legal-entity-selection)
+
+---
+
 ## Overview
 
 Selecting the right legal structure for your Direct Primary Care practice is one of the most important early decisions you will make. Your choice affects personal liability protection, tax obligations, administrative complexity, and future growth options.
@@ -34,7 +50,8 @@ Before selecting an entity type, you should:
 
 **Best for:** Physicians testing the DPC model briefly before committing, or those in very low-risk situations.
 
-**Recommendation:** Generally not recommended for medical practices due to liability exposure.
+> [!WARNING]
+> Sole proprietorship is generally not recommended for medical practices due to liability exposure.
 
 ---
 
@@ -76,7 +93,8 @@ Before selecting an entity type, you should:
 
 **Best for:** Solo DPC physicians in states that require PLLCs for medical practices.
 
-**Important:** In most states, a PLLC protects you from business debts and other members' malpractice, but not from your own professional negligence. Malpractice insurance remains essential.
+> [!IMPORTANT]
+> In most states, a PLLC protects you from business debts and other members' malpractice, but not from your own professional negligence. Malpractice insurance remains essential.
 
 ---
 

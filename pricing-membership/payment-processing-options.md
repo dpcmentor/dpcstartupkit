@@ -1,5 +1,28 @@
 # Payment Processing Options
 
+> **Quick Summary:** Start simple with Square or Stripe for payment collection, add automated recurring billing as you grow past 25 patients, and consider DPC-specific platforms like Hint Health when established. ACH transfers offer lower fees than credit cards.
+
+---
+
+## Table of Contents
+
+- [Starting Lean: Payment Processing by Stage](#starting-lean-payment-processing-by-stage)
+- [Payment Processing Options](#payment-processing-options)
+  - [Square](#square)
+  - [Stripe](#stripe)
+  - [PayPal / Venmo for Business](#paypal--venmo-for-business)
+  - [Hint Health](#hint-health)
+  - [ACH / Bank Transfers](#ach--bank-transfers)
+  - [Checks](#checks)
+- [Recurring Billing Considerations](#recurring-billing-considerations)
+- [Fee Comparison](#fee-comparison)
+- [Patient Experience](#patient-experience)
+- [Accounting Integration](#accounting-integration)
+- [Security and Compliance](#security-and-compliance)
+- [Checklist](#checklist-payment-processing)
+
+---
+
 ## Overview
 
 Collecting membership payments reliably is essential to DPC practice sustainability. The right payment system balances cost, convenience, automation, and patient experience. This guide covers options from simple manual collection to full practice management integration.
