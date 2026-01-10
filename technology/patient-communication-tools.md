@@ -188,6 +188,41 @@ See [Telehealth Platforms](telehealth-platforms.md) for detailed coverage.
 
 ---
 
+### Fax (Email-to-Fax Services)
+
+**Still necessary for healthcare communication.**
+
+Despite being outdated technology, fax remains common in healthcare for:
+- Receiving records from other providers
+- Sending referrals to specialists
+- Pharmacy communications
+- Insurance and administrative documents
+
+**Email-to-Fax Services:**
+
+These services let you send and receive faxes via email—no fax machine needed.
+
+| Service | Cost | Features |
+|---------|------|----------|
+| [Humblefax](https://www.humblefax.com/) | Low-cost | Simple, straightforward |
+| [eFax](https://www.efax.com/) | $15-20/month | Established, mobile app |
+| [RingCentral Fax](https://www.ringcentral.com/fax.html) | Included with VoIP | Bundled option |
+| [Fax.Plus](https://www.fax.plus/) | Free tier available | HIPAA option available |
+| [SRFax](https://www.srfax.com/) | $10-15/month | Healthcare-focused |
+
+**HIPAA Considerations:**
+- Ensure service offers BAA
+- Use secure/encrypted transmission
+- Some services have specific healthcare tiers
+
+**Recommendation for DPC:**
+- Email-to-fax service is usually sufficient
+- No need for physical fax machine
+- Choose based on volume and features needed
+- Many VoIP services include fax capability
+
+---
+
 ## Setting Communication Expectations
 
 ### What Patients Should Know at Enrollment
