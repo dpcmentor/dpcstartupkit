@@ -1,5 +1,28 @@
 # Patient Communication Tools
 
+> **Quick Summary:** Choose communication tools that balance patient accessibility with HIPAA compliance and work-life boundaries. Start simple with a dedicated VoIP line, add HIPAA-compliant messaging as you grow, and systematize with patient portal integration when established.
+
+---
+
+## Table of Contents
+
+- [Starting Lean: Communication by Stage](#starting-lean-communication-by-stage)
+- [Communication Channels](#communication-channels)
+  - [Phone Calls](#phone-calls)
+  - [VoIP vs. POTS](#voip-vs-pots-traditional-landline)
+  - [Text Messaging](#text-messaging)
+  - [Secure Messaging / Patient Portal](#secure-messaging--patient-portal)
+  - [Email](#email)
+  - [Video Visits](#video-visits)
+  - [Fax Services](#fax-email-to-fax-services)
+- [Setting Communication Expectations](#setting-communication-expectations)
+- [Managing Communication Volume](#managing-communication-volume)
+- [HIPAA and Communication](#hipaa-and-communication)
+- [Work-Life Balance](#work-life-balance)
+- [Checklist](#checklist-patient-communication)
+
+---
+
 ## Overview
 
 Direct, accessible communication is a defining feature of Direct Primary Care. Patients expect to reach you easily—that's part of what they're paying for. Choosing the right communication tools balances accessibility, security, efficiency, and work-life boundaries.
@@ -57,18 +80,13 @@ This guide covers communication options and strategies for DPC practices.
 **Traditional but effective.**
 
 **Options:**
-- Personal cell phone (blurs boundaries)
+- Personal cell phone (blurs boundaries—not recommended)
 - Dedicated cell phone (separate number)
-- [Google Voice](https://voice.google.com/) (free; separate number)
-- VoIP service ([RingCentral](https://www.ringcentral.com/), [Grasshopper](https://grasshopper.com/), [Webfones](https://www.webfones.com/), etc.)
+- VoIP service (recommended for most practices)
 - Practice landline (less common in DPC)
 
-**Google Voice advantages:**
-- Free
-- Separate number on same device
-- Voicemail transcription
-- Text capability
-- Can ring multiple devices
+> [!TIP]
+> Invest in a professional VoIP service from the start. The cost is minimal and the features (auto-attendant, call routing, mobile app) make a significant difference in how your practice is perceived.
 
 **[Webfones](https://www.webfones.com/) - Recommended VoIP for DPC:**
 - Designed with small medical practices in mind
@@ -84,9 +102,7 @@ This guide covers communication options and strategies for DPC practices.
 - [Grasshopper](https://grasshopper.com/) - Good for solo practices
 
 **Costs:**
-- Google Voice: Free
-- Webfones: Competitive pricing (check website)
-- Other VoIP services: $20-$50/month
+- VoIP services: $20-$50/month
 
 ---
 
@@ -127,15 +143,11 @@ VoIP is typically the better choice for most DPC practices because:
 
 **Options:**
 - Standard SMS (simple but not HIPAA-compliant for PHI)
-- [Google Voice](https://voice.google.com/) texts
 - HIPAA-compliant texting platforms ([Spruce](https://www.sprucehealth.com/), [OhMD](https://www.ohmd.com/), etc.)
 - EMR patient portal messaging
 
-**HIPAA Consideration:**
-- Standard texting is not encrypted
-- Technically not compliant for protected health information
-- Many DPC practices use with patient consent (documented)
-- Best practice: Use HIPAA-compliant platform
+> [!WARNING]
+> Standard texting is not encrypted and is technically not HIPAA-compliant for protected health information. Many DPC practices use it with documented patient consent, but best practice is a HIPAA-compliant platform.
 
 **Common approach:** Simple texts for logistics ("Running 10 min late"); clinical discussions via secure messaging.
 
@@ -144,6 +156,9 @@ VoIP is typically the better choice for most DPC practices because:
 ### Secure Messaging / Patient Portal
 
 **Best practice for clinical communication.**
+
+> [!NOTE]
+> Secure messaging through a patient portal or HIPAA-compliant platform should be your primary channel for clinical discussions. It's documented, secure, and creates a record.
 
 **Options:**
 - EMR built-in portal ([Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
@@ -175,17 +190,13 @@ VoIP is typically the better choice for most DPC practices because:
 
 **Common but complicated for healthcare.**
 
-**Challenges:**
-- Standard email not HIPAA-compliant
-- Patients often prefer email
-- Easy to use but risky for PHI
+> [!CAUTION]
+> Standard email is not HIPAA-compliant. Use it only for administrative matters (appointment reminders, general practice info) and direct all clinical communication to secure channels.
 
 **Options:**
 1. **Don't use email for clinical matters** - Direct to portal/secure messaging
 2. **Use encrypted email** - Services like [Virtru](https://www.virtru.com/), [Paubox](https://www.paubox.com/)
 3. **Standard email with consent** - Patient acknowledges risks in writing
-
-**Recommendation:** Use email for administrative matters only; clinical communication through secure channels.
 
 ---
 
@@ -309,6 +320,9 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 ### Avoiding Communication Overload
 
+> [!IMPORTANT]
+> Don't train patients to expect instant responses. Setting sustainable expectations from day one prevents burnout and maintains the quality of care that makes DPC valuable.
+
 **Boundaries:**
 - Set office hours
 - Define after-hours expectations
@@ -357,6 +371,9 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 ## Work-Life Balance
 
+> [!TIP]
+> Use a separate device or VoIP app for practice calls. This creates a physical boundary—when you're off, you can truly disconnect.
+
 ### The Challenge
 
 DPC promises access—but unsustainable access leads to burnout.
@@ -389,7 +406,7 @@ DPC promises access—but unsustainable access leads to burnout.
 
 | Tool | Type | HIPAA | Cost | Best For |
 |------|------|-------|------|----------|
-| Google Voice | Phone/Text | No | Free | Separate number, budget-conscious |
+| Webfones | Phone/VoIP/Fax | Yes | Competitive | DPC practices, medical-focused |
 | Spruce | All-in-one | Yes | $24-$49/mo | Comprehensive communication |
 | OhMD | Messaging | Yes | $0-$200/mo | Secure texting focus |
 | EMR Portal | Messaging | Yes | Included | EMR integration |
