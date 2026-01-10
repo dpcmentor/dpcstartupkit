@@ -45,10 +45,10 @@ This guide helps you select and implement telehealth technology that enhances yo
 Video visits built into or tightly integrated with your EMR.
 
 **Examples:**
-- Elation Health (built-in)
-- Doxy.me (integrates with many EMRs)
-- Spruce (communication platform with video)
-- Zoom for Healthcare (EMR integrations available)
+- [Elation Health](https://www.elationhealth.com/) (built-in)
+- [Doxy.me](https://doxy.me/) (integrates with many EMRs)
+- [Spruce](https://www.sprucehealth.com/) (communication platform with video)
+- [Zoom for Healthcare](https://www.zoom.us/healthcare) (EMR integrations available)
 
 **Pros:**
 - Single workflow for in-person and virtual visits
@@ -70,12 +70,12 @@ Video visits built into or tightly integrated with your EMR.
 Dedicated telehealth platforms used alongside your EMR.
 
 **Examples:**
-- Doxy.me
-- Zoom for Healthcare
-- Google Meet (with BAA)
-- Microsoft Teams (with BAA)
-- VSee
-- Updox
+- [Doxy.me](https://doxy.me/)
+- [Zoom for Healthcare](https://www.zoom.us/healthcare)
+- [Google Meet](https://meet.google.com/) (with BAA via Google Workspace)
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions) (with BAA)
+- [VSee](https://vsee.com/)
+- [Updox](https://www.updox.com/)
 
 **Pros:**
 - Often free or low-cost options
@@ -98,10 +98,10 @@ Dedicated telehealth platforms used alongside your EMR.
 Broader patient communication tools that include video capability.
 
 **Examples:**
-- Spruce Health
-- Klara
-- OhMD
-- Luma Health
+- [Spruce Health](https://www.sprucehealth.com/)
+- [Klara](https://www.klara.com/)
+- [OhMD](https://www.ohmd.com/)
+- [Luma Health](https://www.lumahealth.io/)
 
 **Pros:**
 - Combines messaging, phone, and video

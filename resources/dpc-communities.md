@@ -25,6 +25,8 @@ Building a DPC practice can feel isolating. Connecting with other DPC physicians
 
 **What it is:** The largest online community of DPC physicians and those considering DPC.
 
+**Website:** [dpcfrontier.com](https://www.dpcfrontier.com/)
+
 **Platform:** Facebook group
 
 **Who's there:** Practicing DPC physicians, residents exploring DPC, industry vendors, thought leaders
@@ -78,9 +80,9 @@ Many states have their own DPC communities:
 
 ### Reddit
 
-**r/DirectPrimaryCare** - Smaller community, occasional useful discussions
+**[r/DirectPrimaryCare](https://www.reddit.com/r/DirectPrimaryCare/)** - Smaller community, occasional useful discussions
 
-**r/medicine** - General physician discussions, occasional DPC threads
+**[r/medicine](https://www.reddit.com/r/medicine/)** - General physician discussions, occasional DPC threads
 
 ---
 
@@ -170,17 +172,17 @@ If none exists in your area:
 
 Many DPC vendors foster communities:
 
-**Hint Health:**
+**[Hint Health](https://www.hint.com/):**
 - Customer community
 - Educational webinars
 - User conferences
 
-**Elation Health:**
+**[Elation Health](https://www.elationhealth.com/):**
 - Customer forums
 - Educational resources
 - User groups
 
-**Atlas.md:**
+**[Atlas.md](https://atlas.md/):**
 - Customer community
 - Support networks
 

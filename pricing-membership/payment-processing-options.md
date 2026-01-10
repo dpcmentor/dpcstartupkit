@@ -21,9 +21,9 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 **You do need:** A way to collect money.
 
 **Simple options:**
-- Square (free reader, 2.6% + $0.10 per transaction)
-- PayPal (2.9% + $0.30 per transaction)
-- Venmo Business (1.9% + $0.10 per transaction)
+- [Square](https://squareup.com/) (free reader, 2.6% + $0.10 per transaction)
+- [PayPal](https://www.paypal.com/us/business) (2.9% + $0.30 per transaction)
+- [Venmo Business](https://venmo.com/business/) (1.9% + $0.10 per transaction)
 - Checks (no processing fee, more manual work)
 - Cash (no fee, but tracking and security challenges)
 
@@ -37,10 +37,10 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 **Add:** Automated recurring billing
 
 **Options:**
-- Square subscriptions (built into Square)
-- Stripe + simple invoicing
-- PayPal recurring payments
-- Hint Health (DPC-specific)
+- [Square](https://squareup.com/) subscriptions (built into Square)
+- [Stripe](https://stripe.com/) + simple invoicing
+- [PayPal](https://www.paypal.com/us/business) recurring payments
+- [Hint Health](https://www.hint.com/) (DPC-specific)
 
 **Why automate:** Manual invoicing becomes time-consuming; automation reduces administrative burden and improves cash flow predictability.
 
@@ -58,6 +58,8 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 ## Payment Processing Options
 
 ### Square
+
+**Website:** [squareup.com](https://squareup.com/)
 
 **What it is:** All-in-one payment platform with card reader, online payments, invoicing, and subscriptions.
 
@@ -90,6 +92,8 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 ---
 
 ### Stripe
+
+**Website:** [stripe.com](https://stripe.com/)
 
 **What it is:** Developer-friendly payment processing platform with powerful features and integrations.
 
@@ -149,6 +153,8 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 ---
 
 ### Hint Health
+
+**Website:** [hint.com](https://www.hint.com/)
 
 **What it is:** DPC-specific practice management platform including membership and billing.
 

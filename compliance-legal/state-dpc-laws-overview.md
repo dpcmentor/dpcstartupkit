@@ -177,6 +177,7 @@ Treating Medicare beneficiaries in a DPC practice is complex:
 - Must have private contracts with Medicare patients
 - Applies to all Medicare patients for 2 years (auto-renews)
 - Cannot bill Medicare for any services during opt-out period
+- More information: [CMS Medicare Opt-Out Information](https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/opt-out)
 
 **Recommendation:** If you want to serve Medicare patients in a clean DPC model, opt-out is often the clearest path. Consult with a healthcare attorney experienced in Medicare.
 

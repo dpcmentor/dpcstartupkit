@@ -59,8 +59,8 @@ This guide covers communication options and strategies for DPC practices.
 **Options:**
 - Personal cell phone (blurs boundaries)
 - Dedicated cell phone (separate number)
-- Google Voice (free; separate number)
-- VoIP service (RingCentral, Grasshopper, etc.)
+- [Google Voice](https://voice.google.com/) (free; separate number)
+- VoIP service ([RingCentral](https://www.ringcentral.com/), [Grasshopper](https://grasshopper.com/), etc.)
 - Practice landline (less common in DPC)
 
 **Google Voice advantages:**
@@ -89,8 +89,8 @@ This guide covers communication options and strategies for DPC practices.
 
 **Options:**
 - Standard SMS (simple but not HIPAA-compliant for PHI)
-- Google Voice texts
-- HIPAA-compliant texting platforms (Spruce, OhMD, etc.)
+- [Google Voice](https://voice.google.com/) texts
+- HIPAA-compliant texting platforms ([Spruce](https://www.sprucehealth.com/), [OhMD](https://www.ohmd.com/), etc.)
 - EMR patient portal messaging
 
 **HIPAA Consideration:**
@@ -108,8 +108,8 @@ This guide covers communication options and strategies for DPC practices.
 **Best practice for clinical communication.**
 
 **Options:**
-- EMR built-in portal (Elation, Atlas, etc.)
-- Standalone platforms (Spruce, Klara, OhMD)
+- EMR built-in portal ([Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
+- Standalone platforms ([Spruce](https://www.sprucehealth.com/), [Klara](https://www.klara.com/), [OhMD](https://www.ohmd.com/))
 - Dedicated patient communication apps
 
 **Features to look for:**
@@ -121,9 +121,9 @@ This guide covers communication options and strategies for DPC practices.
 - Photo/document sharing
 
 **Popular DPC platforms:**
-- **Spruce:** Messaging, phone, video—all HIPAA-compliant
-- **OhMD:** Secure texting and communication
-- **Klara:** Patient communication platform
+- **[Spruce](https://www.sprucehealth.com/):** Messaging, phone, video—all HIPAA-compliant
+- **[OhMD](https://www.ohmd.com/):** Secure texting and communication
+- **[Klara](https://www.klara.com/):** Patient communication platform
 - **EMR portals:** Varies by vendor
 
 **Costs:**
@@ -144,7 +144,7 @@ This guide covers communication options and strategies for DPC practices.
 
 **Options:**
 1. **Don't use email for clinical matters** - Direct to portal/secure messaging
-2. **Use encrypted email** - Services like Virtru, Paubox
+2. **Use encrypted email** - Services like [Virtru](https://www.virtru.com/), [Paubox](https://www.paubox.com/)
 3. **Standard email with consent** - Patient acknowledges risks in writing
 
 **Recommendation:** Use email for administrative matters only; clinical communication through secure channels.

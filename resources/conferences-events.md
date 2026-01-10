@@ -29,13 +29,13 @@ DPC conferences and events provide concentrated learning, networking, and inspir
 
 **Cost:** Typically $300-600 (member discounts available)
 
-**Website:** Check DPC Alliance for current information
+**Website:** [dpcare.org](https://www.dpcare.org/) - Check for current event information
 
 ---
 
 ### Hint Health Summit
 
-**Hosted by:** Hint Health
+**Hosted by:** [Hint Health](https://www.hint.com/)
 
 **Frequency:** Annual
 
@@ -51,13 +51,13 @@ DPC conferences and events provide concentrated learning, networking, and inspir
 
 **Cost:** Varies
 
-**Website:** Hint Health website
+**Website:** [hint.com](https://www.hint.com/)
 
 ---
 
 ### AAFP FMX (Family Medicine Experience)
 
-**Hosted by:** American Academy of Family Physicians
+**Hosted by:** [American Academy of Family Physicians](https://www.aafp.org/)
 
 **Frequency:** Annual (typically fall)
 

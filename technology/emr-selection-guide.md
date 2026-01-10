@@ -47,11 +47,11 @@ Systems designed specifically for Direct Primary Care practices.
 - Priced for small practices
 
 **Examples:**
-- Elation Health (DPC-focused version)
-- Atlas.md
-- Hint Health (practice management + EMR partnerships)
-- Cerbo
-- Charm Health
+- [Elation Health](https://www.elationhealth.com/) (DPC-focused version)
+- [Atlas.md](https://atlas.md/)
+- [Hint Health](https://www.hint.com/) (practice management + EMR partnerships)
+- [Cerbo](https://www.cerbo.io/)
+- [Charm Health](https://www.charmhealth.com/)
 
 **Pros:**
 - Designed for DPC workflow
@@ -71,11 +71,11 @@ Systems designed specifically for Direct Primary Care practices.
 General small-practice EMRs that work well for DPC with some configuration.
 
 **Examples:**
-- Practice Fusion
-- DrChrono
-- Amazing Charts
-- Jane App
-- SimplePractice (if also doing cash-pay behavioral health)
+- [Practice Fusion](https://www.practicefusion.com/)
+- [DrChrono](https://www.drchrono.com/)
+- [Amazing Charts](https://amazingcharts.com/)
+- [Jane App](https://jane.app/)
+- [SimplePractice](https://www.simplepractice.com/) (if also doing cash-pay behavioral health)
 
 **Pros:**
 - More established companies
