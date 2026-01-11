@@ -20,6 +20,9 @@
 
 ## The Three Common Models
 
+> [!NOTE]
+> Practice examples below are for illustration only and may not reflect current pricing. Visit each practice's website for up-to-date information.
+
 ---
 
 ### Model 1: Individual vs. Family Pricing
