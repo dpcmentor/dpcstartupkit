@@ -145,6 +145,103 @@ When adding new content:
 4. Ensure all checklists are actionable and complete
 5. Test any spreadsheet formulas before committing
 
+---
+
+## Document Review Process (Step-by-Step for GitHub Beginners)
+
+All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](REVIEW-STATUS.md).
+
+### Before You Start
+
+You'll need:
+- A GitHub account (free at [github.com](https://github.com))
+- Access to this repository (request from the maintainer if needed)
+
+### Step 1: Claim a Document to Review
+
+1. Go to the repository: https://github.com/jforbush/dpcstartupkit
+2. Click on **REVIEW-STATUS.md** to open it
+3. Find a document marked "Not Reviewed" that you want to review
+4. Click the **pencil icon** (top right of the file content) to edit
+5. Change the status from `Not Reviewed` to `In Review`
+6. Add your initials in the Reviewer column
+7. Scroll down to **"Commit changes"**
+8. In the commit message box, type: `Claiming [document name] for review`
+9. Click **"Commit changes"**
+
+### Step 2: Review the Document
+
+1. Navigate to the document you claimed (click the link in REVIEW-STATUS.md)
+2. Read through the entire document carefully
+3. Check for:
+   - **Accuracy** — Is the information correct?
+   - **Completeness** — Is anything missing?
+   - **Clarity** — Is it easy to understand?
+   - **Broken links** — Do all links work?
+   - **Formatting** — Does it display correctly?
+
+### Step 3: Make Edits (If Needed)
+
+1. While viewing the document, click the **pencil icon** to edit
+2. Make your changes directly in the editor
+3. Scroll down to **"Commit changes"**
+4. In the commit message box, describe your changes briefly:
+   - Example: `Fix typo in pricing section`
+   - Example: `Update EMR vendor information`
+   - Example: `Add missing HIPAA requirement`
+5. Click **"Commit changes"**
+
+> **Tip:** Make multiple small commits rather than one large one. This makes it easier to track what changed.
+
+### Step 4: Mark the Document as Reviewed
+
+1. Go back to **REVIEW-STATUS.md**
+2. Click the **pencil icon** to edit
+3. Find your document's row and update:
+   - Change status from `In Review` to `Reviewed`
+   - Add today's date (format: YYYY-MM-DD)
+   - Add any notes about changes you made
+4. Scroll down to **"Commit changes"**
+5. In the commit message box, type: `Mark [document name] as reviewed`
+6. Click **"Commit changes"**
+
+### Example: Completed Review Entry
+
+**Before:**
+```
+| [choosing-legal-entity.md](...) | Not Reviewed | | | |
+```
+
+**After:**
+```
+| [choosing-legal-entity.md](...) | Reviewed | JF | 2026-01-11 | Updated S-Corp tax info, added state fee disclaimer |
+```
+
+### Quick Reference: GitHub Edit Button Location
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  📄 choosing-legal-entity.md                            │
+│                                                         │
+│  [Raw] [Blame] [History]              [✏️ pencil icon]  │  ← Click this to edit
+│                                                         │
+│  # Choosing a Legal Entity                              │
+│  ...                                                    │
+└─────────────────────────────────────────────────────────┘
+```
+
+### If You Get Stuck
+
+- **Can't find the edit button?** Make sure you're logged into GitHub
+- **Getting an error when committing?** You may not have write access—contact the maintainer
+- **Made a mistake?** Click "History" on the file to see previous versions, or ask for help
+
+### Questions?
+
+Contact the repository maintainer for assistance.
+
+---
+
 ## Build and Maintenance
 
 This is a documentation repository. No build process is required. Content should be readable directly on GitHub or when cloned locally.
