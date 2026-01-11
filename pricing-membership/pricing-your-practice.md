@@ -245,19 +245,6 @@ Present your value relative to alternatives:
 
 ## Special Pricing Situations
 
-### Senior Pricing (65+)
-
-Seniors typically have higher utilization. Options:
-
-1. **Higher membership fee** (10-25% above adult rate)
-2. **Same fee, larger time allocation** in your panel calculations
-3. **Medicare coordination** (complex; consult healthcare attorney)
-
-> [!CAUTION]
-> You cannot bill Medicare for services covered by their membership if they are Medicare beneficiaries. Structure carefully with legal guidance.
-
----
-
 ### Employer Contracts
 
 Employers often expect volume discounts:
