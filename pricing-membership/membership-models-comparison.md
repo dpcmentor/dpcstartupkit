@@ -1,14 +1,13 @@
 # Membership Models Comparison
 
-> **Quick Summary:** Keep it simple. Most successful DPC practices use a straightforward flat monthly fee—one price for adults, one for kids, with a family cap. Avoid complex tiered models that confuse patients and create administrative headaches.
+> **Quick Summary:** Most DPC practices use one of two simple approaches: (1) Individual vs. Family pricing with a family cap, or (2) Age-based tiers. Pick one and keep it simple—patients should understand your pricing in 30 seconds.
 
 ---
 
 ## Table of Contents
 
-- [The Simple Approach](#the-simple-approach)
+- [The Two Common Models](#the-two-common-models)
 - [What to Include in Membership](#what-to-include-in-membership)
-- [Family Pricing](#family-pricing)
 - [Annual Payment Option](#annual-payment-option)
 - [Employer Contracts](#employer-contracts)
 - [Models to Avoid](#models-to-avoid)
@@ -17,35 +16,66 @@
 ---
 
 > [!TIP]
-> **Keep It Simple:** The best membership model is one you can explain in 30 seconds and patients can understand immediately. Complex tiered pricing creates confusion, administrative burden, and undermines the straightforward appeal of DPC.
+> **Keep It Simple:** Survey data shows 74% of DPC practices use variable pricing (typically age-based), while 26% use flat per-member pricing. Either works—the key is choosing one approach and keeping it easy to explain.
 
-## The Simple Approach
+## The Two Common Models
 
-The most successful DPC practices use simple, predictable pricing:
+### Model 1: Individual vs. Family Pricing
 
-### Recommended Model: Flat Monthly Fee
+Simple two-tier approach with a family cap.
 
 | Category | Monthly Fee |
 |----------|-------------|
-| Adults (18+) | $125/month |
-| Children (under 18) | $75/month |
-| Family Cap | $350/month |
+| Individual Adult | $100-$150/month |
+| Family (2 adults + kids) | $200-$350/month cap |
+| Additional family members | +$25-50/month (until cap) |
 
-*Offer 10% discount for annual prepayment*
+**Example (Family of 4):**
+- 2 adults + 2 children: $250/month (at family cap)
 
-**Why This Works:**
-- Patients understand it instantly
-- Easy to administer (no age tier tracking)
-- Predictable revenue
-- Professional and straightforward
+**Why Practices Use This:**
+- Simplest to explain and administer
+- Families know their maximum cost upfront
+- Encourages whole-family enrollment
+- No tracking age changes
 
-**National DPC Pricing Ranges (2024):**
-- Average individual: $100-$150/month
-- Children: $50-$75/month
-- Premium/concierge-style: $175-$300/month
+---
+
+### Model 2: Age-Based Tiers
+
+Pricing varies by age bracket, reflecting expected care utilization.
+
+| Age Group | Typical Monthly Fee |
+|-----------|---------------------|
+| Children (0-17) | $25-$50/month |
+| Young Adults (18-39) | $50-$75/month |
+| Adults (40-64) | $75-$100/month |
+| Seniors (65+) | $100-$125/month |
+| **Family Cap** | $200-$300/month |
+
+**Example (Family of 4 with 2 adults age 42, 2 kids):**
+- 2 adults @ $85 + 2 kids @ $35 = $240/month (or cap if lower)
+
+**Why Practices Use This:**
+- More accessible for younger patients
+- Reflects actual utilization patterns
+- Attracts healthy young adults at lower entry price
+- Survey data: 66% of practices with variable pricing use age-based discounts
+
+---
+
+### National DPC Pricing Ranges (2024)
+
+| Category | Low | Average | High |
+|----------|-----|---------|------|
+| Adults | $50-$75 | $75-$100 | $100-$150 |
+| Children | $20-$35 | $35-$50 | $50-$75 |
+| Family Cap | $150-$200 | $200-$300 | $300-$400 |
+
+*Source: [AAFP DPC Data Brief](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html), practice surveys*
 
 > [!NOTE]
-> These rates reflect the true value of comprehensive primary care with unlimited access to your physician. Don't underprice yourself—patients who value the DPC model will pay for quality.
+> **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
 
 ---
 
@@ -77,33 +107,13 @@ Keep this simple too. Everything routine is included; specialized add-ons cost e
 
 ---
 
-## Family Pricing
-
-Families expect a discount. Keep it simple with a family cap:
-
-**Example:**
-- First adult: $125/month
-- Second adult: $125/month
-- Each child: $75/month
-- **Family maximum: $350/month** (regardless of family size)
-
-This means:
-- Couple: $250/month
-- Couple + 1 child: $325/month
-- Couple + 2+ children: $350/month (cap applies)
-
-> [!TIP]
-> A family cap encourages whole-family enrollment and makes pricing easy to explain: "It's $125 per adult, $75 per child, but never more than $350/month for your whole family."
-
----
-
 ## Annual Payment Option
 
 Offer a discount for annual prepayment:
 
 **Example:**
-- Monthly: $125/month ($1,500/year)
-- Annual: $1,350/year (10% discount)
+- Monthly: $85/month ($1,020/year)
+- Annual: $918/year (10% discount)
 
 **Benefits:**
 - Improved cash flow
@@ -168,8 +178,8 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 ## Checklist: Selecting Your Membership Model
 
 - [ ] Calculate required revenue (see [Pricing Your Practice](pricing-your-practice.md))
-- [ ] Set adult monthly rate (~$125/month average)
-- [ ] Set child monthly rate (~$75/month)
+- [ ] Choose your model: Individual/Family or Age-Based
+- [ ] Set your rates based on local market research
 - [ ] Determine family cap
 - [ ] Define what's included vs. additional cost
 - [ ] Decide on annual prepayment discount (typically 10%)
