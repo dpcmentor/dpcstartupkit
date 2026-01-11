@@ -179,10 +179,13 @@ Now compare your calculated price against market data:
 4. **Traditional care costs:** What do uninsured patients pay out-of-pocket?
 
 **National DPC Price Ranges (2024):**
-- Low cost of living areas: $50-$80/month
-- Average markets: $75-$100/month
-- High cost of living areas: $100-$150/month
-- Premium/concierge style: $150-$300/month
+- Lower cost of living areas: $75-$100/month
+- Average markets: $100-$150/month
+- High cost of living areas: $150-$200/month
+- Premium/concierge style: $200-$300/month
+
+> [!TIP]
+> The average individual adult rate is around $125/month nationally. Don't underprice yourself—patients who value DPC will pay for quality and access.
 
 **If your calculated price is:**
 - **Below market:** You may have room to increase, or offer premium features
