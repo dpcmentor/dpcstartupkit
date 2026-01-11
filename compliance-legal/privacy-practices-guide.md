@@ -4,6 +4,9 @@
 
 Privacy practices are fundamental to healthcare compliance and patient trust. This guide covers implementing privacy protections in your DPC practice, from policies to daily operations.
 
+> [!CAUTION]
+> **Consult Compliance Professionals:** Privacy requirements under HIPAA and state laws are complex and carry significant penalties for violations. While this guide provides practical orientation, consider consulting a healthcare compliance specialist for your initial policy development and Notice of Privacy Practices. State-specific requirements may also apply.
+
 ## Prerequisites
 
 - Understanding of HIPAA basics (see [HIPAA Compliance Basics](hipaa-compliance-basics.md))

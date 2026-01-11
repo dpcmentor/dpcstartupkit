@@ -6,6 +6,9 @@ Professional liability insurance (malpractice insurance) is essential protection
 
 This guide helps you understand malpractice insurance options and select appropriate coverage for your DPC practice.
 
+> [!CAUTION]
+> **Consult an Insurance Professional:** Insurance requirements, coverage options, and state regulations vary significantly. Work with an insurance broker experienced in medical malpractice, and consider consulting a healthcare attorney about coverage adequacy. Ensure all services you provide (telehealth, procedures, house calls) are explicitly covered by your policy.
+
 ## Prerequisites
 
 - Entity structure decided (see [Choosing a Legal Entity](choosing-legal-entity.md))

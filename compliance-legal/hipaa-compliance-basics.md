@@ -24,6 +24,9 @@ HIPAA (Health Insurance Portability and Accountability Act) compliance is requir
 
 This guide covers what you actually need to do—not theoretical perfection, but practical compliance for a small practice.
 
+> [!CAUTION]
+> **Consult a HIPAA Compliance Expert:** While this guide provides practical orientation, HIPAA regulations are complex and enforcement evolves. Consider consulting a healthcare compliance specialist or HIPAA-focused attorney, especially for your initial risk assessment and policy development. When in doubt, get professional guidance.
+
 ## Prerequisites
 
 - Understanding that HIPAA applies to your practice regardless of size
