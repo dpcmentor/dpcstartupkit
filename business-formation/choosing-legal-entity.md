@@ -22,6 +22,9 @@ Selecting the right legal structure for your Direct Primary Care practice is one
 
 This guide compares the most common entity types and helps you determine which structure best fits your situation.
 
+> [!CAUTION]
+> **Consult Local Professionals:** Laws governing business entities, professional corporations, and tax treatment vary significantly by state and change regularly. This guide provides general education only—not legal or tax advice. Before forming any entity, consult with a healthcare attorney licensed in your state and a CPA or tax advisor familiar with medical practices in your jurisdiction.
+
 ## Prerequisites
 
 Before selecting an entity type, you should:
@@ -167,7 +170,7 @@ In these states, the entity must typically be owned entirely by licensed physici
 
 ### Franchise Taxes and Annual Fees
 
-Consider ongoing costs by state:
+Consider ongoing costs by state. Examples (verify current amounts with your Secretary of State):
 
 | State | Annual LLC Fee | Notes |
 |-------|----------------|-------|
@@ -175,9 +178,10 @@ Consider ongoing costs by state:
 | Texas | No fee | But has franchise tax on revenue over threshold |
 | Delaware | $300 | Popular for incorporation but may not benefit small practices |
 | Wyoming | $50 | Low-cost option |
-| Florida | $138.75 | Annual report fee |
+| Florida | ~$140 | Annual report fee |
 
-*Fees change regularly; verify current amounts with your state.*
+> [!IMPORTANT]
+> State fees, franchise taxes, and filing requirements change regularly. Always verify current amounts directly with your state's Secretary of State office or a local attorney before making decisions based on costs.
 
 ---
 
@@ -194,19 +198,27 @@ Consider ongoing costs by state:
 
 ### The S-Corp Tax Advantage
 
-If your practice generates significant profit, an S-Corp election can reduce self-employment taxes:
+If your practice generates significant profit, an S-Corp election can reduce self-employment taxes (FICA taxes: Social Security + Medicare).
 
 **Example:**
 - Practice profit: $200,000
 - Reasonable salary: $120,000
-- Remaining profit: $80,000
+- Remaining profit (distribution): $80,000
 
 **As LLC (default):** Pay self-employment tax (15.3%) on entire $200,000 = ~$30,600
 
-**As S-Corp:** Pay self-employment tax only on $120,000 salary = ~$18,360
-- Savings: ~$12,240/year
+**As S-Corp:** Pay FICA taxes only on $120,000 salary = ~$18,360
+- **FICA savings:** ~$12,240/year
 
-*Note: "Reasonable salary" requirements are strict. Consult an accountant for proper implementation.*
+> [!NOTE]
+> **Important clarifications:**
+> - The $80,000 distribution is still subject to ordinary income tax—you're saving on FICA taxes specifically, not income taxes
+> - The 15.3% self-employment tax rate includes 12.4% Social Security (capped at the annual wage base, ~$168,600 in 2024) and 2.9% Medicare (uncapped)
+> - Income above the Social Security wage base only incurs the 2.9% Medicare tax, reducing S-Corp savings for very high earners
+> - An additional 0.9% Medicare surtax applies to income over $200,000 ($250,000 married filing jointly)
+> - "Reasonable salary" requirements are strict—the IRS scrutinizes unreasonably low salaries
+
+*Actual savings depend on your income level, state taxes, and individual circumstances. Work with a CPA to model your specific situation.*
 
 ---
 
