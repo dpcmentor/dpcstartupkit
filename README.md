@@ -152,8 +152,10 @@ This resource is maintained for mentorship purposes. If you find errors or have 
 
 ## Additional Resources
 
+- [REVIEW-STATUS.md](REVIEW-STATUS.md) - Document review tracking for contributors
 - [CONTRIBUTING.md](CONTRIBUTING.md) - Guidelines for contributing to this repository
 - [Content Roadmap](CONTENT-ROADMAP.md) - Planned content and document recommendations
+- [LICENSE](LICENSE) - CC BY-NC 4.0 (Attribution-NonCommercial)
 
 ---
 
