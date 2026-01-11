@@ -100,9 +100,14 @@ This guide provides detailed cost breakdowns for three common practice models an
 | DEA registration (3-year) | $888 | $888 | $888 |
 | State licenses/registrations | $100-$500 | $100-$500 | $100-$500 |
 | Local business licenses | $50-$300 | $50-$300 | $50-$300 |
-| **Subtotal Licenses** | **$1,038-$1,688** | **$1,038-$1,688** | **$1,038-$1,688** |
+| NPI registration | Free | Free | Free |
+| CLIA waiver certificate (2-year) | $180 | $180 | $180 |
+| **Subtotal Licenses** | **$1,218-$1,868** | **$1,218-$1,868** | **$1,218-$1,868** |
 | | | | |
 | **TOTAL ONE-TIME COSTS** | **$12,238-$26,688** | **$17,738-$42,088** | **$40,438-$145,088** |
+
+> [!TIP]
+> **HIPAA Compliance:** Budget $0-$2,000 for initial HIPAA setup depending on whether you DIY or hire a consultant. HHS provides free security risk assessment tools, policy templates, and training materials at [hhs.gov/hipaa](https://www.hhs.gov/hipaa). Many state medical associations also offer free compliance resources for members. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).
 
 ---
 
@@ -119,11 +124,63 @@ This guide provides detailed cost breakdowns for three common practice models an
 | **Payment processing** | $50-$150 | $100-$300 | $200-$500 |
 | **Accounting/bookkeeping** | $100-$300 | $150-$400 | $300-$800 |
 | **Marketing (ongoing)** | $100-$300 | $200-$500 | $300-$1,000 |
-| **Professional memberships** | $50-$100 | $50-$100 | $50-$100 |
-| **Continuing education** | $50-$100 | $50-$100 | $50-$100 |
+| **Professional memberships** | $200-$300 | $200-$300 | $200-$300 |
+| **Continuing education** | $150-$250 | $150-$250 | $150-$250 |
+| **Reference subscriptions** | $25-$50 | $25-$50 | $25-$50 |
+| **Office supplies** | $25-$75 | $50-$100 | $75-$200 |
+| **Tax preparation** (amortized) | $50-$100 | $75-$150 | $100-$250 |
+| **Medical waste disposal** | $0-$50 | $50-$100 | $75-$150 |
+| **Cleaning** | $0 (DIY) | $0-$100 | $100-$400 |
 | **Miscellaneous** | $100-$200 | $200-$400 | $300-$600 |
 | | | | |
-| **TOTAL MONTHLY** | **$950-$2,400** | **$2,250-$5,800** | **$4,700-$13,900** |
+| **TOTAL MONTHLY** | **$1,300-$3,325** | **$2,700-$7,150** | **$5,425-$15,300** |
+
+---
+
+### Personal Financial Considerations
+
+When leaving employment, you lose benefits that must be replaced. Budget for these personal expenses separately from practice operations.
+
+**Health Insurance**
+
+| Option | Monthly Cost | Notes |
+|--------|--------------|-------|
+| ACA Marketplace | $400-$1,200 | Subsidies may apply based on income |
+| COBRA (temporary) | $600-$2,000 | Continues employer coverage for 18 months |
+| Health sharing ministry | $200-$500 | Not insurance; faith-based cost sharing |
+| Spouse's plan | Varies | Often most cost-effective if available |
+
+> [!TIP]
+> Health sharing ministries (e.g., Samaritan Ministries, Christian Healthcare Ministries, Medi-Share) are not insurance but can significantly reduce monthly costs. Research eligibility requirements and coverage limitations carefully.
+
+**Disability Insurance**
+
+Essential for solo practitioners—your ability to work is your primary asset.
+
+- **Own-occupation policy recommended** for physicians
+- Typical cost: $200-$500/month depending on coverage
+- Purchase before leaving employment (easier to qualify)
+- Consider 90-day elimination period to reduce premiums
+
+**Life Insurance**
+
+- Term life is most cost-effective
+- May be required if taking business loans
+- Typical cost: $50-$200/month depending on coverage
+- Purchase while healthy and employed
+
+**Retirement Contributions**
+
+Plan for retirement once practice income is consistent:
+
+| Vehicle | 2024 Contribution Limit | Best For |
+|---------|-------------------------|----------|
+| SEP-IRA | Up to 25% of net self-employment income (max $69,000) | Simple setup, high limits |
+| Solo 401(k) | $23,000 employee + 25% employer (max $69,000 total) | Highest contribution potential |
+| SIMPLE IRA | $16,000 | Lower administrative burden |
+
+> [!NOTE]
+> Don't prioritize retirement contributions until you have adequate cash reserves and consistent income. Focus on practice stability first.
 
 ---
 
@@ -261,9 +318,9 @@ Before launching, ensure you have:
 
 | Practice Model | Recommended Reserve |
 |----------------|---------------------|
-| Lean Startup | 6 months operating costs + startup = $20,000-$40,000 |
-| Shared Space | 9 months operating costs + startup = $40,000-$80,000 |
-| Full Clinic | 12 months operating costs + startup = $100,000-$200,000+ |
+| Lean Startup | 6 months operating costs + startup = $20,000-$45,000 |
+| Shared Space | 9 months operating costs + startup = $45,000-$105,000 |
+| Full Clinic | 12 months operating costs + startup = $105,000-$230,000+ |
 
 ---
 
@@ -297,6 +354,17 @@ Before launching, ensure you have:
 - Use online legal services for simple documents (but not for healthcare-specific items)
 - DIY bookkeeping initially with software like Wave (free)
 - Join DPC communities for shared resources
+
+### Reduce Reference/Subscription Costs
+- Maintain clinical faculty appointment at a teaching institution for free UpToDate, DynaMed access
+- Use free resources: CDC guidelines, AAFP clinical recommendations, state health department resources
+- Check if professional memberships include reference materials
+- Share subscriptions with colleagues where licensing permits
+
+### Reduce Cleaning/Maintenance Costs
+- Clean your own office until patient volume justifies hiring help
+- Negotiate cleaning as part of shared space lease
+- Stock basic cleaning supplies and handle daily tidying yourself
 
 ---
 

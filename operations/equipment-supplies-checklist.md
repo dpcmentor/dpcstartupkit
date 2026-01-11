@@ -239,6 +239,69 @@ Budget $500-$1,500 for initial consumable supplies.
 
 ---
 
+## Group Purchasing Organizations (GPOs)
+
+GPOs leverage collective buying power to negotiate discounts on supplies, medications, labs, and equipment. Even solo practices can benefit.
+
+### GPO Options for Small Practices
+
+| GPO | Focus | Notes |
+|-----|-------|-------|
+| [DPC Alliance](https://www.dpcalliance.org/) | DPC-specific | Member benefits include purchasing partnerships |
+| [Managed Health Care Associates (MHA)](https://www.mhainc.com/) | Broad medical supplies | Serves independent practices |
+| [Premier](https://www.premierinc.com/) | Supplies, pharmaceuticals | Larger organization |
+| [HealthTrust](https://healthtrustpg.com/) | Supplies, equipment | Part of HCA network |
+
+### What GPOs Can Discount
+
+- Medical and office supplies
+- Laboratory services
+- Medications (for dispensing)
+- Equipment purchases
+- Insurance products
+- Technology services
+
+> [!TIP]
+> Check if your professional memberships (DPC Alliance, state medical association) include GPO access. Many offer this as a member benefit at no additional cost.
+
+---
+
+## Medication Dispensing
+
+If your state allows physician dispensing, you can offer wholesale medications directly to patients—a significant value-add for DPC practices.
+
+### Check State Requirements First
+
+- Most states allow physician dispensing with minimal requirements
+- Some require a separate license or registration
+- Check your state medical board regulations
+- See [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md)
+
+### Wholesale Medication Suppliers
+
+| Supplier | Notes |
+|----------|-------|
+| [AndaMeds](https://www.andameds.com/) | Popular with DPC practices; free shipping on $100+ orders; overnight delivery |
+| [McKesson](https://www.mckesson.com/) | Large distributor; also supplies medical equipment |
+| [Henry Schein](https://www.henryschein.com/) | Medical and dental supplies; medications |
+| [Bonita Pharmaceuticals](https://bonitapharma.com/) | Wholesale distributor; generics, brands, OTC |
+| [A-S Medication Solutions](https://www.a-smeds.com/) | Point-of-care dispensing specialist |
+| [PD-Rx Pharmaceuticals](https://www.pdrx.com/) | Physician dispensing focus |
+
+### Getting Started with Dispensing
+
+1. Verify state law allows physician dispensing
+2. Apply for any required licenses
+3. Set up account with wholesale supplier
+4. Establish inventory management system
+5. Determine markup strategy (many DPC practices charge cost + small handling fee or dispense at cost)
+6. Ensure proper storage and labeling
+
+> [!NOTE]
+> Dispensing can save patients significant money compared to retail pharmacies and improves medication adherence. Many DPC physicians report patients' prescription savings alone can offset their membership fee.
+
+---
+
 ## Buying Strategies
 
 ### New vs. Used Equipment
