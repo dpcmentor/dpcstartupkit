@@ -79,6 +79,21 @@ Pricing varies by age bracket, reflecting expected care utilization.
 
 ---
 
+### Real-World Practice Examples
+
+| Practice | Location | Model | Pricing |
+|----------|----------|-------|---------|
+| [Ciampi Family Practice](https://www.ciampifamilypractice.com/pricing) | South Portland, ME | Individual/Family | $60/month individual; family discounts available |
+| [Osteopathic Center for Family Medicine](https://www.ocfm.com/dpc) | Hampden, ME | Annual + Per Visit | $1,250/year + $35/visit |
+| [NeuCare](https://neucare.net/) | Lawrence, KS | Age-Based | Adults $79/mo, Children $59/mo |
+| [Holton Direct Care](https://www.holtondirectcare.com/) | Holton, KS | Age-Based | $10-$100/month based on age |
+| [Stand Up Family Medicine](https://standupdpc.com/pricing/) | Marietta, GA | Age-Based + Family | Pediatric $69, Adult $129, Senior $149, Family $300 |
+
+> [!TIP]
+> Use the [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) to research practices in your area and see their pricing structures.
+
+---
+
 ## What to Include in Membership
 
 Keep this simple too. Everything routine is included; specialized add-ons cost extra at transparent prices.
