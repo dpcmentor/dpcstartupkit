@@ -1,12 +1,12 @@
 # Membership Models Comparison
 
-> **Quick Summary:** Most DPC practices use one of two simple approaches: (1) Individual vs. Family pricing with a family cap, or (2) Age-based tiers. Pick one and keep it simple—patients should understand your pricing in 30 seconds.
+> **Quick Summary:** Most DPC practices use one of three simple approaches: (1) Individual vs. Family pricing with a family cap, (2) Age-based tiers, or (3) Annual membership + per-visit fee. Pick one and keep it simple—patients should understand your pricing in 30 seconds.
 
 ---
 
 ## Table of Contents
 
-- [The Two Common Models](#the-two-common-models)
+- [The Three Common Models](#the-three-common-models)
 - [What to Include in Membership](#what-to-include-in-membership)
 - [Annual Payment Option](#annual-payment-option)
 - [Employer Contracts](#employer-contracts)
@@ -18,7 +18,7 @@
 > [!TIP]
 > **Keep It Simple:** Survey data shows 74% of DPC practices use variable pricing (typically age-based), while 26% use flat per-member pricing. Either works—the key is choosing one approach and keeping it easy to explain.
 
-## The Two Common Models
+## The Three Common Models
 
 ---
 
@@ -71,6 +71,31 @@ Pricing varies by age bracket, reflecting expected care utilization.
 - [NeuCare](https://neucare.net/) (Lawrence, KS) — Adults $79/mo, Children $59/mo
 - [Holton Direct Care](https://www.holtondirectcare.com/) (Holton, KS) — $10-$100/month based on age
 - [Stand Up Family Medicine](https://standupdpc.com/pricing/) (Marietta, GA) — Pediatric $69, Adult $129, Senior $149, Family $300
+
+---
+
+### Model 3: Annual Membership + Per-Visit Fee
+
+Lower annual fee with a flat charge per visit.
+
+| Category | Fee |
+|----------|-----|
+| Annual Membership | $500-$1,500/year |
+| Per Visit | $25-$50/visit |
+| Preventive Care | Often included free |
+
+**Example:**
+- $1,250/year membership + $35/visit
+- Annual physical included; acute visits $35 each
+
+**Why Practices Use This:**
+- Lower barrier to entry for patients
+- Patients pay proportionally to usage
+- Predictable base revenue plus visit income
+- Appeals to healthy patients who visit infrequently
+
+**Practices Using Model 3:**
+- [Osteopathic Center for Family Medicine](https://www.ocfm.com/dpc) (Hampden, ME) — $1,250/year + $35/visit; preventive visits free
 
 ---
 
@@ -191,7 +216,7 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 ## Checklist: Selecting Your Membership Model
 
 - [ ] Calculate required revenue (see [Pricing Your Practice](pricing-your-practice.md))
-- [ ] Choose your model: Individual/Family or Age-Based
+- [ ] Choose your model: Individual/Family, Age-Based, or Annual + Per-Visit
 - [ ] Set your rates based on local market research
 - [ ] Determine family cap
 - [ ] Define what's included vs. additional cost
