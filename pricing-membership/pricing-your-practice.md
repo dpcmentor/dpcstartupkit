@@ -76,13 +76,13 @@ Use your numbers from the [Startup Costs Overview](../business-formation/startup
 | Accounting/bookkeeping | $250 |
 | Marketing | $300 |
 | Continuing education | $200 |
-| Professional memberships | $125 |
+| Professional memberships | $250 |
 | Miscellaneous | $200 |
-| **Total Monthly Operating Costs** | **$4,175** |
-| **Annual Operating Costs** | **$50,100** |
+| **Total Monthly Operating Costs** | **$4,300** |
+| **Annual Operating Costs** | **$51,600** |
 
 > [!NOTE]
-> **These costs vary significantly by location and specialty.** Malpractice insurance ranges from $4,000-$12,000/year for primary care depending on state. Continuing education should include conference registration, travel, and lodging ($2,000-2,500/year). Professional memberships run $500-750 per organization annually—budget for 2-3 memberships.
+> **These costs vary significantly by location and specialty.** Malpractice insurance ranges from $4,000-$12,000/year for primary care depending on state. Continuing education should include conference registration, travel, and lodging ($2,000-2,500/year). Professional memberships add up quickly—DPC organizations ($500-750 each), state medical association, medical staff dues, and specialty societies can total $2,500-3,500/year.
 
 ---
 
@@ -114,11 +114,11 @@ Build in margin for unexpected costs, slow months, and growth investment.
 **Recommended buffer:** 10-20% of total
 
 **Example:**
-- Operating costs: $50,100
+- Operating costs: $51,600
 - Personal income need: $242,000
-- Subtotal: $292,100
-- Buffer (15%): $43,815
-- **Total Revenue Needed: $335,915/year**
+- Subtotal: $293,600
+- Buffer (15%): $44,040
+- **Total Revenue Needed: $337,640/year**
 
 ---
 
@@ -142,7 +142,7 @@ Choose based on how you want to practice:
 **Annual Revenue Needed ÷ Panel Size ÷ 12 = Monthly Price**
 
 **Example:**
-- $335,915 ÷ 500 patients ÷ 12 months = **$55.99/month**
+- $337,640 ÷ 500 patients ÷ 12 months = **$56.27/month**
 
 **But wait**—this assumes 100% adult patients at the same price. In reality:
 - Children are often priced lower
@@ -160,7 +160,7 @@ Choose based on how you want to practice:
 
 **Annual revenue:** $42,500 × 12 = **$510,000**
 
-This exceeds our $335,915 requirement, providing margin for:
+This exceeds our $337,640 requirement, providing margin for:
 - Family discounts
 - Slow growth periods
 - Patients who leave
