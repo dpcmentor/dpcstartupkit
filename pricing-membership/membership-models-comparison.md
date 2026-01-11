@@ -20,24 +20,29 @@
 
 ## The Two Common Models
 
+---
+
 ### Model 1: Individual vs. Family Pricing
 
 Simple two-tier approach with a family cap.
 
 | Category | Monthly Fee |
 |----------|-------------|
-| Individual Adult | $100-$150/month |
-| Family (2 adults + kids) | $200-$350/month cap |
+| Individual Adult | $60-$100/month |
+| Family (2 adults + up to 2 kids) | $150-$250/month |
 | Additional family members | +$25-50/month (until cap) |
 
 **Example (Family of 4):**
-- 2 adults + 2 children: $250/month (at family cap)
+- 2 adults + 2 children: $200/month (at family cap)
 
 **Why Practices Use This:**
 - Simplest to explain and administer
 - Families know their maximum cost upfront
 - Encourages whole-family enrollment
 - No tracking age changes
+
+**Practices Using Model 1:**
+- [Ciampi Family Practice](https://www.ciampifamilypractice.com/pricing) (South Portland, ME) — $60/month individual; family discounts available
 
 ---
 
@@ -47,10 +52,10 @@ Pricing varies by age bracket, reflecting expected care utilization.
 
 | Age Group | Typical Monthly Fee |
 |-----------|---------------------|
-| Children (0-17) | $25-$50/month |
-| Young Adults (18-39) | $50-$75/month |
-| Adults (40-64) | $75-$100/month |
-| Seniors (65+) | $100-$125/month |
+| Children (0-17) | $25-$70/month |
+| Young Adults (18-39) | $50-$80/month |
+| Adults (40-64) | $75-$130/month |
+| Seniors (65+) | $100-$150/month |
 | **Family Cap** | $200-$300/month |
 
 **Example (Family of 4 with 2 adults age 42, 2 kids):**
@@ -61,6 +66,11 @@ Pricing varies by age bracket, reflecting expected care utilization.
 - Reflects actual utilization patterns
 - Attracts healthy young adults at lower entry price
 - Survey data: 66% of practices with variable pricing use age-based discounts
+
+**Practices Using Model 2:**
+- [NeuCare](https://neucare.net/) (Lawrence, KS) — Adults $79/mo, Children $59/mo
+- [Holton Direct Care](https://www.holtondirectcare.com/) (Holton, KS) — $10-$100/month based on age
+- [Stand Up Family Medicine](https://standupdpc.com/pricing/) (Marietta, GA) — Pediatric $69, Adult $129, Senior $149, Family $300
 
 ---
 
@@ -76,18 +86,6 @@ Pricing varies by age bracket, reflecting expected care utilization.
 
 > [!NOTE]
 > **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
-
----
-
-### Real-World Practice Examples
-
-| Practice | Location | Model | Pricing |
-|----------|----------|-------|---------|
-| [Ciampi Family Practice](https://www.ciampifamilypractice.com/pricing) | South Portland, ME | Individual/Family | $60/month individual; family discounts available |
-| [Osteopathic Center for Family Medicine](https://www.ocfm.com/dpc) | Hampden, ME | Annual + Per Visit | $1,250/year + $35/visit |
-| [NeuCare](https://neucare.net/) | Lawrence, KS | Age-Based | Adults $79/mo, Children $59/mo |
-| [Holton Direct Care](https://www.holtondirectcare.com/) | Holton, KS | Age-Based | $10-$100/month based on age |
-| [Stand Up Family Medicine](https://standupdpc.com/pricing/) | Marietta, GA | Age-Based + Family | Pediatric $69, Adult $129, Senior $149, Family $300 |
 
 > [!TIP]
 > Use the [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) to research practices in your area and see their pricing structures.
