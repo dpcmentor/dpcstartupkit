@@ -8,6 +8,8 @@ This startup kit was created to help physicians navigate the journey from consid
 
 **Philosophy:** Start lean, grow intentionally. You don't need expensive systems and elaborate setups to see your first patients. Build as you grow.
 
+**Authorship:** This resource was developed by an experienced DPC physician—one of the first in the nation to practice Direct Primary Care—drawing from years of real-world experience building and mentoring DPC practices. While AI tools were used to assist with drafting and organization, all content reflects the author's expertise, clinical judgment, and lessons learned from the DPC community.
+
 ## Who This Is For
 
 - Physicians considering Direct Primary Care
@@ -150,7 +152,7 @@ This resource is maintained for mentorship purposes. If you find errors or have 
 
 ## Additional Resources
 
-- [CLAUDE.md](CLAUDE.md) - Guidelines for contributing to this repository
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Guidelines for contributing to this repository
 - [Content Roadmap](CONTENT-ROADMAP.md) - Planned content and document recommendations
 
 ---
