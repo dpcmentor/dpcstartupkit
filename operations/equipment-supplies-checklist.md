@@ -248,6 +248,7 @@ GPOs leverage collective buying power to negotiate discounts on supplies, medica
 | GPO | Focus | Notes |
 |-----|-------|-------|
 | [DPC Alliance](https://www.dpcalliance.org/) | DPC-specific | Member benefits include purchasing partnerships |
+| [Yankee Alliance](https://www.yankeealliance.com/) | Regional GPO | Serves independent practices in Northeast and beyond |
 | [Managed Health Care Associates (MHA)](https://www.mhainc.com/) | Broad medical supplies | Serves independent practices |
 | [Premier](https://www.premierinc.com/) | Supplies, pharmaceuticals | Larger organization |
 | [HealthTrust](https://healthtrustpg.com/) | Supplies, equipment | Part of HCA network |
@@ -282,6 +283,7 @@ If your state allows physician dispensing, you can offer wholesale medications d
 | Supplier | Notes |
 |----------|-------|
 | [AndaMeds](https://www.andameds.com/) | Popular with DPC practices; free shipping on $100+ orders; overnight delivery |
+| [SaveBigRx](https://www.savebigrx.com/) | Wholesale medications for physician dispensing |
 | [McKesson](https://www.mckesson.com/) | Large distributor; also supplies medical equipment |
 | [Henry Schein](https://www.henryschein.com/) | Medical and dental supplies; medications |
 | [Bonita Pharmaceuticals](https://bonitapharma.com/) | Wholesale distributor; generics, brands, OTC |
