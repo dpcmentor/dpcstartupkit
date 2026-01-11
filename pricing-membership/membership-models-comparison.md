@@ -116,7 +116,7 @@ Lower annual fee with a flat charge per visit.
 > **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
 
 > [!TIP]
-> Use the [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) to research practices in your area and see their pricing structures.
+> **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) and [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
 
 ---
 

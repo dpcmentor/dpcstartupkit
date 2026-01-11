@@ -187,7 +187,7 @@ Now compare your calculated price against market data:
 *Source: [AAFP DPC Data Brief](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html)*
 
 > [!TIP]
-> Research your local market. Use the [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) to see what practices in your area charge.
+> **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) and [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
 
 **If your calculated price is:**
 - **Below market:** You may have room to increase, or offer premium features
