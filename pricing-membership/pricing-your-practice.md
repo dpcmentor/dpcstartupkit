@@ -245,28 +245,6 @@ Present your value relative to alternatives:
 
 ## Special Pricing Situations
 
-### Family Pricing
-
-Households expect discounts for multiple members. Options:
-
-**Percentage discount:**
-- Second adult: 10-15% off
-- Children: 40-50% off adult rate
-
-**Family cap:**
-- Maximum monthly fee regardless of family size
-- Common caps: $200-$300/month
-
-**Example family pricing:**
-
-| Members | Without Cap | With $250 Cap |
-|---------|-------------|---------------|
-| 2 adults | $178 | $178 |
-| 2 adults + 1 child | $227 | $227 |
-| 2 adults + 3 children | $325 | $250 |
-
----
-
 ### Senior Pricing (65+)
 
 Seniors typically have higher utilization. Options:
