@@ -43,13 +43,16 @@ This guide covers communication options and strategies for DPC practices.
 
 **You can manage with:**
 - A dedicated phone number (VoIP or second cell—not your personal number)
-- Simple professional email
+- Professional email with your own domain (yourname@yourpractice.com)
 - No elaborate systems needed
 
 **Reality:** At low patient counts, you can personally handle all communication without sophisticated tools.
 
 > [!TIP]
 > Get a separate phone number from day one. Starting with your personal cell phone seems easy, but you'll regret it when you have to transition patients to a new number as you grow. A basic VoIP line costs $20-50/month and establishes professional boundaries from the start.
+
+> [!TIP]
+> Use a professional email with your practice domain from day one (dr.smith@smithdpc.com, not drsmith123@gmail.com). Like your phone number, changing email addresses later creates confusion and looks unprofessional. For privacy-focused options, consider [Proton Mail](https://proton.me/mail) which offers custom domain support and enhanced security.
 
 **Key:** Set clear expectations about response times and methods.
 

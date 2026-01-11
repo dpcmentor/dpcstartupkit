@@ -34,7 +34,7 @@ This guide covers the complete onboarding workflow from first inquiry to establi
 **Process can be:**
 - Phone conversation
 - Paper forms
-- Manual payment (check, card, Venmo even)
+- Payment via Square, Stripe, or check
 - Face-to-face enrollment
 
 ### 50+ Patients: Systematize

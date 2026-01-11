@@ -10,7 +10,7 @@
 - [Payment Processing Options](#payment-processing-options)
   - [Square](#square)
   - [Stripe](#stripe)
-  - [PayPal / Venmo for Business](#paypal--venmo-for-business)
+  - [PayPal Business](#paypal-business)
   - [Hint Health](#hint-health)
   - [ACH / Bank Transfers](#ach--bank-transfers)
   - [Checks](#checks)
@@ -43,12 +43,14 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 **You do need:** A way to collect money.
 
-**Simple options:**
+**Recommended options:**
 - [Square](https://squareup.com/) (free reader, 2.6% + $0.10 per transaction)
-- [PayPal](https://www.paypal.com/us/business) (2.9% + $0.30 per transaction)
-- [Venmo Business](https://venmo.com/business/) (1.9% + $0.10 per transaction)
+- [Stripe](https://stripe.com/) (2.9% + $0.30 per transaction)
+- [PayPal Business](https://www.paypal.com/us/business) (2.9% + $0.30 per transaction)
 - Checks (no processing fee, more manual work)
-- Cash (no fee, but tracking and security challenges)
+
+> [!TIP]
+> Start with a professional payment processor like Square or Stripe from day one. These platforms scale with your practice, offer recurring billing, and present a professional image to patients.
 
 **Manual recurring billing:**
 - Set reminders to invoice patients monthly
@@ -147,31 +149,28 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 ---
 
-### PayPal / Venmo for Business
+### PayPal Business
 
-**What it is:** Familiar payment platforms with business features.
+**Website:** [paypal.com/business](https://www.paypal.com/us/business)
 
-**PayPal Business:**
+**What it is:** Familiar payment platform with business features.
+
+**Features:**
 - Invoicing and payment links
 - Recurring payments
 - 2.9% + $0.30 standard
 
-**Venmo Business:**
-- Popular with younger patients
-- 1.9% + $0.10 per transaction
-- Less formal feel
-
 **Pros:**
 - Many patients already have accounts
 - Easy to use
-- Lower fees (Venmo)
+- Familiar interface
 
 **Cons:**
-- Less professional appearance (Venmo especially)
 - Limited practice management features
 - Not healthcare-specific
+- Some patients find it less intuitive than Square
 
-**Best for:** Getting started; patients who prefer these platforms.
+**Best for:** Practices where patients already prefer PayPal.
 
 ---
 

@@ -1,5 +1,24 @@
 # Building Your Brand
 
+> **Quick Summary:** Your brand is how patients experience your practice. Start with your authentic story and values—logos and visuals can come later. Before finalizing your practice name, secure matching domain and social media handles across all platforms using a service like Namechk.
+
+---
+
+## Table of Contents
+
+- [The Lean Approach to Branding](#the-lean-approach-to-branding)
+- [What Is a Brand?](#what-is-a-brand)
+- [Brand Development Process](#brand-development-process)
+- [Securing Your Online Identity](#securing-your-online-identity)
+- [Visual Identity by Stage](#visual-identity-by-stage)
+- [Brand Voice and Tone](#brand-voice-and-tone)
+- [Brand in Practice](#brand-in-practice)
+- [DIY Brand Tools](#diy-brand-tools)
+- [Common Branding Mistakes](#common-branding-mistakes)
+- [Checklist](#checklist-brand-development)
+
+---
+
 ## Overview
 
 Your brand is more than a logo—it is the complete experience patients have with your practice, from the first impression to every interaction. For Direct Primary Care physicians, brand is particularly important because you are asking patients to trust a model they may not understand and pay outside their insurance.
@@ -210,6 +229,58 @@ Develop 3-5 key messages you repeat consistently:
 
 ---
 
+## Securing Your Online Identity
+
+### Why Consistency Matters
+
+Before finalizing your practice name, secure matching handles across all platforms you might use. Inconsistent names (smithdpc.com, @drsmithfamilymed on Instagram, Smith Family Direct Care on Facebook) confuse patients and weaken your brand.
+
+> [!TIP]
+> Secure your domain name and social media handles at the same time you finalize your practice name. Use a handle checking service to verify availability across platforms before committing.
+
+### Handle Checking Services
+
+These services check username availability across multiple platforms simultaneously:
+
+| Service | Platforms Checked | Cost |
+|---------|------------------|------|
+| [Namechk](https://namechk.com/) | Domains + 100+ social platforms | Free |
+| [KnowEm](https://knowem.com/) | 500+ social networks | Free check; paid registration |
+| [Namecheckr](https://www.namecheckr.com/) | Domains + social platforms | Free |
+| [Instant Username Search](https://instantusername.com/) | Popular platforms | Free |
+
+### What to Secure
+
+**Essential (secure immediately):**
+- Domain name (.com preferred)
+- Google Business Profile
+- Facebook page
+- Instagram handle
+
+**Recommended (if you may use):**
+- Twitter/X
+- LinkedIn company page
+- YouTube channel
+- TikTok (if targeting younger demographics)
+
+### Naming Strategy for Consistency
+
+**Best approach:** Choose a practice name where the same handle is available across domain and all major platforms.
+
+**If your first choice is taken:**
+- Try adding "dpc" (smithfamilydpc)
+- Try adding location (smithdpchouston)
+- Consider alternative practice names
+- Don't settle for inconsistent names across platforms
+
+**Example of good consistency:**
+- Website: clearpathprimarycare.com
+- Instagram: @clearpathprimarycare
+- Facebook: facebook.com/clearpathprimarycare
+- Google: Clear Path Primary Care
+
+---
+
 ## Visual Identity by Stage
 
 ### Stage 1: Just Starting (0-25 Patients)
@@ -415,8 +486,9 @@ Develop 3-5 key messages you repeat consistently:
 - [ ] Identify unique value proposition
 - [ ] Define target patient persona(s)
 - [ ] Develop core messaging
-- [ ] Choose practice name
-- [ ] Secure domain name
+- [ ] Choose practice name (check availability across platforms first)
+- [ ] Secure domain name and matching social media handles simultaneously
+- [ ] Set up professional email with your domain
 
 ### Minimal Visual Identity (Day 1)
 - [ ] Practice name in clean font (your "logo" for now)
