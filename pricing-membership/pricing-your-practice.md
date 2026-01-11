@@ -71,15 +71,18 @@ Use your numbers from the [Startup Costs Overview](../business-formation/startup
 | Medical supplies | $400 |
 | Labs (wholesale cost passed to patients) | $0 |
 | Phone/internet | $150 |
-| Malpractice insurance | $500 |
+| Malpractice insurance | $700 |
 | General liability | $100 |
 | Accounting/bookkeeping | $250 |
 | Marketing | $300 |
-| Continuing education | $100 |
-| Professional memberships | $75 |
+| Continuing education | $200 |
+| Professional memberships | $125 |
 | Miscellaneous | $200 |
-| **Total Monthly Operating Costs** | **$3,825** |
-| **Annual Operating Costs** | **$45,900** |
+| **Total Monthly Operating Costs** | **$4,175** |
+| **Annual Operating Costs** | **$50,100** |
+
+> [!NOTE]
+> **These costs vary significantly by location and specialty.** Malpractice insurance ranges from $4,000-$12,000/year for primary care depending on state. Continuing education should include conference registration, travel, and lodging ($2,000-2,500/year). Professional memberships run $500-750 per organization annually—budget for 2-3 memberships.
 
 ---
 
@@ -111,11 +114,11 @@ Build in margin for unexpected costs, slow months, and growth investment.
 **Recommended buffer:** 10-20% of total
 
 **Example:**
-- Operating costs: $45,900
+- Operating costs: $50,100
 - Personal income need: $242,000
-- Subtotal: $287,900
-- Buffer (15%): $43,185
-- **Total Revenue Needed: $331,085/year**
+- Subtotal: $292,100
+- Buffer (15%): $43,815
+- **Total Revenue Needed: $335,915/year**
 
 ---
 
@@ -139,7 +142,7 @@ Choose based on how you want to practice:
 **Annual Revenue Needed ÷ Panel Size ÷ 12 = Monthly Price**
 
 **Example:**
-- $331,085 ÷ 500 patients ÷ 12 months = **$55.18/month**
+- $335,915 ÷ 500 patients ÷ 12 months = **$55.99/month**
 
 **But wait**—this assumes 100% adult patients at the same price. In reality:
 - Children are often priced lower
@@ -157,7 +160,7 @@ Choose based on how you want to practice:
 
 **Annual revenue:** $42,500 × 12 = **$510,000**
 
-This exceeds our $331,085 requirement, providing margin for:
+This exceeds our $335,915 requirement, providing margin for:
 - Family discounts
 - Slow growth periods
 - Patients who leave
