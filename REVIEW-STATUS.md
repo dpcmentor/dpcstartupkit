@@ -106,6 +106,12 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | [mentor-onboarding-guide.md](mentoring/mentor-onboarding-guide.md) | Not Reviewed | | | |
 | [mentee-onboarding-guide.md](mentoring/mentee-onboarding-guide.md) | Not Reviewed | | | |
 
+## Templates
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [template-language-guide.md](templates/documents/template-language-guide.md) | Not Reviewed | | | |
+
 ## Root Documents
 
 | Document | Status | Reviewer | Date | Notes |
@@ -128,7 +134,8 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | Operations | 6 | 0 | 6 |
 | Resources | 6 | 0 | 6 |
 | Mentoring | 2 | 0 | 2 |
+| Templates | 1 | 0 | 1 |
 | Root Documents | 3 | 0 | 3 |
-| **Total** | **48** | **0** | **48** |
+| **Total** | **49** | **0** | **49** |
 
 *Last updated: 2026-04-10*
