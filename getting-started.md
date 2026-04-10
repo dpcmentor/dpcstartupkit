@@ -1,10 +1,40 @@
 # Getting Started
 
-> **Quick Summary:** This guide helps you navigate the DPC Startup Kit based on where you are in your DPC journey. Find the right starting point and follow a structured path to launching your practice.
+> **Quick Summary:** Two paths to your DPC practice. Bootstrap gets you started fast with minimal investment. Comprehensive covers every detail for those who want to plan thoroughly. Both work. Choose based on your style.
 
 ---
 
-## Where Are You in Your Journey?
+## Choose Your Path
+
+<div class="card-grid" markdown>
+
+<div class="card" markdown>
+### :zap: Bootstrap Path
+**"I want to start now with what I have."**
+
+- First patient in 7-30 days
+- $1,500-3,000 total investment
+- Learn by doing, add as you grow
+
+**[Go to Bootstrap Section →](bootstrap/README.md)**
+</div>
+
+<div class="card" markdown>
+### :building_construction: Comprehensive Path
+**"I want to research everything first."**
+
+- Launch in 3-6 months
+- Plan every detail
+- Full systems from day one
+
+**Continue below ↓**
+</div>
+
+</div>
+
+---
+
+## Comprehensive Path: Where Are You?
 
 ### Stage 1: Exploring DPC
 
@@ -17,7 +47,8 @@ You're curious about Direct Primary Care and want to understand if it's right fo
     - [Membership Models Comparison](pricing-membership/membership-models-comparison.md) — How pricing works
 
 2. **Assess the Investment**
-    - [Startup Costs Overview](business-formation/startup-costs-overview.md) — What it really costs
+    - [Startup Costs Overview](business-formation/startup-costs-overview.md) — What it really costs (comprehensive)
+    - [Minimum Viable Practice](bootstrap/minimum-viable-practice.md) — What it really costs (bootstrap)
     - [Pricing Your Practice](pricing-membership/pricing-your-practice.md) — Revenue potential
 
 3. **Connect with Others**
