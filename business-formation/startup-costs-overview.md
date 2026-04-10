@@ -14,7 +14,7 @@
 - [Practice Model Comparison](#practice-model-comparison)
 - [Detailed Cost Breakdown](#detailed-cost-breakdown)
 - [Essential Medical Equipment List](#essential-medical-equipment-list)
-- [Financing Options](#financing-options)
+- [Financing Your Launch](#financing-your-launch)
 - [Cash Flow Considerations](#cash-flow-considerations)
 - [Cost-Saving Strategies](#cost-saving-strategies)
 - [Checklist](#checklist-financial-planning)
@@ -33,6 +33,13 @@ The essentials:
 - A way to see patients (borrowed space, house calls, telehealth)
 
 Everything else — the EMR, the fancy equipment, the dedicated office — can come later, funded by actual patient revenue rather than debt or savings.
+
+**Challenge your assumptions:**
+
+- *Do you really need an EMR when you have a couple dozen patients?* **No.** A simple note-taking system works fine at first. Upgrade when the pain exceeds the cost.
+- *Do you need a dedicated office?* **No.** House calls, telehealth, and borrowed exam rooms work.
+- *Do you need a website?* **No.** Your first patients will come from personal relationships and word of mouth. A website can wait.
+- *Do you need business cards, brochures, or a logo?* **No.** These are nice to have, not need to have.
 
 > [!NOTE]
 > The cost breakdowns below represent typical ranges, not requirements. Many DPC physicians have launched with far less than the "Lean Startup" column suggests. Use these as planning references, not shopping lists.
@@ -248,61 +255,38 @@ Plan for retirement once practice income is consistent:
 
 ---
 
-## Financing Options
+## Financing Your Launch
 
-### Self-Funding
+> [!TIP]
+> **Most DPC practices bootstrap entirely.** Hundreds of physicians have launched without loans, using personal savings and starting lean. A loan is rarely necessary if you follow the "minimum viable practice" approach.
 
-**Pros:**
-- No debt or interest
-- Complete control
-- No approval process
+### Bootstrapping (Recommended)
 
-**Cons:**
-- Personal financial risk
-- May limit startup options
+**How it works:** Start with minimal equipment, keep your day job part-time if needed, and let patient revenue fund growth.
 
-> [!IMPORTANT]
-> Recommended minimum savings: 6-12 months of operating costs plus startup costs before launching.
+**Advantages:**
+- No debt or interest payments
+- Complete control over decisions
+- Forces lean, sustainable practices
+- No approval process or paperwork
 
----
-
-### Small Business Loans
-
-**SBA Loans:**
-- Lower interest rates (5-10%)
-- Longer repayment terms
-- Requires good credit and business plan
-- Process takes 2-3 months
-
-**Bank Lines of Credit:**
-- Flexible access to funds
-- Only pay interest on what you use
-- Requires business history (challenging for startups)
+**Reality:** If you can cover malpractice insurance and basic living expenses for 6-12 months, you can launch a DPC practice without borrowing money.
 
 ---
 
-### Physician-Specific Loans
+### If You Choose to Borrow
 
-Several lenders specialize in physician financing:
-- May not require practice history
-- Understand physician earning potential
-- May offer competitive rates
+Some physicians prefer to have a financial cushion or want to start with more infrastructure. Options exist, but approach with caution:
 
-**Note:** Research current options; lender landscapes change frequently.
+**Credit lines or personal savings** are preferable to formal business loans for most DPC startups.
 
----
+**If considering loans:**
+- SBA loans offer lower rates but require extensive paperwork
+- Physician-specific lenders exist but still charge interest
+- Equipment financing ties you to payments before you have patients
 
-### Equipment Financing
-
-**Pros:**
-- Preserves cash for operations
-- Equipment serves as collateral
-- May include maintenance
-
-**Cons:**
-- Interest costs
-- Committed to payments
-- May pay more than equipment value over time
+> [!WARNING]
+> Debt creates pressure to grow faster than may be healthy for your practice. Many successful DPC physicians advise against loans entirely. Buy only what you need, when patient revenue justifies it.
 
 ---
 
