@@ -180,18 +180,18 @@ This document outlines recommended guides and documents for each section, with s
 
 | Template | Description |
 |----------|-------------|
-| `template-startup-budget.xlsx` | Itemized startup costs with adjustable categories |
-| `template-pricing-calculator.xlsx` | Revenue projections based on membership tiers and panel size |
-| `template-monthly-expenses.xlsx` | Operating expense tracker with categories |
-| `template-emr-comparison.xlsx` | Feature comparison matrix for EMR evaluation |
+| `template-startup-budget.csv` | Itemized startup costs with adjustable categories |
+| `template-pricing-calculator.csv` | Revenue projections based on membership tiers and panel size |
+| `template-monthly-expenses.csv` | Operating expense tracker with categories |
+| `template-emr-comparison.csv` | Feature comparison matrix for EMR evaluation |
 
 ### Spreadsheets (P2)
 
 | Template | Description |
 |----------|-------------|
-| `template-break-even-analysis.xlsx` | Calculate patients needed to reach profitability |
-| `template-equipment-inventory.xlsx` | Equipment and supply tracking |
-| `template-vendor-comparison.xlsx` | Compare labs, suppliers, service providers |
+| `template-break-even-analysis.csv` | Calculate patients needed to reach profitability |
+| `template-equipment-inventory.csv` | Equipment and supply tracking |
+| `template-vendor-comparison.csv` | Compare labs, suppliers, service providers |
 
 ### Documents (P1)
 
@@ -251,8 +251,8 @@ For a new DPC physician, prioritize content in this order:
 3. `startup-costs-overview.md`
 4. `membership-models-comparison.md`
 5. `pricing-your-practice.md`
-6. `template-startup-budget.xlsx`
-7. `template-pricing-calculator.xlsx`
+6. `template-startup-budget.csv`
+7. `template-pricing-calculator.csv`
 
 ### Phase 2: Operations Setup
 1. `emr-selection-guide.md`
