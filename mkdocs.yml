@@ -135,12 +135,19 @@ extra_css:
 nav:
   - Home: index.md
 
+  - Bootstrap:
+    - Start Here: bootstrap/README.md
+    - Minimum Viable Practice: bootstrap/minimum-viable-practice.md
+    - Low-Tech Toolkit: bootstrap/low-tech-toolkit.md
+    - Bootstrap Startup Guide: bootstrap/bootstrap-startup-guide.md
+    - Bootstrap FAQ: bootstrap/bootstrap-faq.md
+    - Bootstrapping Resources: bootstrap/bootstrapping-resources.md
+
   - Getting Started:
     - Quick Start: getting-started.md
 
   - Business Formation:
     - Overview: business-formation/README.md
-    - Bootstrap Startup Guide: business-formation/bootstrap-startup-guide.md
     - Choosing a Legal Entity: business-formation/choosing-legal-entity.md
     - Business Registration Checklist: business-formation/checklist-business-registration.md
     - Startup Costs Overview: business-formation/startup-costs-overview.md
@@ -216,7 +223,6 @@ nav:
 
   - Resources:
     - Overview: resources/README.md
-    - Bootstrapping Resources: resources/bootstrapping-resources.md
     - Service Providers: resources/service-providers.md
     - Lab Partners: resources/lab-partners.md
     - DPC Organizations: resources/dpc-organizations.md
