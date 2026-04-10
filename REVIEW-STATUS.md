@@ -53,6 +53,7 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | [practice-website-essentials.md](technology/practice-website-essentials.md) | Not Reviewed | | | |
 | [scheduling-systems.md](technology/scheduling-systems.md) | Not Reviewed | | | |
 | [lab-imaging-integration.md](technology/lab-imaging-integration.md) | Not Reviewed | | | |
+| [ai-clinical-tools.md](technology/ai-clinical-tools.md) | Not Reviewed | | | |
 
 ## Marketing
 
@@ -121,13 +122,13 @@ This file tracks human review of all guides in the DPC Startup Kit.
 |---------|-------|----------|---------|
 | Business Formation | 6 | 0 | 6 |
 | Pricing & Membership | 6 | 0 | 6 |
-| Technology | 6 | 0 | 6 |
+| Technology | 7 | 0 | 7 |
 | Marketing | 6 | 0 | 6 |
 | Compliance & Legal | 6 | 0 | 6 |
 | Operations | 6 | 0 | 6 |
 | Resources | 6 | 0 | 6 |
 | Mentoring | 2 | 0 | 2 |
 | Root Documents | 3 | 0 | 3 |
-| **Total** | **47** | **0** | **47** |
+| **Total** | **48** | **0** | **48** |
 
 *Last updated: 2026-04-10*
