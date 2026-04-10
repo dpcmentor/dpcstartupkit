@@ -140,9 +140,12 @@ nav:
 
   - Business Formation:
     - Overview: business-formation/README.md
+    - Bootstrap Startup Guide: business-formation/bootstrap-startup-guide.md
     - Choosing a Legal Entity: business-formation/choosing-legal-entity.md
     - Business Registration Checklist: business-formation/checklist-business-registration.md
     - Startup Costs Overview: business-formation/startup-costs-overview.md
+    - Partnership Structures: business-formation/partnership-structures.md
+    - Exit Planning: business-formation/exit-planning.md
     - Professional Liability Guide: business-formation/professional-liability-guide.md
     - Business Insurance Guide: business-formation/business-insurance-guide.md
     - Working with Attorneys: business-formation/working-with-attorneys.md
@@ -161,6 +164,7 @@ nav:
   - Technology:
     - Overview: technology/README.md
     - EMR Selection Guide: technology/emr-selection-guide.md
+    - EMR Vendor Directory: technology/emr-vendor-directory.md
     - Telehealth Platforms: technology/telehealth-platforms.md
     - Patient Communication Tools: technology/patient-communication-tools.md
     - Practice Website Essentials: technology/practice-website-essentials.md
@@ -182,6 +186,9 @@ nav:
     - HIPAA Compliance Basics: compliance-legal/hipaa-compliance-basics.md
     - State DPC Laws Overview: compliance-legal/state-dpc-laws-overview.md
     - Medicare Opt-Out Guide: compliance-legal/medicare-opt-out-guide.md
+    - Controlled Substances Compliance: compliance-legal/controlled-substances-compliance.md
+    - Telehealth Legal Considerations: compliance-legal/telehealth-legal-considerations.md
+    - Corporate Practice of Medicine: compliance-legal/corporate-practice-medicine.md
     - Required Documentation: compliance-legal/required-documentation.md
     - BAA Requirements: compliance-legal/baa-requirements.md
     - Privacy Practices Guide: compliance-legal/privacy-practices-guide.md
@@ -198,6 +205,9 @@ nav:
     - Transitioning to DPC: operations/transitioning-from-practice.md
     - Dispensing Medications: operations/dispensing-medications.md
     - Building Referral Networks: operations/referral-network-building.md
+    - Hiring Your First Employee: operations/hiring-your-first-employee.md
+    - Scaling Your Practice: operations/scaling-your-practice.md
+    - Staff Training Guide: operations/staff-training-guide.md
 
   - Mentoring:
     - Overview: mentoring/README.md
@@ -206,6 +216,9 @@ nav:
 
   - Resources:
     - Overview: resources/README.md
+    - Bootstrapping Resources: resources/bootstrapping-resources.md
+    - Service Providers: resources/service-providers.md
+    - Lab Partners: resources/lab-partners.md
     - DPC Organizations: resources/dpc-organizations.md
     - State Resources Directory: resources/state-resources-directory.md
     - Recommended Reading: resources/recommended-reading.md

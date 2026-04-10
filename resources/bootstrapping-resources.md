@@ -110,6 +110,31 @@ How to validate your business idea by asking the right questions. "Would you pay
 
 Start by dominating a small market. Don't compete—create something new. DPC is exactly this.
 
+### Personal Finance for Entrepreneurs
+
+#### The Total Money Makeover
+**Dave Ramsey**
+
+*What it teaches:* Debt-free living, emergency funds, living below your means, and building wealth slowly.
+
+*Why it matters for DPC:* Physicians often carry massive student debt and are tempted to take business loans. Ramsey's philosophy: start with what you have, avoid new debt, build your practice without financial stress.
+
+*Key takeaway:* "Live like no one else so later you can live like no one else."
+
+#### EntreLeadership
+**Dave Ramsey**
+
+His business-focused book. Combines personal finance discipline with small business operations.
+
+*Best for:* When you're ready to hire—how to do it without taking on debt.
+
+#### The Richest Man in Babylon
+**George S. Clason**
+
+Ancient wisdom on wealth-building in simple parables. Pay yourself first, make your money work for you.
+
+*Why it matters:* Timeless principles that align with Profit First and bootstrap thinking.
+
 ---
 
 ## Podcasts
@@ -158,6 +183,7 @@ Long-form interviews with world-class performers. Not about business specificall
 
 ### Other Worth Following
 
+- **The Ramsey Show** - Dave Ramsey's daily show; debt-free business principles
 - **Tropical MBA** - Location-independent business building
 - **Startups for the Rest of Us** - Bootstrapped software (principles transfer)
 - **Side Hustle School** - Daily short episodes on business ideas
