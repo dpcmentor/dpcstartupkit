@@ -65,15 +65,20 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 
 ## Detailed Cost Breakdown
 
+> [!CAUTION]
+> **These tables show typical ranges, not requirements.** Many DPC physicians have launched for a fraction of these amounts. Don't let these numbers stop you. A stethoscope ($50-$200), a smartphone (you already own one), and malpractice insurance are truly all you need to see your first patient. Everything else can come later.
+
 ### One-Time Startup Costs
 
 | Category | Lean Startup | Shared Space | Full Clinic |
 |----------|--------------|--------------|-------------|
 | **Legal & Formation** | | | |
-| Entity formation (filing fees) | $100-$300 | $100-$300 | $100-$300 |
-| Attorney fees (formation, contracts) | $1,000-$2,000 | $2,000-$4,000 | $3,000-$6,000 |
-| Healthcare attorney consultation | $500-$1,000 | $500-$1,000 | $1,000-$2,000 |
-| **Subtotal Legal** | **$1,600-$3,300** | **$2,600-$5,300** | **$4,100-$8,300** |
+| Entity formation (filing fees) | $50-$300 | $50-$300 | $100-$300 |
+| Attorney fees (optional at start)* | $0-$1,500 | $1,000-$3,000 | $2,000-$5,000 |
+| Healthcare attorney consultation | $0-$500 | $0-$1,000 | $500-$1,500 |
+| **Subtotal Legal** | **$50-$2,300** | **$1,050-$4,300** | **$2,600-$6,800** |
+
+*\*Many physicians file their own LLC and use template membership agreements initially. Consult an attorney as revenue allows.*
 | | | | |
 | **Space & Buildout** | | | |
 | Security deposit | $0 | $1,000-$3,000 | $3,000-$10,000 |
@@ -83,12 +88,16 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | **Subtotal Space** | **$500-$1,500** | **$2,200-$8,500** | **$13,500-$77,000** |
 | | | | |
 | **Equipment & Supplies** | | | |
-| Medical equipment (basic) | $2,000-$4,000 | $3,000-$6,000 | $8,000-$20,000 |
-| Computer/laptop | $800-$1,500 | $800-$1,500 | $1,500-$3,000 |
-| Printer/fax/scanner | $200-$400 | $200-$400 | $300-$600 |
-| Phone system | $100-$300 | $200-$500 | $500-$2,000 |
-| Initial medical supplies | $500-$1,000 | $1,000-$2,000 | $2,000-$5,000 |
-| **Subtotal Equipment** | **$3,600-$7,200** | **$5,200-$10,400** | **$12,300-$30,600** |
+| Medical equipment (basic)* | $200-$2,000 | $1,000-$4,000 | $5,000-$15,000 |
+| Computer/laptop | $0-$1,000 | $500-$1,500 | $1,000-$2,500 |
+| Printer/fax/scanner | $0-$200 | $100-$300 | $200-$500 |
+| Phone system | $0** | $0-$300 | $300-$1,500 |
+| Initial medical supplies | $100-$500 | $500-$1,500 | $1,500-$4,000 |
+| **Subtotal Equipment** | **$300-$3,700** | **$2,100-$7,600** | **$8,000-$23,500** |
+
+*\*Minimum: stethoscope ($50-$200). Add equipment as patient volume and revenue justify.*
+
+*\*\*Your smartphone works. Many DPC physicians use personal cell with a Google Voice number.*
 | | | | |
 | **Technology** | | | |
 | EMR setup/implementation | $0-$500 | $0-$500 | $0-$1,000 |
@@ -115,7 +124,10 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | CLIA waiver certificate (2-year) | $180 | $180 | $180 |
 | **Subtotal Licenses** | **$1,218-$1,868** | **$1,218-$1,868** | **$1,218-$1,868** |
 | | | | |
-| **TOTAL ONE-TIME COSTS** | **$12,238-$26,688** | **$17,738-$42,088** | **$40,438-$145,088** |
+| **TOTAL ONE-TIME COSTS** | **$7,500-$22,500** | **$14,000-$38,000** | **$35,000-$130,000** |
+
+> [!NOTE]
+> **Absolute minimum launch:** Malpractice insurance (~$4,000-$8,000/year), state licenses (~$200), a stethoscope (~$100), and your smartphone. Total: **under $5,000** for the first year, excluding personal living expenses.
 
 > [!TIP]
 > **HIPAA Compliance:** Budget $0-$2,000 for initial HIPAA setup depending on whether you DIY or hire a consultant. HHS provides free security risk assessment tools, policy templates, and training materials at [hhs.gov/hipaa](https://www.hhs.gov/hipaa). Many state medical associations also offer free compliance resources for members. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).

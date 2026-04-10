@@ -211,38 +211,6 @@ Before finalizing:
 
 ---
 
-## Pricing Psychology
-
-### Price Anchoring
-
-Present your value relative to alternatives:
-
-**Example messaging:**
-- "For less than $3/day, you get unlimited access to your physician"
-- "The average ER visit costs $1,389. Your annual membership costs less than that"
-- "A single specialist visit can cost $200-$500. Your membership includes unlimited visits"
-
-### Avoid "Cheap" Positioning
-
-> [!WARNING]
-> Pricing too low can backfire:
-> - Patients may question quality
-> - You may attract price-shoppers who leave easily
-> - Harder to raise prices later
-> - Unsustainable long-term
-
-**Better approach:** Price at fair value and clearly communicate what patients receive.
-
-### Round Numbers vs. Precise
-
-- **$99** signals value/discount
-- **$100** signals simplicity/premium
-- **$97** signals aggressive discounting (may feel gimmicky for healthcare)
-
-**Recommendation:** Use clean numbers ($75, $89, $99, $125) for professionalism.
-
----
-
 ## Special Pricing Situations
 
 ### Employer Contracts
