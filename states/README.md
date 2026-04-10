@@ -20,9 +20,25 @@ States with explicit DPC-enabling legislation and favorable medication dispensin
 ### Tier 2: Moderate
 States with DPC legislation but some restrictions on dispensing or other operational requirements.
 
-| State | Notes |
-|-------|-------|
-| Arizona, Arkansas, Indiana, Kansas, Louisiana, Michigan, Mississippi, Missouri, North Carolina, Ohio, Oklahoma, Oregon, Texas, Utah, Virginia, Washington, West Virginia | DPC legal; dispensing varies |
+| State | DPC Law | Dispensing | Guide |
+|-------|---------|------------|-------|
+| Arizona | Yes (A.R.S. § 20-123) | Registration required | [Arizona](arizona.md) |
+| Arkansas | Yes (A.C.A. § 23-60-107) | Registration required | [Arkansas](arkansas.md) |
+| Indiana | Yes (I.C. § 27-1-45) | Registration required | [Indiana](indiana.md) |
+| Kansas | Yes (K.S.A. § 40-2,203) | Registration required | [Kansas](kansas.md) |
+| Louisiana | Yes (La. R.S. § 22:1821) | Registration required | [Louisiana](louisiana.md) |
+| Michigan | Yes (M.C.L. § 550.1401) | Registration required | [Michigan](michigan.md) |
+| Mississippi | Yes (Miss. Code § 83-9-353) | Registration required | [Mississippi](mississippi.md) |
+| Missouri | Yes (Mo. Rev. Stat. § 376.1800) | Registration required | [Missouri](missouri.md) |
+| North Carolina | Yes (N.C.G.S. § 90-21.90) | Registration required | [North Carolina](north-carolina.md) |
+| Ohio | Yes (O.R.C. § 3901.80) | TDDD license required | [Ohio](ohio.md) |
+| Oklahoma | Yes (36 O.S. § 6060) | Registration required | [Oklahoma](oklahoma.md) |
+| Oregon | Yes (O.R.S. § 735.500) | Registration required | [Oregon](oregon.md) |
+| Texas | Yes (Tex. Ins. Code § 1452) | Registration required | [Texas](texas.md) |
+| Utah | Yes (Utah Code § 31A-4-106.5) | Registration required | [Utah](utah.md) |
+| Virginia | Yes (Va. Code § 38.2-4601) | Registration required | [Virginia](virginia.md) |
+| Washington | Yes (RCW 48.150) | Registration required | [Washington](washington.md) |
+| West Virginia | Yes (W. Va. Code § 33-59) | Registration required | [West Virginia](west-virginia.md) |
 
 ### Tier 3: Challenging
 States without explicit DPC legislation or with significant restrictions. Legal consultation recommended.

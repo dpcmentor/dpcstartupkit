@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Arizona Medical Board](https://www.azmd.gov/) and review [Arizona Revised Statutes Title 20](https://www.azleg.gov/arsDetail/?title=20) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

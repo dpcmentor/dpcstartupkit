@@ -216,12 +216,29 @@ nav:
 
   - State Guides:
     - Overview: states/README.md
+    - Arizona: states/arizona.md
+    - Arkansas: states/arkansas.md
     - Colorado: states/colorado.md
     - Florida: states/florida.md
     - Georgia: states/georgia.md
+    - Indiana: states/indiana.md
+    - Kansas: states/kansas.md
     - Kentucky: states/kentucky.md
+    - Louisiana: states/louisiana.md
     - Maine: states/maine.md
+    - Michigan: states/michigan.md
+    - Mississippi: states/mississippi.md
+    - Missouri: states/missouri.md
+    - North Carolina: states/north-carolina.md
+    - Ohio: states/ohio.md
+    - Oklahoma: states/oklahoma.md
+    - Oregon: states/oregon.md
     - Tennessee: states/tennessee.md
+    - Texas: states/texas.md
+    - Utah: states/utah.md
+    - Virginia: states/virginia.md
+    - Washington: states/washington.md
+    - West Virginia: states/west-virginia.md
     - Wyoming: states/wyoming.md
 
   - Templates:
