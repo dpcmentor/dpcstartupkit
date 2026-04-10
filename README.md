@@ -6,7 +6,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/jforbush/dpcstartupkit)
-[![DPC Mentor Platform](https://img.shields.io/badge/Companion%20Resource-DPC%20Mentor%20Platform-blue.svg)](#)
+[![DPC Mentor Platform](https://img.shields.io/badge/Companion%20Resource-DPC%20Mentor%20Platform-blue.svg)](https://dpcmentor.com/)
 
 *Built by DPC physicians, for DPC physicians.*
 
