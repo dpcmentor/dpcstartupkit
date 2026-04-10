@@ -1,11 +1,14 @@
 # Startup Costs Overview
 
-> **Quick Summary:** You can start a DPC practice with a stethoscope and a smartphone. Seriously. The tables below show range estimates, but the leanest physicians have launched with far less. Start small, prove the model, then invest as revenue justifies.
-
----
-
-> [!TIP]
-> **Less is more.** Many successful DPC physicians started with almost nothing — a phone, basic equipment, and a way to collect payment. Don't let these cost tables intimidate you. Buy what you need when you need it. Your first patient doesn't care about your furniture.
+> **Quick Summary:**
+> 
+> *"You need a stethoscope and a smartphone — you don't need a luxury suite."*
+>
+> *"Do you really need an EMR when you have two dozen patients? No."*
+>
+> *"Hundreds of DPC practices launched without loans. You can too."*
+>
+> The cost tables below show typical ranges, but many physicians have started with far less. Start small, prove the model, invest as revenue justifies.
 
 ---
 
