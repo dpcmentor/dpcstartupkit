@@ -216,7 +216,13 @@ nav:
 
   - State Guides:
     - Overview: states/README.md
+    - Colorado: states/colorado.md
+    - Florida: states/florida.md
+    - Georgia: states/georgia.md
+    - Kentucky: states/kentucky.md
     - Maine: states/maine.md
+    - Tennessee: states/tennessee.md
+    - Wyoming: states/wyoming.md
 
   - Templates:
     - Overview: templates/README.md

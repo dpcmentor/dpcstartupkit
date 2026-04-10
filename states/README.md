@@ -9,13 +9,13 @@ States with explicit DPC-enabling legislation and favorable medication dispensin
 
 | State | DPC Law | Dispensing | Guide |
 |-------|---------|------------|-------|
+| Colorado | Yes (HB 17-1115) | No registration | [Colorado](colorado.md) |
+| Florida | Yes (F.S. § 624.27) | Simple registration | [Florida](florida.md) |
+| Georgia | Yes (O.C.G.A. § 33-1-19) | Simple notification | [Georgia](georgia.md) |
+| Kentucky | Yes (KRS 304.17A-527) | Permitted | [Kentucky](kentucky.md) |
 | Maine | Yes | No registration | [Maine](maine.md) |
-| Wyoming | Yes | No registration | Coming soon |
-| Colorado | Yes | No registration | Coming soon |
-| Kentucky | Yes | Permitted | Coming soon |
-| Georgia | Yes | Simple notification | Coming soon |
-| Tennessee | Yes | Permitted | Coming soon |
-| Florida | Yes | Simple registration | Coming soon |
+| Tennessee | Yes (T.C.A. § 56-7-1801) | No registration | [Tennessee](tennessee.md) |
+| Wyoming | Yes (Wyo. Stat. § 26-1-104) | No registration | [Wyoming](wyoming.md) |
 
 ### Tier 2: Moderate
 States with DPC legislation but some restrictions on dispensing or other operational requirements.
