@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Florida Board of Medicine](https://flhealthsource.gov/) and review [Florida Statutes Chapter 624](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/0624.html) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

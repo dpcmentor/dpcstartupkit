@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Maine Board of Licensure in Medicine](https://www.maine.gov/md/) and review [Maine Revised Statutes Title 24-A](https://legislature.maine.gov/statutes/24-A/title24-Ach0.pdf) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

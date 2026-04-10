@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Kentucky Board of Medical Licensure](https://kbml.ky.gov/) and review [Kentucky Revised Statutes Chapter 304](https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39217) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

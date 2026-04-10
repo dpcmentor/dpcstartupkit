@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Georgia Composite Medical Board](https://medicalboard.georgia.gov/) and review [Official Code of Georgia Title 33](https://law.justia.com/codes/georgia/title-33/) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

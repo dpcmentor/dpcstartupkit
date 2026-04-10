@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Wyoming Board of Medicine](https://wyomedboard.wyo.gov/) and review [Wyoming Statutes Title 26](https://wyoleg.gov/NXT/gateway.dll/Statutes/title%2026.html) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |

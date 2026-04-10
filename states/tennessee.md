@@ -4,6 +4,11 @@
 
 ---
 
+> [!CAUTION]
+> **Verify Current Law:** Always confirm current regulations with the [Tennessee Board of Medical Examiners](https://www.tn.gov/health/health-program-areas/health-professional-boards/me-board.html) and review [Tennessee Code Title 56](https://law.justia.com/codes/tennessee/title-56/) for the most current statutory language.
+
+---
+
 ## At a Glance
 
 | Category | Status |
