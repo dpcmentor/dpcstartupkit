@@ -117,7 +117,7 @@ When can you terminate a patient?
 > For annual prepaid memberships, members may cancel at any time by providing written notice. If cancellation occurs after the initial 30-day period, member will receive a prorated refund for complete months remaining in the membership term, less a $50 administrative fee. No refund will be issued for partial months.
 
 **Practice Termination:**
-> The Practice may terminate membership with 30 days written notice for any reason, or immediately for cause including non-payment, abusive behavior, or actions that endanger patient or staff safety. Upon termination, the Practice will provide reasonable assistance in transitioning care to another provider.
+> The Practice may terminate membership with 30 days written notice for any reason, or immediately for cause including non-payment, abusive behavior, or actions that endanger patient or staff safety. Upon termination, the Practice will provide reasonable assistance in transitioning care to another physician.
 
 ---
 
@@ -169,7 +169,7 @@ When can you terminate a patient?
 >
 > Per our membership agreement, your cancellation is effective [date]. You will have full access to all membership services through [final date].
 >
-> If you would like me to transfer your medical records to a new provider, please complete the enclosed authorization form.
+> If you would like me to transfer your medical records to a new physician, please complete the enclosed authorization form.
 >
 > Thank you for trusting me with your care. If circumstances change in the future, you're always welcome to re-enroll.
 >
@@ -243,7 +243,7 @@ When can you terminate a patient?
 1. Document the issue and previous attempts to address
 2. Send written notice (certified mail recommended)
 3. Provide 30 days notice (unless immediate termination warranted)
-4. Offer assistance finding new provider
+4. Offer assistance finding new physician
 5. Provide records as requested
 6. Document everything
 

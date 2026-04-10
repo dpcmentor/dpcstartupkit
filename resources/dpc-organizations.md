@@ -108,7 +108,7 @@ Some states have dedicated DPC groups:
 - Peer support
 - Vendor recommendations
 
-**How to Join:** Search "DPC Docs" on Facebook; request to join (must be physician/provider).
+**How to Join:** Search "DPC Docs" on Facebook; request to join (must be physician).
 
 **DPC Nuts and Bolts**
 - Practical operational discussions

@@ -143,7 +143,7 @@ This guide provides a practical, staged approach to launch marketing that works 
 
 ### Google Business Profile (Essential and Free)
 
-**Impact:** How most local patients find healthcare providers.
+**Impact:** How most local patients find their doctor.
 
 **Setup:**
 1. Claim or create listing at business.google.com

@@ -40,11 +40,6 @@ The DPC Mentor Platform is designed for physicians and physicians-in-training in
 | **Resident Physicians** | In an accredited residency program (any specialty) |
 | **Practicing Physicians** | Licensed MD or DO interested in starting or transitioning to DPC |
 
-### Program Scope
-
-> [!NOTE]
-> The DPC Mentor Platform focuses specifically on physician mentorship for Direct Primary Care. The platform is not designed for Nurse Practitioners, Physician Assistants, Chiropractors, Naturopaths, or other healthcare professionals at this time.
-
 ---
 
 ## What is the DPC Mentor Platform?
