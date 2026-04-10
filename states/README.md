@@ -43,10 +43,41 @@ States with DPC legislation but some restrictions on dispensing or other operati
 ### Tier 3: Challenging
 States without explicit DPC legislation or with significant restrictions. Legal consultation recommended.
 
-| State | Notes |
-|-------|-------|
-| Massachusetts, New Jersey, New York | Restrictive dispensing; unclear DPC status |
-| Others without DPC legislation | Consult healthcare attorney |
+**States with DPC legislation but classified Tier 3 due to other factors:**
+
+| State | DPC Law | Dispensing | Guide |
+|-------|---------|------------|-------|
+| Idaho | Yes (Idaho Code § 41-6501) | Registration required | [Idaho](idaho.md) |
+| Iowa | Yes (Iowa Code § 514K) | Registration required | [Iowa](iowa.md) |
+| Minnesota | Yes (Minn. Stat. § 62Q.735) | Registration required | [Minnesota](minnesota.md) |
+| Montana | Yes (Mont. Code § 33-1-212) | Registration required | [Montana](montana.md) |
+| Nebraska | Yes (Neb. Rev. Stat. § 44-513.02) | Registration required | [Nebraska](nebraska.md) |
+| Nevada | Yes (NRS 689C) | Registration required | [Nevada](nevada.md) |
+| New Hampshire | Yes (RSA 420-O) | Registration required | [New Hampshire](new-hampshire.md) |
+| New Mexico | Yes (NMSA § 59A-23E) | Registration required | [New Mexico](new-mexico.md) |
+| North Dakota | Yes (N.D.C.C. § 26.1-04-24) | Registration required | [North Dakota](north-dakota.md) |
+| South Carolina | Yes (S.C. Code § 38-71-2010) | Registration required | [South Carolina](south-carolina.md) |
+| South Dakota | Yes (SDCL § 58-17-139) | Registration required | [South Dakota](south-dakota.md) |
+| Wisconsin | Yes (Wis. Stat. § 609.035) | Registration required | [Wisconsin](wisconsin.md) |
+
+**States without explicit DPC legislation (consult healthcare attorney):**
+
+| State | DPC Law | Dispensing | Guide |
+|-------|---------|------------|-------|
+| Alabama | No | Registration required | [Alabama](alabama.md) |
+| Alaska | No | Registration required | [Alaska](alaska.md) |
+| California | No | Restricted | [California](california.md) |
+| Connecticut | No | Restricted | [Connecticut](connecticut.md) |
+| Delaware | No | Registration required | [Delaware](delaware.md) |
+| Hawaii | No | Registration required | [Hawaii](hawaii.md) |
+| Illinois | No | Restricted | [Illinois](illinois.md) |
+| Maryland | No | Registration required | [Maryland](maryland.md) |
+| Massachusetts | No | Restricted | [Massachusetts](massachusetts.md) |
+| New Jersey | No | Restricted | [New Jersey](new-jersey.md) |
+| New York | No | Restricted | [New York](new-york.md) |
+| Pennsylvania | No | Registration required | [Pennsylvania](pennsylvania.md) |
+| Rhode Island | No | Restricted | [Rhode Island](rhode-island.md) |
+| Vermont | No | Restricted | [Vermont](vermont.md) |
 
 ## How to Use These Guides
 
