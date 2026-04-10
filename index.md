@@ -2,7 +2,11 @@
 
 <div class="hero-section" markdown>
 
-**Everything you need to launch a Direct Primary Care practice — from $1,500 to $50,000.**
+## Stop preparing. Start practicing.
+
+**Start with what you have. Add what you need.**
+
+Real guidance from docs who started with nothing.
 
 <div class="hero-badges" markdown>
 
@@ -11,8 +15,6 @@
 [![DPC Mentor Platform](https://img.shields.io/badge/Companion-DPC%20Mentor%20Platform-blue.svg)](https://dpcmentor.com/)
 
 </div>
-
-*Built by DPC physicians, for DPC physicians.*
 
 </div>
 
