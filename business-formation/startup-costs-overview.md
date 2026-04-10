@@ -1,6 +1,11 @@
 # Startup Costs Overview
 
-> **Quick Summary:** Lean startup costs range $12,000-$27,000; shared space $18,000-$42,000; full clinic $40,000-$145,000. Plan for 6-12 months of operating reserves. Most DPC practices take 12-24 months to reach profitability.
+> **Quick Summary:** You can start a DPC practice with a stethoscope and a smartphone. Seriously. The tables below show range estimates, but the leanest physicians have launched with far less. Start small, prove the model, then invest as revenue justifies.
+
+---
+
+> [!TIP]
+> **Less is more.** Many successful DPC physicians started with almost nothing — a phone, basic equipment, and a way to collect payment. Don't let these cost tables intimidate you. Buy what you need when you need it. Your first patient doesn't care about your furniture.
 
 ---
 
@@ -16,17 +21,21 @@
 
 ---
 
-## Overview
+## The Minimum Viable Practice
 
-Understanding realistic startup costs is essential for planning your Direct Primary Care practice launch. Costs vary significantly based on your practice model, location, and existing resources.
+Before diving into cost tables, understand this: **you can practice medicine with remarkably little.**
 
-This guide provides detailed cost breakdowns for three common practice models and helps you create a realistic budget.
+The essentials:
+- A stethoscope
+- A smartphone (for calls, texts, telehealth, and payment processing)
+- Malpractice insurance
+- A business bank account
+- A way to see patients (borrowed space, house calls, telehealth)
 
-## Prerequisites
+Everything else — the EMR, the fancy equipment, the dedicated office — can come later, funded by actual patient revenue rather than debt or savings.
 
-- Completed legal entity selection
-- General idea of practice model (solo, shared space, full clinic)
-- Understanding of your local market (rent costs, etc.)
+> [!NOTE]
+> The cost breakdowns below represent typical ranges, not requirements. Many DPC physicians have launched with far less than the "Lean Startup" column suggests. Use these as planning references, not shopping lists.
 
 ---
 
@@ -34,9 +43,11 @@ This guide provides detailed cost breakdowns for three common practice models an
 
 ### Model 1: Lean Startup (Home Office + Mobile/Telemedicine)
 
-**Concept:** Minimize overhead by starting with telemedicine and home visits, potentially from a home office. Lowest risk approach to validate DPC in your market.
+**Concept:** Start with almost nothing. Telemedicine, house calls, borrowed exam rooms. Prove the model before spending money.
 
-**Best for:** Physicians testing DPC before full commitment, rural areas, or those with significant existing patient relationships.
+**Reality check:** Some physicians have launched DPC practices for under $5,000 total — just malpractice insurance, basic supplies, and a phone. The numbers below are conservative estimates, not minimums.
+
+**Best for:** Most new DPC physicians. Lowest risk. Validate demand before investing.
 
 ### Model 2: Shared Space / Sublease
 
