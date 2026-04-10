@@ -146,6 +146,7 @@ nav:
     - Professional Liability Guide: business-formation/professional-liability-guide.md
     - Business Insurance Guide: business-formation/business-insurance-guide.md
     - Working with Attorneys: business-formation/working-with-attorneys.md
+    - Tax Planning Basics: business-formation/tax-planning-basics.md
 
   - Pricing & Membership:
     - Overview: pricing-membership/README.md
@@ -155,6 +156,7 @@ nav:
     - Payment Processing Options: pricing-membership/payment-processing-options.md
     - Family Pricing Strategies: pricing-membership/family-pricing-strategies.md
     - Handling Cancellations & Refunds: pricing-membership/handling-cancellations-refunds.md
+    - Employer Contracts Guide: pricing-membership/employer-contracts-guide.md
 
   - Technology:
     - Overview: technology/README.md
@@ -179,6 +181,7 @@ nav:
     - Overview: compliance-legal/README.md
     - HIPAA Compliance Basics: compliance-legal/hipaa-compliance-basics.md
     - State DPC Laws Overview: compliance-legal/state-dpc-laws-overview.md
+    - Medicare Opt-Out Guide: compliance-legal/medicare-opt-out-guide.md
     - Required Documentation: compliance-legal/required-documentation.md
     - BAA Requirements: compliance-legal/baa-requirements.md
     - Privacy Practices Guide: compliance-legal/privacy-practices-guide.md
@@ -192,6 +195,9 @@ nav:
     - Daily Workflow Optimization: operations/daily-workflow-optimization.md
     - After-Hours Coverage: operations/after-hours-coverage.md
     - Inventory Management: operations/inventory-management.md
+    - Transitioning to DPC: operations/transitioning-from-practice.md
+    - Dispensing Medications: operations/dispensing-medications.md
+    - Building Referral Networks: operations/referral-network-building.md
 
   - Mentoring:
     - Overview: mentoring/README.md
@@ -206,6 +212,11 @@ nav:
     - DPC Communities: resources/dpc-communities.md
     - Conferences & Events: resources/conferences-events.md
     - Podcasts & Media: resources/podcasts-media.md
+    - Physician Well-Being: resources/physician-wellbeing.md
+
+  - State Guides:
+    - Overview: states/README.md
+    - Maine: states/maine.md
 
   - Templates:
     - Overview: templates/README.md
