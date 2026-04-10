@@ -98,6 +98,13 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | [podcasts-media.md](resources/podcasts-media.md) | Not Reviewed | | | |
 | [dpc-communities.md](resources/dpc-communities.md) | Not Reviewed | | | |
 
+## Mentoring
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [mentor-onboarding-guide.md](mentoring/mentor-onboarding-guide.md) | Not Reviewed | | | |
+| [mentee-onboarding-guide.md](mentoring/mentee-onboarding-guide.md) | Not Reviewed | | | |
+
 ## Root Documents
 
 | Document | Status | Reviewer | Date | Notes |
@@ -119,7 +126,8 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | Compliance & Legal | 6 | 0 | 6 |
 | Operations | 6 | 0 | 6 |
 | Resources | 6 | 0 | 6 |
+| Mentoring | 2 | 0 | 2 |
 | Root Documents | 3 | 0 | 3 |
-| **Total** | **45** | **0** | **45** |
+| **Total** | **47** | **0** | **47** |
 
-*Last updated: 2026-01-11*
+*Last updated: 2026-04-10*

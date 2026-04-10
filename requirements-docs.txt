@@ -1,0 +1,10 @@
+# MkDocs and Material theme dependencies
+# Install with: pip install -r requirements-docs.txt
+
+mkdocs>=1.6.0
+mkdocs-material>=9.5.0
+mkdocs-minify-plugin>=0.8.0
+
+# Markdown extensions (included with mkdocs-material)
+# pygments - syntax highlighting
+# pymdown-extensions - extended markdown features
