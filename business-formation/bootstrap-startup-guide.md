@@ -272,6 +272,110 @@ Many bootstrapped DPC docs have done initial consultations at coffee shops:
 
 ---
 
+## The Case for Low-Tech
+
+### What's Wrong with a Paper Calendar?
+
+Nothing. Absolutely nothing.
+
+**The tech industry wants you to believe:**
+- You need scheduling software ($30-100/month)
+- You need a patient portal ($50-150/month)
+- You need automated reminders ($25-50/month)
+- You need integrated everything
+
+**The reality with 30 patients:**
+- You can remember their names
+- A paper calendar on your desk works fine
+- A phone call takes 30 seconds
+- A Word document is a perfectly good form
+
+### Low-Tech Startup Kit
+
+**Scheduling:**
+- Paper calendar or Google Calendar (free)
+- When: Once you're over 100 patients, maybe consider software
+- Until then: You're not that busy
+
+**Patient Records:**
+- Yes, you'll want an EMR eventually
+- But: Paper charts are still legal
+- Alternative: Simple templates in Google Docs
+- Reality: For first 20-30 patients, you know everything anyway
+
+**Forms and Documents:**
+- Word or Google Docs templates
+- Print them, fill them out
+- Scan or file as needed
+- Cost: $0
+
+**Invoicing:**
+- Spreadsheet with patient names and payment dates
+- Wave (free accounting software)
+- Handwritten receipts are valid
+- Venmo/Zelle memo = documentation
+
+**Communication:**
+- Your cell phone (Google Voice for separation)
+- Text messages (Signal for HIPAA)
+- Email
+- Actual phone calls—remember those?
+
+### When to Upgrade
+
+**Upgrade from paper/simple when:**
+- You're making errors due to volume
+- You're spending more time on admin than it's worth
+- Patients are asking for features you can't provide
+- You have the revenue to justify the expense
+
+**NOT when:**
+- A vendor tells you it's "essential"
+- Other practices use fancy software
+- You think it looks more professional
+- You're procrastinating on patient acquisition
+
+### The Hidden Cost of Complexity
+
+**Every system you add:**
+- Takes time to learn
+- Takes time to maintain
+- Creates dependencies
+- Costs money
+- Can break
+
+**A paper calendar never crashes.**
+
+### Real Examples
+
+**Dr. A (Low-tech launch):**
+- Paper calendar, Google Voice, Word templates
+- First 50 patients: zero software costs
+- Added EMR at month 6 when revenue supported it
+- Total tech spend first 6 months: ~$100
+
+**Dr. B (Tech-forward launch):**
+- EMR, scheduling, portal, automated billing
+- $400/month before first patient
+- Spent weeks configuring instead of marketing
+- Same patient count at month 6
+
+**Both succeeded.** But Dr. A had more cash and less stress.
+
+### Permission to Start Simple
+
+You have a medical degree. You passed boards. You've managed complex patients in complex systems.
+
+**You can handle:**
+- A paper calendar
+- A Word document
+- A phone call
+- A handwritten note
+
+Don't let technology be the reason you don't start. Start with what you have. Upgrade when you need to—not when vendors tell you to.
+
+---
+
 ## Financial Survival Mode
 
 ### The Survival Number

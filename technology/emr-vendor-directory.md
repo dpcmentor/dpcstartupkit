@@ -340,16 +340,105 @@
 
 ## DIY / Minimal EMR Options
 
-### For the Ultra-Bootstrap
+### The Heretical Question: Do You Need an EMR to Start?
 
-**If you truly want minimal technology:**
+**Honest answer:** Not immediately.
 
-- Google Docs/Sheets (HIPAA issues - use Workspace with BAA)
-- Paper charts (still legal, surprisingly)
-- Basic PDF forms + secure email
-- Spreadsheet patient tracking
+Physicians practiced medicine for decades with paper charts, phone calls, and appointment books. Your first 20-30 patients don't require enterprise software.
 
-**Reality:** These create more work than they save. Even Practice Fusion free is better.
+### What's Actually Required
+
+**Legally required:**
+- Medical records (paper counts)
+- Prescription documentation
+- HIPAA compliance for communication
+
+**NOT required:**
+- EMR software
+- Patient portal
+- Automated scheduling
+- Integrated billing
+
+### The Low-Tech Launch
+
+**For your first 30 patients:**
+
+| Need | Low-Tech Solution | Cost |
+|------|------------------|------|
+| Scheduling | Paper calendar or Google Calendar | $0 |
+| Patient records | Paper charts or Google Docs (with BAA) | $0-6/mo |
+| Prescriptions | Paper Rx pads or free e-prescribe (via pharmacy) | $0 |
+| Communication | Google Voice + Signal | $0 |
+| Billing | Spreadsheet + Venmo/Square | $0 |
+| Forms | Word/Google Docs templates | $0 |
+
+**Total: $0-6/month**
+
+### When This Makes Sense
+
+- You have zero patients and need to prove the concept
+- Every dollar matters
+- You're starting part-time while employed
+- You want to focus on patients, not software
+- You learn better by doing, then systematizing
+
+### When to Graduate to EMR
+
+**Signs you're ready:**
+- Volume makes paper inefficient (usually 40-50+ patients)
+- You're making errors from manual tracking
+- Patients are requesting portal access
+- You have predictable revenue to cover the cost
+- Lab integration would save significant time
+
+**Not a sign you're ready:**
+- A vendor gave a good demo
+- Other DPC docs use it
+- You feel like you "should"
+
+### The Hybrid Approach
+
+**Many bootstrap docs do this:**
+1. Launch with paper/simple tools
+2. Track everything carefully
+3. Add EMR at month 3-6 when cash flowing
+4. Migrate records gradually
+
+This gives you:
+- Real experience with your workflow before choosing software
+- Money in the bank before recurring expenses
+- Urgency to get patients (no expensive system to "set up")
+
+### Google Workspace as Proto-EMR
+
+**With HIPAA BAA ($6/user/month):**
+- Google Docs: Patient notes (one doc per patient)
+- Google Sheets: Patient roster, tracking, billing
+- Google Calendar: Scheduling
+- Google Meet: Telehealth
+- Gmail: Secure communication
+
+**Not elegant. But functional.**
+
+### Paper Charts: Still Legal, Still Work
+
+**What you need:**
+- Manila folders
+- Lined paper or templates
+- Secure filing cabinet
+- Good handwriting (or print templates)
+
+**Advantages:**
+- Zero learning curve
+- Never crashes
+- No monthly fee
+- Focuses you on the patient, not the screen
+
+**Disadvantages:**
+- No backup (unless you scan)
+- Can't access remotely
+- E-prescribing harder
+- Eventually limiting
 
 ### Telehealth-Only Platforms
 
