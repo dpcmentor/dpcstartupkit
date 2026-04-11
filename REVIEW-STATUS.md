@@ -21,16 +21,30 @@ This file tracks human review of all guides in the DPC Startup Kit.
 
 ---
 
+## Bootstrap (NEW SECTION)
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [README.md](bootstrap/README.md) | Not Reviewed | | | Section overview, philosophy |
+| [minimum-viable-practice.md](bootstrap/minimum-viable-practice.md) | Not Reviewed | | | $1,500-3,250 launch checklist |
+| [low-tech-toolkit.md](bootstrap/low-tech-toolkit.md) | Not Reviewed | | | $0-50/month tech stack |
+| [bootstrap-startup-guide.md](bootstrap/bootstrap-startup-guide.md) | Not Reviewed | | | Full philosophy, startup culture |
+| [bootstrap-faq.md](bootstrap/bootstrap-faq.md) | Not Reviewed | | | "Don't I need..." answered |
+| [bootstrapping-resources.md](bootstrap/bootstrapping-resources.md) | Not Reviewed | | | Books, podcasts, communities |
+
 ## Business Formation
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [choosing-legal-entity.md](business-formation/choosing-legal-entity.md) | Not Reviewed | | | |
 | [checklist-business-registration.md](business-formation/checklist-business-registration.md) | Not Reviewed | | | |
-| [startup-costs-overview.md](business-formation/startup-costs-overview.md) | Not Reviewed | | | |
+| [startup-costs-overview.md](business-formation/startup-costs-overview.md) | Not Reviewed | | | Bootstrap philosophy emphasized |
+| [partnership-structures.md](business-formation/partnership-structures.md) | Not Reviewed | | | New - partner models, buy-in |
+| [exit-planning.md](business-formation/exit-planning.md) | Not Reviewed | | | New - succession, valuation |
 | [professional-liability-guide.md](business-formation/professional-liability-guide.md) | Not Reviewed | | | |
 | [business-insurance-guide.md](business-formation/business-insurance-guide.md) | Not Reviewed | | | |
 | [working-with-attorneys.md](business-formation/working-with-attorneys.md) | Not Reviewed | | | |
+| [tax-planning-basics.md](business-formation/tax-planning-basics.md) | Not Reviewed | | | |
 
 ## Pricing & Membership
 
@@ -42,17 +56,20 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | [payment-processing-options.md](pricing-membership/payment-processing-options.md) | Not Reviewed | | | |
 | [family-pricing-strategies.md](pricing-membership/family-pricing-strategies.md) | Not Reviewed | | | |
 | [handling-cancellations-refunds.md](pricing-membership/handling-cancellations-refunds.md) | Not Reviewed | | | |
+| [employer-contracts-guide.md](pricing-membership/employer-contracts-guide.md) | Not Reviewed | | | |
 
 ## Technology
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [emr-selection-guide.md](technology/emr-selection-guide.md) | Not Reviewed | | | |
+| [emr-vendor-directory.md](technology/emr-vendor-directory.md) | Not Reviewed | | | New - DPC EMR comparison |
 | [telehealth-platforms.md](technology/telehealth-platforms.md) | Not Reviewed | | | |
 | [patient-communication-tools.md](technology/patient-communication-tools.md) | Not Reviewed | | | |
 | [practice-website-essentials.md](technology/practice-website-essentials.md) | Not Reviewed | | | |
 | [scheduling-systems.md](technology/scheduling-systems.md) | Not Reviewed | | | |
 | [lab-imaging-integration.md](technology/lab-imaging-integration.md) | Not Reviewed | | | |
+| [ai-clinical-tools.md](technology/ai-clinical-tools.md) | Not Reviewed | | | |
 
 ## Marketing
 
@@ -71,6 +88,10 @@ This file tracks human review of all guides in the DPC Startup Kit.
 |----------|--------|----------|------|-------|
 | [hipaa-compliance-basics.md](compliance-legal/hipaa-compliance-basics.md) | Not Reviewed | | | |
 | [state-dpc-laws-overview.md](compliance-legal/state-dpc-laws-overview.md) | Not Reviewed | | | |
+| [medicare-opt-out-guide.md](compliance-legal/medicare-opt-out-guide.md) | Not Reviewed | | | |
+| [controlled-substances-compliance.md](compliance-legal/controlled-substances-compliance.md) | Not Reviewed | | | New - DEA, PDMP, EPCS |
+| [telehealth-legal-considerations.md](compliance-legal/telehealth-legal-considerations.md) | Not Reviewed | | | New - licensing, platforms |
+| [corporate-practice-medicine.md](compliance-legal/corporate-practice-medicine.md) | Not Reviewed | | | New - CPOM, MSO structures |
 | [baa-requirements.md](compliance-legal/baa-requirements.md) | Not Reviewed | | | |
 | [privacy-practices-guide.md](compliance-legal/privacy-practices-guide.md) | Not Reviewed | | | |
 | [required-documentation.md](compliance-legal/required-documentation.md) | Not Reviewed | | | |
@@ -86,23 +107,139 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | [daily-workflow-optimization.md](operations/daily-workflow-optimization.md) | Not Reviewed | | | |
 | [after-hours-coverage.md](operations/after-hours-coverage.md) | Not Reviewed | | | |
 | [inventory-management.md](operations/inventory-management.md) | Not Reviewed | | | |
+| [transitioning-from-practice.md](operations/transitioning-from-practice.md) | Not Reviewed | | | |
+| [dispensing-medications.md](operations/dispensing-medications.md) | Not Reviewed | | | |
+| [referral-network-building.md](operations/referral-network-building.md) | Not Reviewed | | | |
+| [hiring-your-first-employee.md](operations/hiring-your-first-employee.md) | Not Reviewed | | | New - when/how to hire |
+| [scaling-your-practice.md](operations/scaling-your-practice.md) | Not Reviewed | | | New - questions growth assumptions |
+| [staff-training-guide.md](operations/staff-training-guide.md) | Not Reviewed | | | New - DPC-specific training |
 
 ## Resources
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
+| [service-providers.md](resources/service-providers.md) | Not Reviewed | | | New - attorneys, CPAs, vendors |
+| [lab-partners.md](resources/lab-partners.md) | Not Reviewed | | | New - Quest, Labcorp, pricing |
 | [dpc-organizations.md](resources/dpc-organizations.md) | Not Reviewed | | | |
 | [state-resources-directory.md](resources/state-resources-directory.md) | Not Reviewed | | | |
 | [recommended-reading.md](resources/recommended-reading.md) | Not Reviewed | | | |
 | [conferences-events.md](resources/conferences-events.md) | Not Reviewed | | | |
 | [podcasts-media.md](resources/podcasts-media.md) | Not Reviewed | | | |
 | [dpc-communities.md](resources/dpc-communities.md) | Not Reviewed | | | |
+| [physician-wellbeing.md](resources/physician-wellbeing.md) | Not Reviewed | | | |
+
+## Mentoring
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [mentor-onboarding-guide.md](mentoring/mentor-onboarding-guide.md) | Not Reviewed | | | |
+| [mentee-onboarding-guide.md](mentoring/mentee-onboarding-guide.md) | Not Reviewed | | | |
+
+## Templates
+
+### Documents
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [template-language-guide.md](templates/documents/template-language-guide.md) | Not Reviewed | | | |
+
+### Spreadsheets (Excel)
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [startup-budget.xlsx](templates/spreadsheets/startup-budget.xlsx) | Not Reviewed | | | New - yellow input, green calc |
+| [monthly-operating-expenses.xlsx](templates/spreadsheets/monthly-operating-expenses.xlsx) | Not Reviewed | | | New |
+| [pricing-calculator.xlsx](templates/spreadsheets/pricing-calculator.xlsx) | Not Reviewed | | | New - break-even analysis |
+| [patient-panel-projections.xlsx](templates/spreadsheets/patient-panel-projections.xlsx) | Not Reviewed | | | New - growth modeling |
+| [annual-revenue-forecast.xlsx](templates/spreadsheets/annual-revenue-forecast.xlsx) | Not Reviewed | | | New |
+| [break-even-analysis.xlsx](templates/spreadsheets/break-even-analysis.xlsx) | Not Reviewed | | | New |
+| [emr-comparison-matrix.xlsx](templates/spreadsheets/emr-comparison-matrix.xlsx) | Not Reviewed | | | New |
+
+## State Guides
+
+All 50 state guides require review. Each includes:
+- DPC legislation status
+- Medication dispensing rules  
+- Prominent disclaimer with statute URLs
+- State-specific considerations
+
+### Tier 1: DPC Friendly
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [colorado.md](states/colorado.md) | Not Reviewed | | | Medicaid restriction noted |
+| [florida.md](states/florida.md) | Not Reviewed | | | Large Medicare population |
+| [georgia.md](states/georgia.md) | Not Reviewed | | | |
+| [kentucky.md](states/kentucky.md) | Not Reviewed | | | |
+| [maine.md](states/maine.md) | Not Reviewed | | | |
+| [tennessee.md](states/tennessee.md) | Not Reviewed | | | |
+| [wyoming.md](states/wyoming.md) | Not Reviewed | | | Pioneer DPC legislation |
+
+### Tier 2: Moderate
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [arizona.md](states/arizona.md) | Not Reviewed | | | |
+| [arkansas.md](states/arkansas.md) | Not Reviewed | | | |
+| [indiana.md](states/indiana.md) | Not Reviewed | | | |
+| [kansas.md](states/kansas.md) | Not Reviewed | | | |
+| [louisiana.md](states/louisiana.md) | Not Reviewed | | | Civil law system |
+| [michigan.md](states/michigan.md) | Not Reviewed | | | |
+| [mississippi.md](states/mississippi.md) | Not Reviewed | | | |
+| [missouri.md](states/missouri.md) | Not Reviewed | | | |
+| [north-carolina.md](states/north-carolina.md) | Not Reviewed | | | |
+| [ohio.md](states/ohio.md) | Not Reviewed | | | TDDD license required |
+| [oklahoma.md](states/oklahoma.md) | Not Reviewed | | | |
+| [oregon.md](states/oregon.md) | Not Reviewed | | | |
+| [texas.md](states/texas.md) | Not Reviewed | | | Largest DPC market |
+| [utah.md](states/utah.md) | Not Reviewed | | | |
+| [virginia.md](states/virginia.md) | Not Reviewed | | | Federal employee considerations |
+| [washington.md](states/washington.md) | Not Reviewed | | | |
+| [west-virginia.md](states/west-virginia.md) | Not Reviewed | | | Opioid regulations |
+
+### Tier 3: Challenging (with DPC legislation)
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [idaho.md](states/idaho.md) | Not Reviewed | | | May warrant Tier 2 |
+| [iowa.md](states/iowa.md) | Not Reviewed | | | May warrant Tier 2 |
+| [minnesota.md](states/minnesota.md) | Not Reviewed | | | May warrant Tier 2 |
+| [montana.md](states/montana.md) | Not Reviewed | | | May warrant Tier 2 |
+| [nebraska.md](states/nebraska.md) | Not Reviewed | | | May warrant Tier 2 |
+| [nevada.md](states/nevada.md) | Not Reviewed | | | May warrant Tier 2 |
+| [new-hampshire.md](states/new-hampshire.md) | Not Reviewed | | | May warrant Tier 2 |
+| [new-mexico.md](states/new-mexico.md) | Not Reviewed | | | May warrant Tier 2 |
+| [north-dakota.md](states/north-dakota.md) | Not Reviewed | | | May warrant Tier 2 |
+| [south-carolina.md](states/south-carolina.md) | Not Reviewed | | | May warrant Tier 2 |
+| [south-dakota.md](states/south-dakota.md) | Not Reviewed | | | May warrant Tier 2 |
+| [wisconsin.md](states/wisconsin.md) | Not Reviewed | | | May warrant Tier 2 |
+
+### Tier 3: Challenging (no explicit DPC legislation)
+
+| Document | Status | Reviewer | Date | Notes |
+|----------|--------|----------|------|-------|
+| [alabama.md](states/alabama.md) | Not Reviewed | | | Attorney consultation essential |
+| [alaska.md](states/alaska.md) | Not Reviewed | | | Unique geography |
+| [california.md](states/california.md) | Not Reviewed | | | Complex regulations |
+| [connecticut.md](states/connecticut.md) | Not Reviewed | | | Dispensing restricted |
+| [delaware.md](states/delaware.md) | Not Reviewed | | | Small market |
+| [hawaii.md](states/hawaii.md) | Not Reviewed | | | Island logistics |
+| [illinois.md](states/illinois.md) | Not Reviewed | | | Dispensing restricted |
+| [maryland.md](states/maryland.md) | Not Reviewed | | | DC suburbs |
+| [massachusetts.md](states/massachusetts.md) | Not Reviewed | | | Dispensing restricted |
+| [new-jersey.md](states/new-jersey.md) | Not Reviewed | | | Dispensing restricted |
+| [new-york.md](states/new-york.md) | Not Reviewed | | | Complex regulations |
+| [pennsylvania.md](states/pennsylvania.md) | Not Reviewed | | | Large market |
+| [rhode-island.md](states/rhode-island.md) | Not Reviewed | | | Dispensing restricted |
+| [vermont.md](states/vermont.md) | Not Reviewed | | | Dispensing restricted |
 
 ## Root Documents
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [README.md](README.md) | Not Reviewed | | | |
+| [index.md](index.md) | Not Reviewed | | | Site homepage - bootstrap-first |
+| [getting-started.md](getting-started.md) | Not Reviewed | | | Two-path quick start |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Not Reviewed | | | |
 | [CONTENT-ROADMAP.md](CONTENT-ROADMAP.md) | Not Reviewed | | | |
 
@@ -112,14 +249,19 @@ This file tracks human review of all guides in the DPC Startup Kit.
 
 | Section | Total | Reviewed | Pending |
 |---------|-------|----------|---------|
-| Business Formation | 6 | 0 | 6 |
-| Pricing & Membership | 6 | 0 | 6 |
-| Technology | 6 | 0 | 6 |
+| Bootstrap | 6 | 0 | 6 |
+| Business Formation | 9 | 0 | 9 |
+| Pricing & Membership | 7 | 0 | 7 |
+| Technology | 8 | 0 | 8 |
 | Marketing | 6 | 0 | 6 |
-| Compliance & Legal | 6 | 0 | 6 |
-| Operations | 6 | 0 | 6 |
-| Resources | 6 | 0 | 6 |
-| Root Documents | 3 | 0 | 3 |
-| **Total** | **45** | **0** | **45** |
+| Compliance & Legal | 10 | 0 | 10 |
+| Operations | 12 | 0 | 12 |
+| Resources | 9 | 0 | 9 |
+| Mentoring | 2 | 0 | 2 |
+| Templates (Docs) | 1 | 0 | 1 |
+| Templates (Spreadsheets) | 7 | 0 | 7 |
+| State Guides | 50 | 0 | 50 |
+| Root Documents | 5 | 0 | 5 |
+| **Total** | **132** | **0** | **132** |
 
-*Last updated: 2026-01-11*
+*Last updated: 2026-04-11*

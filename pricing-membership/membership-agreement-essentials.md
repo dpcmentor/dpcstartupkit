@@ -231,7 +231,7 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 > - With thirty (30) days written notice for any reason
 > - Immediately for cause, including but not limited to: non-payment, abusive or threatening behavior toward staff, repeated failure to follow medical recommendations in a manner that endangers health, or fraudulent activity
 >
-> Upon termination, Practice will provide Member with copies of medical records and reasonable assistance in transitioning to another healthcare provider.
+> Upon termination, Practice will provide Member with copies of medical records and reasonable assistance in transitioning to another physician.
 
 ---
 

@@ -65,29 +65,15 @@ This guide helps you develop an authentic, professional brand that attracts the 
 
 ---
 
-## What Is a Brand?
+## Why Brand Matters for DPC
 
-### Brand Is Not Just Visual
-
-**Brand includes:**
-- How you communicate (tone, language)
-- How patients feel interacting with your practice
-- What patients say about you when you are not in the room
-- Consistency across all touchpoints
-- The promise you make and keep
-
-**Visual identity (logo, colors, website) supports brand but does not define it.**
-
-### Why Brand Matters for DPC
-
-- Patients are choosing to pay outside insurance—trust is essential
-- DPC is unfamiliar—your brand makes it approachable
-- You are competing for attention with established health systems
-- Your personal brand is the practice brand (especially solo)
+- Patients are paying out of pocket — trust is essential
+- DPC is unfamiliar — your brand makes it approachable  
+- In solo practice, *you* are the brand
 
 ---
 
-## Brand Development Process
+## Brand Development
 
 ### Step 1: Define Your Practice Values
 
@@ -221,11 +207,52 @@ Develop 3-5 key messages you repeat consistently:
 | Descriptive (Direct Access Primary Care) | Clear what you do | Less memorable |
 | Abstract (Compass Health DPC) | Flexible, memorable | Requires explanation |
 
-**Recommendations:**
-- Keep it simple and memorable
-- Ensure domain is available
-- Check state rules on practice naming
-- Consider long-term plans (partners, selling practice)
+### Choosing a Strong Practice Name
+
+**What makes a name work:**
+
+- **Easy to spell and pronounce** — Patients will search for you, refer you, and say your name aloud. Avoid creative spellings.
+- **Easy to remember** — Shorter is usually better. Two to four words maximum.
+- **Available everywhere** — Check domain, social handles, and state business registry before falling in love with a name.
+- **Appropriate for healthcare** — Avoid names that sound like spas, gyms, or retail businesses unless that's your intent.
+
+**Naming psychology:**
+
+- **Concrete words** (Oak, River, Clear, Family) are easier to remember than abstract concepts
+- **Alliteration** (Clear Creek, Primary Partners) aids recall
+- **Your name** builds immediate trust and personal connection — most solo DPC practices use the physician's name
+- **"Direct"** or **"DPC"** in the name signals the model but may need explanation to patients unfamiliar with the term
+- **Geographic names** create local identity but may limit future expansion
+
+**Common naming patterns in DPC:**
+
+- `[Your Name] Family Medicine` — Dr. Smith Family Medicine
+- `[Your Name] Direct Primary Care` — Jones Direct Primary Care  
+- `[Location] + Direct Care` — Riverside Direct Care
+- `[Adjective] + Primary Care` — Clear Path Primary Care
+- `[Concept] + DPC` — Access DPC, Compass DPC
+
+**Process for selecting your name:**
+
+1. Brainstorm 10-15 options
+2. Check domain availability (GoDaddy, Namecheap, Google Domains)
+3. Check social handle availability (Namechk, KnowEm)
+4. Check your state's business name registry
+5. Check state medical board rules on practice naming
+6. Say it out loud — does it sound professional on the phone?
+7. Sleep on it — does it still feel right?
+
+> [!TIP]
+> Don't overthink it. Many successful DPC practices simply use the physician's name plus "Family Medicine" or "Direct Primary Care." Your patients are choosing *you*, not your brand name.
+
+**State naming rules:**
+
+Some states restrict:
+- Use of "clinic" or "center" without certain credentials
+- Implying specialties you don't hold
+- Names that could mislead patients
+
+Check with your state medical board before finalizing.
 
 ---
 
@@ -337,41 +364,6 @@ These services check username availability across multiple platforms simultaneou
 
 ---
 
-## Brand Voice and Tone
-
-### Define Your Voice
-
-**Voice** is your consistent personality. **Tone** adjusts by context.
-
-**Voice Attributes (choose 3-4):**
-
-| Attribute | What It Means |
-|-----------|---------------|
-| Warm | Friendly, approachable, caring |
-| Professional | Competent, knowledgeable, reliable |
-| Straightforward | Clear, honest, no jargon |
-| Reassuring | Calming, supportive, confident |
-| Empowering | Educational, partnering, respectful |
-| Personal | Individual attention, knows your story |
-
-**Example Voice Definition:**
-> Our voice is warm, professional, and straightforward. We speak to patients like intelligent adults, avoiding medical jargon while not oversimplifying. We're approachable but competent, friendly but not casual.
-
----
-
-### Tone by Context
-
-| Context | Tone Adjustment |
-|---------|-----------------|
-| Website homepage | Welcoming, confident |
-| Sick visit communication | Reassuring, efficient |
-| Annual physical follow-up | Encouraging, thorough |
-| Difficult diagnosis discussion | Compassionate, clear |
-| Social media | Warmer, more personal |
-| Billing/admin | Clear, professional |
-
----
-
 ## Brand in Practice
 
 ### Patient Experience as Brand
@@ -416,32 +408,6 @@ These services check username availability across multiple platforms simultaneou
 - Inconsistent information
 - Overpromising and underdelivering
 - Unprofessional appearance
-
----
-
-## DIY Brand Tools
-
-### Free and Low-Cost Resources
-
-| Tool | Use | Cost |
-|------|-----|------|
-| Canva | Logo, graphics, social media | Free / $13/month Pro |
-| Google Fonts | Professional typography | Free |
-| Coolors.co | Color palette generator | Free |
-| Unsplash | Stock photography | Free |
-| Squarespace | Website | $12-$40/month |
-| Wix | Website | Free / $14-$39/month |
-
-### Creating a Simple Logo (Free)
-
-1. Go to Canva.com
-2. Search "logo" templates
-3. Choose a simple, clean template
-4. Replace text with your practice name
-5. Adjust colors to your preference
-6. Download as PNG and SVG
-
-**Time:** 30 minutes
 
 ---
 

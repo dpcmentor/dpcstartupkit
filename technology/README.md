@@ -2,7 +2,19 @@
 
 This section covers technology selection and implementation for Direct Primary Care practices.
 
-## Topics
+## Guides
+
+| Guide | Description |
+|-------|-------------|
+| [EMR Selection Guide](emr-selection-guide.md) | Evaluation framework for DPC-appropriate EMRs |
+| [Telehealth Platforms](telehealth-platforms.md) | HIPAA-compliant video visit options |
+| [Patient Communication Tools](patient-communication-tools.md) | Secure messaging, VoIP, professional email |
+| [Practice Website Essentials](practice-website-essentials.md) | Building your online presence |
+| [Scheduling Systems](scheduling-systems.md) | Online booking and calendar management |
+| [Lab & Imaging Integration](lab-imaging-integration.md) | Direct-pay labs and imaging centers |
+| [AI Clinical Tools](ai-clinical-tools.md) | Ambient scribes and self-hosted AI options |
+
+## Topics Covered
 
 - EMR/EHR selection criteria
 - Practice management software
@@ -13,10 +25,7 @@ This section covers technology selection and implementation for Direct Primary C
 - Scheduling systems
 - Secure messaging platforms
 - Lab and imaging integration
-
-## Guides
-
-*Guides coming soon.*
+- AI documentation and clinical tools
 
 ## Checklists
 

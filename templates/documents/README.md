@@ -1,14 +1,15 @@
 # Document Templates
 
-This directory contains PDF and document templates for legal agreements, policies, and patient-facing materials.
+This directory contains document templates and language guides for policies and patient-facing materials.
 
-## Available Templates
+## Available Resources
 
-*Templates coming soon.*
+| Document | Description |
+|----------|-------------|
+| [Template Language Guide](template-language-guide.md) | Concise language examples for consent forms, HIPAA notices, financial policies, telehealth consent, records release, controlled substance agreements, and after-hours policies |
 
 ## Planned Templates
 
-- Membership agreement template
 - Patient consent for treatment
 - HIPAA Notice of Privacy Practices
 - Authorization for release of information
@@ -16,8 +17,9 @@ This directory contains PDF and document templates for legal agreements, policie
 - After-hours policy
 - Controlled substance agreement
 - Telehealth consent
-- Business Associate Agreement (BAA)
-- Employment agreement template
+
+> [!NOTE]
+> We intentionally do not provide a membership agreement template due to the legal complexity and state-specific requirements. Consult a healthcare attorney in your state for membership agreements.
 
 ## Important Disclaimer
 

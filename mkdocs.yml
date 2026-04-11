@@ -1,0 +1,294 @@
+# MkDocs configuration for DPC Startup Kit
+# GitHub Pages: https://[username].github.io/dpcstartupkit/
+
+site_name: DPC Startup Kit
+site_description: A comprehensive resource collection for physicians launching Direct Primary Care practices
+site_author: DPC Physicians
+site_url: https://jforbush.github.io/dpcstartupkit/
+
+# Repository
+repo_name: jforbush/dpcstartupkit
+repo_url: https://github.com/jforbush/dpcstartupkit
+edit_uri: edit/main/
+
+# Copyright
+copyright: >
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> —
+  Built by DPC physicians, for DPC physicians
+
+# Theme configuration
+theme:
+  name: material
+
+  # Logo and favicon (placeholder paths - replace when assets available)
+  logo: assets/logo-placeholder.svg
+  favicon: assets/favicon.svg
+
+  # Color palette with dark mode preference
+  palette:
+    # Dark mode (default)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  # Features
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+  # Custom fonts
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  # Icons
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - minify:
+      minify_html: true
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jforbush/dpcstartupkit
+
+  # Analytics (uncomment and configure when ready)
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+
+  generator: false
+
+# Custom CSS
+extra_css:
+  - assets/stylesheets/custom.css
+
+# Navigation structure
+nav:
+  - Home: index.md
+
+  - Bootstrap:
+    - Start Here: bootstrap/README.md
+    - Minimum Viable Practice: bootstrap/minimum-viable-practice.md
+    - Low-Tech Toolkit: bootstrap/low-tech-toolkit.md
+    - Bootstrap Startup Guide: bootstrap/bootstrap-startup-guide.md
+    - Bootstrap FAQ: bootstrap/bootstrap-faq.md
+    - Bootstrapping Resources: bootstrap/bootstrapping-resources.md
+
+  - Getting Started:
+    - Quick Start: getting-started.md
+
+  - Business Formation:
+    - Overview: business-formation/README.md
+    - Choosing a Legal Entity: business-formation/choosing-legal-entity.md
+    - Business Registration Checklist: business-formation/checklist-business-registration.md
+    - Startup Costs Overview: business-formation/startup-costs-overview.md
+    - Partnership Structures: business-formation/partnership-structures.md
+    - Exit Planning: business-formation/exit-planning.md
+    - Professional Liability Guide: business-formation/professional-liability-guide.md
+    - Business Insurance Guide: business-formation/business-insurance-guide.md
+    - Working with Attorneys: business-formation/working-with-attorneys.md
+    - Tax Planning Basics: business-formation/tax-planning-basics.md
+
+  - Pricing & Membership:
+    - Overview: pricing-membership/README.md
+    - Membership Models Comparison: pricing-membership/membership-models-comparison.md
+    - Pricing Your Practice: pricing-membership/pricing-your-practice.md
+    - Membership Agreement Essentials: pricing-membership/membership-agreement-essentials.md
+    - Payment Processing Options: pricing-membership/payment-processing-options.md
+    - Family Pricing Strategies: pricing-membership/family-pricing-strategies.md
+    - Handling Cancellations & Refunds: pricing-membership/handling-cancellations-refunds.md
+    - Employer Contracts Guide: pricing-membership/employer-contracts-guide.md
+
+  - Technology:
+    - Overview: technology/README.md
+    - EMR Selection Guide: technology/emr-selection-guide.md
+    - EMR Vendor Directory: technology/emr-vendor-directory.md
+    - Telehealth Platforms: technology/telehealth-platforms.md
+    - Patient Communication Tools: technology/patient-communication-tools.md
+    - Practice Website Essentials: technology/practice-website-essentials.md
+    - Scheduling Systems: technology/scheduling-systems.md
+    - Lab & Imaging Integration: technology/lab-imaging-integration.md
+    - AI Clinical Tools: technology/ai-clinical-tools.md
+
+  - Marketing:
+    - Overview: marketing/README.md
+    - Explaining DPC to Patients: marketing/explaining-dpc-to-patients.md
+    - Building Your Brand: marketing/building-your-brand.md
+    - Website Content Guide: marketing/website-content-guide.md
+    - Launch Marketing Plan: marketing/launch-marketing-plan.md
+    - Community Outreach Strategies: marketing/community-outreach-strategies.md
+    - Social Media for DPC: marketing/social-media-for-dpc.md
+
+  - Compliance & Legal:
+    - Overview: compliance-legal/README.md
+    - HIPAA Compliance Basics: compliance-legal/hipaa-compliance-basics.md
+    - State DPC Laws Overview: compliance-legal/state-dpc-laws-overview.md
+    - Medicare Opt-Out Guide: compliance-legal/medicare-opt-out-guide.md
+    - Controlled Substances Compliance: compliance-legal/controlled-substances-compliance.md
+    - Telehealth Legal Considerations: compliance-legal/telehealth-legal-considerations.md
+    - Corporate Practice of Medicine: compliance-legal/corporate-practice-medicine.md
+    - Required Documentation: compliance-legal/required-documentation.md
+    - BAA Requirements: compliance-legal/baa-requirements.md
+    - Privacy Practices Guide: compliance-legal/privacy-practices-guide.md
+    - Incident Response Plan: compliance-legal/incident-response-plan.md
+
+  - Operations:
+    - Overview: operations/README.md
+    - Office Space Guide: operations/office-space-guide.md
+    - Equipment & Supplies Checklist: operations/equipment-supplies-checklist.md
+    - Patient Onboarding Workflow: operations/patient-onboarding-workflow.md
+    - Daily Workflow Optimization: operations/daily-workflow-optimization.md
+    - After-Hours Coverage: operations/after-hours-coverage.md
+    - Inventory Management: operations/inventory-management.md
+    - Transitioning to DPC: operations/transitioning-from-practice.md
+    - Dispensing Medications: operations/dispensing-medications.md
+    - Building Referral Networks: operations/referral-network-building.md
+    - Hiring Your First Employee: operations/hiring-your-first-employee.md
+    - Scaling Your Practice: operations/scaling-your-practice.md
+    - Staff Training Guide: operations/staff-training-guide.md
+
+  - Mentoring:
+    - Overview: mentoring/README.md
+    - Mentor Onboarding Guide: mentoring/mentor-onboarding-guide.md
+    - Mentee Onboarding Guide: mentoring/mentee-onboarding-guide.md
+
+  - Resources:
+    - Overview: resources/README.md
+    - Service Providers: resources/service-providers.md
+    - Lab Partners: resources/lab-partners.md
+    - DPC Organizations: resources/dpc-organizations.md
+    - State Resources Directory: resources/state-resources-directory.md
+    - Recommended Reading: resources/recommended-reading.md
+    - DPC Communities: resources/dpc-communities.md
+    - Conferences & Events: resources/conferences-events.md
+    - Podcasts & Media: resources/podcasts-media.md
+    - Physician Well-Being: resources/physician-wellbeing.md
+
+  - State Guides:
+    - Overview: states/README.md
+    - Alabama: states/alabama.md
+    - Alaska: states/alaska.md
+    - Arizona: states/arizona.md
+    - Arkansas: states/arkansas.md
+    - California: states/california.md
+    - Colorado: states/colorado.md
+    - Connecticut: states/connecticut.md
+    - Delaware: states/delaware.md
+    - Florida: states/florida.md
+    - Georgia: states/georgia.md
+    - Hawaii: states/hawaii.md
+    - Idaho: states/idaho.md
+    - Illinois: states/illinois.md
+    - Indiana: states/indiana.md
+    - Iowa: states/iowa.md
+    - Kansas: states/kansas.md
+    - Kentucky: states/kentucky.md
+    - Louisiana: states/louisiana.md
+    - Maine: states/maine.md
+    - Maryland: states/maryland.md
+    - Massachusetts: states/massachusetts.md
+    - Michigan: states/michigan.md
+    - Minnesota: states/minnesota.md
+    - Mississippi: states/mississippi.md
+    - Missouri: states/missouri.md
+    - Montana: states/montana.md
+    - Nebraska: states/nebraska.md
+    - Nevada: states/nevada.md
+    - New Hampshire: states/new-hampshire.md
+    - New Jersey: states/new-jersey.md
+    - New Mexico: states/new-mexico.md
+    - New York: states/new-york.md
+    - North Carolina: states/north-carolina.md
+    - North Dakota: states/north-dakota.md
+    - Ohio: states/ohio.md
+    - Oklahoma: states/oklahoma.md
+    - Oregon: states/oregon.md
+    - Pennsylvania: states/pennsylvania.md
+    - Rhode Island: states/rhode-island.md
+    - South Carolina: states/south-carolina.md
+    - South Dakota: states/south-dakota.md
+    - Tennessee: states/tennessee.md
+    - Texas: states/texas.md
+    - Utah: states/utah.md
+    - Vermont: states/vermont.md
+    - Virginia: states/virginia.md
+    - Washington: states/washington.md
+    - West Virginia: states/west-virginia.md
+    - Wisconsin: states/wisconsin.md
+    - Wyoming: states/wyoming.md
+
+  - Templates:
+    - Overview: templates/README.md
+    - Spreadsheets: templates/spreadsheets/README.md
+    - Documents: templates/documents/README.md
+
+  - Contributing: CONTRIBUTING.md

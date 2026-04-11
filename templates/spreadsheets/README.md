@@ -1,34 +1,62 @@
 # Spreadsheet Templates
 
-This directory contains Excel and CSV templates for financial planning, tracking, and analysis.
+Practical Excel templates for DPC financial planning, tracking, and analysis. All templates include formulas and are ready to customize.
 
 ## Available Templates
 
-*Templates coming soon.*
+### Financial Planning (P1)
 
-## Planned Templates
+| Template | Description |
+|----------|-------------|
+| [template-startup-budget.xlsx](template-startup-budget.xlsx) | Itemized startup costs with bootstrap vs. full setup comparison. Includes "minimum viable practice" calculations. |
+| [template-pricing-calculator.xlsx](template-pricing-calculator.xlsx) | Revenue projections based on expenses, income goals, and panel size. Includes tiered pricing example. |
+| [template-monthly-expenses.xlsx](template-monthly-expenses.xlsx) | 12-month expense tracker with budget vs. actual comparison and YTD calculations. |
+| [template-emr-comparison.xlsx](template-emr-comparison.xlsx) | Weighted scoring matrix for comparing EMR options across features, cost, and DPC-specific needs. |
 
-- Startup cost calculator
-- Monthly expense tracker
-- Membership revenue projector
-- Break-even analysis calculator
-- EMR comparison matrix
-- Equipment and supply inventory
-- Patient panel tracker
+### Operations (P2)
+
+| Template | Description |
+|----------|-------------|
+| [template-break-even-analysis.xlsx](template-break-even-analysis.xlsx) | Calculate patients needed to cover expenses and reach income goals. Includes contribution margin analysis. |
+| [template-equipment-inventory.xlsx](template-equipment-inventory.xlsx) | Equipment and supply checklist with have/need tracking and cost totals. |
+| [template-vendor-comparison.xlsx](template-vendor-comparison.xlsx) | Compare labs, medical suppliers, medication wholesalers, and service providers. |
 
 ## Usage Notes
 
-- Most templates are provided in `.xlsx` format for Excel compatibility
-- CSV versions may be available for simpler templates
-- Formulas are included where applicable; review before modifying
-- Customize values in highlighted cells; avoid editing formula cells
+- **Yellow cells** = Enter your values (inputs)
+- **Green cells** = Calculated automatically (formulas)
+- **Blue cells** = Key results
+
+All templates work in:
+- Microsoft Excel
+- Google Sheets (import as .xlsx)
+- LibreOffice Calc
+- Apple Numbers
+
+## Bootstrap Philosophy
+
+These templates support the "stethoscope and smartphone" approach:
+
+- **template-startup-budget.xlsx** shows you can start for under $5,000
+- **template-break-even-analysis.xlsx** helps calculate your minimum viable panel
+- Focus on what you actually need, not what vendors want to sell you
+
+## Quick Start
+
+1. Download the template you need
+2. Open in your preferred spreadsheet application
+3. Enter your values in yellow cells
+4. Review calculated results in green/blue cells
+5. Adjust assumptions and compare scenarios
+
+## Customization
+
+Feel free to:
+- Add rows for your specific expenses/items
+- Modify formulas as needed
+- Create additional tabs for scenarios
+- Delete sections that don't apply
 
 ## Contributing
 
-When adding spreadsheet templates:
-
-1. Use `template-` prefix in filename
-2. Include instructions in a dedicated tab or header row
-3. Highlight cells intended for user input
-4. Protect formula cells if possible
-5. Test all formulas before committing
+Have a useful spreadsheet template? Contributions welcome. See [CONTRIBUTING.md](../../CONTRIBUTING.md).
