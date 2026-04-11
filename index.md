@@ -144,6 +144,12 @@ Legal entities, registration, startup costs, insurance, partnerships, exit plann
 </div>
 
 <div class="card" markdown>
+### :bar_chart: Small Business Fundamentals
+Accounting, bookkeeping, cash flow, taxes, and metrics — the business side of running a practice.
+[Explore →](small-business-fundamentals/README.md)
+</div>
+
+<div class="card" markdown>
 ### :moneybag: Pricing & Membership
 Pricing strategies, membership models, agreements, employer contracts.
 [Explore →](pricing-membership/README.md)

@@ -158,6 +158,17 @@ nav:
     - Working with Attorneys: business-formation/working-with-attorneys.md
     - Tax Planning Basics: business-formation/tax-planning-basics.md
 
+  - Small Business Fundamentals:
+    - Overview: small-business-fundamentals/README.md
+    - Accounting Basics for Physicians: small-business-fundamentals/accounting-basics.md
+    - Business Banking: small-business-fundamentals/business-banking.md
+    - Bookkeeping Setup: small-business-fundamentals/bookkeeping-setup.md
+    - Reading Financial Statements: small-business-fundamentals/reading-financial-statements.md
+    - Cash Flow Management: small-business-fundamentals/cash-flow-management.md
+    - Understanding Business Taxes: small-business-fundamentals/understanding-business-taxes.md
+    - Working with Accountants & Bookkeepers: small-business-fundamentals/working-with-accountants.md
+    - Key Business Metrics: small-business-fundamentals/key-business-metrics.md
+
   - Pricing & Membership:
     - Overview: pricing-membership/README.md
     - Membership Models Comparison: pricing-membership/membership-models-comparison.md
