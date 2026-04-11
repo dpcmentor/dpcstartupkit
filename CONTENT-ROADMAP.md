@@ -36,6 +36,35 @@ This document outlines recommended guides and documents for each section, with s
 
 ---
 
+## Small Business Fundamentals
+
+General small business financial literacy for physician-owners. Practice-agnostic fundamentals: bookkeeping, cash flow, financial statements, taxes, and metrics.
+
+### P1: Foundations
+
+| Document | Description |
+|----------|-------------|
+| `accounting-basics.md` | Core vocabulary: revenue, expenses, profit, assets, liabilities, cash vs. accrual, chart of accounts |
+| `business-banking.md` | Separating personal and business, account setup, tax savings habit |
+| `bookkeeping-setup.md` | Software options (Wave, QuickBooks, Xero), monthly workflow, pitfalls |
+
+### P2: Financial Literacy
+
+| Document | Description |
+|----------|-------------|
+| `reading-financial-statements.md` | P&L, balance sheet, cash flow statement in plain English |
+| `cash-flow-management.md` | Runway, forecasting, managing DPC-specific cash dynamics |
+| `understanding-business-taxes.md` | Self-employment tax, quarterly estimates, deductions, retirement strategy |
+
+### P3: Operating the Business
+
+| Document | Description |
+|----------|-------------|
+| `working-with-accountants.md` | When to hire, how to evaluate CPAs and bookkeepers, relationship management |
+| `key-business-metrics.md` | MRR, panel size, churn, ARPM, margin, runway |
+
+---
+
 ## Pricing and Membership
 
 ### P1: Core Pricing
