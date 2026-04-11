@@ -283,7 +283,7 @@ Pass through at your cost:
 ## Related Guides
 
 - [Lab & Imaging Integration](../technology/lab-imaging-integration.md)
-- [Equipment & Supplies Checklist](equipment-supplies-checklist.md)
+- [Equipment & Supplies Checklist](../operations/equipment-supplies-checklist.md)
 - [Pricing Your Practice](../pricing-membership/pricing-your-practice.md)
 
 ---

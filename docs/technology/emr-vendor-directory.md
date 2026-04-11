@@ -502,7 +502,7 @@ Most EMRs offer migration support (sometimes for a fee). Get data in:
 - [Technology for DPC](../technology/)
 - [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md)
 - [Lab Partners](../resources/lab-partners.md)
-- [Bootstrap Startup Guide](../business-formation/bootstrap-startup-guide.md)
+- [Bootstrap Startup Guide](../bootstrap/bootstrap-startup-guide.md)
 
 ---
 

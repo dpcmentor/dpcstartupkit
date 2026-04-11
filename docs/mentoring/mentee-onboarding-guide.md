@@ -180,7 +180,7 @@ As a mentee, you are expected to:
 
 - [ ] Research DPC basics before your first meeting
 - [ ] Come with specific questions and goals
-- [ ] Review the [DPC Startup Kit](../README.md) materials
+- [ ] Review the [DPC Startup Kit](../index.md) materials
 - [ ] Understand your own timeline and constraints
 
 ### Be Professional
@@ -237,7 +237,7 @@ Malpractice coverage is generally not required for advisory conversations, as no
 
 ### Before Your First Meeting
 
-1. **Do your homework** — Read the [DPC Startup Kit](../README.md) guides relevant to your questions
+1. **Do your homework** — Read the [DPC Startup Kit](../index.md) guides relevant to your questions
 2. **Prepare questions** — Write down specific things you want to learn
 3. **Know your goals** — Be clear about what success looks like for you
 4. **Research your mentor** — Understand their practice and background
@@ -304,7 +304,7 @@ For all other matters — scheduling, logistics, mentorship questions — commun
 
 ## Related Resources
 
-- [DPC Startup Kit](../README.md) — Comprehensive resources for starting a DPC practice
+- [DPC Startup Kit](../index.md) — Comprehensive resources for starting a DPC practice
 - [Mentor Onboarding Guide](mentor-onboarding-guide.md) — For experienced physicians becoming mentors
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md) — Understand the investment
 - [Membership Models Comparison](../pricing-membership/membership-models-comparison.md) — Learn about DPC pricing

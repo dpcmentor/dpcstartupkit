@@ -565,10 +565,10 @@ Example: $5,000 ÷ $100/mo = 50 patients
 
 ## Related Guides
 
-- [Solo Practice Guide](../getting-started/solo-practice-guide.md)
-- [Financial Planning Basics](financial-planning-basics.md)
+- [Minimum Viable Practice](minimum-viable-practice.md)
+- [Low-Tech Toolkit](low-tech-toolkit.md)
 - [Pricing Your Practice](../pricing-membership/pricing-your-practice.md)
-- [Marketing Strategies](../patient-acquisition/marketing-strategies.md)
+- [Small Business Fundamentals](../small-business-fundamentals/README.md)
 
 ---
 

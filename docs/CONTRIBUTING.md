@@ -149,7 +149,7 @@ When adding new content:
 
 ## Document Review Process (Step-by-Step for GitHub Beginners)
 
-All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](REVIEW-STATUS.md).
+All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](https://github.com/jforbush/dpcstartupkit/blob/main/REVIEW-STATUS.md).
 
 ### Before You Start
 

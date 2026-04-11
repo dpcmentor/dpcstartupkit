@@ -222,7 +222,7 @@ For all other matters — scheduling, logistics, interpersonal concerns, clinica
 
 ## Related Resources
 
-- [DPC Startup Kit](../README.md) — Resources for physicians starting DPC practices
+- [DPC Startup Kit](../index.md) — Resources for physicians starting DPC practices
 - [DPC Organizations](../resources/dpc-organizations.md) — Professional organizations and communities
 - [Choosing a Legal Entity](../business-formation/choosing-legal-entity.md) — For mentees exploring practice structures
 

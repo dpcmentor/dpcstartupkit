@@ -369,4 +369,4 @@ Social media ROI is hard to measure directly. View it as one component of overal
 
 After establishing social media presence:
 - [Community Outreach Strategies](community-outreach-strategies.md) - Offline marketing
-- [Patient Referral Programs](patient-referral-programs.md) - Leveraging satisfied patients
+- **Patient Referral Programs** — Leveraging satisfied patients *(planned)*

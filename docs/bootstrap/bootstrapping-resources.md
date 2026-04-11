@@ -405,10 +405,9 @@ Some accept service businesses. Look for:
 
 ## Related Guides
 
-- [Bootstrap Startup Guide](../business-formation/bootstrap-startup-guide.md)
-- [Financial Planning Basics](../business-formation/financial-planning-basics.md)
-- [Solo Practice Guide](../getting-started/solo-practice-guide.md)
-- [Marketing Strategies](../patient-acquisition/marketing-strategies.md)
+- [Bootstrap Startup Guide](bootstrap-startup-guide.md)
+- [Minimum Viable Practice](minimum-viable-practice.md)
+- [Small Business Fundamentals](../small-business-fundamentals/README.md)
 
 ---
 
