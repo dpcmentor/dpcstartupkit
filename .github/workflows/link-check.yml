@@ -1,13 +1,21 @@
-# GitHub Actions workflow to check for broken links in the documentation.
+# GitHub Actions workflow to check links in the documentation.
 #
-# Runs in two modes:
-#   1. On every pull request — catches new broken links before merge.
-#   2. Weekly on a schedule — catches external links that rot over time
-#      (a state medical board moves a page, a bootstrapping blog shuts down,
-#      etc.). If a scheduled run finds problems, it opens a tracking issue.
+# Runs in two modes, each suited to what it can reliably enforce:
 #
-# Uses lychee (https://github.com/lycheeverse/lychee), a fast and reliable
-# link checker with built-in retry, caching, and a GitHub Action wrapper.
+#   1. On every pull request — INTERNAL links only (offline mode).
+#      Fast, zero false positives, catches broken relative links the
+#      author introduced. Blocks merge on failure.
+#
+#   2. Weekly on a schedule — FULL external check.
+#      Catches link rot in state board sites, blog URLs, etc. that
+#      change over time. Does NOT fail the job; instead opens a
+#      tracking issue so maintainers can review and fix.
+#
+# This split exists because PR-time checks should only fail on things
+# the author could reasonably fix. Pre-existing external link rot in
+# unrelated content shouldn't block every future PR.
+#
+# Uses lychee (https://github.com/lycheeverse/lychee).
 
 name: Link Check
 
@@ -25,7 +33,32 @@ permissions:
   issues: write
 
 jobs:
-  link-check:
+  pr-internal-check:
+    name: Internal links (PR)
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run lychee (offline mode, internal links only)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # --offline skips network requests entirely — only relative
+          # links and file references are validated. This is what we
+          # can meaningfully block PRs on.
+          # localhost URLs are intentional documentation examples.
+          args: >-
+            --verbose
+            --no-progress
+            --offline
+            --exclude localhost
+            './**/*.md'
+          fail: true
+
+  scheduled-full-check:
+    name: Full link check (scheduled)
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -38,28 +71,28 @@ jobs:
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
-      - name: Run lychee link checker
+      - name: Run lychee (full external check)
         id: lychee
+        continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
-          # Check all markdown files in the repo. Be forgiving of transient
-          # errors: retry twice and treat 429 / 403 as warnings (common for
-          # rate-limited or bot-blocking sites). Mail links are excluded
-          # by default (lychee's --include-mail defaults to false).
+          # Be forgiving of transient errors from .gov and other
+          # anti-bot sites: retry twice, accept a wide range of
+          # non-200 responses as "probably fine, site is being
+          # defensive." Localhost URLs are excluded (docs examples).
           args: >-
             --verbose
             --no-progress
             --cache
             --max-cache-age 7d
             --max-retries 2
-            --accept 200,204,206,429,403
+            --accept 200,202,204,206,401,403,407,429,500,503
+            --exclude localhost
             './**/*.md'
-          # Fail the job if broken links are found (only matters on PRs;
-          # scheduled runs still create an issue via the next step).
           fail: true
 
-      - name: Open issue on scheduled failure
-        if: failure() && github.event_name == 'schedule'
+      - name: Open issue on failure (scheduled runs only)
+        if: steps.lychee.outcome == 'failure' && github.event_name == 'schedule'
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Weekly link check found broken links
