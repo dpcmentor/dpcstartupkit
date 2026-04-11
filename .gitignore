@@ -1,0 +1,15 @@
+# MkDocs build output
+/site/
+
+# Lychee link-checker cache
+/.lycheecache
+
+# Python venv (local dev)
+/.venv/
+/venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

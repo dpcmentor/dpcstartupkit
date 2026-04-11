@@ -413,4 +413,4 @@ Track responses. This tells you what's working.
 
 After launch:
 - [Community Outreach Strategies](community-outreach-strategies.md) - Ongoing visibility
-- [Patient Referral Programs](patient-referral-programs.md) - Referral systems
+- **Patient Referral Programs** — Referral systems *(planned)*

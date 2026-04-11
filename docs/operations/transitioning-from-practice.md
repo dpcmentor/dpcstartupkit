@@ -148,7 +148,7 @@ If your employer won't modify restrictive covenants:
 
 ### Medicare Opt-Out
 
-If you're opting out of Medicare, this is a separate process from private insurance. See [Medicare Opt-Out Guide](medicare-opt-out-guide.md) for detailed instructions.
+If you're opting out of Medicare, this is a separate process from private insurance. See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for detailed instructions.
 
 ### Staff Considerations
 
@@ -323,7 +323,7 @@ If you currently have hospital call obligations, ensure proper transition of tho
 
 ## Related Resources
 
-- [Medicare Opt-Out Guide](medicare-opt-out-guide.md) — Detailed Medicare opt-out process
+- [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) — Detailed Medicare opt-out process
 - [Choosing a Legal Entity](../business-formation/choosing-legal-entity.md) — Business structure
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md) — Budget planning
 - [Working with Attorneys](../business-formation/working-with-attorneys.md) — Finding legal help

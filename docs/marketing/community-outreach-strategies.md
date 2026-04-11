@@ -373,4 +373,4 @@ As practice fills:
 
 After establishing community presence:
 - [Social Media for DPC](social-media-for-dpc.md) - Online community building
-- [Employer Outreach Guide](employer-outreach-guide.md) - Business relationships
+- **Employer Outreach Guide** — Business relationships *(planned)*

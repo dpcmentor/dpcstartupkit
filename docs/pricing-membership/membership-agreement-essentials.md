@@ -445,7 +445,7 @@ If you will accept Medicare patients:
 
 ## Resources
 
-- [Template Membership Agreement](../templates/documents/template-membership-agreement.pdf)
+- **Template Membership Agreement** *(planned)*
 - [Direct Primary Care Alliance](https://www.dpcare.org/) - Member resources
 - Your state medical board for state-specific requirements
 - Healthcare attorney for legal review
