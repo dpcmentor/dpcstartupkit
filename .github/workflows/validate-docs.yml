@@ -1,0 +1,40 @@
+# GitHub Actions workflow to validate the MkDocs build on pull requests.
+# Runs `mkdocs build --strict` so broken links, missing files, or bad nav
+# entries fail the PR check instead of breaking the deployed site after merge.
+
+name: Validate Documentation Build
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements-docs.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements-docs.txt
+
+      - name: Build documentation (strict mode)
+        run: mkdocs build --strict
