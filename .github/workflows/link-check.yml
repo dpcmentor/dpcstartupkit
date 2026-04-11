@@ -1,0 +1,103 @@
+# GitHub Actions workflow to check links in the documentation.
+#
+# Runs in two modes, each suited to what it can reliably enforce:
+#
+#   1. On every pull request — INTERNAL links only (offline mode).
+#      Fast, zero false positives, catches broken relative links the
+#      author introduced. Blocks merge on failure.
+#
+#   2. Weekly on a schedule — FULL external check.
+#      Catches link rot in state board sites, blog URLs, etc. that
+#      change over time. Does NOT fail the job; instead opens a
+#      tracking issue so maintainers can review and fix.
+#
+# This split exists because PR-time checks should only fail on things
+# the author could reasonably fix. Pre-existing external link rot in
+# unrelated content shouldn't block every future PR.
+#
+# Uses lychee (https://github.com/lycheeverse/lychee).
+
+name: Link Check
+
+on:
+  pull_request:
+    branches:
+      - main
+  schedule:
+    # Every Monday at 12:00 UTC
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  pr-internal-check:
+    name: Internal links (PR)
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run lychee (offline mode, internal links only)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # --offline skips network requests entirely — only relative
+          # links and file references are validated. This is what we
+          # can meaningfully block PRs on.
+          # localhost URLs are intentional documentation examples.
+          args: >-
+            --verbose
+            --no-progress
+            --offline
+            --exclude localhost
+            './**/*.md'
+          fail: true
+
+  scheduled-full-check:
+    name: Full link check (scheduled)
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee (full external check)
+        id: lychee
+        continue-on-error: true
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Be forgiving of transient errors from .gov and other
+          # anti-bot sites: retry twice, accept a wide range of
+          # non-200 responses as "probably fine, site is being
+          # defensive." Localhost URLs are excluded (docs examples).
+          args: >-
+            --verbose
+            --no-progress
+            --cache
+            --max-cache-age 7d
+            --max-retries 2
+            --accept 200,202,204,206,401,403,407,429,500,503
+            --exclude localhost
+            './**/*.md'
+          fail: true
+
+      - name: Open issue on failure (scheduled runs only)
+        if: steps.lychee.outcome == 'failure' && github.event_name == 'schedule'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Weekly link check found broken links
+          content-filepath: ./lychee/out.md
+          labels: |
+            documentation
+            link-rot
+            automated
