@@ -43,8 +43,9 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           # Check all markdown files in the repo. Be forgiving of transient
-          # errors: retry twice, treat 429 / 403 as warnings (common for
-          # rate-limited sites), and skip mailto links.
+          # errors: retry twice and treat 429 / 403 as warnings (common for
+          # rate-limited or bot-blocking sites). Mail links are excluded
+          # by default (lychee's --include-mail defaults to false).
           args: >-
             --verbose
             --no-progress
@@ -52,7 +53,6 @@ jobs:
             --max-cache-age 7d
             --max-retries 2
             --accept 200,204,206,429,403
-            --exclude-mail
             './**/*.md'
           # Fail the job if broken links are found (only matters on PRs;
           # scheduled runs still create an issue via the next step).
