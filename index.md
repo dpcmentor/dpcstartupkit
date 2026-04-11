@@ -6,7 +6,7 @@
 
 **Start with what you have. Add what you need.**
 
-Real guidance from docs who started with nothing.
+Real guidance from docs who started with nothing — or less than nothing.
 
 <div class="hero-badges" markdown>
 
