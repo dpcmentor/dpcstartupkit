@@ -1,14 +1,14 @@
 # MkDocs configuration for DPC Startup Kit
-# GitHub Pages: https://[username].github.io/dpcstartupkit/
+# GitHub Pages: https://dpcmentor.github.io/dpcstartupkit/
 
 site_name: DPC Startup Kit
 site_description: A comprehensive resource collection for physicians launching Direct Primary Care practices
 site_author: DPC Physicians
-site_url: https://jforbush.github.io/dpcstartupkit/
+site_url: https://dpcmentor.github.io/dpcstartupkit/
 
 # Repository
-repo_name: jforbush/dpcstartupkit
-repo_url: https://github.com/jforbush/dpcstartupkit
+repo_name: dpcmentor/dpcstartupkit
+repo_url: https://github.com/dpcmentor/dpcstartupkit
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -118,7 +118,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/jforbush/dpcstartupkit
+      link: https://github.com/dpcmentor/dpcstartupkit
 
   # Analytics (uncomment and configure when ready)
   # analytics:

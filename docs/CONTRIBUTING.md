@@ -149,7 +149,7 @@ When adding new content:
 
 ## Document Review Process (Step-by-Step for GitHub Beginners)
 
-All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](https://github.com/jforbush/dpcstartupkit/blob/main/REVIEW-STATUS.md).
+All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md).
 
 ### Before You Start
 
@@ -159,7 +159,7 @@ You'll need:
 
 ### Step 1: Claim a Document to Review
 
-1. Go to the repository: https://github.com/jforbush/dpcstartupkit
+1. Go to the repository: https://github.com/dpcmentor/dpcstartupkit
 2. Click on **REVIEW-STATUS.md** to open it
 3. Find a document marked "Not Reviewed" that you want to review
 4. Click the **pencil icon** (top right of the file content) to edit
