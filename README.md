@@ -49,7 +49,7 @@ Most startup guides assume you have $50,000 and six months to prepare. This kit 
 
 ## For contributors
 
-- **Found an error?** [Open an issue](https://github.com/jforbush/dpcstartupkit/issues) or submit a pull request
+- **Found an error?** [Open an issue](https://github.com/dpcmentor/dpcstartupkit/issues) or submit a pull request
 - **Want to contribute content?** See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md)
 - **Review status** is tracked in [`REVIEW-STATUS.md`](REVIEW-STATUS.md)
 - **Planned content** is listed in [`CONTENT-ROADMAP.md`](CONTENT-ROADMAP.md)
