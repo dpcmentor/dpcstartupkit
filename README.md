@@ -3,7 +3,7 @@
 **A comprehensive resource collection for physicians launching Direct Primary Care practices.**
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Maintained: Yes](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/jforbush/dpcstartupkit)
+[![Maintained: Yes](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/dpcmentor/dpcstartupkit)
 [![DPC Mentor Platform](https://img.shields.io/badge/Companion-DPC%20Mentor%20Platform-blue.svg)](https://dpcmentor.com/)
 
 *Built by DPC physicians, for DPC physicians.*
@@ -14,7 +14,7 @@
 
 **The full DPC Startup Kit is published as a website:**
 
-### → [jforbush.github.io/dpcstartupkit](https://jforbush.github.io/dpcstartupkit/)
+### → [dpcmentor.github.io/dpcstartupkit](https://dpcmentor.github.io/dpcstartupkit/)
 
 The site is searchable, organized by topic, and covers everything from bootstrap-first launch checklists to state-by-state DPC legislation. If you're new to DPC or starting a practice, begin there.
 
