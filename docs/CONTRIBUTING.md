@@ -84,7 +84,7 @@ Guidelines for when to use it:
 - **Keep item labels short and action-oriented.** Editing an item's text later will reset any reader's saved state for that specific item (the label text is used to identify the checkbox). Small typo fixes are fine; large rewrites will appear as "unchecked" to returning readers
 - `- [ ]` items inside fenced code blocks (like the example above) are **not** activated — MkDocs correctly skips them
 
-See [`ARCHITECTURE.md`](../ARCHITECTURE.md) at the repo root for the implementation details, design decisions, and how to debug the feature.
+See [`ARCHITECTURE.md`](https://github.com/dpcmentor/dpcstartupkit/blob/main/ARCHITECTURE.md) at the repo root for the implementation details, design decisions, and how to debug the feature.
 
 ### Templates
 
