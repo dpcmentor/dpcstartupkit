@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # DPC Startup Kit
 
 <div class="hero-section" markdown>
@@ -91,14 +95,14 @@ This resource serves as the knowledge base for the **DPC Mentor Platform**, conn
 
 ### :zap: Bootstrap Quick Start (First Patient in 7 Days)
 
-| Day | Action | Guide |
-|-----|--------|-------|
-| 1-2 | File LLC, get EIN | [Minimum Viable Practice](bootstrap/minimum-viable-practice.md) |
-| 3 | Malpractice insurance | [Professional Liability Guide](business-formation/professional-liability-guide.md) |
-| 4 | Phone, messaging, video setup | [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md) |
-| 5 | One-page website, Google Business | [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md) |
-| 6 | Basic equipment, home office | [Minimum Viable Practice](bootstrap/minimum-viable-practice.md) |
-| 7 | Tell everyone, sign first patient | You're open |
+Tick off each day as you go — your progress is saved in your browser.
+
+- [ ] **Day 1–2:** File LLC, get EIN — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
+- [ ] **Day 3:** Malpractice insurance — see [Professional Liability Guide](business-formation/professional-liability-guide.md)
+- [ ] **Day 4:** Phone, messaging, video setup — see [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md)
+- [ ] **Day 5:** One-page website, Google Business Profile — see [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md)
+- [ ] **Day 6:** Basic equipment, home office — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
+- [ ] **Day 7:** Tell everyone, sign first patient — you're open
 
 **Total cost: $1,500-3,000. Break-even: 3-10 patients.**
 
