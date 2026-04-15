@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # Patient Onboarding Workflow
 
 ## Overview
