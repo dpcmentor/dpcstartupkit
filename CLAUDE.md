@@ -346,5 +346,43 @@ time, not six months later.
 
 ---
 
+## Branding and CSS conventions
+
+Added 2026-04-15 in Phase 2 branding pass.
+
+**Palette.** Forest green `#2d6a4f` (primary) with gold `#f4a261` (accent).
+Dark mode background `#1a1a2e`. Header `#1b4332`. These live as CSS
+variables in `docs/stylesheets/extra.css` and are wired through the
+MkDocs Material `primary: custom` / `accent: custom` palette hooks.
+
+**Font.** Sora (Google Fonts) for body and headings, JetBrains Mono for
+code. The Sora import is inside `extra.css` so a single file change
+propagates the whole branding.
+
+**Where custom styles live.**
+
+- `docs/stylesheets/extra.css` — branding, color variables, header,
+  nav, H1/H2/H3, admonitions, links, footer, tables, mobile.
+- `docs/assets/stylesheets/custom.css` — earlier content styles,
+  loaded after `extra.css`.
+- `docs/assets/stylesheets/checklists.css` — interactive checklists.
+- `overrides/main.html` — Jinja override that injects the
+  `dpckit-interactive-marker` div when a page has
+  `interactive_checklist: true` front-matter. Required by
+  `docs/assets/javascripts/checklists.js`. **Do not delete** — it's
+  why `custom_dir: overrides` points where it does.
+
+**Rules.**
+
+- Append to `extra.css`, don't rewrite it. Color variables and the
+  Sora import must stay at the top so later rules can reference them.
+- **Never inline styles in md files.** Use a utility class in
+  `extra.css` instead — inline styles break dark mode and are
+  invisible to search/replace.
+- New color or font choices get added as CSS variables in `:root`
+  so the dark-mode block can override them in one place.
+
+---
+
 *This file is maintained alongside the codebase. Update it when
 conventions change — don't let it drift.*
