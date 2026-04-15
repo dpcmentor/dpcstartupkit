@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # Business Registration Checklist
 
 ## Overview
