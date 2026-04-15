@@ -1,0 +1,164 @@
+/* ============================================================
+   DPC Startup Kit — Custom Theme
+   Matches DPC Mentor Platform branding (dpcmentor.com)
+   ============================================================ */
+
+/* Import Sora font */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap');
+
+/* ── Color overrides ── */
+:root {
+  --md-primary-fg-color: #2d6a4f;
+  --md-primary-fg-color--light: #40916c;
+  --md-primary-fg-color--dark: #1b4332;
+  --md-accent-fg-color: #f4a261;
+  --md-accent-fg-color--transparent: rgba(244,162,97,0.1);
+}
+
+/* Dark mode overrides */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1a1a2e;
+  --md-default-bg-color--light: #16213e;
+  --md-default-bg-color--lighter: #0f3460;
+  --md-default-bg-color--lightest: #1a1a2e;
+  --md-primary-fg-color: #2d6a4f;
+  --md-accent-fg-color: #f4a261;
+}
+
+/* ── Typography ── */
+:root {
+  --md-text-font: "Sora", sans-serif;
+}
+
+body {
+  font-family: "Sora", sans-serif;
+}
+
+/* ── Header ── */
+.md-header {
+  background-color: #1b4332;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.md-header__title {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ── Navigation tabs ── */
+.md-tabs {
+  background-color: #2d6a4f;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #f4a261;
+}
+
+/* ── Sidebar ── */
+.md-nav__title {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+  color: #2d6a4f;
+}
+
+.md-nav__link--active {
+  color: #2d6a4f;
+  font-weight: 600;
+}
+
+/* ── Content ── */
+.md-content h1 {
+  font-family: "Sora", sans-serif;
+  font-weight: 700;
+  color: #2d6a4f;
+  letter-spacing: -0.02em;
+}
+
+.md-content h2 {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+  color: #2d6a4f;
+  border-bottom: 2px solid #f4a261;
+  padding-bottom: 0.3em;
+}
+
+.md-content h3 {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+  color: #40916c;
+}
+
+/* ── Admonitions ── */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-color: #2d6a4f;
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-left-color: #f4a261;
+}
+
+/* ── Links ── */
+.md-typeset a {
+  color: #2d6a4f;
+}
+
+.md-typeset a:hover {
+  color: #f4a261;
+}
+
+/* ── Footer ── */
+.md-footer {
+  background-color: #1b4332;
+}
+
+.md-footer-meta {
+  background-color: #152e22;
+}
+
+/* ── Search ── */
+.md-search__form {
+  background-color: rgba(255,255,255,0.1);
+}
+
+/* ── Code blocks ── */
+.md-typeset code {
+  background-color: rgba(45,106,79,0.1);
+  color: #1b4332;
+}
+
+[data-md-color-scheme="slate"] .md-typeset code {
+  background-color: rgba(45,106,79,0.2);
+  color: #95d5b2;
+}
+
+/* ── Tables ── */
+.md-typeset table:not([class]) th {
+  background-color: #2d6a4f;
+  color: white;
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background-color: rgba(45,106,79,0.05);
+}
+
+/* ── Task lists ── */
+.md-typeset .task-list-indicator::before {
+  background-color: #2d6a4f;
+}
+
+/* ── Repo link in header ── */
+.md-header__source {
+  color: rgba(255,255,255,0.8);
+}
+
+/* ── Mobile improvements ── */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title {
+    background-color: #1b4332;
+    color: white;
+  }
+}

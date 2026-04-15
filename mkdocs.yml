@@ -30,8 +30,8 @@ theme:
     # Dark mode (default)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: cyan
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -39,8 +39,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: cyan
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -63,7 +63,7 @@ theme:
 
   # Custom fonts
   font:
-    text: Inter
+    text: Sora
     code: JetBrains Mono
 
   # Icons
@@ -119,8 +119,12 @@ markdown_extensions:
 # Extra configuration
 extra:
   social:
+    - icon: fontawesome/solid/house-medical
+      link: https://dpcmentor.com
+      name: DPC Mentor Platform
     - icon: fontawesome/brands/github
       link: https://github.com/dpcmentor/dpcstartupkit
+      name: GitHub
 
   # Analytics (uncomment and configure when ready)
   # analytics:
@@ -131,6 +135,7 @@ extra:
 
 # Custom CSS
 extra_css:
+  - stylesheets/extra.css
   - assets/stylesheets/custom.css
   - assets/stylesheets/checklists.css
 
