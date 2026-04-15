@@ -55,6 +55,37 @@ Format checklists using GitHub-flavored markdown:
 - [ ] Third action item
 ```
 
+#### Making a checklist page interactive
+
+A page can opt into **interactive** checklists — where readers can tick boxes and have that state persist across visits — by adding a single front-matter flag at the very top of the file:
+
+```markdown
+---
+interactive_checklist: true
+---
+
+# My Checklist
+
+- [ ] First action item
+- [ ] Second action item
+```
+
+When this flag is set:
+
+- Every `- [ ]` task-list item on the page becomes a real, tickable checkbox
+- A progress bar and a "Reset this page" button are automatically added at the top of the content
+- Checked state is saved to the reader's browser (localStorage) — never transmitted, never seen by anyone else, including the maintainers
+- The feature works on mobile with large touch targets and survives into the browser's print view
+
+Guidelines for when to use it:
+
+- **Do** use it on pages that are *actionable checklists* — bootstrap steps, business registration, equipment lists, patient onboarding workflows, pre-launch checklists
+- **Don't** use it on general reference or informational pages — even ones that happen to contain a `- [ ]` list inside an example
+- **Keep item labels short and action-oriented.** Editing an item's text later will reset any reader's saved state for that specific item (the label text is used to identify the checkbox). Small typo fixes are fine; large rewrites will appear as "unchecked" to returning readers
+- `- [ ]` items inside fenced code blocks (like the example above) are **not** activated — MkDocs correctly skips them
+
+See [`ARCHITECTURE.md`](../ARCHITECTURE.md) at the repo root for the implementation details, design decisions, and how to debug the feature.
+
 ### Templates
 
 - Store spreadsheet templates in `/templates/spreadsheets/`
