@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # Bootstrap Startup Guide for DPC
 
 > **Quick Summary:** You don't need $50,000 to start a DPC practice. With the right approach, $5,000-10,000 and a lot of hustle can get you seeing patients. This guide borrows proven bootstrap strategies from startup culture and applies them to medicine.
