@@ -6,7 +6,7 @@ it only lives in the repo to orient future sessions.
 
 If you are a new Claude Code session opening this repo: **read this file
 first**, then check open issues at
-[`/issues`](https://github.com/jforbush/dpcstartupkit/issues).
+[`/issues`](https://github.com/dpcmentor/dpcstartupkit/issues).
 
 ---
 
@@ -15,7 +15,7 @@ first**, then check open issues at
 The **DPC Startup Kit** — a comprehensive educational resource for
 physicians launching Direct Primary Care practices. Content-only,
 no application code. Published as a static site via MkDocs Material
-at [jforbush.github.io/dpcstartupkit](https://jforbush.github.io/dpcstartupkit/).
+at [dpcmentor.github.io/dpcstartupkit](https://dpcmentor.github.io/dpcstartupkit/).
 
 Built and maintained by experienced DPC physicians. Used as the
 knowledge base for the **DPC Mentor Platform**
@@ -227,7 +227,7 @@ This is the system of record. Don't reinvent it.
 
 | Tool | Purpose | Where |
 |---|---|---|
-| **GitHub Issues** | Bugs, features, link rot, anything actionable | [`/issues`](https://github.com/jforbush/dpcstartupkit/issues) |
+| **GitHub Issues** | Bugs, features, link rot, anything actionable | [`/issues`](https://github.com/dpcmentor/dpcstartupkit/issues) |
 | **`REVIEW-STATUS.md`** | Per-guide human review progress (134 docs, status per document) | Repo root |
 | **`CONTENT-ROADMAP.md`** | Planned-but-unwritten content, P1/P2/P3 priority | Repo root |
 | **`NOTES.md`** | Free-form scratchpad for half-formed ideas | Repo root |
@@ -338,8 +338,8 @@ time, not six months later.
 | Build site locally | `mkdocs build --strict` |
 | Serve locally | `mkdocs serve` |
 | Check internal links | `lychee --offline --exclude localhost './**/*.md'` |
-| Open an issue | [`/issues/new`](https://github.com/jforbush/dpcstartupkit/issues/new) |
-| See what's in flight | [`/issues`](https://github.com/jforbush/dpcstartupkit/issues) |
+| Open an issue | [`/issues/new`](https://github.com/dpcmentor/dpcstartupkit/issues/new) |
+| See what's in flight | [`/issues`](https://github.com/dpcmentor/dpcstartupkit/issues) |
 | Scratchpad | `NOTES.md` |
 | Review tracker | `REVIEW-STATUS.md` |
 | Planned content | `CONTENT-ROADMAP.md` |

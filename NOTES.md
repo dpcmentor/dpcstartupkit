@@ -40,7 +40,7 @@ you want, but it's not required.*
 short tombstone here so you can see what moved out and where it went.*
 
 <!-- Example entry:
-- 2026-04-11 — "State board URLs are rotting" → [#9](https://github.com/jforbush/dpcstartupkit/issues/9)
+- 2026-04-11 — "State board URLs are rotting" → [#9](https://github.com/dpcmentor/dpcstartupkit/issues/9)
 -->
 
 ---
