@@ -1,0 +1,145 @@
+/*
+ * Interactive Checklists — Tier 1 styles
+ *
+ * Companion to docs/assets/javascripts/checklists.js.
+ * See ARCHITECTURE.md for the feature design.
+ *
+ * Scope:
+ *   - Enlarges task-list checkbox hit targets (mobile WCAG ≥ 44×44 px)
+ *   - Styles the injected progress bar, reset button, and privacy note
+ *   - Preserves checked state visibility in print view
+ */
+
+/* ----- Checkbox hit targets (applies on all pages with task lists) ----- */
+
+.md-content__inner ul.task-list li.task-list-item {
+  position: relative;
+  padding: 0.35rem 0;
+}
+
+.md-content__inner ul.task-list li.task-list-item input[type="checkbox"] {
+  width: 1.35rem;
+  height: 1.35rem;
+  min-width: 1.35rem;
+  min-height: 1.35rem;
+  margin-right: 0.55rem;
+  cursor: pointer;
+  vertical-align: middle;
+  accent-color: var(--md-primary-fg-color, teal);
+}
+
+@media (pointer: coarse) {
+  .md-content__inner ul.task-list li.task-list-item {
+    padding-top: 0.65rem;
+    padding-bottom: 0.65rem;
+  }
+  .md-content__inner ul.task-list li.task-list-item input[type="checkbox"] {
+    width: 1.6rem;
+    height: 1.6rem;
+    min-width: 1.6rem;
+    min-height: 1.6rem;
+  }
+}
+
+/* Checked item dims & strikes through (visual feedback) */
+.md-content__inner ul.task-list li.task-list-item.dpckit-checked > *:not(input) {
+  opacity: 0.6;
+  text-decoration: line-through;
+  text-decoration-color: var(--md-default-fg-color--light, #999);
+}
+
+/* ----- Injected progress UI (only present on interactive pages) ----- */
+
+.dpckit-progress-wrap {
+  margin: 0 0 1.5rem 0;
+  padding: 0.85rem 1rem;
+  background: var(--md-code-bg-color, #f6f8fa);
+  border-left: 4px solid var(--md-primary-fg-color, teal);
+  border-radius: 0.2rem;
+}
+
+.dpckit-progress-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.55rem;
+}
+
+.dpckit-progress-label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color, inherit);
+}
+
+.dpckit-count {
+  color: var(--md-primary-fg-color, teal);
+}
+
+.dpckit-reset {
+  appearance: none;
+  border: 1px solid var(--md-default-fg-color--lighter, #ccc);
+  background: transparent;
+  color: var(--md-default-fg-color, inherit);
+  padding: 0.3rem 0.75rem;
+  font-size: 0.78rem;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  line-height: 1.2;
+  min-height: 2rem;
+}
+
+.dpckit-reset:hover {
+  background: var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.04));
+}
+
+.dpckit-reset:focus-visible {
+  outline: 2px solid var(--md-primary-fg-color, teal);
+  outline-offset: 2px;
+}
+
+.dpckit-progress-bar {
+  width: 100%;
+  height: 6px;
+  background: var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.08));
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.dpckit-progress-fill {
+  height: 100%;
+  background: var(--md-primary-fg-color, teal);
+  transition: width 180ms ease-out;
+}
+
+.dpckit-privacy-note {
+  margin: 0.55rem 0 0 0;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light, #6b6b6b);
+  font-style: italic;
+}
+
+/* Hidden theme marker element should never render */
+.dpckit-interactive-marker {
+  display: none !important;
+}
+
+/* ----- Print view ----- */
+
+@media print {
+  .dpckit-reset {
+    display: none;
+  }
+  .dpckit-progress-wrap {
+    break-inside: avoid;
+    background: transparent !important;
+  }
+  .md-content__inner ul.task-list li.task-list-item input[type="checkbox"] {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .md-content__inner ul.task-list li.task-list-item.dpckit-checked > *:not(input) {
+    opacity: 1;
+  }
+}
