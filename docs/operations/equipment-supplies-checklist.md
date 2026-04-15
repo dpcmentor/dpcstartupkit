@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # Equipment and Supplies Checklist
 
 ## Overview
