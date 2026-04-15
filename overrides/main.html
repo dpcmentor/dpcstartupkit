@@ -1,0 +1,24 @@
+{#-
+  Interactive Checklists (Tier 1) — theme override
+
+  This file extends the MkDocs Material base template. Its ONLY purpose is to
+  inject a hidden marker element on pages whose front-matter declares
+  `interactive_checklist: true`, so that docs/assets/javascripts/checklists.js
+  knows whether to activate the interactive checklist UI on the current page.
+
+  Opt-in contract:
+    ---
+    interactive_checklist: true
+    ---
+
+  See ARCHITECTURE.md → "Interactive Checklists (Tier 1)" for the full
+  rationale, alternatives considered, and migration path to Tier 2+.
+-#}
+{% extends "base.html" %}
+
+{% block content %}
+  {% if page and page.meta and page.meta.interactive_checklist %}
+  <div class="dpckit-interactive-marker" hidden data-dpckit-enabled="true"></div>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
