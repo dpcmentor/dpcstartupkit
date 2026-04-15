@@ -1,3 +1,7 @@
+---
+interactive_checklist: true
+---
+
 # The Minimum Viable Practice
 
 > **Quick Summary:** This is everything you need to legally see your first DPC patient. Not everything you'll eventually want. Everything you *need*. Complete this checklist and start.
