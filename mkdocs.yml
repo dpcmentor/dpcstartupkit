@@ -19,6 +19,7 @@ copyright: >
 # Theme configuration
 theme:
   name: material
+  custom_dir: overrides
 
   # Logo and favicon (placeholder paths - replace when assets available)
   logo: assets/logo-placeholder.svg
@@ -84,6 +85,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - meta
   - toc:
       permalink: true
       toc_depth: 3
@@ -130,6 +132,11 @@ extra:
 # Custom CSS
 extra_css:
   - assets/stylesheets/custom.css
+  - assets/stylesheets/checklists.css
+
+# Custom JavaScript
+extra_javascript:
+  - assets/javascripts/checklists.js
 
 # Navigation structure
 nav:
