@@ -169,71 +169,71 @@ All 50 state guides require review. Each includes:
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [colorado.md](docs/states/colorado.md) | Not Reviewed | | | Medicaid restriction noted |
-| [florida.md](docs/states/florida.md) | Not Reviewed | | | Large Medicare population |
-| [georgia.md](docs/states/georgia.md) | Not Reviewed | | | |
-| [kentucky.md](docs/states/kentucky.md) | Not Reviewed | | | |
-| [maine.md](docs/states/maine.md) | Not Reviewed | | | |
-| [tennessee.md](docs/states/tennessee.md) | Not Reviewed | | | |
-| [wyoming.md](docs/states/wyoming.md) | Not Reviewed | | | Pioneer DPC legislation |
+| [colorado.md](docs/states/colorado.md) | Reviewed | JF | 06/15/2026 | Medicaid restriction noted |
+| [florida.md](docs/states/florida.md) | Reviewed | JF | 06/15/2026 | Large Medicare population |
+| [georgia.md](docs/states/georgia.md) | Reviewed | JF | 06/15/2026 | |
+| [kentucky.md](docs/states/kentucky.md) | Reviewed | JF | 06/15/2026 | |
+| [maine.md](docs/states/maine.md) | Reviewed | JF | 06/15/2026 | |
+| [tennessee.md](docs/states/tennessee.md) | Reviewed | JF | 06/15/2026 | |
+| [wyoming.md](docs/states/wyoming.md) | Reviewed | JF | 06/15/2026 | Pioneer DPC legislation |
 
 ### Tier 2: Moderate
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [arizona.md](docs/states/arizona.md) | Not Reviewed | | | |
-| [arkansas.md](docs/states/arkansas.md) | Not Reviewed | | | |
-| [indiana.md](docs/states/indiana.md) | Not Reviewed | | | |
-| [kansas.md](docs/states/kansas.md) | Not Reviewed | | | |
-| [louisiana.md](docs/states/louisiana.md) | Not Reviewed | | | Civil law system |
-| [michigan.md](docs/states/michigan.md) | Not Reviewed | | | |
-| [mississippi.md](docs/states/mississippi.md) | Not Reviewed | | | |
-| [missouri.md](docs/states/missouri.md) | Not Reviewed | | | |
-| [north-carolina.md](docs/states/north-carolina.md) | Not Reviewed | | | |
-| [ohio.md](docs/states/ohio.md) | Not Reviewed | | | TDDD license required |
-| [oklahoma.md](docs/states/oklahoma.md) | Not Reviewed | | | |
-| [oregon.md](docs/states/oregon.md) | Not Reviewed | | | |
-| [texas.md](docs/states/texas.md) | Not Reviewed | | | Largest DPC market |
-| [utah.md](docs/states/utah.md) | Not Reviewed | | | |
-| [virginia.md](docs/states/virginia.md) | Not Reviewed | | | Federal employee considerations |
-| [washington.md](docs/states/washington.md) | Not Reviewed | | | |
-| [west-virginia.md](docs/states/west-virginia.md) | Not Reviewed | | | Opioid regulations |
+| [arizona.md](docs/states/arizona.md) | Reviewed | JF | 06/15/2026 | |
+| [arkansas.md](docs/states/arkansas.md) | Reviewed | JF | 06/15/2026 | |
+| [indiana.md](docs/states/indiana.md) | Reviewed | JF | 06/15/2026 | |
+| [kansas.md](docs/states/kansas.md) | Reviewed | JF | 06/15/2026 | |
+| [louisiana.md](docs/states/louisiana.md) | Reviewed | JF | 06/15/2026 | Civil law system |
+| [michigan.md](docs/states/michigan.md) | Reviewed | JF | 06/15/2026 | |
+| [mississippi.md](docs/states/mississippi.md) | Reviewed | JF | 06/15/2026 | |
+| [missouri.md](docs/states/missouri.md) | Reviewed | JF | 06/15/2026 | |
+| [north-carolina.md](docs/states/north-carolina.md) | Reviewed | JF | 06/15/2026 | |
+| [ohio.md](docs/states/ohio.md) | Reviewed | JF | 06/15/2026 | TDDD license required |
+| [oklahoma.md](docs/states/oklahoma.md) | Reviewed | JF | 06/15/2026 | |
+| [oregon.md](docs/states/oregon.md) | Reviewed | JF | 06/15/2026 | |
+| [texas.md](docs/states/texas.md) | Reviewed | JF | 06/15/2026 | Largest DPC market |
+| [utah.md](docs/states/utah.md) | Reviewed | JF | 06/15/2026 | |
+| [virginia.md](docs/states/virginia.md) | Reviewed | JF | 06/15/2026 | Federal employee considerations |
+| [washington.md](docs/states/washington.md) | Reviewed | JF | 06/15/2026 | |
+| [west-virginia.md](docs/states/west-virginia.md) | Reviewed | JF | 06/15/2026 | Opioid regulations |
 
 ### Tier 3: Challenging (with DPC legislation)
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [idaho.md](docs/states/idaho.md) | Not Reviewed | | | May warrant Tier 2 |
-| [iowa.md](docs/states/iowa.md) | Not Reviewed | | | May warrant Tier 2 |
-| [minnesota.md](docs/states/minnesota.md) | Not Reviewed | | | May warrant Tier 2 |
-| [montana.md](docs/states/montana.md) | Not Reviewed | | | May warrant Tier 2 |
-| [nebraska.md](docs/states/nebraska.md) | Not Reviewed | | | May warrant Tier 2 |
-| [nevada.md](docs/states/nevada.md) | Not Reviewed | | | May warrant Tier 2 |
-| [new-hampshire.md](docs/states/new-hampshire.md) | Not Reviewed | | | May warrant Tier 2 |
-| [new-mexico.md](docs/states/new-mexico.md) | Not Reviewed | | | May warrant Tier 2 |
-| [north-dakota.md](docs/states/north-dakota.md) | Not Reviewed | | | May warrant Tier 2 |
-| [south-carolina.md](docs/states/south-carolina.md) | Not Reviewed | | | May warrant Tier 2 |
-| [south-dakota.md](docs/states/south-dakota.md) | Not Reviewed | | | May warrant Tier 2 |
-| [wisconsin.md](docs/states/wisconsin.md) | Not Reviewed | | | May warrant Tier 2 |
+| [idaho.md](docs/states/idaho.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [iowa.md](docs/states/iowa.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [minnesota.md](docs/states/minnesota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [montana.md](docs/states/montana.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [nebraska.md](docs/states/nebraska.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [nevada.md](docs/states/nevada.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [new-hampshire.md](docs/states/new-hampshire.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [new-mexico.md](docs/states/new-mexico.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [north-dakota.md](docs/states/north-dakota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [south-carolina.md](docs/states/south-carolina.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [south-dakota.md](docs/states/south-dakota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [wisconsin.md](docs/states/wisconsin.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
 
 ### Tier 3: Challenging (no explicit DPC legislation)
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [alabama.md](docs/states/alabama.md) | Not Reviewed | | | Attorney consultation essential |
-| [alaska.md](docs/states/alaska.md) | Not Reviewed | | | Unique geography |
-| [california.md](docs/states/california.md) | Not Reviewed | | | Complex regulations |
-| [connecticut.md](docs/states/connecticut.md) | Not Reviewed | | | Dispensing restricted |
-| [delaware.md](docs/states/delaware.md) | Not Reviewed | | | Small market |
-| [hawaii.md](docs/states/hawaii.md) | Not Reviewed | | | Island logistics |
-| [illinois.md](docs/states/illinois.md) | Not Reviewed | | | Dispensing restricted |
-| [maryland.md](docs/states/maryland.md) | Not Reviewed | | | DC suburbs |
-| [massachusetts.md](docs/states/massachusetts.md) | Not Reviewed | | | Dispensing restricted |
-| [new-jersey.md](docs/states/new-jersey.md) | Not Reviewed | | | Dispensing restricted |
-| [new-york.md](docs/states/new-york.md) | Not Reviewed | | | Complex regulations |
-| [pennsylvania.md](docs/states/pennsylvania.md) | Not Reviewed | | | Large market |
-| [rhode-island.md](docs/states/rhode-island.md) | Not Reviewed | | | Dispensing restricted |
-| [vermont.md](docs/states/vermont.md) | Not Reviewed | | | Dispensing restricted |
+| [alabama.md](docs/states/alabama.md) | Reviewed | JF | 06/15/2026 | Attorney consultation essential |
+| [alaska.md](docs/states/alaska.md) | Reviewed | JF | 06/15/2026 | Unique geography |
+| [california.md](docs/states/california.md) | Reviewed | JF | 06/15/2026 | Complex regulations |
+| [connecticut.md](docs/states/connecticut.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [delaware.md](docs/states/delaware.md) | Reviewed | JF | 06/15/2026 | Small market |
+| [hawaii.md](docs/states/hawaii.md) | Reviewed | JF | 06/15/2026 | Island logistics |
+| [illinois.md](docs/states/illinois.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [maryland.md](docs/states/maryland.md) | Reviewed | JF | 06/15/2026 | DC suburbs |
+| [massachusetts.md](docs/states/massachusetts.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [new-jersey.md](docs/states/new-jersey.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [new-york.md](docs/states/new-york.md) | Reviewed | JF | 06/15/2026 | Complex regulations |
+| [pennsylvania.md](docs/states/pennsylvania.md) | Reviewed | JF | 06/15/2026 | Large market |
+| [rhode-island.md](docs/states/rhode-island.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [vermont.md](docs/states/vermont.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
 
 ## Root Documents
 
@@ -251,19 +251,19 @@ All 50 state guides require review. Each includes:
 
 | Section | Total | Reviewed | Pending |
 |---------|-------|----------|---------|
-| Bootstrap | 6 | 0 | 6 |
+| Bootstrap | 6 | 5 | 1 |
 | Business Formation | 9 | 0 | 9 |
 | Small Business Fundamentals | 9 | 0 | 9 |
 | Pricing & Membership | 7 | 0 | 7 |
-| Technology | 8 | 0 | 8 |
+| Technology | 8 | 2 | 6 |
 | Marketing | 6 | 0 | 6 |
 | Compliance & Legal | 10 | 0 | 10 |
 | Operations | 12 | 0 | 12 |
 | Resources | 9 | 0 | 9 |
 | Mentoring | 2 | 0 | 2 |
 | Templates (Docs) | 1 | 0 | 1 |
-| State Guides | 50 | 0 | 50 |
+| State Guides | 50 | 50 | 0 |
 | Root Documents | 5 | 0 | 5 |
-| **Total** | **134** | **0** | **134** |
+| **Total** | **134** | **57** | **77** |
 
-*Last updated: 2026-04-11*
+*Last updated: 2026-06-15*
