@@ -26,11 +26,11 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [README.md](docs/bootstrap/README.md) | Not Reviewed | | | Section overview, philosophy |
-| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Not Reviewed | | | $1,500-3,250 launch checklist |
-| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Not Reviewed | | | $0-50/month tech stack |
-| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Not Reviewed | | | Full philosophy, startup culture |
-| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Not Reviewed | | | "Don't I need..." answered |
-| [bootstrapping-resources.md](docs/bootstrap/bootstrapping-resources.md) | Not Reviewed | | | Books, podcasts, communities |
+| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Reviewed | JF | 06/15/2026 | $1,500-3,250 launch checklist |
+| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Reviewed | JF | 06/15/2026 | $0-50/month tech stack |
+| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Reviewed | JF | 06/15/2026 | Full philosophy, startup culture |
+| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Reviewed | JF | 06/15/2026 | "Don't I need..." answered |
+| [bootstrapping-resources.md](docs/bootstrap/bootstrapping-resources.md) | Reviewed | JF | 06/15/2026 | Books, podcasts, communities |
 
 ## Business Formation
 
