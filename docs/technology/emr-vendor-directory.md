@@ -41,7 +41,8 @@
 
 | Feature | Details |
 |---------|---------|
-| Pricing | ~$150/month |
+| Pricing | $300/month for each
+registered provider |
 | Target | DPC practices |
 | Charting | Flexible, DPC-optimized |
 | Messaging | Built-in secure messaging |
