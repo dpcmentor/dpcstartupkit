@@ -1,6 +1,9 @@
 # EMR Selection Guide
 
 > **Quick Summary:** DPC practices can choose EMRs based on usability and patient experience rather than billing optimization. Start with a DPC-specific or adaptable small-practice EMR, prioritize cloud access and patient portal quality, and avoid enterprise systems designed for large organizations.
+>
+> > [!CAUTION]
+> **Pricing and features change frequently.** The information below reflects our understanding at the time of writing and may be outdated. Always verify current pricing, features, and terms directly with each vendor before making decisions. This is not an exhaustive list, and inclusion or exclusion does not constitute an endorsement or recommendation.
 
 ---
 
@@ -436,7 +439,8 @@ Create a simple scoring matrix:
 
 > [!TIP]
 > No EMR is perfect. Choose "good enough" that you can grow with, rather than waiting for perfect.
-
+> [!NOTE]
+> **Disclaimer:** EMR vendors update pricing, features, and terms regularly. We make no guarantees about the accuracy or completeness of this information. Verify all details directly with vendors before purchasing. Have a correction or addition? [Submit an issue](https://github.com/dpcmentor/dpcstartupkit/issues).
 ---
 
 ## Checklist: EMR Selection
