@@ -77,7 +77,7 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Not Reviewed | | | |
-| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Not Reviewed | | | New - DPC EMR comparison |
+| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Reviewed | JF | sdate | New - DPC EMR comparison |
 | [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Not Reviewed | | | |
 | [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Not Reviewed | | | |
 | [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Not Reviewed | | | |
