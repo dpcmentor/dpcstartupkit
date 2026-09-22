@@ -21,6 +21,8 @@ Practical Excel templates for DPC financial planning, tracking, and analysis. Al
 | [template-equipment-inventory.xlsx](template-equipment-inventory.xlsx) | Equipment and supply checklist with have/need tracking and cost totals. |
 | [template-vendor-comparison.xlsx](template-vendor-comparison.xlsx) | Compare labs, medical suppliers, medication wholesalers, and service providers. |
 
+The break-even template's math also runs in your browser: see the [Break-Even Calculator](../../pricing-membership/pricing-your-practice.md#break-even-calculator) on the Pricing Your Practice page.
+
 ## Usage Notes
 
 - **Yellow cells** = Enter your values (inputs)

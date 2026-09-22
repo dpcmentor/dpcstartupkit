@@ -1,0 +1,233 @@
+/*
+ * Break-Even Calculator styles
+ *
+ * Companion to docs/assets/javascripts/breakeven.js, which renders the
+ * markup into <div id="dpckit-breakeven"> on the Pricing Your Practice page.
+ *
+ * Colours come only from the Material variables that docs/stylesheets/extra.css
+ * sets or overrides (--md-primary-fg-color forest green, --md-accent-fg-color
+ * gold, --md-default-* text/background). extra.css redefines those under
+ * [data-md-color-scheme="slate"], so the dark palette applies here without a
+ * second colour set; the one slate rule below only swaps the big numbers to
+ * the lighter green for contrast on the dark background.
+ */
+
+.md-typeset .dpckit-be {
+  margin: 1.25rem 0 0.75rem;
+  padding: 1rem 1.25rem 0.9rem;
+  background: var(--md-code-bg-color, #f6f8fa);
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.07));
+  border-left: 4px solid var(--md-primary-fg-color, teal);
+  border-radius: 0.2rem;
+}
+
+/* ----- Inputs ----- */
+
+.dpckit-be__inputs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem 1.25rem;
+}
+
+.dpckit-be__field {
+  min-width: 0;
+}
+
+.md-typeset .dpckit-be__field label {
+  display: block;
+  margin: 0 0 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--md-default-fg-color, inherit);
+}
+
+.dpckit-be__money {
+  display: flex;
+  align-items: center;
+  background: var(--md-default-bg-color, #fff);
+  border: 1px solid var(--md-default-fg-color--lighter, #ccc);
+  border-radius: 0.2rem;
+  transition: border-color 120ms ease-out, box-shadow 120ms ease-out;
+}
+
+.dpckit-be__money:focus-within {
+  border-color: var(--md-primary-fg-color, teal);
+  box-shadow: 0 0 0 3px var(--md-accent-fg-color--transparent, rgba(0, 0, 0, 0.08));
+}
+
+.dpckit-be__currency {
+  padding: 0 0.3rem 0 0.6rem;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light, #6b6b6b);
+}
+
+.md-typeset .dpckit-be__money input {
+  flex: 1 1 auto;
+  width: 100%;
+  min-width: 0;
+  min-height: 2.5rem;
+  margin: 0;
+  padding: 0.35rem 0.6rem 0.35rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--md-default-fg-color, inherit);
+  font: inherit;
+  font-size: 1rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.md-typeset .dpckit-be__money input:focus {
+  outline: none;
+}
+
+.md-typeset .dpckit-be__hint {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  color: var(--md-default-fg-color--light, #6b6b6b);
+}
+
+/* ----- Results ----- */
+
+.dpckit-be__results {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem 1rem;
+  margin-top: 1.1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.07));
+}
+
+.dpckit-be__result {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.dpckit-be__value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--md-primary-fg-color, teal);
+  font-variant-numeric: tabular-nums;
+  overflow-wrap: anywhere;
+}
+
+.dpckit-be__label {
+  margin-top: 0.15rem;
+  font-size: 0.72rem;
+  line-height: 1.3;
+  color: var(--md-default-fg-color--light, #6b6b6b);
+}
+
+.md-typeset .dpckit-be__detail,
+.md-typeset .dpckit-be__message {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.md-typeset .dpckit-be__detail {
+  color: var(--md-default-fg-color--light, #6b6b6b);
+}
+
+.md-typeset .dpckit-be__message {
+  padding: 0.6rem 0.8rem;
+  border-left: 3px solid var(--md-accent-fg-color, orange);
+  border-radius: 0.15rem;
+  background: var(--md-accent-fg-color--transparent, rgba(0, 0, 0, 0.05));
+  color: var(--md-default-fg-color, inherit);
+}
+
+/* ----- Footer / reset ----- */
+
+.dpckit-be__footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.85rem;
+}
+
+.md-typeset .dpckit-be__reset {
+  appearance: none;
+  min-height: 2rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--md-default-fg-color--lighter, #ccc);
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--md-default-fg-color, inherit);
+  font: inherit;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.md-typeset .dpckit-be__reset:hover {
+  border-color: var(--md-primary-fg-color, teal);
+  color: var(--md-primary-fg-color, teal);
+}
+
+.md-typeset .dpckit-be__reset:focus-visible {
+  outline: 2px solid var(--md-primary-fg-color, teal);
+  outline-offset: 2px;
+}
+
+/* ----- Dark palette ----- */
+
+[data-md-color-scheme="slate"] .dpckit-be__value,
+[data-md-color-scheme="slate"] .md-typeset .dpckit-be__reset:hover {
+  color: var(--md-primary-fg-color--light, #40916c);
+}
+
+/* ----- Phone width (same breakpoint custom.css uses) ----- */
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .dpckit-be {
+    padding: 0.85rem 0.9rem 0.8rem;
+  }
+
+  .dpckit-be__inputs,
+  .dpckit-be__results {
+    grid-template-columns: 1fr;
+  }
+
+  .dpckit-be__result {
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.5rem;
+  }
+
+  .dpckit-be__value {
+    font-size: 1.4rem;
+    flex: 0 0 auto;
+  }
+
+  .dpckit-be__label {
+    margin-top: 0;
+  }
+
+  .dpckit-be__footer {
+    justify-content: stretch;
+  }
+
+  .md-typeset .dpckit-be__reset {
+    width: 100%;
+    min-height: 2.5rem;
+  }
+}
+
+/* ----- Print ----- */
+
+@media print {
+  .dpckit-be__footer {
+    display: none;
+  }
+
+  .md-typeset .dpckit-be {
+    break-inside: avoid;
+    background: transparent !important;
+  }
+}
