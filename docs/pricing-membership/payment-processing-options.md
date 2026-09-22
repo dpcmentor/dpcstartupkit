@@ -1,6 +1,6 @@
 # Payment Processing Options
 
-> **Quick Summary:** Start simple with Square or Stripe for payment collection, add automated recurring billing as you grow past 25 patients, and consider DPC-specific platforms like Hint Health when established. ACH transfers offer lower fees than credit cards.
+> **Quick Summary:** Start with a general-purpose processor (Square, Stripe, PayPal or similar) for payment collection, add automated recurring billing as you grow past roughly 25 patients, and consider a DPC-specific membership platform (Hint Health, Atlas.md, Cerbo and others) once established. ACH transfers cost less than cards.
 
 ---
 
@@ -27,6 +27,9 @@
 
 Collecting membership payments reliably is essential to DPC practice sustainability. The right payment system balances cost, convenience, automation, and patient experience. This guide covers options from simple manual collection to full practice management integration.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. Processor rates linked below were read from each vendor's pricing page on 2026-09-22; they change without notice.
+
 ## Prerequisites
 
 - Pricing structure determined (see [Pricing Your Practice](pricing-your-practice.md))
@@ -43,14 +46,14 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 **You do need:** A way to collect money.
 
-**Recommended options:**
-- [Square](https://squareup.com/) (free reader, 2.6% + $0.10 per transaction)
-- [Stripe](https://stripe.com/) (2.9% + $0.30 per transaction)
-- [PayPal Business](https://www.paypal.com/us/business) (2.9% + $0.30 per transaction)
+**Common options:**
+- [Square](https://squareup.com/) (2.6% + 15¢ in person; 3.3% + 30¢ online and on invoices; [Square fees](https://squareup.com/help/us/en/article/5068-what-are-square-s-fees))
+- [Stripe](https://stripe.com/) (2.9% + 30¢ per card transaction; [Stripe pricing](https://stripe.com/pricing))
+- [PayPal Business](https://www.paypal.com/us/business) (2.99% + 49¢ per card transaction; [PayPal pricing](https://www.paypal.com/us/business/pricing))
 - Checks (no processing fee, more manual work)
 
 !!! tip
-    Start with a professional payment processor like Square or Stripe from day one. These platforms scale with your practice, offer recurring billing, and present a professional image to patients.
+    Start with an established payment processor (Square, Stripe, PayPal or a comparable one) from day one. These platforms scale with your practice, offer recurring billing, and present a professional image to patients. The kit does not endorse any vendor; compare current rates before you sign up.
 
 **Manual recurring billing:**
 - Set reminders to invoice patients monthly
@@ -65,7 +68,7 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - [Square](https://squareup.com/) subscriptions (built into Square)
 - [Stripe](https://stripe.com/) + simple invoicing
 - [PayPal](https://www.paypal.com/us/business) recurring payments
-- [Hint Health](https://www.hint.com/) (DPC-specific)
+- A DPC-specific membership platform such as [Hint Health](https://www.hint.com/), [Atlas.md](https://atlas.md/) or [Cerbo](https://cer.bo/)
 
 **Why automate:** Manual invoicing becomes time-consuming; automation reduces administrative burden and improves cash flow predictability.
 
@@ -74,7 +77,7 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 **Consider:** Integrated practice management
 
 **Options:**
-- Hint Health (DPC-focused)
+- DPC-focused membership platforms (Hint Health, Atlas.md, Cerbo, among others)
 - EMR with billing integration
 - Full practice management platform
 
@@ -95,11 +98,13 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - Invoicing
 - Basic reporting
 
-**Costs:**
-- In-person: 2.6% + $0.10
-- Online: 2.9% + $0.30
-- Invoices: 3.3% + $0.30
-- No monthly fee for basic
+**Costs** (Square Free plan, from [Square's fee page](https://squareup.com/help/us/en/article/5068-what-are-square-s-fees)):
+- In-person (tap, dip, swipe): 2.6% + 15¢
+- Online and payment links: 3.3% + 30¢
+- Invoices paid by card: 3.3% + 30¢
+- Manually keyed or card on file: 3.5% + 15¢
+- Invoices paid by ACH: 1%, $1 minimum ($0 when deposited into Square Checking)
+- No monthly fee on the Free plan; paid plans lower the in-person rate
 
 **Pros:**
 - Easy to start
@@ -129,10 +134,12 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - Extensive integrations
 - API for custom solutions
 
-**Costs:**
-- Standard: 2.9% + $0.30 per transaction
-- Recurring billing may have additional fees
-- No monthly fee for basic
+**Costs** (from [Stripe's pricing page](https://stripe.com/pricing)):
+- Cards: 2.9% + 30¢ per domestic transaction
+- ACH Direct Debit: 0.8%, capped at $5
+- Stripe Billing (subscriptions): an additional 0.7% of billing volume on pay-as-you-go
+- Stripe Invoicing: an additional 0.4% per paid invoice, capped at $2
+- No monthly fee
 
 **Pros:**
 - Powerful and flexible
@@ -158,7 +165,11 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 **Features:**
 - Invoicing and payment links
 - Recurring payments
-- 2.9% + $0.30 standard
+
+**Costs** (from [PayPal's pricing page](https://www.paypal.com/us/business/pricing)):
+- Cards through standard checkout: 2.99% + 49¢
+- Invoices paid with a PayPal or Venmo balance: 3.49% + 49¢; paid by card: 2.99% + 49¢
+- In-person QR code: 2.29% + 9¢
 
 **Pros:**
 - Many patients already have accounts
@@ -187,9 +198,10 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - Reporting and analytics
 - DPC-specific design
 
-**Costs:**
-- Monthly subscription (typically $99-$300+/month)
-- Plus payment processing fees (varies)
+**Costs** (from [Hint's pricing page](https://www.hint.com/pricing)):
+- Launch plan from $290/month (one clinician, unlimited members); Pro from $320/month; Scale from $770/month
+- Payment processing on Launch: cards 3.00% + 30¢ (+1% for American Express); ACH 1.00% + 25¢, capped at $5. Higher plans carry lower rates.
+- Comparable DPC platforms (Atlas.md, Cerbo and others) publish their own pricing; compare before choosing
 
 **Pros:**
 - Built specifically for DPC
@@ -216,9 +228,9 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - Through practice management systems
 
 **Costs:**
-- Often lower than card processing
-- May be flat fee ($0.50-$1.00) or percentage (0.8%)
-- Some platforms offer free ACH
+- Lower than card processing at membership-sized amounts
+- Usually a percentage with a cap or minimum: Stripe 0.8% capped at $5 ([source](https://stripe.com/pricing)); Square 1% with a $1 minimum ([source](https://squareup.com/help/us/en/article/5068-what-are-square-s-fees)); Hint 1% + 25¢ capped at $5 ([source](https://www.hint.com/pricing))
+- Square waives the ACH fee when the money is deposited into Square Checking
 
 **Pros:**
 - Lower fees than cards
@@ -279,6 +291,8 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 **Recommendation:** Fixed date is simpler. Move all patients to same billing date once established.
 
+**Pass-through labs and medications:** Bill labs and dispensed medications as separate, itemized charges, never folded into the membership fee, and offer the same pass-through prices to non-members. Under [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) (Q&A-11 and Q&A-12), separately billed items available only to members count as part of the arrangement, and an arrangement that includes non-ambulatory labs or prescription drugs other than vaccines costs members with HSA-qualified high-deductible plans their HSA eligibility.
+
 ### Failed Payment Handling
 
 **What happens:**
@@ -299,14 +313,17 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 ### Typical Monthly Scenarios
 
-**Assume:** 100 patients, $89/month average = $8,900/month collected
+**Assume:** 100 patients, $89/month average = $8,900/month collected (about the $98.64 national average adult fee). Rates are the published ones linked above as of 2026-09-22.
 
 | Platform | Fee Structure | Monthly Cost |
 |----------|---------------|--------------|
-| Square (online) | 2.9% + $0.30 | ~$290 |
-| Stripe | 2.9% + $0.30 | ~$290 |
-| ACH via Stripe | 0.8% capped at $5 | ~$70 |
-| Hint Health | $149/mo + 2.9% | ~$410 |
+| Square (invoices or online, card) | 3.3% + 30¢ | ~$325 |
+| Square (ACH on invoices) | 1%, $1 minimum | ~$90 |
+| Stripe (cards) | 2.9% + 30¢ | ~$290 (about $350 with Stripe Billing's 0.7%) |
+| Stripe (ACH Direct Debit) | 0.8% capped at $5 | ~$70 |
+| PayPal (cards) | 2.99% + 49¢ | ~$315 |
+| Hint Health Launch (cards) | $290/mo + 3.0% + 30¢ | ~$590 |
+| Hint Health Launch (ACH) | $290/mo + 1% + 25¢ | ~$405 |
 | Checks (your time) | $0 + time | Time cost |
 
 **Note:** At small patient counts, percentage fees are manageable. As you grow, ACH or negotiated rates become more valuable.
@@ -317,7 +334,7 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - Encourage ACH (lower fees)
 - Offer small discount for annual prepayment (reduces transactions)
 - Negotiate rates with volume (Stripe, etc.)
-- Pass fees to patients (not recommended for DPC)
+- Pass fees to patients (not recommended for DPC; several states restrict or ban card surcharges, and card networks set rules for them)
 
 ---
 
@@ -390,8 +407,10 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 
 ### HIPAA and Payment Processing
 
+A cash-only DPC practice that sends no HIPAA standard electronic transaction (such as an insurance claim) is not a HIPAA covered entity, but treat HIPAA as the floor for how you handle patient information (see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md)). Card and ACH processing is not a standard transaction, and a bank or card processor handling payments is not your business associate for that activity (HIPAA section 1179; see [BAA Requirements](../compliance-legal/baa-requirements.md)), so no BAA is needed for the processor itself.
+
 **Payment data is generally not PHI** - but be careful about:
-- What information is visible in payment descriptions
+- What information is visible in payment descriptions and receipts (membership fee, not diagnoses or visit reasons)
 - How payment issues are communicated
 - Keeping payment systems separate from clinical systems
 
@@ -427,7 +446,18 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - [Pricing Your Practice](pricing-your-practice.md) - Setting your membership fees
 - [Membership Agreement Essentials](membership-agreement-essentials.md) - Payment terms in agreement
 - [Handling Cancellations and Refunds](handling-cancellations-refunds.md) - Payment issues
-- Square, Stripe, Hint Health websites for current pricing
+- Current published rates: [Square](https://squareup.com/help/us/en/article/5068-what-are-square-s-fees), [Stripe](https://stripe.com/pricing), [PayPal](https://www.paypal.com/us/business/pricing), [Hint Health](https://www.hint.com/pricing)
+- [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) - HSA rules, including separately billed labs and medications
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*
 
 ---
 

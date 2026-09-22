@@ -10,6 +10,9 @@
 >
 > The cost tables below show typical ranges, but many physicians have started with far less. Start small, prove the model, invest as revenue justifies.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Table of Contents
@@ -55,7 +58,7 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 
 **Concept:** Start with almost nothing. Telemedicine, house calls, borrowed exam rooms. Prove the model before spending money.
 
-**Reality check:** Some physicians have launched DPC practices for under $5,000 total — just malpractice insurance, basic supplies, and a phone. The numbers below are conservative estimates, not minimums.
+**Reality check:** The kit's [Bootstrap path](../bootstrap/README.md) budgets $1,500-3,000 upfront: malpractice insurance paid monthly, licenses and registrations, basic supplies, and a phone. The numbers below are conservative planning estimates, not minimums.
 
 **Best for:** Most new DPC physicians. Lowest risk. Validate demand before investing.
 
@@ -63,7 +66,7 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 
 **Concept:** Rent space within an existing medical practice, urgent care, or shared medical office. Moderate overhead with professional appearance.
 
-**Best for:** Most new DPC physicians. Balances professionalism with financial prudence.
+**Best for:** Physicians who want a professional address from day one without committing to a full lease. Balances professionalism with financial prudence.
 
 ### Model 3: Full Clinic / Dedicated Space
 
@@ -87,8 +90,6 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | Attorney fees (optional at start)* | $0-$1,500 | $1,000-$3,000 | $2,000-$5,000 |
 | Healthcare attorney consultation | $0-$500 | $0-$1,000 | $500-$1,500 |
 | **Subtotal Legal** | **$50-$2,300** | **$1,050-$4,300** | **$2,600-$6,800** |
-
-*\*Many physicians file their own LLC and use template membership agreements initially. Consult an attorney as revenue allows.*
 | | | | |
 | **Space & Buildout** | | | |
 | Security deposit | $0 | $1,000-$3,000 | $3,000-$10,000 |
@@ -98,16 +99,12 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | **Subtotal Space** | **$500-$1,500** | **$2,200-$8,500** | **$13,500-$77,000** |
 | | | | |
 | **Equipment & Supplies** | | | |
-| Medical equipment (basic)* | $200-$2,000 | $1,000-$4,000 | $5,000-$15,000 |
+| Medical equipment (basic)** | $200-$2,000 | $1,000-$4,000 | $5,000-$15,000 |
 | Computer/laptop | $0-$1,000 | $500-$1,500 | $1,000-$2,500 |
 | Printer/fax/scanner | $0-$200 | $100-$300 | $200-$500 |
-| Phone system | $0** | $0-$300 | $300-$1,500 |
+| Phone system | $0*** | $0-$300 | $300-$1,500 |
 | Initial medical supplies | $100-$500 | $500-$1,500 | $1,500-$4,000 |
 | **Subtotal Equipment** | **$300-$3,700** | **$2,100-$7,600** | **$8,000-$23,500** |
-
-*\*Minimum: stethoscope ($50-$200). Add equipment as patient volume and revenue justify.*
-
-*\*\*Your smartphone works. Many DPC physicians use personal cell with a Google Voice number.*
 | | | | |
 | **Technology** | | | |
 | EMR setup/implementation | $0-$500 | $0-$500 | $0-$1,000 |
@@ -122,22 +119,30 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | **Subtotal Marketing** | **$500-$1,300** | **$1,200-$3,500** | **$2,500-$7,000** |
 | | | | |
 | **Insurance (First Year Prepay)** | | | |
-| Malpractice (annual) | $4,000-$8,000 | $4,000-$8,000 | $4,000-$12,000 |
+| Malpractice (annual) | $4,000-$12,000 | $4,000-$12,000 | $4,000-$12,000 |
 | General liability (annual) | $500-$1,000 | $500-$1,000 | $1,000-$2,000 |
-| **Subtotal Insurance** | **$4,500-$9,000** | **$4,500-$9,000** | **$5,000-$14,000** |
+| **Subtotal Insurance** | **$4,500-$13,000** | **$4,500-$13,000** | **$5,000-$14,000** |
 | | | | |
 | **Licenses & Registrations** | | | |
 | DEA registration (3-year) | $888 | $888 | $888 |
 | State licenses/registrations | $100-$500 | $100-$500 | $100-$500 |
 | Local business licenses | $50-$300 | $50-$300 | $50-$300 |
 | NPI registration | Free | Free | Free |
-| CLIA waiver certificate (2-year) | $180 | $180 | $180 |
-| **Subtotal Licenses** | **$1,218-$1,868** | **$1,218-$1,868** | **$1,218-$1,868** |
+| CLIA certificate of waiver (2-year) ([CMS fee schedule](https://www.cms.gov/files/document/clia-certificate-fee-schedule.pdf)) | $248 | $248 | $248 |
+| **Subtotal Licenses** | **$1,286-$1,936** | **$1,286-$1,936** | **$1,286-$1,936** |
 | | | | |
-| **TOTAL ONE-TIME COSTS** | **$7,500-$22,500** | **$14,000-$38,000** | **$35,000-$130,000** |
+| **TOTAL ONE-TIME COSTS** | **$7,500-$26,500** | **$13,500-$42,500** | **$35,000-$137,000** |
+
+*\*Many physicians file their own LLC and use template membership agreements initially. Consult an attorney as revenue allows.*
+
+*\*\*Minimum: stethoscope ($50-$200). Add equipment as patient volume and revenue justify.*
+
+*\*\*\*Your smartphone works. Many DPC physicians use a personal cell with a Google Voice number.*
+
+The insurance row assumes you prepay a full year. Most carriers also bill monthly (roughly $300-800/month), which is how the Bootstrap path keeps its upfront total low.
 
 !!! note
-    **Absolute minimum launch:** Malpractice insurance (~$4,000-$8,000/year), state licenses (~$200), a stethoscope (~$100), and your smartphone. Total: **under $5,000** for the first year, excluding personal living expenses.
+    **Absolute minimum launch:** malpractice insurance paid monthly, DEA registration if you will prescribe controlled substances, state and local registrations, a stethoscope, and your smartphone. The [Bootstrap Startup Guide](../bootstrap/bootstrap-startup-guide.md) budgets **$1,500-3,000 upfront** on this path, excluding personal living expenses.
 
 !!! tip
     **HIPAA Compliance:** Budget $0-$2,000 for initial HIPAA setup depending on whether you DIY or hire a consultant. HHS provides free security risk assessment tools, policy templates, and training materials at [hhs.gov/hipaa](https://www.hhs.gov/hipaa). Many state medical associations also offer free compliance resources for members. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).
@@ -166,7 +171,7 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | **Cleaning** | $0 (DIY) | $0-$100 | $100-$400 |
 | **Miscellaneous** | $100-$200 | $200-$400 | $300-$600 |
 | | | | |
-| **TOTAL MONTHLY** | **$1,300-$3,325** | **$2,700-$7,150** | **$5,425-$15,300** |
+| **TOTAL MONTHLY** | **$1,300-$3,325** | **$2,700-$7,150** | **$5,325-$15,300** |
 
 ---
 
@@ -206,11 +211,11 @@ Essential for solo practitioners—your ability to work is your primary asset.
 
 Plan for retirement once practice income is consistent:
 
-| Vehicle | 2024 Contribution Limit | Best For |
+| Vehicle | 2026 Contribution Limit ([IRS](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500)) | Best For |
 |---------|-------------------------|----------|
-| SEP-IRA | Up to 25% of net self-employment income (max $69,000) | Simple setup, high limits |
-| Solo 401(k) | $23,000 employee + 25% employer (max $69,000 total) | Highest contribution potential |
-| SIMPLE IRA | $16,000 | Lower administrative burden |
+| SEP-IRA | Up to 25% of compensation (max $72,000) | Simple setup, high limits |
+| Solo 401(k) | $24,500 employee + 25% employer (max $72,000 total) | Highest contribution potential |
+| SIMPLE IRA | $17,000 | Lower administrative burden |
 
 !!! note
     Don't prioritize retirement contributions until you have adequate cash reserves and consistent income. Focus on practice stability first.
@@ -318,7 +323,7 @@ Most DPC practices take 12-24 months to reach profitability. Plan for:
 | 7-12 | 75-150 | $7,500-$15,000/month |
 | 13-24 | 150-300 | $15,000-$30,000/month |
 
-*Highly variable based on market, marketing, and existing patient relationships.*
+*Highly variable based on market, marketing, and existing patient relationships. $100/month is a round figure close to the national average adult membership of $98.64/month (State of DPC 2026 survey); see [Pricing Your Practice](../pricing-membership/pricing-your-practice.md).*
 
 ---
 
@@ -328,9 +333,11 @@ Before launching, ensure you have:
 
 | Practice Model | Recommended Reserve |
 |----------------|---------------------|
-| Lean Startup | 6 months operating costs + startup = $20,000-$45,000 |
-| Shared Space | 9 months operating costs + startup = $45,000-$105,000 |
-| Full Clinic | 12 months operating costs + startup = $105,000-$230,000+ |
+| Lean Startup | 6 months operating costs + startup = roughly $15,000-$46,000 |
+| Shared Space | 9 months operating costs + startup = roughly $38,000-$107,000 |
+| Full Clinic | 12 months operating costs + startup = roughly $99,000-$320,000 |
+
+These are the monthly and one-time tables above added together. On the Bootstrap path the reserve is much smaller; that page works the numbers separately.
 
 ---
 
@@ -362,7 +369,7 @@ Before launching, ensure you have:
 
 ### Reduce Professional Fees
 - Use online legal services for simple documents (but not for healthcare-specific items)
-- DIY bookkeeping initially with software like Wave (free)
+- DIY bookkeeping initially with low-cost software (Wave's free tier, Zoho Books, QuickBooks Simple Start, or a spreadsheet)
 - Join DPC communities for shared resources
 
 ### Reduce Reference/Subscription Costs
@@ -400,7 +407,20 @@ Before launching, ensure you have:
 - [Monthly Expenses Template](../kit-templates/spreadsheets/template-monthly-expenses.xlsx)
 - [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.xlsx)
 - [Break-Even Calculator](../pricing-membership/pricing-your-practice.md#break-even-calculator) - the break-even spreadsheet template's math, in your browser
-- [SBA Business Loan Information](https://www.sba.gov/funding-programs/loans)
+- [SBA Business Loan Information](https://www.sba.gov/loans/)
+- [Bootstrap Startup Guide](../bootstrap/bootstrap-startup-guide.md) - the $1,500-3,000 path, itemised
+
+*Read through and figures checked on 2026-09-22.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

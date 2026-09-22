@@ -10,6 +10,9 @@ Starting a Direct Primary Care practice does not require massive equipment inves
 
 This guide provides prioritized equipment and supply lists for each stage of practice growth.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Office space secured or arrangement made (see [Office Space Guide](office-space-guide.md))
@@ -61,7 +64,7 @@ Most situations have solutions:
 | Reflex hammer | $15-30 | |
 | Scale | $50-150 | Digital, with height rod ideal |
 | Exam table | $500-2,000 | Can be basic; upgrade later |
-| **Total** | **$850-2,980** | |
+| **Total** | **$845-2,980** | |
 
 **Add if subleasing/shared space:** Often included; check before buying.
 
@@ -98,7 +101,7 @@ Most situations have solutions:
 | Autoclave | $1,500-4,000 | If sterilizing instruments |
 | Doppler | $200-500 | Vascular assessment |
 | Colposcope | $3,000-8,000 | Only if doing women's health procedures |
-| **Stage 3 Total** | **$6,700-21,300** | Very practice-dependent |
+| **Stage 3 Total** | **$6,700-18,300** | Very practice-dependent |
 
 ---
 
@@ -108,7 +111,7 @@ Most situations have solutions:
 
 | Item | Priority | Est. Cost | Notes |
 |------|----------|-----------|-------|
-| Stethoscope | Essential | $100-300 | Quality matters; Littmann or similar |
+| Stethoscope | Essential | $100-300 | Quality matters; Littmann, MDF, ADC or similar |
 | BP cuff (manual) | Essential | $30-80 | More reliable than many digital |
 | BP cuff (digital) | Nice to have | $50-100 | For quick checks; verify with manual |
 | BP cuff (large) | Important | $40-80 | Must have for larger patients |
@@ -168,7 +171,7 @@ Most situations have solutions:
 | Fax (or e-fax) | Important | $0-30/mo | Still needed for referrals |
 | Phone | Essential | $100-300 | Dedicated line or VoIP |
 | Internet | Essential | $50-100/mo | Reliable high-speed |
-| Secure shredder | Essential | $50-150 | HIPAA requirement |
+| Secure shredder | Essential | $50-150 | HIPAA requires secure disposal of paper PHI; a cross-cut shredder or a shredding service both satisfy it |
 
 ### Furniture
 
@@ -253,7 +256,7 @@ GPOs leverage collective buying power to negotiate discounts on supplies, medica
 |-----|-------|-------|
 | [DPC Alliance](https://www.dpcalliance.org/) | DPC-specific | Member benefits include purchasing partnerships |
 | [Yankee Alliance](https://www.yankeealliance.com/) | Regional GPO | Serves independent practices in Northeast and beyond |
-| [Managed Health Care Associates (MHA)](https://www.mhainc.com/) | Broad medical supplies | Serves independent practices |
+| [Managed Health Care Associates (MHA)](https://mhainc.com/) | Broad medical supplies | Large alternate-site GPO; serves clinics and physician offices |
 | [Premier](https://www.premierinc.com/) | Supplies, pharmaceuticals | Larger organization |
 | [HealthTrust](https://healthtrustpg.com/) | Supplies, equipment | Part of HCA network |
 
@@ -286,7 +289,7 @@ If your state allows physician dispensing, you can offer wholesale medications d
 
 | Supplier | Notes |
 |----------|-------|
-| [AndaMeds](https://www.andameds.com/) | Popular with DPC practices; free shipping on $100+ orders; overnight delivery |
+| [AndaMeds](https://www.andameds.com/) | Widely used by DPC practices; confirm current shipping terms and minimums on the site |
 | [SaveBigRx](https://www.savebigrx.com/) | Wholesale medications for physician dispensing |
 | [McKesson](https://www.mckesson.com/) | Large distributor; also supplies medical equipment |
 | [Henry Schein](https://www.henryschein.com/) | Medical and dental supplies; medications |
@@ -305,6 +308,9 @@ If your state allows physician dispensing, you can offer wholesale medications d
 
 !!! note
     Dispensing can save patients significant money compared to retail pharmacies and improves medication adherence. Many DPC physicians report patients' prescription savings alone can offset their membership fee.
+
+!!! warning "Bill medications separately from the membership fee"
+    Under the 2026 HSA rule ([IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)), a DPC arrangement may not bundle prescription drugs (other than vaccines) into the membership fee if your members are to keep HSA eligibility. Dispensed medications should be a separate, itemised charge, and pass-through medications must be offered to members and non-members alike (Q&A-11/12). See [Membership Models Comparison](../pricing-membership/membership-models-comparison.md).
 
 ---
 
@@ -362,8 +368,8 @@ Can offer significant savings with reasonable reliability.
 | Spirometer | Refer for PFTs initially |
 | Point-of-care testing | Use outside lab initially |
 | Colposcope | Refer unless high women's health volume |
-| X-ray | Never practical for small DPC; always refer |
-| Ultrasound | Rarely justified; refer |
+| X-ray | Rarely practical for a small DPC practice; refer |
+| Ultrasound | Rarely justified at first; a handheld unit is an option once volume supports it |
 | Fancy furniture | Basic works fine initially |
 | Multiple exam rooms | One room sufficient for many patients |
 
@@ -426,8 +432,21 @@ Can offer significant savings with reasonable reliability.
 ## Resources
 
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md) - Budget planning
+- [Equipment Inventory Template](../kit-templates/spreadsheets/template-equipment-inventory.xlsx) - Track what you own, when you bought it and when it needs service
 - [Office Space Guide](office-space-guide.md) - Space requirements
 - Medical supply vendor websites for pricing
+
+*Read through and figures checked on 2026-09-22.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
