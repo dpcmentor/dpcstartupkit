@@ -180,12 +180,12 @@ HIPAA requires evaluating these factors:
 **If breach confirmed:**
 - Notify affected individuals
 - Notify HHS
-- Notify media (if 500+ in state)
+- Notify prominent media outlets serving the state or jurisdiction, if the breach involves more than 500 residents of that state or jurisdiction
 
 **Timelines:**
-- Individual notification: Without unreasonable delay, within 60 days
-- HHS notification: Within 60 days (or annual log if <500)
-- Media notification: Within 60 days (if 500+ in state)
+- Individual notification: Without unreasonable delay, and no later than 60 calendar days after discovery ([45 CFR 164.404](https://www.ecfr.gov/current/title-45/section-164.404)). A breach is treated as discovered on the first day it is known, or by exercising reasonable diligence would have been known, to anyone in your workforce or any agent other than the person who committed it (164.404(a)(2)). The clock does not wait for your investigation to finish.
+- HHS notification: Within 60 days (or annual log if fewer than 500)
+- Media notification: Within 60 days, if more than 500 residents of a state or jurisdiction are affected ([45 CFR 164.406(a)](https://www.ecfr.gov/current/title-45/section-164.406))
 
 ### Step 5: Document
 
@@ -213,18 +213,18 @@ HIPAA requires evaluating these factors:
 
 ### Notifying Individuals
 
-**Content required:**
+**Content required** ([45 CFR 164.404(c)(1)](https://www.ecfr.gov/current/title-45/section-164.404)):
 - Brief description of what happened
-- Date of breach (if known)
+- Date of the breach and date of discovery (if known)
 - Types of PHI involved
 - Steps individuals should take to protect themselves
-- What you're doing to investigate and mitigate
-- Contact information for questions
+- What you're doing to investigate, mitigate harm and prevent recurrence
+- Contact procedures for questions, which must include a toll-free telephone number, an email address, a website or a postal address
 
 **Method:**
 - Written notice by first-class mail
 - Email if individual has agreed to electronic notice
-- Substitute notice if contact information insufficient
+- Substitute notice if contact information is insufficient or out of date (164.404(d)(2)): for fewer than 10 individuals, an alternative written notice, a telephone call or other means; for 10 or more, a conspicuous posting on your website home page for 90 days or notice in major print or broadcast media where the affected individuals likely reside, plus a toll-free number that stays active for at least 90 days
 
 ### Sample Individual Notification Letter
 
@@ -238,7 +238,7 @@ HIPAA requires evaluating these factors:
 > We are writing to inform you of an incident that may have affected the security of some of your personal health information.
 >
 > **What Happened:**
-> On [date], we discovered that [brief description of incident—e.g., "a laptop containing patient information was stolen from our office"].
+> On [date of discovery], we discovered that [brief description of incident—e.g., "a laptop containing patient information was stolen from our office"] on or about [date of breach, if known].
 >
 > **What Information Was Involved:**
 > The information that may have been affected includes [list types of information—e.g., "your name, date of birth, and medical record information"].
@@ -250,7 +250,7 @@ HIPAA requires evaluating these factors:
 > We recommend that you [specific recommendations—e.g., "review statements from your health insurer for any services you did not receive" or "consider placing a fraud alert on your credit file if financial information was involved"].
 >
 > **For More Information:**
-> If you have questions, please contact [name] at [phone number] or [email].
+> If you have questions, please contact [name] at [toll-free phone number] or [email address, website or postal address].
 >
 > We sincerely apologize for any concern or inconvenience this may cause.
 >
@@ -269,7 +269,16 @@ HIPAA requires evaluating these factors:
 - Submit annual report to HHS
 - Due within 60 days of calendar year end
 
-**HHS Breach Portal:** hhs.gov/ocr/breach
+**HHS Breach Portal:** [https://ocrportal.hhs.gov/ocr/breach/wizard_breach.jsf](https://ocrportal.hhs.gov/ocr/breach/wizard_breach.jsf) (instructions at [hhs.gov breach reporting](https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html))
+
+### State Law and Insurer
+
+HIPAA is not the only notice obligation:
+
+- **State breach-notification laws.** All 50 states and the District of Columbia have one. Some set deadlines shorter than HIPAA's 60 days (30 days in several states) and some require notice to the state attorney general. Not every state exempts HIPAA covered entities, so check your state's statute as well.
+- **Law-enforcement delay.** If a law-enforcement official tells you that notice would impede a criminal investigation or damage national security, you may delay notification for the period stated in a written request, or for up to 30 days after an oral request that you document ([45 CFR 164.412](https://www.ecfr.gov/current/title-45/section-164.412)).
+- **Burden of proof.** You must be able to demonstrate that all required notifications were made, or that the incident did not constitute a breach ([45 CFR 164.414(b)](https://www.ecfr.gov/current/title-45/section-164.414)). Keep the incident report, risk assessment and copies of every notice for 6 years ([45 CFR 164.530(j)](https://www.ecfr.gov/current/title-45/section-164.530)).
+- **Cyber insurer.** If you carry cyber-liability coverage, notify the insurer as and when your policy requires. Read the policy's notice clause now, not during an incident.
 
 ---
 
@@ -282,7 +291,7 @@ HIPAA requires evaluating these factors:
 **Response:**
 1. **Contain:** Report to police; change passwords; remotely wipe if possible
 2. **Assess:** What PHI was on device? How many patients? Was it encrypted?
-3. **Analyze:** If encrypted—likely not a breach. If unencrypted—likely breach.
+3. **Analyze:** If the device was encrypted in a way that meets HHS guidance (NIST-validated encryption) and the key was not stored on or with the device, the PHI is not "unsecured" and this is not a reportable breach ([45 CFR 164.402](https://www.ecfr.gov/current/title-45/section-164.402)). If unencrypted, or the key was with the device—likely breach.
 4. **Notify:** If breach, notify affected patients and HHS
 5. **Document:** Record everything
 6. **Remediate:** Encrypt all devices; don't leave in car
@@ -304,9 +313,9 @@ HIPAA requires evaluating these factors:
 **Situation:** You receive ransomware notice saying your files are encrypted.
 
 **Response:**
-1. **Contain:** Disconnect from network; don't pay ransom initially; contact IT professional
+1. **Contain:** Disconnect from network; do not pay the ransom; contact an IT professional and law enforcement
 2. **Assess:** What systems affected? Was PHI accessed (not just encrypted)? Backups available?
-3. **Analyze:** HHS says ransomware is often a breach (attacker had access to acquire PHI)
+3. **Analyze:** HHS treats ransomware encryption of ePHI as a presumed breach unless you can show a low probability of compromise (HHS OCR ransomware fact sheet)
 4. **Notify:** Likely need to notify patients and HHS
 5. **Document:** Record everything; involve law enforcement
 6. **Remediate:** Restore from backup; improve security; enhance training
@@ -330,8 +339,8 @@ HIPAA requires evaluating these factors:
 **Response:**
 1. **Contain:** Vendor should be handling their containment
 2. **Assess:** Get information from vendor: What data? Which patients? What's vendor doing?
-3. **Analyze:** Determine breach notification responsibility (often shared)
-4. **Notify:** May need to notify patients; coordinate with vendor
+3. **Analyze:** A business associate must notify you within 60 calendar days of discovering a breach ([45 CFR 164.410(b)](https://www.ecfr.gov/current/title-45/section-164.410)), and its discovery date starts your clock. Notifying patients, HHS and (if required) the media remains your obligation as the covered entity unless your BAA expressly delegates it to the vendor.
+4. **Notify:** Notify patients yourself unless the BAA delegates it; coordinate with the vendor on content and timing
 5. **Document:** Keep all vendor communications
 6. **Remediate:** Evaluate vendor relationship; ensure they've addressed issue
 
@@ -367,7 +376,7 @@ HIPAA requires evaluating these factors:
 **Notifications (if breach):**
 - Individuals notified: Date: ____________ Method: ____________
 - HHS notified: Date: ____________
-- Media notified (if applicable): Date: ____________
+- Media notified (if more than 500 residents of a state or jurisdiction): Date: ____________
 
 **Corrective Actions:**
 - Actions taken: ____________
@@ -390,8 +399,9 @@ HIPAA requires evaluating these factors:
 
 ### HHS Office for Civil Rights
 
-- Breach portal: hhs.gov/ocr/breach
-- Phone: 1-800-368-1019
+- Breach portal: https://ocrportal.hhs.gov/ocr/breach/wizard_breach.jsf
+- Breach reporting instructions: https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html
+- Phone: 1-800-368-1019; TDD: 1-800-537-7697
 
 ---
 
@@ -450,8 +460,12 @@ HIPAA requires evaluating these factors:
 - [HIPAA Compliance Basics](hipaa-compliance-basics.md) - Foundation
 - [Privacy Practices Guide](privacy-practices-guide.md) - Privacy framework
 - [BAA Requirements](baa-requirements.md) - Vendor obligations
-- HHS Breach Notification Rule guidance
-- HHS OCR Breach Portal
+- [HHS Breach Notification Rule guidance](https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html)
+- [HHS OCR Breach Portal](https://ocrportal.hhs.gov/ocr/breach/wizard_breach.jsf)
+
+*This guide is educational content, not legal advice.*
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
