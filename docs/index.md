@@ -256,6 +256,7 @@ This resource is maintained for mentorship purposes. Contributions and correctio
 - **Found an error?** Open an issue or submit a pull request
 - **Have a suggestion?** Let us know through the repository issues
 - **Want to contribute content?** See [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Who built this, and who pays for it?** See [About This Kit](about-this-kit.md)
 
 ---
 

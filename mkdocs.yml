@@ -14,7 +14,9 @@ edit_uri: edit/main/docs/
 # Copyright
 copyright: >
   <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> —
-  Built by DPC physicians, for DPC physicians
+  Built by DPC physicians, for DPC physicians. Independent: nothing to sell.
+  <a href="https://dpcmentor.github.io/dpcstartupkit/about-this-kit/">About this kit</a> ·
+  <a href="https://github.com/dpcmentor/dpcstartupkit">Source</a>
 
 # Theme configuration
 theme:
@@ -146,6 +148,7 @@ extra_javascript:
 # Navigation structure
 nav:
   - Home: index.md
+  - About This Kit: about-this-kit.md
 
   - Bootstrap:
     - Start Here: bootstrap/README.md
