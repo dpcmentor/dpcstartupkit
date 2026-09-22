@@ -175,3 +175,15 @@ body {
   border-color: var(--md-accent-fg-color);
   color: #1a3a2e;
 }
+
+/* "Reviewed by" line rendered by hooks/reviewed_by.py on pages marked Reviewed */
+.md-typeset .dpckit-reviewed-by {
+  margin: -0.5rem 0 1.25rem;
+  padding: 0.35rem 0.75rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+  background: var(--md-default-bg-color--light, rgba(45, 106, 79, 0.06));
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .dpckit-reviewed-by strong { color: var(--md-primary-fg-color); }
+.md-typeset .dpckit-reviewed-by p { margin: 0; }
