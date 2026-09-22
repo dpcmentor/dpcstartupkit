@@ -315,7 +315,7 @@ HIPAA is not the only notice obligation:
 **Response:**
 1. **Contain:** Disconnect from network; do not pay the ransom; contact an IT professional and law enforcement
 2. **Assess:** What systems affected? Was PHI accessed (not just encrypted)? Backups available?
-3. **Analyze:** HHS treats ransomware encryption of ePHI as a presumed breach unless you can show a low probability of compromise (HHS OCR ransomware fact sheet)
+3. **Analyze:** HHS treats ransomware encryption of ePHI as a presumed breach unless you can show a low probability of compromise ([HHS OCR Fact Sheet: Ransomware and HIPAA](https://www.hhs.gov/sites/default/files/RansomwareFactSheet.pdf))
 4. **Notify:** Likely need to notify patients and HHS
 5. **Document:** Record everything; involve law enforcement
 6. **Remediate:** Restore from backup; improve security; enhance training
