@@ -6,11 +6,14 @@ Your membership agreement is the legal contract between your practice and each p
 
 A well-crafted agreement prevents misunderstandings, reduces disputes, and supports the unique nature of the DPC model.
 
+!!! warning "This page is not a template"
+    It lists what a DPC membership agreement must address and which state statutes constrain each part. It deliberately contains no contract language to copy. The kit does not publish an agreement template, because the clauses that matter most, refunds, termination and the insurance disclaimer, are dictated by state statute and wrong wording exposes you and your patients. Have a healthcare attorney licensed in your state draft the agreement from this checklist.
+
 !!! warning "Caution"
-    **Have Your Agreement Reviewed by a Healthcare Attorney:** This guide provides educational framework only. Your membership agreement is a legal contract that must comply with your state's DPC laws, contract requirements, and healthcare regulations. Never use a template without legal review. An attorney experienced in DPC can ensure your agreement protects your practice and meets state-specific requirements.
+    **Have Your Agreement Drafted or Reviewed by a Healthcare Attorney:** This guide provides educational framework only. Your membership agreement is a legal contract that must comply with your state's DPC laws, contract requirements, and healthcare regulations. Never use a template found online. An attorney experienced in DPC can ensure your agreement protects your practice and meets state-specific requirements.
 
 !!! note "About the figures on this page"
-    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. The fees in the sample clauses are placeholders, not recommendations.
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
 
 ## Prerequisites
 
@@ -59,8 +62,12 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 - Effective date
 - Definition of "membership," "services," "practice"
 
-**Example Language:**
-> This Membership Agreement ("Agreement") is entered into between [Practice Name, LLC] ("Practice") and the individual signing below ("Member" or "Patient") as of the date signed.
+**Your attorney's draft must identify:**
+
+- The legal entity that contracts with the patient (the practice entity, never you personally)
+- The member, and who signs for a minor or a dependent
+- The effective date
+- The defined terms the rest of the agreement relies on
 
 ---
 
@@ -74,10 +81,13 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 - This arrangement does not cover hospitalization, specialist care, or emergencies
 - The practice does not bill insurance for membership services
 
-**Example Language:**
-> **THIS IS NOT INSURANCE.** This Agreement establishes a direct physician-patient relationship for primary care services. This membership does not constitute health insurance and does not replace the need for comprehensive health insurance coverage. Members are strongly encouraged to maintain health insurance for hospitalization, emergency services, specialist care, and other services not provided by this Practice.
+**Must state, in the words your state requires:**
 
-This sample paragraph will not, on its own, satisfy the states that dictate the exact wording or typography of the disclosure. [Florida 624.27(4)(h)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html) prescribes a verbatim sentence ("This agreement is not health insurance and the health care provider will not file any claims against the patient's health insurance policy or plan...") in a contrasting colour and at least 12-point type; [Idaho 39-9207](https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH92.pdf) prescribes a verbatim disclaimer; [Ohio 3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95) requires the statement that the agreement is not health insurance, is not subject to insurance laws and does not meet any individual health insurance mandate; [Michigan MCL 500.129(3)(g)-(i)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129) requires a prominent statement that the patient must pay for services not in the agreement. Copy the statutory wording exactly.
+- That the agreement is not health insurance and does not replace coverage for hospital, emergency and specialist care
+- That the practice will not bill the member's insurer for membership services
+- Any statutory disclaimer, verbatim and in the typography the statute specifies (see below)
+
+A generic paragraph will not satisfy the states that dictate the exact wording or typography of the disclosure. [Florida 624.27(4)(h)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html) prescribes a verbatim sentence ("This agreement is not health insurance and the health care provider will not file any claims against the patient's health insurance policy or plan...") in a contrasting colour and at least 12-point type; [Idaho 39-9207](https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH92.pdf) prescribes a verbatim disclaimer; [Ohio 3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95) requires the statement that the agreement is not health insurance, is not subject to insurance laws and does not meet any individual health insurance mandate; [Michigan MCL 500.129(3)(g)-(i)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129) requires a prominent statement that the patient must pay for services not in the agreement. Copy the statutory wording exactly.
 
 **State-Specific Note:** The mandated-wording states are Florida, Idaho, Ohio, Michigan and [Washington](../states/washington.md) (RCW 48.150). [Texas](../states/texas.md) requires only a pre-signing "not insurance" notice (Occupations Code 162.256) and a promise not to bill insurers (162.254). [Oklahoma](../states/oklahoma.md) (36 O.S. 4605(F)) requires three terms: termination on written notice, fees not earned until the month is complete, and a refund of unearned fees when the patient terminates. See [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) and verify with a local healthcare attorney.
 
@@ -120,19 +130,18 @@ This sample paragraph will not, on its own, satisfy the states that dictate the 
 - Medical records management
 - Communication with specialists
 
-**Example Language:**
-> **Services Included in Membership:**
-> - Unlimited office visits during regular office hours
-> - Same-day or next-day appointments when medically appropriate
-> - Annual comprehensive wellness examination
-> - Secure electronic messaging with physician (response within 24 hours on business days)
-> - Telephone consultations
-> - Video telehealth visits
-> - Basic in-office procedures (wound care, ear lavage, joint injections [materials at cost])
-> - Point-of-care testing (strep, flu, urinalysis)
-> - Electrocardiogram (EKG)
-> - Care coordination and referral management
-> - Prescription management and prior authorizations
+**The agreement must list, specifically, what membership includes.** Items practices commonly include:
+
+- Office visits during regular hours, and whether they are unlimited
+- Same-day or next-day appointments when medically appropriate
+- An annual wellness examination
+- Secure messaging, with the response time you actually commit to
+- Telephone and video visits
+- Basic in-office procedures, and whether materials are at cost
+- Point-of-care testing you perform in the office
+- Electrocardiogram
+- Care coordination and referral management
+- Prescription management and prior authorizations
 
 ---
 
@@ -152,20 +161,19 @@ This sample paragraph will not, on its own, satisfy the states that dictate the 
 - Prescription medications
 - Services requiring facilities not available at practice
 
-**Example Language:**
-> **Services Not Included:**
-> The following are NOT included in membership and Member is responsible for associated costs:
-> - Hospital or emergency room services
-> - Specialist physician services
-> - Surgical procedures
-> - Imaging services (X-ray, CT, MRI, ultrasound)
-> - Laboratory services (available at wholesale cost—see fee schedule)
-> - Immunizations (vaccine cost at wholesale; administration included)
-> - Prescription medications
-> - Durable medical equipment
-> - Mental health services beyond initial assessment
-> - Physical therapy, occupational therapy
-> - Any services provided outside this Practice
+**And, just as specifically, what it does not include.** Items practices commonly exclude, with the member responsible for the cost:
+
+- Hospital and emergency room services
+- Specialist physician services
+- Surgical procedures
+- Imaging
+- Laboratory services, if billed separately (see the HSA note below on how they must be priced)
+- Immunizations, or the vaccine cost only, with administration included
+- Prescription medications
+- Durable medical equipment
+- Mental health services beyond an initial assessment
+- Physical and occupational therapy
+- Anything provided outside the practice
 
 ---
 
@@ -182,16 +190,13 @@ This sample paragraph will not, on its own, satisfy the states that dictate the 
 - Price for additional services (if any)
 - How price changes will be communicated
 
-**Example Language:**
-> **Membership Fees:**
-> - Monthly Membership Fee: $_________ per month
-> - Payment is due on the _____ of each month
-> - Accepted payment methods: Credit card, debit card, ACH bank transfer
-> - A fee of $25 will be charged for returned payments
-> - Membership fees may be adjusted no more than once per year with at least 60 days written notice
->
-> **Additional Service Fees:**
-> Laboratory services, vaccines, and certain procedures may incur additional charges. A current fee schedule is available upon request.
+**Must state:**
+
+- The membership fee and the billing cycle
+- The due date and the accepted payment methods
+- Any returned-payment fee
+- How and how often fees can change, and with what notice
+- That labs, vaccines and procedures billed separately are priced on a fee schedule available on request, at the same price to non-members
 
 In [Louisiana](../states/louisiana.md) the 60-day notice and the once-a-year limit on fee changes are mandatory (R.S. 37:1360.83(D)), not a courtesy. Elsewhere they are a reasonable convention.
 
@@ -209,11 +214,9 @@ In [Louisiana](../states/louisiana.md) the 60-day notice and the once-a-year lim
 - Annual with monthly payments
 - Annual prepaid
 
-**Example Language (Month-to-Month):**
-> This Agreement begins on the Effective Date and continues on a month-to-month basis until terminated by either party. Membership will automatically renew each month unless terminated in accordance with this Agreement.
+**Month-to-month:** must state when the agreement begins, that it continues until either party ends it, and how it is ended.
 
-**Example Language (Annual):**
-> This Agreement is for an initial term of twelve (12) months beginning on the Effective Date. Membership will automatically renew for successive twelve-month terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the current term. [Drafting note: an annual term with a notice deadline conflicts with the states where the patient may terminate at will on written notice (Idaho, Louisiana, Washington, Oklahoma, Michigan); in those states the term clause must yield to the cancellation clause.]
+**Annual:** must state the initial term, whether and how it renews, and any notice deadline for non-renewal. A notice deadline conflicts with the states where the patient may terminate at will on written notice (Idaho, Louisiana, Washington, Oklahoma, Michigan); in those states an annual term can set the price but cannot lock the patient in.
 
 A fixed annual term that renews automatically is also a "negative option" or automatic-renewal contract. Under [California Business and Professions Code 17600-17606](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9) the renewal terms must be disclosed clearly, the patient must give affirmative consent to them, an annual renewal needs a reminder notice 15 to 45 days before it renews, and a patient who enrolled online must be able to cancel online. Other states have similar laws. See [Handling Cancellations and Refunds](handling-cancellations-refunds.md#automatic-renewal-laws).
 
@@ -235,24 +238,20 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Notice period (typically 30 days except for cause; Ohio caps it at 60 days after notice)
 - Continuity of care obligations
 
-**Example Language:**
-> **Cancellation by Member:**
-> Member may cancel this Agreement at any time by giving written notice to the Practice by any of the following methods: [email, patient portal, online account, or letter]. Cancellation is effective [on the date the Practice receives the notice / at the end of the current billing period, where state law permits]. Any membership fee already paid for the period after the effective date of cancellation will be refunded to Member [on a prorated basis / within 30 days], and Member will have access to services through the effective date of cancellation. [Drafting note: choose the option your state allows. Washington, Idaho, Oklahoma and Louisiana require a refund of unearned fees and let the patient terminate at will; Florida permits a notice period of up to 30 days. A clause making fees "non-refundable" is unlawful in the refund states. If members enrol online, the cancellation methods must include an online method.]
->
-> **Termination by Practice:**
-> Practice may terminate this Agreement only for the following reasons:
-> - Member fails to pay membership fees when due, after written notice and a reasonable opportunity to cure
-> - Member has committed fraud or provided materially false information in connection with this Agreement
-> - Member repeatedly fails to follow the treatment plan in a way that makes it impossible to provide safe care
-> - Member behaves in an abusive, threatening or dangerous manner toward the physician, staff or other patients
-> - Practice closes, relocates, or the physician ceases to practise
->
-> Except in cases of danger to the physician, staff or other patients, Practice will give Member at least [thirty (30)] days written notice of termination, and will not terminate this Agreement because of Member's health status, medical condition, or the cost or complexity of Member's care. [Drafting note: Washington (RCW 48.150.050) and Louisiana (R.S. 37:1360.85) limit practice termination to enumerated grounds and bar discontinuing a patient solely for health status; Idaho requires the agreement to state the conditions under which the practice may terminate; Ohio caps the period between notice and termination at 60 days.]
->
-> Upon termination, Practice will provide Member with copies of medical records and reasonable assistance in transitioning to another physician.
->
-> **Non-Discrimination:**
-> Practice will not refuse to enter into this Agreement, terminate it, or vary its terms because of Member's health status, pre-existing conditions, race, religion, national origin, disability, sex, age, education, or economic status. [Drafting note: Louisiana R.S. 37:1360.82 lists race, religion, national origin, disability, education and economic status; Washington RCW 48.150.050 and Louisiana R.S. 37:1360.85 add health status. Keep the clause in every state; it costs nothing and prevents a discrimination claim.]
+**Cancellation by the member** must cover:
+
+- How notice is given. Accept email, the patient portal or an online account; never require a mailed letter, and if members enrol online they must be able to cancel online.
+- When cancellation takes effect
+- What happens to fees already paid for the period after that date (refund of unearned fees is mandatory in Washington, Idaho, Oklahoma and Louisiana)
+
+**Termination by the practice** must:
+
+- List the grounds: non-payment after written notice and a chance to cure; fraud or materially false information; repeated failure to follow the treatment plan in a way that makes safe care impossible; abusive, threatening or dangerous behaviour; closure or relocation of the practice
+- State the notice period, with an exception only for danger to the physician, staff or other patients
+- State that health status, medical condition, and the cost or complexity of care are never grounds. Washington ([RCW 48.150.050](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050)) and Louisiana (R.S. 37:1360.85) limit practice termination to enumerated grounds; Idaho requires the agreement to state them; Ohio caps termination at 60 days after notice.
+- Commit to providing records and reasonable help transitioning to another physician
+
+**Non-discrimination** must state that the practice will not refuse, end or vary the agreement because of health status, pre-existing conditions, race, religion, national origin, disability, sex, age, education or economic status. Louisiana R.S. 37:1360.82 lists race, religion, national origin, disability, education and economic status; Washington and Louisiana add health status.
 
 ---
 
@@ -265,11 +264,15 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Prorated refunds for annual prepaid memberships
 - Refund of unearned fees on any cancellation (mandatory in Washington, Idaho, Oklahoma and Louisiana)
 
-**Example Language:**
-> **Refund Policy:**
-> [Option A, where state law allows:] Monthly membership fees cover the month in which they are paid and are not refunded once that month has begun. [Option B, required in Washington, Idaho, Oklahoma and Louisiana:] Membership fees are earned only as each month of service is completed. If this Agreement ends, whether by cancellation or by termination, Practice will refund the unearned portion of any fee paid, prorated to the date the notice of cancellation was received, [within thirty (30) days]. For annual prepaid memberships, Practice will refund the fee for the remainder of the term [on a prorated daily basis / for complete months remaining in the term, less a $[__] administrative fee, where state law allows a deduction]. If Practice ceases to offer services, all prepaid fees for the period after the closure date will be refunded. [Drafting note: an administrative fee, a "complete months only" rule, or a "no refunds for cause" rule is not permitted in the states that require a refund of unearned fees. Florida requires a refund of prepaid fees if the practice stops offering services (624.27(4)(g)).]
+**Must state:**
 
-!!! warning "State rules that override this sample"
+- When a fee is earned. In Washington, Idaho, Oklahoma and Louisiana fees are earned only as each month of service is completed.
+- What is refunded when the member cancels and when the practice terminates
+- How annual prepaid fees are handled
+- That prepaid fees for any period after a practice closure are refunded (required in Florida, [624.27(4)(g)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html))
+- Any administrative deduction, only where state law allows one. An administrative fee, "complete months only" and "no refund for cause" are not permitted in the refund states.
+
+!!! warning "State rules your attorney must build in"
     The clauses in sections 7 and 8 must be conformed to your state's DPC statute. The following states set terms that a sample agreement cannot override:
 
     - **Washington** ([RCW 48.150.030(2)(b)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.030)): the patient may terminate at will on written notice and unearned fees are refunded prorated to the date the notice was received; [RCW 48.150.050(1)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050) limits practice termination to enumerated grounds and bars discontinuing a patient solely for health status.
@@ -296,16 +299,15 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Maintain updated contact and payment information
 - Maintain health insurance for non-covered services
 
-**Example Language:**
-> **Member Responsibilities:**
-> Member agrees to:
-> - Provide accurate and complete health information
-> - Notify Practice of any changes in health status, medications, or contact information
-> - Cancel or reschedule appointments with at least 24 hours notice when possible
-> - Treat Practice staff with courtesy and respect
-> - Maintain a valid payment method on file
-> - Maintain health insurance coverage for services not covered by this membership
-> - Seek emergency care at an emergency room or call 911 for medical emergencies
+**Responsibilities practices commonly include:**
+
+- Provide accurate and complete health information
+- Report changes in health status, medications or contact details
+- Cancel or reschedule with reasonable notice
+- Treat staff with courtesy
+- Keep a valid payment method on file
+- Maintain health insurance for services the membership does not cover
+- Use the emergency room or 911 for emergencies
 
 ---
 
@@ -319,9 +321,11 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Records retention policy
 - Records release process
 
-**Example Language:**
-> **Privacy and Medical Records:**
-> Practice maintains Member's medical records in compliance with all applicable laws, including HIPAA. Member has received or been offered the Practice's Notice of Privacy Practices. Member may request copies of medical records at any time; a reasonable, cost-based fee may be charged for copying and processing, as permitted by [45 CFR 164.524(c)(4)](https://www.ecfr.gov/current/title-45/section-164.524) and state law. Medical records will be retained in accordance with state law requirements.
+**Must state:**
+
+- That records are kept as applicable law requires, and that the member has received or been offered the Notice of Privacy Practices
+- How the member requests records, and that any copying fee is reasonable and cost-based ([45 CFR 164.524(c)(4)](https://www.ecfr.gov/current/title-45/section-164.524))
+- The records release process
 
 ---
 
@@ -335,15 +339,12 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Expected response times
 - Emergency protocols
 
-**Example Language:**
-> **Communication:**
-> Office hours: Monday through Friday, 8:00 AM to 5:00 PM
-> Secure messages will receive a response within one business day.
-> Phone calls during office hours will be returned the same day when possible.
-> After-hours non-emergency messages will be addressed the next business day.
->
-> **Emergencies:**
-> For medical emergencies, call 911 or go to the nearest emergency room. This Practice does not provide emergency services. After-hours urgent concerns may be addressed via [phone/text/portal]—check current after-hours policy.
+**Must state:**
+
+- Office hours
+- The response time you commit to for each channel (secure message, phone, after-hours)
+- After-hours arrangements for urgent, non-emergency concerns
+- That the practice does not provide emergency services and members should call 911 or go to an emergency room
 
 ---
 
@@ -353,9 +354,7 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 
 **Note:** This section requires careful legal review. Limitations must be reasonable and compliant with state law.
 
-**Example Language:**
-> **Limitation of Liability:**
-> Practice will provide services in accordance with accepted medical standards. Practice's liability under this Agreement is limited to the fees paid by Member during the twelve (12) months preceding any claim. This limitation does not apply to claims arising from gross negligence or willful misconduct.
+**Your attorney decides whether to include one and how to word it.** Limitation clauses are unenforceable in some states for personal-injury claims, must carve out gross negligence and wilful misconduct, and cannot limit malpractice liability. Do not draft this section yourself.
 
 ---
 
@@ -368,9 +367,7 @@ A fixed annual term that renews automatically is also a "negative option" or aut
 - Binding arbitration
 - Litigation with venue specified
 
-**Example Language:**
-> **Dispute Resolution:**
-> Any dispute arising from this Agreement shall first be addressed through good-faith negotiation between the parties. If unresolved, disputes shall be submitted to mediation before a mutually agreed mediator. If mediation fails, disputes shall be resolved through binding arbitration in [County, State] in accordance with the rules of the American Arbitration Association.
+**Must state:** the sequence (negotiation, then mediation, then arbitration or court), the venue, and the governing law. Arbitration clauses in patient agreements are restricted in some states and must be conspicuous; this is your attorney's call.
 
 ---
 
@@ -417,24 +414,24 @@ This is a complex area. Have a healthcare attorney review the Medicare language 
 
 ---
 
-## Template Development Process
+## Working With Your Attorney
 
-### Step 1: Start with a Foundation
-- Use this guide as a framework
-- Review sample DPC agreements (available through DPC Alliance and other organizations)
-- Never copy another practice's agreement without legal review
+### Step 1: Bring the Right Material
+- This checklist, with the sections that apply to your practice marked
+- Your state's DPC statute (see [State DPC Laws](../compliance-legal/state-dpc-laws-overview.md) and your [state guide](../states/README.md))
+- Your fee schedule, your list of included and excluded services, and your Medicare status
+- Do not bring a template found online, and do not ask for another practice's agreement to be adapted; the parts that matter are state-specific
 
-### Step 2: Customize for Your Practice
-- Insert your specific services
-- Add your pricing and payment terms
-- Reflect your office hours and policies
-- Include your state's required language
+### Step 2: Confirm the State-Specific Parts
+- The insurance disclaimer, in the exact words and typography your state requires
+- Refund of unearned fees and at-will cancellation where your state mandates them
+- The grounds on which you may end the agreement, and the health-status protection
+- Automatic-renewal rules if you use an annual term or online enrolment
 
-### Step 3: Legal Review
-- Have a healthcare attorney review your draft
-- Ensure state-specific compliance
-- Verify insurance/non-insurance language is appropriate
-- Confirm limitation of liability is enforceable
+### Step 3: Confirm the Judgement Calls
+- Whether a limitation-of-liability clause is worth including in your state
+- Dispute resolution: mediation, arbitration or court, and venue
+- Medicare: opted out with private contracts, or not opted out
 
 ### Step 4: Test Readability
 - Have non-medical friends read it
