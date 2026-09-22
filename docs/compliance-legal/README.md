@@ -35,7 +35,7 @@ This section covers regulatory requirements, legal considerations, and complianc
 
 - [Business Formation](../business-formation/) - Legal entity and insurance
 - [Technology](../technology/) - HIPAA-compliant technology selection
-- [Templates](../templates/) - Compliance document templates
+- [Templates](../kit-templates/) - Compliance document templates
 
 !!! tip "Talk to a mentor about this"
     Questions about opting out, HIPAA or your state rules? A physician who has already done it will answer them, one to one and free.

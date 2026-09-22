@@ -5,7 +5,7 @@ This directory contains reusable templates, checklists, and documents for Direct
 ## Directory Structure
 
 ```
-templates/
+kit-templates/
 ├── spreadsheets/    # Excel/CSV financial and tracking templates
 └── documents/       # PDF and document templates
 ```

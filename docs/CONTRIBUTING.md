@@ -210,7 +210,7 @@ docs/
 ├── mentoring/                    # Mentor and mentee onboarding
 ├── resources/                    # External links, reading
 ├── states/                       # One guide per state
-└── templates/                    # Spreadsheets and document templates
+└── kit-templates/                    # Spreadsheets and document templates
 ```
 
 A new page must also be added to the `nav` section of `mkdocs.yml`, or the
@@ -262,8 +262,8 @@ returning readers. Implementation details are in
 
 ### Templates
 
-- Spreadsheets go in `docs/templates/spreadsheets/`, documents in
-  `docs/templates/documents/`. Each folder has a README listing its files.
+- Spreadsheets go in `docs/kit-templates/spreadsheets/`, documents in
+  `docs/kit-templates/documents/`. Each folder has a README listing its files.
 - Test every formula before submitting a spreadsheet.
 - Explain how to use a template in the guide that references it.
 

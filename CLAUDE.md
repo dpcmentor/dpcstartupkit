@@ -54,7 +54,7 @@ dpcstartupkit/
     ├── mentoring/             # DPC Mentor Platform guides
     ├── resources/             # Organizations, labs, reading lists
     ├── states/                # All 50 state guides
-    └── templates/             # Spreadsheet + document templates
+    └── kit-templates/             # Spreadsheet + document templates
 ```
 
 **Key rule:** content for the published site lives under `docs/`. Files

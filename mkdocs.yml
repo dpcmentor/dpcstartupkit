@@ -325,8 +325,8 @@ nav:
     - Wyoming: states/wyoming.md
 
   - Templates:
-    - Overview: templates/README.md
-    - Spreadsheets: templates/spreadsheets/README.md
-    - Documents: templates/documents/README.md
+    - Overview: kit-templates/README.md
+    - Spreadsheets: kit-templates/spreadsheets/README.md
+    - Documents: kit-templates/documents/README.md
 
   - Contributing: CONTRIBUTING.md

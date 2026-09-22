@@ -438,7 +438,7 @@ Common approaches:
 - [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md)
 - [Explaining DPC to Patients](../marketing/explaining-dpc-to-patients.md)
 - [Required Documentation](../compliance-legal/required-documentation.md)
-- [Template Forms](../templates/documents/)
+- [Template Forms](../kit-templates/documents/)
 
 ---
 

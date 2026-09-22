@@ -73,7 +73,7 @@ You've decided to pursue DPC and are in the planning phase.
 
 1. [Startup Costs Overview](business-formation/startup-costs-overview.md) — Budget your launch
 2. [Pricing Your Practice](pricing-membership/pricing-your-practice.md) — Set sustainable prices
-3. [Pricing Calculator Template](templates/spreadsheets/README.md) — Model your revenue
+3. [Pricing Calculator Template](kit-templates/spreadsheets/README.md) — Model your revenue
 
 **Insurance:**
 
@@ -160,10 +160,10 @@ Ready-to-use spreadsheets for planning:
 
 | Template | Use For |
 |----------|---------|
-| [Startup Budget](templates/spreadsheets/README.md) | Planning initial investment |
-| [Monthly Expenses](templates/spreadsheets/README.md) | Tracking operating costs |
-| [Pricing Calculator](templates/spreadsheets/README.md) | Modeling membership revenue |
-| [EMR Comparison](templates/spreadsheets/README.md) | Evaluating EMR options |
+| [Startup Budget](kit-templates/spreadsheets/README.md) | Planning initial investment |
+| [Monthly Expenses](kit-templates/spreadsheets/README.md) | Tracking operating costs |
+| [Pricing Calculator](kit-templates/spreadsheets/README.md) | Modeling membership revenue |
+| [EMR Comparison](kit-templates/spreadsheets/README.md) | Evaluating EMR options |
 
 ---
 

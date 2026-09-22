@@ -360,7 +360,7 @@ Include clear family pricing information:
 - [Pricing Your Practice](pricing-your-practice.md) - Base pricing foundation
 - [Membership Models Comparison](membership-models-comparison.md) - Overall pricing structures
 - [Payment Processing Options](payment-processing-options.md) - Billing households
-- [Pricing Calculator Template](../templates/spreadsheets/template-pricing-calculator.csv) - Model scenarios
+- [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.csv) - Model scenarios
 
 ---
 

@@ -425,7 +425,7 @@ Can add without in-person overhead.
 ### During Patient Hours
 - [ ] Document in real-time (or immediately after)
 - [ ] Complete orders during visit
-- [ ] Use templates/handouts
+- [ ] Use kit-templates/handouts
 - [ ] Maintain schedule
 
 ### Between Patients
