@@ -43,12 +43,12 @@ In strict CPOM states, non-physician owned entities typically cannot:
 ### Strict CPOM States
 
 **States with strong CPOM doctrine (examples):**
-- California
+- California (Cal. Bus. & Prof. Code §2400)
 - New York
-- Texas
-- Illinois
-- Ohio
-- Florida
+- Texas (Tex. Occ. Code §165.156; the main exception is the certified nonprofit health organization under §162.001)
+- Illinois (with a hospital-employment exception: *Berlin v. Sarah Bush Lincoln Health Center*, 179 Ill. 2d 1 (1997))
+
+Ohio and Florida are often listed here, but neither has a general CPOM prohibition; see [No CPOM States](#no-cpom-states) below.
 
 **In these states:**
 - Physicians must own the medical practice
@@ -60,6 +60,8 @@ In strict CPOM states, non-physician owned entities typically cannot:
 
 **States without CPOM restrictions:**
 - Some states permit corporate employment of physicians
+- Ohio: no corporate-practice prohibition since ORC 4731.226 took effect in 1998, confirmed by the State Medical Board of Ohio's 2012 position statement. The one carve-out is the physician-ownership requirement for pain-management clinics (ORC 4729.552(B)(1))
+- Florida: no corporate-practice prohibition for MDs and DOs. Two other rules do the work instead: the fee-splitting ban in Fla. Stat. §458.331(1)(i), which is tied to payment for referrals, and the Health Care Clinic Act (Fla. Stat. ch. 400, pt. X), which requires a practice that is not wholly physician-owned to be licensed as a health care clinic
 - Check your specific state
 
 ### Limited CPOM States
@@ -164,14 +166,14 @@ A separate company that provides non-clinical services to a medical practice. Ca
 ### MSO Requirements in CPOM States
 
 **The MSO arrangement must:**
-1. Have fair market value compensation (not profit-sharing)
+1. Have fair market value compensation (not profit-sharing); in New York and states with similar fee-splitting rules, a fee set as a percentage of practice revenue is itself prohibited (N.Y. Educ. Law §6530(19))
 2. Leave medical decisions to physicians
 3. Keep clinical control with the medical practice
 4. Be structured properly in writing
 5. Pass regulatory scrutiny
 
 **Red flags that indicate CPOM violation:**
-- MSO fee based on percentage of revenue
+- MSO fee based on percentage of revenue (an outright violation in New York and similar states under N.Y. Educ. Law §6530(19); a red flag everywhere else)
 - MSO directs clinical operations
 - Physician has no real independence
 - MSO controls hiring/firing of physicians
@@ -184,7 +186,7 @@ A separate company that provides non-clinical services to a medical practice. Ca
 ### Related to CPOM
 
 **Many states prohibit:**
-- Sharing professional fees with non-physicians
+- Sharing professional fees with non-physicians (New York bars any percentage-of-fee arrangement with a non-physician, N.Y. Educ. Law §6530(19))
 - Kickbacks for referrals
 - Paying for patient referrals
 
@@ -280,7 +282,7 @@ A separate company that provides non-clinical services to a medical practice. Ca
 5. Consult attorney if complexity needed
 
 **Cost of keeping it simple:** $0 extra
-**Cost of MSO structures:** $5,000-20,000+ legal fees
+**Cost of MSO structures:** $5,000-20,000+ legal fees (typical range; unsourced estimate)
 
 ---
 
@@ -337,14 +339,14 @@ You cannot contract around CPOM. If your structure violates CPOM, the entire arr
 
 | State | CPOM? | Notes |
 |-------|-------|-------|
-| California | Strict | Strong doctrine, MSO common |
-| Texas | Strict | Exceptions for some entities |
-| New York | Strict | Complex regulations |
-| Florida | Moderate | Some exceptions |
-| Illinois | Strict | Well-established doctrine |
-| Ohio | Strict | Medical corporation requirements |
+| California | Strict | Strong doctrine (Bus. & Prof. Code §2400), MSO common |
+| Texas | Strict | Tex. Occ. Code §165.156; certified nonprofit health organizations excepted (§162.001) |
+| New York | Strict | Complex regulations; percentage fee-splitting barred (Educ. Law §6530(19)) |
+| Florida | None (general) | No CPOM for MD/DO; referral-linked fee-splitting ban (§458.331(1)(i)); non-physician-owned practices need Health Care Clinic Act licensure (ch. 400, pt. X) |
+| Illinois | Strict | Well-established doctrine; hospital-employment exception (*Berlin v. Sarah Bush Lincoln*, 1997) |
+| Ohio | None | ORC 4731.226 (1998) and 2012 Medical Board position statement; pain-clinic ownership rule only (ORC 4729.552(B)(1)) |
 | Colorado | Limited | More permissive |
-| Arizona | Limited | Less restrictive |
+| Arizona | Limited | Narrow doctrine; outpatient treatment center exception |
 
 **For your specific state:** Check state guides in the [States section](../states/) and consult local counsel.
 
@@ -356,6 +358,8 @@ You cannot contract around CPOM. If your structure violates CPOM, the entire arr
 - [Partnership Structures](../business-formation/partnership-structures.md)
 - [Exit Planning](../business-formation/exit-planning.md)
 - [Working with Attorneys](../business-formation/working-with-attorneys.md)
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

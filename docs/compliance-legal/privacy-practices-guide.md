@@ -53,37 +53,43 @@ Privacy practices are fundamental to healthcare compliance and patient trust. Th
 
 ### What It Is
 
-A document explaining how you use and protect patient health information. Required by HIPAA.
+A document explaining how you use and protect patient health information. HIPAA requires it of every covered entity ([45 CFR 164.520](https://www.ecfr.gov/current/title-45/section-164.520)). Whether a cash-only DPC practice is a covered entity depends on whether it sends HIPAA standard electronic transactions—see [Are You a Covered Entity?](hipaa-compliance-basics.md#are-you-a-covered-entity). Provide an NPP either way: patients and vendors expect it, state law may require similar notice, and it costs little.
 
 ### Required Content
 
-**Your NPP must explain:**
-- How you use and disclose PHI
-- Patient rights regarding their information
-- Your duties to protect PHI
-- How to file complaints
+**Your NPP must include** ([45 CFR 164.520(b)(1)](https://www.ecfr.gov/current/title-45/section-164.520)):
+- The header sentence, verbatim: "THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY."
+- How you use and disclose PHI for treatment, payment and operations, with at least one example of each, and each other purpose permitted or required without authorization
+- A statement that any other use or disclosure will be made only with the patient's written authorization, and that the patient may revoke it
+- If you create, receive or maintain substance use disorder treatment records subject to 42 CFR Part 2: the Part 2 statements required since 2026-02-16, including that those records will not be used or disclosed in civil, criminal, administrative or legislative proceedings against the patient without written consent or a court order
+- Patient rights regarding their information (listed below)
+- Your duties: to protect PHI, to abide by the current notice, and to notify affected patients after a breach of unsecured PHI
+- How to file a complaint with you and with HHS, and that there will be no retaliation
+- The name or title and telephone number of the person to contact for more information
 - Effective date
+
+Start from the [HHS model notices for health care providers (2026)](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html). Do not copy the reproductive-health statements at 164.520(b)(1)(ii)(F)–(H) that eCFR still prints; that rule was vacated in *Purl v. HHS* (2025) and those paragraphs are void.
 
 ### Patient Rights to Include
 
 1. **Right to access** - Review and obtain copies of their records
 2. **Right to amend** - Request corrections to their records
 3. **Right to accounting** - Know who you've disclosed PHI to
-4. **Right to restrict** - Request limits on uses/disclosures
+4. **Right to restrict** - Request limits on uses/disclosures. You are not required to agree, except that you must honor a request not to disclose an item or service to a health plan when the patient paid for it in full out of pocket ([164.522(a)(1)(vi)](https://www.ecfr.gov/current/title-45/section-164.522))
 5. **Right to confidential communications** - Request alternative contact methods
 6. **Right to a paper copy** - Receive paper NPP on request
 
 ### Distribution Requirements
 
 **When to provide:**
-- At first service (new patients)
+- No later than the date of first service delivery for new patients; in an emergency, as soon as reasonably practicable afterward. If the first service is delivered electronically, such as a telehealth visit, send the notice electronically at the same time ([164.520(c)(2)(i)](https://www.ecfr.gov/current/title-45/section-164.520))
 - When requested
-- After material changes
+- After a material change: revise the notice promptly, make the revised notice available on request and at your office, and re-post it. You are not required to mail or hand the revised notice to existing patients ([164.520(b)(3), (c)(2)(iv)](https://www.ecfr.gov/current/title-45/section-164.520))
 
 **How to provide:**
 - Give paper copy at enrollment
-- Post in office (optional but recommended)
-- Post on website
+- At any physical service site, keep copies available for patients to take and post the notice in a clear and prominent location. This is required, not optional ([164.520(c)(2)(iii)](https://www.ecfr.gov/current/title-45/section-164.520))
+- Post on your website if the site describes your services or benefits ([164.520(c)(3)(i)](https://www.ecfr.gov/current/title-45/section-164.520))
 - Obtain acknowledgment signature
 
 ### Sample NPP Acknowledgment
@@ -253,7 +259,7 @@ A document explaining how you use and protect patient health information. Requir
 2. Verify identity
 3. Provide within 30 days (one 30-day extension allowed)
 4. Provide in requested format if feasible
-5. May charge reasonable cost-based fee
+5. May charge a reasonable, cost-based fee covering only labor for copying, supplies, postage, and preparing a summary if the patient agreed to one ([164.524(c)(4)](https://www.ecfr.gov/current/title-45/section-164.524)). HHS's optional $6.50 flat fee for electronic copies is a safe harbor, not a cap
 6. Document request and response
 
 **What to provide:**
@@ -265,20 +271,20 @@ A document explaining how you use and protect patient health information. Requir
 - Psychotherapy notes
 - Information compiled for legal proceedings
 - Certain research information
-- Information that may endanger someone
+- Information a licensed professional determines is reasonably likely to endanger the life or physical safety of the patient or another person. This denial is reviewable: the patient may have it reviewed by a different licensed professional ([164.524(a)(3)-(4)](https://www.ecfr.gov/current/title-45/section-164.524))
 
 ### Amendment Requests
 
 **When patients want corrections:**
 
 1. Accept written request
-2. Respond within 60 days
+2. Respond within 60 days (one 30-day extension allowed if you give the patient written notice of the reason and the expected date, [164.526(b)(2)](https://www.ecfr.gov/current/title-45/section-164.526))
 3. If granting: make amendment, inform patient, notify others who received incorrect info
-4. If denying: provide written denial with reason, inform of appeal rights
+4. If denying: provide written denial with reason, and tell the patient they may file a statement of disagreement and a complaint with you and with HHS ([164.526(d)](https://www.ecfr.gov/current/title-45/section-164.526)). There is no appeal
 
 **Can deny if:**
 - Information is accurate
-- You didn't create the record
+- You didn't create the record (unless the patient shows the originator is no longer available to act on the request)
 - Information not part of designated record set
 
 ### Restriction Requests
@@ -328,15 +334,16 @@ A document explaining how you use and protect patient health information. Requir
 
 Even if you're the only "workforce member," document your own training:
 - Initial HIPAA training (self-study counts)
-- Annual review
+- Periodic review (annual is best practice, not a rule)
 - Updates when policies change
 
 ### With Staff
 
-**Training requirements:**
+**Training requirements** ([164.530(b)](https://www.ecfr.gov/current/title-45/section-164.530)):
 - All workforce members trained
-- Training within reasonable time of hire
-- Periodic refreshers
+- Training within a reasonable time after hire
+- Retraining within a reasonable time after a material change in policies that affects their work
+- Periodic refreshers (annual is best practice, not a rule)
 - Document all training
 
 **Training topics:**
@@ -362,7 +369,7 @@ Even if you're the only "workforce member," document your own training:
 
 ### Retention
 
-- Retain documentation for 6 years from creation or when last in effect
+- Retain HIPAA compliance documentation (policies, NPP versions, training records, requests and responses) for 6 years from the later of creation or the date last in effect ([164.530(j)](https://www.ecfr.gov/current/title-45/section-164.530)). This is not a chart-retention rule: how long you keep medical records is set by state law and your medical board
 - Longer if state law requires
 - Secure storage and disposal
 
@@ -374,10 +381,13 @@ Even if you're the only "workforce member," document your own training:
 
 **Situation:** Spouse calls asking about patient's test results.
 
-**Response:**
-- Check if patient has authorized sharing with spouse
-- If authorized: verify spouse's identity, share appropriate information
-- If not authorized: "I'm not able to discuss patient information without authorization. Please have [patient] call us or provide written authorization."
+**Response:** Written authorization is not required. Under [45 CFR 164.510(b)](https://www.ecfr.gov/current/title-45/section-164.510) you may share information with a family member or friend involved in the patient's care if the patient agrees, or was given the chance to object and did not, or if your professional judgment reasonably infers the patient would not object. If the patient is not present, use professional judgment about whether sharing is in the patient's best interest, and share only what is directly relevant to that person's involvement.
+
+- Verify the caller's identity
+- Check the patient's documented preferences: has the patient named the spouse as involved in their care, or asked you not to share with them?
+- If sharing is appropriate, share only what is relevant to the spouse's involvement
+- If the patient has objected, or you have no basis to infer agreement: "I'm not able to discuss that without [patient]'s okay. Please have [patient] call us, or we can talk when [patient] is with you."
+- Document what you shared and why
 
 ### Scenario 2: Employer Requests Records
 
@@ -401,11 +411,10 @@ Even if you're the only "workforce member," document your own training:
 
 **Situation:** Patient asks you to send records to their lawyer.
 
-**Response:**
-- Get written authorization
-- Verify authorization is valid
-- Send only what's authorized
-- Charge reasonable fee if applicable
+**Response:** Two routes, and the choice affects what you may charge.
+
+- **Patient-signed access request** directing a copy to the attorney: this is the patient's own right of access ([164.524(c)(3)(ii)](https://www.ecfr.gov/current/title-45/section-164.524)). Send it within 30 days, and the access-fee limits above apply (cost-based labor, supplies, postage)
+- **HIPAA authorization** signed by the patient: verify it is valid and send only what it covers. Fees under an authorization are governed by state law, not the HIPAA access-fee limits
 
 ---
 
@@ -444,6 +453,8 @@ Even if you're the only "workforce member," document your own training:
 - [BAA Requirements](baa-requirements.md) - Vendor agreements
 - [Incident Response Plan](incident-response-plan.md) - Breach response
 - HHS Office for Civil Rights - Official guidance
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

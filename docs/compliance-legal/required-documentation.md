@@ -80,9 +80,20 @@ Even without insurance billing, you need documentation for:
 - **Legal protection:** Malpractice defense
 - **Patient requests:** Patients have right to their records
 - **Referrals:** Specialists need information
-- **Prescribing:** DEA requires documentation for controlled substances
+- **Prescribing:** DEA rules require every controlled-substance prescription to be issued for a legitimate medical purpose in the usual course of practice and to carry the required content ([21 CFR 1306.04](https://www.ecfr.gov/current/title-21/section-1306.04) and 1306.05)
 - **Lab orders:** Documentation supports medical necessity
 - **Disability/FMLA:** Patients may need documentation for claims
+
+### Practice-Level Documents
+
+Beyond the chart, the following documents are required where your practice is a HIPAA covered entity or has employees, as applicable (a cash-only practice that never sends a HIPAA standard electronic transaction is not a covered entity, but treat HIPAA as the floor; see [HIPAA Compliance Basics](hipaa-compliance-basics.md)). Confirm each citation against the current text before relying on it.
+
+- Notice of Privacy Practices: [45 CFR 164.520](https://www.ecfr.gov/current/title-45/section-164.520)
+- HIPAA policies and procedures, and a security risk analysis: [45 CFR 164.308](https://www.ecfr.gov/current/title-45/section-164.308) and 164.316
+- Business associate agreements: [45 CFR 164.504(e)](https://www.ecfr.gov/current/title-45/section-164.504)
+- Workforce training records: [45 CFR 164.530(b) and (j)](https://www.ecfr.gov/current/title-45/section-164.530)
+- CLIA certificate of waiver, if you run waived tests: [42 CFR Part 493](https://www.ecfr.gov/current/title-42/part-493)
+- OSHA bloodborne pathogens exposure control plan, if you have employees: [29 CFR 1910.1030(c)](https://www.ecfr.gov/current/title-29/section-1910.1030)
 
 ---
 
@@ -278,10 +289,14 @@ Document that patient understands and consents to telehealth care (can be includ
 
 | Patient Type | Common Requirement |
 |--------------|-------------------|
-| Adults | 7-10 years after last encounter |
+| Adults | Commonly 5-10 years after the last encounter, set by state law; check your board. Florida, for example, requires 5 years from the last patient contact (Florida Administrative Code 64B8-10.002). |
 | Minors | Until age of majority + state retention period |
 
-**Some states require longer.** Research your state's specific requirements.
+**There is no federal chart-retention rule for a private practice.** Some states require longer than the range above; research your state's specific requirements.
+
+**Federal rules that do apply:**
+- HIPAA requires you to keep your privacy and security documentation (policies, the Notice of Privacy Practices, BAAs, risk analyses, training records) for 6 years from creation or last effective date, whichever is later ([45 CFR 164.530(j)(2)](https://www.ecfr.gov/current/title-45/section-164.530)).
+- Physicians enrolled in Medicare must keep documentation of orders, certifications and referrals for 7 years from the date of service ([42 CFR 424.516(f)](https://www.ecfr.gov/current/title-42/section-424.516)).
 
 ### Retention Best Practices
 
@@ -296,9 +311,10 @@ Document that patient understands and consents to telehealth care (can be includ
 
 ### Patient Right to Records
 
-Patients have the right to access their medical records under HIPAA. You must:
-- Provide copies within 30 days of request
-- May charge reasonable copying/labor fee
+Patients have the right to access their medical records under HIPAA ([45 CFR 164.524](https://www.ecfr.gov/current/title-45/section-164.524)). You must:
+- Provide copies within 30 days of the request; one 30-day extension is allowed if, within the first 30 days, you give the patient written notice of the reason for the delay and the date you will respond (164.524(b)(2)(ii))
+- For electronic records, also comply with the information-blocking rules, which do not permit unreasonable delay ([45 CFR Part 171](https://www.ecfr.gov/current/title-45/part-171))
+- May charge only a reasonable, cost-based fee covering labor to copy, supplies and postage (164.524(c)(4)); HHS guidance says you may not charge for searching for or retrieving the record
 - Cannot withhold records due to unpaid bills
 - Cannot withhold records to keep patient from leaving
 
@@ -306,13 +322,22 @@ Patients have the right to access their medical records under HIPAA. You must:
 
 Obtain written authorization before releasing records to third parties (with exceptions for treatment, payment, operations, and legally required disclosures).
 
-**Authorization should include:**
-- Patient name and DOB
-- Who is authorized to receive records
-- What information is authorized
-- Purpose of release
-- Expiration date
-- Patient signature and date
+**A valid authorization must include** ([45 CFR 164.508(c)](https://www.ecfr.gov/current/title-45/section-164.508)):
+
+Core elements:
+- A specific and meaningful description of the information to be disclosed
+- The name or other specific identification of the person(s) authorized to make the disclosure (you or your practice)
+- The name or other specific identification of the person(s) to whom the disclosure may be made
+- A description of each purpose of the disclosure ("at the request of the individual" is sufficient when the patient initiates it)
+- An expiration date or expiration event
+- The patient's signature and date; if a personal representative signs, a description of that person's authority to act for the patient
+
+Required statements:
+- The patient's right to revoke the authorization in writing, any exceptions to that right, and how to revoke
+- Whether you may condition treatment, payment, enrollment or eligibility for benefits on the authorization (a physician generally may not)
+- That information disclosed under the authorization may be redisclosed by the recipient and may no longer be protected by HIPAA
+
+The authorization must be written in plain language, and you must give the patient a copy. An authorization that is missing any required element or statement is invalid, and a disclosure made under it is an impermissible disclosure (164.508(b)(2)).
 
 ### Responding to Subpoenas
 
@@ -354,6 +379,8 @@ If you receive a subpoena for records:
 **Late Entries:** Label clearly as addendum, include current date, explain reason for late entry.
 
 **Corrections:** In paper records, single line through error, initial and date. In EMR, follow system's correction process. Never delete—always maintain audit trail.
+
+**Patient-requested amendments:** Patients may ask you to amend their record ([45 CFR 164.526](https://www.ecfr.gov/current/title-45/section-164.526)). Act on the request within 60 days (one 30-day extension with written notice). If you deny it, give the patient a written denial and allow them to file a statement of disagreement that stays with the record.
 
 ---
 
@@ -424,6 +451,10 @@ Time-savers for common documentation elements:
 - [HIPAA Compliance Basics](hipaa-compliance-basics.md) - Privacy and security
 - Your state medical board - Documentation requirements
 - Your malpractice carrier - Documentation recommendations
+
+*This guide is educational content, not legal advice.*
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

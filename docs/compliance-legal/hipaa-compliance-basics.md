@@ -1,11 +1,12 @@
 # HIPAA Compliance Basics
 
-> **Quick Summary:** HIPAA applies to all healthcare practices regardless of size. For solo DPC, focus on: complete a risk assessment, encrypt all devices, sign BAAs with all vendors handling PHI, create basic policies, and provide Notice of Privacy Practices to patients.
+> **Quick Summary:** HIPAA binds a practice only if it is a "covered entity"—one that sends HIPAA standard electronic transactions such as insurance claims. Many cash-only DPC practices are not, but should treat HIPAA as the floor anyway (see [Are you a covered entity?](#are-you-a-covered-entity)). For solo DPC, focus on: complete a risk assessment, encrypt all devices, sign BAAs with all vendors handling PHI, create basic policies, and provide Notice of Privacy Practices to patients.
 
 ---
 
 ## Table of Contents
 
+- [Are You a Covered Entity?](#are-you-a-covered-entity)
 - [Starting Lean: Right-Sizing Compliance](#starting-lean-right-sizing-compliance)
 - [HIPAA Fundamentals](#hipaa-fundamentals)
 - [Practical Compliance Steps](#practical-compliance-steps)
@@ -20,17 +21,31 @@
 
 ## Overview
 
-HIPAA (Health Insurance Portability and Accountability Act) compliance is required for all healthcare practices, including Direct Primary Care. The good news: DPC practices are often simpler to secure than traditional practices because you have fewer staff, simpler systems, and no insurance billing infrastructure.
+HIPAA (Health Insurance Portability and Accountability Act) applies to practices that are "covered entities"—a test that turns on electronic insurance transactions, and one that many cash-only DPC practices do not meet (see the next section). Whether or not you are covered, this guide treats HIPAA as the floor for how you protect patient information. The good news: DPC practices are often simpler to secure than traditional practices because you have fewer staff, simpler systems, and no insurance billing infrastructure.
 
 This guide covers what you actually need to do—not theoretical perfection, but practical compliance for a small practice.
 
 > [!CAUTION]
 > **Consult a HIPAA Compliance Expert:** While this guide provides practical orientation, HIPAA regulations are complex and enforcement evolves. Consider consulting a healthcare compliance specialist or HIPAA-focused attorney, especially for your initial risk assessment and policy development. When in doubt, get professional guidance.
 
+## Are You a Covered Entity?
+
+HIPAA does not reach every practice. Under [45 CFR 160.103](https://www.ecfr.gov/current/title-45/section-160.103) a physician or practice is a covered entity only if it, or a vendor acting for it, electronically transmits a HIPAA *standard transaction*: claims, eligibility inquiries, claim status, remittance advice, referral authorizations, coordination of benefits, enrollment, premium payment or claim attachments. E-prescribing, electronic lab orders and card payments are not standard transactions. A cash-only DPC practice that never sends one is not a covered entity. CMS publishes a [covered-entity page and decision tool](https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities) to walk through the test.
+
+Treat HIPAA as the floor regardless. State privacy law and your medical board's confidentiality rules apply whether or not HIPAA does; labs, EMR vendors and telehealth platforms expect HIPAA-grade practices; and a single electronic claim—a Medicaid vaccine, a one-off insured service—makes you a covered entity from that day forward. Building to the HIPAA standard now costs little and removes the question.
+
+!!! note "What changed recently"
+    *Status as of 2026-09-22.*
+
+    - **Security Rule rewrite still pending.** HHS proposed a major Security Rule update at [90 FR 898 (2025-01-06)](https://www.govinfo.gov/content/pkg/FR-2025-01-06/html/2024-30983.htm). It remains a proposal; the current rule is what applies. HHS's regulatory agenda lists final action for July 2027.
+    - **Reproductive-health privacy rule vacated.** The 2024 rule (89 FR 32976) was vacated nationwide in *Purl v. HHS*, No. 2:24-cv-00228-Z (N.D. Tex. June 18, 2025); HHS did not appeal. Its Notice of Privacy Practices additions at 164.520(b)(1)(ii)(F)–(H) are void even though eCFR still prints them. See [HHS's reproductive-health page](https://www.hhs.gov/hipaa/for-professionals/special-topics/reproductive-health/index.html).
+    - **NPP update deadline has passed.** Since 2026-02-16, covered entities' notices must include the substance-use-disorder (42 CFR Part 2) statements added by the 2024 Part 2 rule. HHS has published [updated model notices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html).
+    - **2026 penalty amounts.** Civil money penalties were inflation-adjusted at 91 FR 3665 (2026-01-28): tier 1 $145–$73,011 per violation; tier 2 $1,461–$73,011; tier 3 $14,602–$73,011; tier 4 $73,011–$2,190,294; annual cap $2,190,294 per provision ([45 CFR 102.3](https://www.ecfr.gov/current/title-45/section-102.3)).
+
 ## Prerequisites
 
-- Understanding that HIPAA applies to your practice regardless of size
-- Awareness that non-compliance carries real penalties
+- Knowing whether your practice is a covered entity, and treating HIPAA as the floor either way
+- Awareness that non-compliance carries real penalties (for 2026: $145 to $2,190,294 per violation depending on tier, with an annual cap of $2,190,294 per provision, [45 CFR 102.3](https://www.ecfr.gov/current/title-45/section-102.3))
 - Commitment to protecting patient information
 
 ---
@@ -39,7 +54,7 @@ This guide covers what you actually need to do—not theoretical perfection, but
 
 ### The Reality for Small Practices
 
-HIPAA is the same law for a solo DPC practice and a 500-physician health system. But how you implement it scales with your size and complexity.
+For a covered entity, HIPAA is the same law for a solo DPC practice and a 500-physician health system. But how you implement it scales with your size and complexity.
 
 **What the law requires:** Reasonable and appropriate safeguards given your size, complexity, capabilities, and risk.
 
@@ -75,7 +90,7 @@ HIPAA is the same law for a solo DPC practice and a 500-physician health system.
 
 ### Who Must Comply
 
-- **Covered Entities:** Healthcare providers (you), health plans, clearinghouses
+- **Covered Entities:** Health plans, clearinghouses, and any physician or practice that transmits HIPAA standard transactions electronically (see [Are You a Covered Entity?](#are-you-a-covered-entity))
 - **Business Associates:** Vendors who handle PHI on your behalf (EMR, billing, cloud storage)
 
 ---
@@ -128,7 +143,7 @@ HIPAA requires you to identify risks to PHI and address them.
 6. **Document:** Write it down, even simply.
 
 **Free Risk Assessment Tools:**
-- HHS Security Risk Assessment Tool (free, designed for small practices)
+- [ONC/OCR Security Risk Assessment Tool](https://www.healthit.gov/privacy-security/security-risk-assessment-tool/) (free, designed for small practices)
 - Many EMRs provide risk assessment templates
 
 ---
@@ -186,20 +201,25 @@ A few pages covering the basics is sufficient initially. You can use templates f
 
 ### Step 5: Create Notice of Privacy Practices
 
-**Required:** You must provide patients a Notice of Privacy Practices explaining how their information is used and their rights.
+**Required:** A covered entity must provide patients a Notice of Privacy Practices explaining how their information is used and their rights. If you are not a covered entity, provide one anyway; it is what patients and vendors expect.
 
-**Must Include:**
-- How you use and disclose PHI
-- Patient rights (access, amendment, accounting)
-- Your duties to protect PHI
-- How to file complaints
+**Must Include** ([45 CFR 164.520(b)(1)](https://www.ecfr.gov/current/title-45/section-164.520)):
+- The header sentence, verbatim: "THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY."
+- How you use and disclose PHI for treatment, payment and operations, with at least one example of each, and each other purpose permitted or required without authorization
+- A statement that any other use or disclosure will be made only with the patient's written authorization, and that the patient may revoke it
+- If you create, receive or maintain substance use disorder treatment records subject to 42 CFR Part 2: the Part 2 statements required since 2026-02-16, including that those records will not be used or disclosed in civil, criminal, administrative or legislative proceedings against the patient without written consent or a court order
+- Patient rights: access, amendment, accounting, confidential communications, a paper copy, and the right to restrict—including your duty to agree when a patient has paid in full out of pocket and asks you not to tell their health plan
+- Your duties: to protect PHI, to abide by the current notice, and to notify affected patients after a breach of unsecured PHI
+- How to file a complaint with you and with HHS, and that there will be no retaliation
+- The name or title and telephone number of the person to contact for more information
 - Effective date
-- Contact information
+
+Start from the [HHS model notices for health care providers (2026)](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html). Do not copy the reproductive-health statements at 164.520(b)(1)(ii)(F)–(H) that eCFR still prints; that rule was vacated in *Purl v. HHS* (2025) and those paragraphs are void.
 
 **Implementation:**
-- Provide to all patients at enrollment
+- Provide to every new patient no later than the date of first service delivery; if that first service is delivered electronically, such as a telehealth visit, send the notice electronically at the same time ([164.520(c)(2)(i)](https://www.ecfr.gov/current/title-45/section-164.520))
 - Post in office
-- Post on website (if you have one)
+- Post on your website if the site describes your services or benefits ([164.520(c)(3)(i)](https://www.ecfr.gov/current/title-45/section-164.520))
 - Get acknowledgment of receipt (signature or documentation of offer)
 
 **Templates available:** Many free templates exist. Have an attorney review your version.
@@ -219,6 +239,8 @@ A few pages covering the basics is sufficient initially. You can use templates f
 - IT support (if they access systems with PHI)
 - Shredding company
 
+**Not business associates (the conduit exception):** the postal service, couriers, internet service providers and telephone carriers that merely transport PHI without routinely accessing it. No BAA is needed with them.
+
 **What a BAA Does:**
 - Contractually obligates the vendor to protect PHI
 - Defines permitted uses
@@ -237,15 +259,15 @@ A few pages covering the basics is sufficient initially. You can use templates f
 
 ### Step 7: Plan for Breach Response
 
-**Breach:** Unauthorized access, use, or disclosure of PHI.
+**Breach:** An acquisition, access, use or disclosure of *unsecured* PHI (PHI that is not encrypted or destroyed to HHS's standard) that the Privacy Rule does not permit. It is presumed to be a reportable breach unless a documented four-factor risk assessment shows a low probability that the PHI was compromised ([45 CFR 164.402](https://www.ecfr.gov/current/title-45/section-164.402)).
 
 **You Must:**
 1. Investigate promptly
 2. Determine if breach notification is required
 3. If required, notify:
    - Affected patients (without unreasonable delay, within 60 days)
-   - HHS (timing depends on size)
-   - Media (if 500+ affected in a state)
+   - HHS: if 500 or more people are affected, at the same time you notify patients; if fewer than 500, log the breach and report it to HHS within 60 days after the end of the calendar year in which it was discovered ([164.408](https://www.ecfr.gov/current/title-45/section-164.408))
+   - Media (if more than 500 residents of a state or jurisdiction are affected, [164.406](https://www.ecfr.gov/current/title-45/section-164.406))
 4. Document everything
 
 **Breach Response Basics:**
@@ -297,13 +319,13 @@ A few pages covering the basics is sufficient initially. You can use templates f
 **If you must:**
 - Use encrypted email (many options available)
 - Or use EMR secure messaging instead
-- Or get patient written consent to receive unencrypted email (with understood risks)
+- Or, when a patient asks for unencrypted email, warn them of the risk and confirm they still want it. The consent need not be in writing, but document it
 
 ### For Communication
 
 **Secure options:**
 - EMR patient portal messaging
-- HIPAA-compliant messaging apps (Spruce, OhMD, etc.)
+- Messaging apps whose vendor signs a BAA (Spruce, OhMD, etc.). HIPAA certifies no product; "HIPAA-compliant" is a marketing label, and what matters is the BAA and your own safeguards
 - Encrypted email
 
 **Not secure:**
@@ -311,7 +333,7 @@ A few pages covering the basics is sufficient initially. You can use templates f
 - Regular text messaging
 - Consumer messaging apps (WhatsApp, iMessage, etc.)
 
-**Practical note:** Many DPC practices use regular text/phone with patient understanding and consent documented. This is a calculated risk. Best practice is HIPAA-compliant platforms.
+**Practical note:** Many DPC practices use regular text/phone with patient understanding and consent documented. This is a calculated risk. Best practice is a platform whose vendor signs a BAA.
 
 ---
 
@@ -338,7 +360,7 @@ A few pages covering the basics is sufficient initially. You can use templates f
 **Solution:** Create basic written policies.
 
 ### Mistake 6: Thinking Small Practices Are Exempt
-**Problem:** HIPAA applies regardless of practice size.
+**Problem:** If you are a covered entity, HIPAA applies regardless of practice size; and even if you are not, state privacy law and medical board confidentiality rules still do.
 **Solution:** Scale implementation appropriately, but do implement.
 
 ---
@@ -349,10 +371,10 @@ You must honor these patient rights:
 
 | Right | Your Obligation |
 |-------|-----------------|
-| Access | Provide copies of records within 30 days of request |
+| Access | Provide copies of records within 30 days of request; one 30-day extension is allowed if you tell the patient in writing why and when ([164.524(b)(2)](https://www.ecfr.gov/current/title-45/section-164.524)) |
 | Amendment | Allow patients to request corrections (you can deny with reason) |
 | Disclosure accounting | Track certain disclosures; provide accounting on request |
-| Restrictions | Consider requests to restrict certain uses/disclosures |
+| Restrictions | Consider requests to restrict certain uses/disclosures; you must agree when a patient has paid in full out of pocket and asks you not to disclose that item or service to their health plan ([164.522(a)(1)(vi)](https://www.ecfr.gov/current/title-45/section-164.522)) |
 | Confidential communications | Accommodate reasonable requests for alternative communication |
 | Notice | Provide Notice of Privacy Practices |
 
@@ -388,7 +410,7 @@ Use HIPAA-compliant telehealth platforms (see [Telehealth Platforms](../technolo
 
 ### Triggers for Audit
 - Patient complaint
-- Random audit (rare for small practices)
+- Random audit (rare for small practices in our experience; opinion, not a published statistic)
 - Breach report
 
 ### What Auditors Look For
@@ -414,9 +436,9 @@ Use HIPAA-compliant telehealth platforms (see [Telehealth Platforms](../technolo
 - DPC community shared templates
 
 ### Low-Cost Options
-- HIPAA compliance software for small practices ($20-$100/month)
-- Online HIPAA training courses ($20-$50)
-- Template policy packages ($100-$300)
+- HIPAA compliance software for small practices ($20-$100/month; typical range, unsourced estimate)
+- Online HIPAA training courses ($20-$50; typical range, unsourced estimate)
+- Template policy packages ($100-$300; typical range, unsourced estimate)
 
 ### When to Invest More
 - When hiring employees (training becomes critical)
@@ -448,7 +470,7 @@ Use HIPAA-compliant telehealth platforms (see [Telehealth Platforms](../technolo
 - [ ] BAAs signed with all relevant vendors
 
 ### Ongoing
-- [ ] Annual risk assessment review
+- [ ] Risk assessment review (annual is best practice; the current rule requires periodic review, and HHS's pending Security Rule proposal would make it annual)
 - [ ] Policy updates as needed
 - [ ] Training when adding staff
 - [ ] Breach response procedure ready
@@ -458,9 +480,11 @@ Use HIPAA-compliant telehealth platforms (see [Telehealth Platforms](../technolo
 ## Resources
 
 - [HHS HIPAA Information](https://www.hhs.gov/hipaa/index.html)
-- [HHS Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool)
+- [ONC/OCR Security Risk Assessment Tool](https://www.healthit.gov/privacy-security/security-risk-assessment-tool/)
 - [HIPAA Journal](https://www.hipaajournal.com/) - News and guidance
 - [State Medical Board Requirements](state-dpc-laws-overview.md)
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

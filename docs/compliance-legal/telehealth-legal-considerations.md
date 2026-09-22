@@ -5,7 +5,7 @@
 ---
 
 > [!CAUTION]
-> Telehealth regulations vary dramatically by state and are actively changing. Many COVID-era flexibilities have expired or are expiring. Verify current rules with your state medical board before practicing telehealth across state lines.
+> Telehealth regulations vary dramatically by state and are actively changing. Most COVID-era flexibilities have expired; the DEA telemedicine prescribing flexibility runs through 2026-12-31. Verify current rules with your state medical board before practicing telehealth across state lines.
 
 ---
 
@@ -38,16 +38,15 @@ Not where they live. Not where you are. Where they are *right now*.
 
 **What it is:** An agreement among participating states for expedited licensure.
 
-**Currently ~40 states participate** (check current list at imlcc.org)
+**As of March 2026, 44 states, the District of Columbia and Guam participate.** The non-member states are California, New York, Oregon, South Carolina and Virginia; Massachusetts has legislation pending; Hawaii and Vermont are members but cannot serve as a state of principal license. Check the current map at [imlcc.com](https://imlcc.com/).
 
-**How it works:**
-1. Apply through compact
-2. Get license in qualifying state
-3. Get expedited licenses in other compact states
-4. Still need separate license for each state
-5. Still pay licensing fees
+**How it works** (per [imlcc.com](https://imlcc.com/)):
+1. Hold a full, unrestricted license in a member state that can serve as your state of principal license (SPL). A state qualifies as your SPL if you reside there, conduct at least 25% of your practice there, are employed there, or use it as your tax residence.
+2. Apply to the Compact for a Letter of Qualification. The fee is $700, paid once; the letter is valid for 365 days and typically takes 30-45 days.
+3. Select the member states you want and pay each state's licensing fee.
+4. Each selected state issues its own full license, with its own renewal cycle and fees.
 
-**Cost:** $700+ per additional state license
+**Cost:** $700 one-time Compact fee, plus each state's fee ($35-$895; most $300-$500).
 
 ### State-by-State Licensure
 
@@ -87,27 +86,28 @@ Not where they live. Not where you are. Where they are *right now*.
 - Access controls
 - Audit logs
 
-**HIPAA-compliant platforms:**
-- Doxy.me (free tier available)
-- Zoom for Healthcare (not regular Zoom)
-- Google Meet (with Workspace BAA)
+**Platforms that offer a BAA:**
+- Doxy.me (the free tier's BAA covers a solo physician only)
+- Zoom Pro (a self-serve BAA is available on accounts with up to 9 licenses, about $14-17 per user per month; the enterprise healthcare tier is not required)
+- Google Meet (with a Google Workspace BAA; $7 per user per month at the entry tier)
 - VSee
 - Teladoc (enterprise)
 - Most EMR-integrated solutions
 
-**NOT HIPAA-compliant:**
-- Regular Zoom
+**Not acceptable without a BAA:**
+- Any Zoom account on which you have not accepted the BAA
 - FaceTime
-- Standard Skype
 - WhatsApp
 - SMS/text messaging
 
+(Skype was retired on 2025-05-05 and is no longer an option.)
+
 ### Post-COVID Reality
 
-**COVID flexibilities have ended or are ending:**
-- FaceTime/Skype enforcement discretion expired
+**Most COVID flexibilities have ended; one has not:**
+- HHS OCR's telehealth enforcement discretion, which tolerated FaceTime, Skype and similar consumer apps, expired on 2023-05-11, with a transition period that ended 2023-08-09 (88 FR 22380)
 - Audio-only restrictions returning in some states
-- Prescribing flexibilities tightening
+- DEA telemedicine prescribing flexibilities have not tightened; they were extended a fourth time, through 2026-12-31 (see [Controlled Substances](#controlled-substances) below)
 
 **Check current HHS guidance** for any remaining flexibilities.
 
@@ -146,7 +146,7 @@ Not where they live. Not where you are. Where they are *right now*.
 
 ### Consent Best Practices
 
-- Written consent recommended (not required everywhere)
+- Written consent recommended (not required everywhere); the FSMB telemedicine policy (September 2024, PDF at fsmb.org) sets out the consent elements state boards expect
 - Can be part of membership agreement
 - Verbal consent acceptable with documentation
 - Re-consent for significant changes
@@ -157,15 +157,17 @@ Not where they live. Not where you are. Where they are *right now*.
 
 ### Controlled Substances
 
-**The Ryan Haight Act:**
-- Generally requires in-person exam before prescribing controlled substances
-- Exceptions expanded during COVID
-- Many flexibilities have expired or are expiring
+**The Ryan Haight Act** ([21 USC 829(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section829&num=0&edition=prelim)):
+- Generally requires at least one in-person medical evaluation before prescribing a controlled substance by means of the internet
+- Contains a "practice of telemedicine" exception; the COVID-era version of that exception has been extended repeatedly rather than allowed to lapse
 
-**Current status (verify):**
-- Audio/video visit may qualify as "in-person" for some substances
-- State rules vary significantly
-- DEA proposed rules still in flux
+!!! warning "Subject to change"
+    The DEA and HHS extended the COVID-era telemedicine prescribing flexibilities a fourth time, through 2026-12-31 (21 CFR 1307.41; [90 FR 2025-24123](https://www.federalregister.gov/documents/2025/12/31/2025-24123), effective 2026-01-01). Under the extension, a real-time, two-way audio-video visit satisfies the in-person requirement for Schedule II-V prescriptions; an audio-only visit suffices only for Schedule III-V medications approved for opioid use disorder. In every case the prescription must be for a legitimate medical purpose, you must be DEA-registered, and the state where the patient is located must permit it. A video visit does not "qualify as in-person"; it is a temporary exception to the in-person rule.
+
+    Two permanent rules took effect on 2025-12-31: one for buprenorphine via telemedicine and one for Veterans Affairs practitioners. The DEA's special-registration proposed rule (January 2025) has not been finalized. Check dea.gov before 2027-01-01; the flexibility ends that day unless it is extended or replaced.
+
+**Also:**
+- State rules vary significantly and may be stricter than the federal rule
 - Check current DEA guidance
 
 **Safest approach:** In-person exam before controlled substances unless you've verified current exceptions apply.
@@ -230,7 +232,7 @@ vital signs self-reported.
 
 ### CMS/Medicare
 
-Audio-only allowed for certain visits (check current guidance).
+Medicare pays for audio-only telehealth for certain visits through 2027-12-31 (CMS telehealth FAQ, 2026-02-26). This is moot if you have opted out of Medicare, as most DPC physicians have; see the [Medicare Opt-Out Guide](medicare-opt-out-guide.md).
 
 ### Best Practice
 
@@ -289,10 +291,10 @@ Audio-only allowed for certain visits (check current guidance).
 
 | Platform | Cost | HIPAA | Notes |
 |----------|------|-------|-------|
-| Doxy.me | Free tier | Yes | Video only, easy setup |
-| Google Meet | $6/mo | Yes (with BAA) | Need Workspace account |
+| Doxy.me | Free tier | Yes (free-tier BAA covers a solo physician only) | Video only, easy setup |
+| Google Meet | $7/user/mo | Yes (with Workspace BAA) | Need Workspace account |
 | EMR-integrated | Varies | Usually | Check your EMR |
-| Zoom Healthcare | $200+/mo | Yes | Enterprise features |
+| Zoom Pro | ~$14-17/user/mo | Yes (self-serve BAA, up to 9 licenses) | Enterprise healthcare tier not required |
 
 ### What to Look For
 
@@ -385,7 +387,7 @@ Audio-only allowed for certain visits (check current guidance).
 
 **Costs:**
 - Platform: $0-50/month
-- Additional state licenses: $700+/state (if needed)
+- Additional state licenses: $700 one-time IMLC fee plus $35-$895 per state (if needed)
 - Malpractice endorsement: Varies
 
 ---
@@ -403,13 +405,15 @@ Audio-only allowed for certain visits (check current guidance).
 
 - **Federation of State Medical Boards:** Telehealth policy by state
 - **Center for Connected Health Policy:** State telehealth laws
-- **IMLC:** Interstate Medical Licensure Compact
-- **DEA:** Telehealth prescribing guidance
+- **IMLC:** [Interstate Medical Licensure Compact](https://imlcc.com/) (imlcc.com; the .org domain no longer belongs to the Compact)
+- **DEA:** Telehealth prescribing guidance at dea.gov
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
 > [!NOTE]
-> Telehealth regulations are a moving target. What was true during COVID may not be true now. When in doubt, practice conservatively and verify current rules with your state medical board.
+> This guide is educational content, not legal advice. Telehealth regulations are a moving target. What was true during COVID may not be true now. When in doubt, practice conservatively and verify current rules with your state medical board.
 
 ---
 

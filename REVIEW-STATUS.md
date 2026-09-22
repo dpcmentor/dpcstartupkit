@@ -63,7 +63,7 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Not Reviewed | | | |
+| [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
 | [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Not Reviewed | | | |
 | [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Not Reviewed | | | Bootstrap philosophy emphasized |
 | [partnership-structures.md](docs/business-formation/partnership-structures.md) | Not Reviewed | | | New - partner models, buy-in |
@@ -71,7 +71,7 @@ practicing in that state may promote one to Reviewed.
 | [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Not Reviewed | | | |
 | [business-insurance-guide.md](docs/business-formation/business-insurance-guide.md) | Not Reviewed | | | |
 | [working-with-attorneys.md](docs/business-formation/working-with-attorneys.md) | Not Reviewed | | | |
-| [tax-planning-basics.md](docs/business-formation/tax-planning-basics.md) | Not Reviewed | | | |
+| [tax-planning-basics.md](docs/business-formation/tax-planning-basics.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
 
 ## Small Business Fundamentals (NEW SECTION)
 
@@ -91,13 +91,13 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Not Reviewed | | | |
+| [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
 | [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Not Reviewed | | | |
 | [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md) | Not Reviewed | | | |
 | [payment-processing-options.md](docs/pricing-membership/payment-processing-options.md) | Not Reviewed | | | |
 | [family-pricing-strategies.md](docs/pricing-membership/family-pricing-strategies.md) | Not Reviewed | | | |
 | [handling-cancellations-refunds.md](docs/pricing-membership/handling-cancellations-refunds.md) | Not Reviewed | | | |
-| [employer-contracts-guide.md](docs/pricing-membership/employer-contracts-guide.md) | Not Reviewed | | | |
+| [employer-contracts-guide.md](docs/pricing-membership/employer-contracts-guide.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
 
 ## Technology
 
@@ -127,16 +127,16 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [hipaa-compliance-basics.md](docs/compliance-legal/hipaa-compliance-basics.md) | Not Reviewed | | | |
-| [state-dpc-laws-overview.md](docs/compliance-legal/state-dpc-laws-overview.md) | Not Reviewed | | | |
-| [medicare-opt-out-guide.md](docs/compliance-legal/medicare-opt-out-guide.md) | Not Reviewed | | | |
-| [controlled-substances-compliance.md](docs/compliance-legal/controlled-substances-compliance.md) | Not Reviewed | | | New - DEA, PDMP, EPCS |
-| [telehealth-legal-considerations.md](docs/compliance-legal/telehealth-legal-considerations.md) | Not Reviewed | | | New - licensing, platforms |
-| [corporate-practice-medicine.md](docs/compliance-legal/corporate-practice-medicine.md) | Not Reviewed | | | New - CPOM, MSO structures |
-| [baa-requirements.md](docs/compliance-legal/baa-requirements.md) | Not Reviewed | | | |
-| [privacy-practices-guide.md](docs/compliance-legal/privacy-practices-guide.md) | Not Reviewed | | | |
-| [required-documentation.md](docs/compliance-legal/required-documentation.md) | Not Reviewed | | | |
-| [incident-response-plan.md](docs/compliance-legal/incident-response-plan.md) | Not Reviewed | | | |
+| [hipaa-compliance-basics.md](docs/compliance-legal/hipaa-compliance-basics.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [state-dpc-laws-overview.md](docs/compliance-legal/state-dpc-laws-overview.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [medicare-opt-out-guide.md](docs/compliance-legal/medicare-opt-out-guide.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [controlled-substances-compliance.md](docs/compliance-legal/controlled-substances-compliance.md) | Not Reviewed | | | New - DEA, PDMP, EPCS; Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [telehealth-legal-considerations.md](docs/compliance-legal/telehealth-legal-considerations.md) | Not Reviewed | | | New - licensing, platforms; Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [corporate-practice-medicine.md](docs/compliance-legal/corporate-practice-medicine.md) | Not Reviewed | | | New - CPOM, MSO structures; Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [baa-requirements.md](docs/compliance-legal/baa-requirements.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [privacy-practices-guide.md](docs/compliance-legal/privacy-practices-guide.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [required-documentation.md](docs/compliance-legal/required-documentation.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
+| [incident-response-plan.md](docs/compliance-legal/incident-response-plan.md) | Not Reviewed | | | Source-checked against primary law 2026-09-22, corrections applied; awaiting physician sign-off to promote to Reviewed |
 
 ## Operations
 

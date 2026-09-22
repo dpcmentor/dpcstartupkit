@@ -2,7 +2,7 @@
 
 ## Overview
 
-Business Associate Agreements are contracts required by HIPAA whenever you share Protected Health Information (PHI) with vendors and service providers. Understanding when you need a BAA—and what it must contain—protects your practice from compliance violations.
+Business Associate Agreements are the contracts HIPAA requires whenever a vendor creates, receives, maintains or transmits Protected Health Information (PHI) *on your behalf*. They are not required for disclosures to another clinician for treatment, for mere conduits such as the postal service, or for disclosures the patient directs. Understanding when you need a BAA—and what it must contain—protects your practice from compliance violations.
 
 > [!CAUTION]
 > **Review BAAs with Legal Counsel:** While this guide explains BAA requirements, these are legal contracts with significant implications. Have a healthcare attorney review any BAA before signing, especially if a vendor provides their own template. Ensure the terms adequately protect your practice and meet current HIPAA requirements.
@@ -23,9 +23,11 @@ A Business Associate (BA) is any person or entity that:
 - Performs functions on your behalf involving PHI, OR
 - Provides services that require access to PHI
 
-### You Are the Covered Entity
+### Are You the Covered Entity?
 
-As a healthcare provider, you're a "Covered Entity" under HIPAA. When you share PHI with Business Associates, you must have a BAA in place.
+HIPAA makes you a "Covered Entity" only if you, or a vendor for you, send HIPAA standard electronic transactions such as insurance claims or eligibility checks ([45 CFR 160.103](https://www.ecfr.gov/current/title-45/section-160.103)). A cash-only DPC practice that never does is not one; see [Are You a Covered Entity?](hipaa-compliance-basics.md#are-you-a-covered-entity) for the test and CMS's decision tool.
+
+If you are a covered entity, you must have a BAA in place before sharing PHI with a Business Associate ([164.502(e)](https://www.ecfr.gov/current/title-45/section-164.502)). If you are not, HIPAA does not require BAAs—but they are the practical standard every healthcare vendor expects, the simplest way to bind a vendor to protect your patients' data, and the habit that keeps you ready for the day a single electronic claim makes you a covered entity. This guide assumes you will sign them either way.
 
 ---
 
@@ -44,10 +46,11 @@ As a healthcare provider, you're a "Covered Entity" under HIPAA. When you share 
 | **Answering service** | If takes patient messages | Yes |
 | **IT support** | If accessing systems with PHI | Yes |
 | **Shredding company** | Document destruction | Yes |
-| **Lab company** | Quest, Labcorp | Yes |
+| **Lab company** | Quest, Labcorp | No. A lab that runs the tests you order is a covered entity in its own right, and your order is a treatment disclosure ([45 CFR 160.103](https://www.ecfr.gov/current/title-45/section-160.103), business associate definition, paragraph (4)(i)). HHS: "A physician is not required to have a business associate contract with a laboratory as a condition of disclosing protected health information for the treatment of an individual." |
 | **Consultant** | If accessing PHI | Yes |
 | **Attorney** | If accessing PHI | Yes |
-| **Accountant** | Generally no (unless accessing PHI) | Usually no |
+| **Accountant** | Bookkeeping, tax | Usually no; yes if they receive patient-level records (ledgers that name patients and services) |
+| **Mail, couriers, ISPs, phone carriers** | USPS, UPS, internet and phone service | No (conduit exception: they transport PHI without routinely accessing it) |
 
 ### When You DON'T Need a BAA
 
@@ -83,8 +86,7 @@ As a healthcare provider, you're a "Covered Entity" under HIPAA. When you share 
 ### Stage 2: Growing (25-75 Patients)
 
 **Add:**
-- Lab services
-- Any new technology vendors
+- Any new technology vendors (not the lab itself—see the table above)
 - Answering service (if applicable)
 - IT support (if applicable)
 
@@ -104,7 +106,7 @@ As a healthcare provider, you're a "Covered Entity" under HIPAA. When you share 
 
 ### What Must Be in a BAA
 
-HIPAA requires specific provisions:
+HIPAA requires specific provisions ([45 CFR 164.504(e)(2)](https://www.ecfr.gov/current/title-45/section-164.504)):
 
 **1. Permitted Uses and Disclosures**
 - What the BA can do with PHI
@@ -114,14 +116,14 @@ HIPAA requires specific provisions:
 - BA cannot use PHI except as permitted
 - Cannot disclose except as permitted
 
-**3. Safeguards**
+**3. Safeguards, Including the Security Rule**
 - BA must implement appropriate safeguards
+- BA must comply with the Security Rule for any electronic PHI it handles
 - Prevent unauthorized use or disclosure
 
-**4. Reporting Requirements**
-- BA must report breaches to you
-- Report unauthorized uses/disclosures
-- Report security incidents
+**4. Reporting and Breach Notification**
+- BA must report unauthorized uses/disclosures and security incidents
+- BA must report breaches of unsecured PHI to you, with a stated timeline (see [Sample BAA Provisions](#sample-baa-provisions) for the legal maximum)
 
 **5. Subcontractor Requirements**
 - BA must get BAAs with their subcontractors
@@ -139,17 +141,19 @@ HIPAA requires specific provisions:
 - BA must provide disclosure information
 - Support your accounting obligations
 
-**9. HHS Access**
+**9. Privacy Rule Compliance for Delegated Duties**
+- When the BA carries out one of your Privacy Rule obligations (for example, answering patient access requests), it must comply with the Privacy Rule as you would
+
+**10. HHS Access**
 - BA must make practices available to HHS
 - Allow compliance audits
 
-**10. Return or Destruction**
+**11. Return or Destruction**
 - When relationship ends: return or destroy PHI
 - If not feasible: continue protections
 
-**11. Breach Notification**
-- Specific notification requirements
-- Timelines for reporting
+**12. Termination for Material Violation**
+- You may terminate the agreement if the BA violates a material term
 
 ---
 
@@ -173,13 +177,13 @@ HIPAA requires specific provisions:
 
 | Vendor | BAA Availability |
 |--------|------------------|
-| Google Workspace | Available (must enable and accept) |
-| Microsoft 365 | Available (part of terms) |
-| Zoom for Healthcare | Available (healthcare-specific plan) |
-| Doxy.me | Automatic with account |
+| Google Workspace (paid plans only) | Available; accept in the admin console. Consumer Gmail has no BAA |
+| Microsoft 365 (business/enterprise plans only) | Part of the online services terms |
+| Zoom | Eligible paid plans only; you must request and execute the BAA. Not automatic |
+| Doxy.me | Accept under Settings → BAA; the free plan covers one physician |
 | Elation Health | Part of service agreement |
-| Atlas.md | Part of service agreement |
-| Practice Fusion | Part of service agreement |
+| Atlas.md | Confirm at signup |
+| Practice Fusion (now Veradigm) | Part of service agreement |
 | Hint Health | Part of service agreement |
 
 ### If No BAA Available
@@ -206,6 +210,8 @@ HIPAA requires specific provisions:
 
 **Breach Notification:**
 > Business Associate shall notify Covered Entity of any Breach of Unsecured Protected Health Information without unreasonable delay, and in no case later than 30 days after discovery of the Breach.
+
+*The legal maximum for a business associate to notify you is 60 calendar days after discovery ([45 CFR 164.410(b)](https://www.ecfr.gov/current/title-45/section-164.410)). Many practices negotiate 5 to 30 days, as in this sample, so they have time to meet their own 60-day patient deadline.*
 
 **Termination:**
 > Upon termination of this Agreement, Business Associate shall return or destroy all Protected Health Information received from Covered Entity, or created or received by Business Associate on behalf of Covered Entity.
@@ -264,7 +270,7 @@ HIPAA requires specific provisions:
 2. Request return or destruction of PHI
 3. Get confirmation
 4. Update tracking system
-5. Keep BAA on file (6 years)
+5. Keep BAA on file for 6 years from the later of its creation or the date it was last in effect ([45 CFR 164.530(j)](https://www.ecfr.gov/current/title-45/section-164.530))
 
 ---
 
@@ -349,7 +355,7 @@ HIPAA requires specific provisions:
 - [ ] Request PHI return/destruction
 - [ ] Get confirmation
 - [ ] Update tracking
-- [ ] Retain BAA for 6 years
+- [ ] Retain BAA for 6 years from the later of creation or last effective date
 
 ---
 
@@ -357,8 +363,10 @@ HIPAA requires specific provisions:
 
 - [HIPAA Compliance Basics](hipaa-compliance-basics.md) - Foundation
 - [Privacy Practices Guide](privacy-practices-guide.md) - Overall privacy
-- HHS Model BAA - Template language
+- [HHS Sample Business Associate Agreement Provisions](https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html) - Template language
 - Your attorney - Custom BAA review
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

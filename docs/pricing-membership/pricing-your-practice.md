@@ -1,6 +1,6 @@
 # Pricing Your Practice
 
-> **Quick Summary:** Calculate your required revenue (operating costs + desired income + buffer), divide by target panel size and 12 months for base pricing. Validate against local market rates. Typical DPC pricing ranges from $50-150/month depending on location and practice style.
+> **Quick Summary:** Calculate your required revenue (operating costs + desired income + buffer), divide by target panel size and 12 months for base pricing. Validate against local market rates. The national average adult membership was $98.64/month in the State of DPC 2026 survey, with regional averages from about $80 (Midwest) to $113 (West).
 
 ---
 
@@ -46,9 +46,9 @@ What do you need to earn to cover costs and pay yourself?
 
 How many patients do you want to care for?
 
-**Typical DPC panels:** 400-800 patients per physician
+**Typical DPC panels:** 400-700 patients per physician (State of DPC 2026 survey; the AAFP reports an average of about 413)
 - Lower panels (400-500): More time per patient, higher price needed
-- Higher panels (600-800): More volume, lower price sustainable
+- Higher panels (600-700): More volume, lower price sustainable
 
 ### 3. Your Price Per Member
 
@@ -69,7 +69,7 @@ Use your numbers from the [Startup Costs Overview](../business-formation/startup
 | Rent | $1,500 |
 | EMR/software | $250 |
 | Medical supplies | $400 |
-| Labs (wholesale cost passed to patients) | $0 |
+| Labs (wholesale cost passed to patients; see the HSA note in Step 6) | $0 |
 | Phone/internet | $150 |
 | Malpractice insurance | $700 |
 | General liability | $100 |
@@ -82,7 +82,7 @@ Use your numbers from the [Startup Costs Overview](../business-formation/startup
 | **Annual Operating Costs** | **$51,600** |
 
 > [!NOTE]
-> **These costs vary significantly by location and specialty.** Malpractice insurance ranges from $4,000-$12,000/year for primary care depending on state. Continuing education should include conference registration, travel, and lodging ($2,000-2,500/year). Professional memberships add up quickly—DPC organizations ($500-750 each), state medical association, medical staff dues, and specialty societies can total $2,500-3,500/year.
+> **These costs vary significantly by location and specialty.** Malpractice insurance ranges from $4,000-$12,000/year for primary care depending on state (typical range; unsourced estimate). Continuing education should include conference registration, travel, and lodging ($2,000-2,500/year). Professional memberships add up quickly—DPC organizations (DPC Alliance dues are $500; the upper end of a $500-750 range is an unsourced estimate), state medical association, medical staff dues, and specialty societies can total $2,500-3,500/year.
 
 ---
 
@@ -100,10 +100,11 @@ What do you need/want to earn personally?
 
 **Example:**
 - Desired take-home income: $180,000/year
-- Self-employment taxes (~15%): $27,000
+- Self-employment tax: ~$31,300 (working: net profit of about $291,000 × 92.35% = $268,700 of net earnings; Social Security 12.4% × the $184,500 wage base for 2026 = $22,878; Medicare 2.9% × $268,700 = $7,792; Additional Medicare 0.9% on earnings above $200,000 = $618; total $31,288)
+- Federal and state income tax: $45,000 (illustrative placeholder; depends on bracket, state and deductions)
 - Health insurance: $15,000/year
 - Retirement savings: $20,000/year
-- **Total personal income need: $242,000/year**
+- **Total personal income need: $291,300/year** ($180,000 + $31,300 + $45,000 + $15,000 + $20,000)
 
 ---
 
@@ -115,10 +116,10 @@ Build in margin for unexpected costs, slow months, and growth investment.
 
 **Example:**
 - Operating costs: $51,600
-- Personal income need: $242,000
-- Subtotal: $293,600
-- Buffer (15%): $44,040
-- **Total Revenue Needed: $337,640/year**
+- Personal income need: $291,300
+- Subtotal: $342,900
+- Buffer (15%): $51,435
+- **Total Revenue Needed: $394,335/year**
 
 ---
 
@@ -142,7 +143,7 @@ Choose based on how you want to practice:
 **Annual Revenue Needed ÷ Panel Size ÷ 12 = Monthly Price**
 
 **Example:**
-- $337,640 ÷ 500 patients ÷ 12 months = **$56.27/month**
+- $394,335 ÷ 500 patients ÷ 12 months = **$65.72/month**
 
 **But wait**—this assumes 100% adult patients at the same price. In reality:
 - Children are often priced lower
@@ -158,9 +159,11 @@ Choose based on how you want to practice:
 | Seniors (20%) | 100 | $109 | $10,900 |
 | **Total** | **500** | | **$42,500/month** |
 
+*Enrolling Medicare beneficiaries in a senior tier raises opt-out and private-contract requirements—see the [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) before pricing that tier.*
+
 **Annual revenue:** $42,500 × 12 = **$510,000**
 
-This exceeds our $337,640 requirement, providing margin for:
+This exceeds our $394,335 requirement, providing margin for:
 - Family discounts
 - Slow growth periods
 - Patients who leave
@@ -178,13 +181,15 @@ Now compare your calculated price against market data:
 3. **Regional cost of living:** Adjust for local economics
 4. **Traditional care costs:** What do uninsured patients pay out-of-pocket?
 
-**National DPC Price Ranges (2024):**
-- Lower cost of living areas: $50-$75/month
-- Average markets: $75-$100/month
-- High cost of living areas: $100-$150/month
-- Premium/concierge style: $150-$200/month
+**National DPC Membership Prices (State of DPC 2026 survey; 465 practices, data collected October-November 2024):**
+- National average: $98.64/month
+- By region: West $113.28, Northeast $110.44, South $98.38, Midwest $80.36
+- By setting: urban $110.00, rural $81.56
 
-*Source: [AAFP DPC Data Brief](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html)*
+*Source: State of DPC 2026 (DPC Alliance and Hint Health). The [AAFP DPC overview](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html) cites a broader $50-$100/month range.*
+
+!!! warning "Subject to change"
+    **2026 HSA fee caps.** Since January 1, 2026, a member who has an HSA-qualified high-deductible health plan keeps HSA eligibility only if your DPC fee is no more than **$150/month for an individual** or **$300/month for an arrangement covering more than one person** (indexed after 2026) — [26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), added by P.L. 119-21 §71308. A premium tier above $150/month, or a family plan above $300/month, costs those members their HSA contributions ([IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf), Q&A-13 and Q&A-20). Scope matters too: an arrangement that bundles non-ambulatory laboratory services or prescription drugs other than vaccines is not a qualifying arrangement at all (§223(c)(1)(E)(iii)), and items billed separately but available only to members are treated as part of the arrangement (Notice 2026-05, Q&A-11 and Q&A-12) — which is why the example in Step 1 passes lab costs through at wholesale rather than bundling them. Confirm your tier design with a tax advisor; this is educational content, not tax advice.
 
 > [!TIP]
 > **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician) and [DPC Frontier Mapper](https://mapper.dpcfrontier.com/). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
@@ -218,7 +223,7 @@ Before finalizing:
 Employers often expect volume discounts:
 
 **Typical employer pricing:**
-- 10-20% below individual rates
+- 10-20% below individual rates (typical convention; unsourced)
 - Per Employee Per Month (PEPM) structure
 - May include dependents at additional cost
 
@@ -233,7 +238,7 @@ Employers often expect volume discounts:
 
 Reward commitment with annual prepayment:
 
-**Typical discount:** 10-15% (effectively 1-2 months free)
+**Typical discount:** 10-15% (effectively 1-2 months free; typical convention, unsourced)
 
 **Example:**
 - Monthly: $89/month ($1,068/year)
@@ -252,7 +257,7 @@ Reward commitment with annual prepayment:
 Plan for price increases from the start:
 
 **Legitimate reasons to raise prices:**
-- Annual inflation adjustment (2-4%)
+- Annual inflation adjustment (2-4% is a common convention; unsourced)
 - Significant cost increases
 - Added services or value
 - Market repositioning
@@ -326,7 +331,8 @@ Use this worksheet to calculate your pricing:
 | Category | Amount |
 |----------|--------|
 | Desired take-home | $ |
-| Self-employment tax (15%) | $ |
+| Self-employment tax (15.3% × 92.35% of net profit; Social Security portion capped at the wage base) | $ |
+| Income tax (federal + state) | $ |
 | Health insurance | $ |
 | Retirement savings | $ |
 | **Total Income Need** | **$** |
@@ -371,7 +377,9 @@ Use this worksheet to calculate your pricing:
 - [Membership Models Comparison](membership-models-comparison.md)
 - [Pricing Calculator Template](../templates/spreadsheets/template-pricing-calculator.xlsx)
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md)
-- [DPC Frontier Mapper](https://www.dpcfrontier.com/mapper/)
+- [DPC Frontier Mapper](https://mapper.dpcfrontier.com/)
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

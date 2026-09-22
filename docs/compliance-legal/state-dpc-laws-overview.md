@@ -45,23 +45,28 @@ DPC-enabling legislation generally:
 
 ### States with DPC-Specific Legislation
 
-As of early 2024, approximately 35+ states have enacted DPC-specific legislation. This landscape continues to evolve.
+As of 2026, 33 states have enacted DPC-specific legislation; Alaska (SB 45 of 2024, codified at AS 21.03.025) was the 33rd. This landscape continues to evolve.
 
-**States with established DPC laws include:**
-- Alabama, Arizona, Arkansas
-- Colorado, Connecticut
-- Florida, Georgia
-- Hawaii, Idaho, Indiana, Iowa
+**States with DPC laws (33):**
+- Alabama, Alaska (AS 21.03.025), Arizona, Arkansas
+- Colorado
+- Florida, Georgia (O.C.G.A. § 33-7-2.1)
+- Idaho, Indiana, Iowa
 - Kansas, Kentucky
 - Louisiana
-- Maine, Michigan, Mississippi, Missouri, Montana
-- Nebraska, New Hampshire
+- Maine, Michigan, Mississippi, Missouri, Montana (MCA 50-4-107)
+- Nebraska, New Hampshire (RSA 329:1-e), North Carolina (G.S. 58-3-8, enacted by HB 471 in 2020), North Dakota (NDCC 26.1-53.1-01(4))
+- Ohio (ORC 3901.95, effective 2019-10-17)
 - Oklahoma, Oregon
-- South Carolina, South Dakota
+- South Dakota
 - Tennessee, Texas
 - Utah
 - Virginia
-- Washington, West Virginia, Wisconsin, Wyoming
+- Washington, West Virginia, Wyoming
+
+**Not on the list, despite what older summaries say:** Connecticut and Hawaii have no DPC statute. South Carolina's H.3966 has been pending since February 2025. Wisconsin's SB 4 was vetoed on 2025-08-08 and the veto was sustained on 2026-05-13.
+
+**How this list was checked:** On 2026-09-22 it was compared against the [DPC Frontier](https://www.dpcfrontier.com/) state tracker and against the statutes cited above. The states listed without a citation rest on that tracker and were not individually verified against statute text in this pass; read your own state's statute before relying on it.
 
 **Note:** This list changes as new legislation passes. Always verify current status for your state.
 
@@ -108,7 +113,6 @@ Some state laws limit what services can be included in DPC agreements while main
 - Primary care services only
 - No inpatient or hospital services
 - No specialty services outside primary care scope
-- May set maximum fee limits
 
 ### Practitioner Requirements
 
@@ -132,7 +136,7 @@ Some states prohibit corporations from practicing medicine or employing physicia
 - California
 - Texas
 - New York
-- Illinois
+- Illinois (hospitals may employ physicians: *Berlin v. Sarah Bush Lincoln Health Center*, 179 Ill. 2d 1 (1997))
 - Others
 
 **Implication:** In these states, only licensed physicians can typically own a medical practice. Consult with a healthcare attorney about compliant structures.
@@ -176,11 +180,11 @@ Treating Medicare beneficiaries in a DPC practice is complex:
 | Opted-Out | Can charge Medicare patients directly via private contract; cleaner for DPC |
 
 **Opt-Out Process:**
-- Submit affidavit to Medicare carriers
+- Submit the affidavit to your Medicare Administrative Contractor (MAC) ([42 CFR 405.410(b)](https://www.ecfr.gov/current/title-42/section-405.410))
 - Must have private contracts with Medicare patients
 - Applies to all Medicare patients for 2 years (auto-renews)
-- Cannot bill Medicare for any services during opt-out period
-- More information: [CMS Medicare Opt-Out Information](https://www.cms.gov/medicare/enrollment-renewal/providers-suppliers/opt-out)
+- Cannot bill Medicare for any services during opt-out period, with one exception: emergency or urgent care furnished to a beneficiary who has not signed a private contract must be billed to Medicare, and you may not charge more than the limiting charge ([42 CFR 405.440(b)](https://www.ecfr.gov/current/title-42/section-405.440))
+- More information: [42 CFR Part 405, Subpart D](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-405/subpart-D), the [CMS opt-out affidavit dataset](https://data.cms.gov/provider-characteristics/medicare-provider-supplier-enrollment/opt-out-affidavits), and this kit's [Medicare Opt-Out Guide](medicare-opt-out-guide.md)
 
 **Recommendation:** If you want to serve Medicare patients in a clean DPC model, opt-out is often the clearest path. Consult with a healthcare attorney experienced in Medicare.
 
@@ -328,9 +332,9 @@ DPC legislation continues to evolve:
 ## Resources
 
 ### National Resources
-- [DPC Alliance](https://www.dpcare.org/) - State resources and advocacy
+- [DPC Alliance](https://www.dpcalliance.org/) - State resources and advocacy
 - [DPC Frontier](https://www.dpcfrontier.com/) - News and community
-- [Direct Primary Care Coalition](https://dpcare.org/dpc-coalition) - Policy updates
+- [Direct Primary Care Coalition](https://www.dpcare.org/) - Policy updates
 
 ### State-Specific
 - Your state legislature website
@@ -341,6 +345,8 @@ DPC legislation continues to evolve:
 - Healthcare attorneys (seek DPC-experienced)
 - State bar association referrals
 - DPC community attorney recommendations
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
