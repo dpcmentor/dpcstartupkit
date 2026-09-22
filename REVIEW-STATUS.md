@@ -15,7 +15,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md#reviewing-a-guide) for what each stat
 
 ## Pages that need a full "Reviewed" check
 
-These depend on law, tax rules or market pricing that change. A "Reviewed"
+These 19 pages depend on law, tax rules or market pricing that change. A "Reviewed"
 mark here means every such claim was checked against its source on the date
 shown, and the page displays the reviewer's name. Every other page only
 needs a Read-through. State guides are Read-through by default; a physician
@@ -35,6 +35,11 @@ practicing in that state may promote one to Reviewed.
 - [corporate-practice-medicine.md](docs/compliance-legal/corporate-practice-medicine.md)
 - [required-documentation.md](docs/compliance-legal/required-documentation.md)
 - [incident-response-plan.md](docs/compliance-legal/incident-response-plan.md)
+- [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md)
+- [handling-cancellations-refunds.md](docs/pricing-membership/handling-cancellations-refunds.md)
+- [dispensing-medications.md](docs/operations/dispensing-medications.md)
+- [hiring-your-first-employee.md](docs/operations/hiring-your-first-employee.md)
+- [ai-clinical-tools.md](docs/technology/ai-clinical-tools.md)
 
 ## Status Key
 
@@ -93,10 +98,10 @@ practicing in that state may promote one to Reviewed.
 |----------|--------|----------|------|-------|
 | [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 | [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Read-through | JF | 2026-09-22 | 2026 HSA caps; benchmarks aligned to State of DPC 2026 |
-| [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md) | Not Reviewed | | | |
+| [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sample clauses now state-conditional |
 | [payment-processing-options.md](docs/pricing-membership/payment-processing-options.md) | Read-through | JF | 2026-09-22 | Processor fees re-read from vendor pricing pages 2026-09-22 |
 | [family-pricing-strategies.md](docs/pricing-membership/family-pricing-strategies.md) | Read-through | JF | 2026-09-22 | 2026 HSA $300 household cap added to examples |
-| [handling-cancellations-refunds.md](docs/pricing-membership/handling-cancellations-refunds.md) | Not Reviewed | | | |
+| [handling-cancellations-refunds.md](docs/pricing-membership/handling-cancellations-refunds.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; refund/termination rules state-conditional |
 | [employer-contracts-guide.md](docs/pricing-membership/employer-contracts-guide.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 
 ## Technology
@@ -110,7 +115,7 @@ practicing in that state may promote one to Reviewed.
 | [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Not Reviewed | | | |
 | [scheduling-systems.md](docs/technology/scheduling-systems.md) | Not Reviewed | | | |
 | [lab-imaging-integration.md](docs/technology/lab-imaging-integration.md) | Not Reviewed | | | |
-| [ai-clinical-tools.md](docs/technology/ai-clinical-tools.md) | Not Reviewed | | | |
+| [ai-clinical-tools.md](docs/technology/ai-clinical-tools.md) | Reviewed | JF | 2026-09-22 | Every legal, regulatory and pricing claim checked against primary sources 2026-09-22; state AI-disclosure laws added |
 
 ## Marketing
 
@@ -149,9 +154,9 @@ practicing in that state may promote one to Reviewed.
 | [after-hours-coverage.md](docs/operations/after-hours-coverage.md) | Not Reviewed | | | |
 | [inventory-management.md](docs/operations/inventory-management.md) | Not Reviewed | | | |
 | [transitioning-from-practice.md](docs/operations/transitioning-from-practice.md) | Not Reviewed | | | |
-| [dispensing-medications.md](docs/operations/dispensing-medications.md) | Not Reviewed | | | |
+| [dispensing-medications.md](docs/operations/dispensing-medications.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sources linked on page |
 | [referral-network-building.md](docs/operations/referral-network-building.md) | Not Reviewed | | | |
-| [hiring-your-first-employee.md](docs/operations/hiring-your-first-employee.md) | Not Reviewed | | | New - when/how to hire |
+| [hiring-your-first-employee.md](docs/operations/hiring-your-first-employee.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sources linked on page |
 | [scaling-your-practice.md](docs/operations/scaling-your-practice.md) | Not Reviewed | | | New - questions growth assumptions |
 | [staff-training-guide.md](docs/operations/staff-training-guide.md) | Not Reviewed | | | New - DPC-specific training |
 

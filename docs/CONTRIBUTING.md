@@ -135,7 +135,7 @@ a **Reviewed** mark means that, as of the date you give, you:
 - confirmed the educational-content disclaimer is present.
 
 A page marked Reviewed shows "Reviewed by" with your name at the top. Only
-about fifteen pages need this level of review. They are listed at the top of
+about twenty pages need this level of review. They are listed at the top of
 the status file. Pick one in your specialty, or the guide for your state.
 
 If a page needs more work than you can give it, mark it **Needs Update** and
