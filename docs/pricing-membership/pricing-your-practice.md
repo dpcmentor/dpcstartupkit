@@ -101,7 +101,7 @@ What do you need/want to earn personally?
 **Example:**
 - Desired take-home income: $180,000/year
 - Self-employment tax: ~$31,300 (working: net profit of about $291,000 × 92.35% = $268,700 of net earnings; Social Security 12.4% × the $184,500 wage base for 2026 = $22,878; Medicare 2.9% × $268,700 = $7,792; Additional Medicare 0.9% on earnings above $200,000 = $618; total $31,288)
-- Federal and state income tax: $45,000 (illustrative placeholder; depends on bracket, state and deductions)
+- Federal and state income tax: ~$45,000 (assumes a blended 25% effective rate on the $180,000 take-home target: $180,000 × 25% = $45,000. Your rate depends on filing status, state and deductions, so replace this line with your accountant's estimate. Do not skip it: leaving income tax out of the target understates the revenue you need by tens of thousands of dollars a year)
 - Health insurance: $15,000/year
 - Retirement savings: $20,000/year
 - **Total personal income need: $291,300/year** ($180,000 + $31,300 + $45,000 + $15,000 + $20,000)
