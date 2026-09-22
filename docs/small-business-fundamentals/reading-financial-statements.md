@@ -2,6 +2,9 @@
 
 > **There are three financial statements every business owner needs to read:** the Profit & Loss, the Balance Sheet, and the Cash Flow Statement. If you can read them — even at a basic level — you are already running your practice more intentionally than most physicians who own one.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## The Three Statements and What They Tell You
@@ -66,6 +69,11 @@ Payroll taxes (employer share)     $1,000
 Net profit                         $5,580
 ```
 
+The figures are illustrative, but they hang together: $18,000 in dues is about 180 members at the $98.64/month national average adult fee (State of DPC 2026 survey; see [Pricing Your Practice](../pricing-membership/pricing-your-practice.md)), and $350/month for malpractice sits inside the kit's $300–800/month estimate. Note that the 81% operating margin is measured *before* owner compensation; after it, net profit is $5,580 ÷ $23,000, about 24%. Which of those two numbers you call "margin" matters when you compare yourself with anyone else.
+
+!!! note "About the payroll-tax line"
+    This layout assumes an S-corporation paying the physician a W-2 salary. The employer share of Social Security and Medicare is 7.65% ($918 on $12,000), and the $1,000 shown rounds that up for federal and state unemployment tax. A sole proprietor or single-member LLC has no payroll-tax line at all: the equivalent cost is self-employment tax, 15.3% on 92.35% of net profit (with the Social Security portion capped at the annual wage base), paid on your personal return and half-deductible against income tax. See [Tax Planning Basics](../business-formation/tax-planning-basics.md) for the settled method.
+
 ### What to look at
 
 - **Revenue trend** — is it growing month over month?
@@ -75,7 +83,7 @@ Net profit                         $5,580
 
 ### What "profit" means if you're a sole prop or single-member LLC
 
-If you're not on formal payroll, your "owner compensation" is actually a **draw**, not an expense. The P&L may show a larger "profit" number that includes your take-home. Your CPA will clarify how to read this for your entity type.
+If you're not on formal payroll, your "owner compensation" is actually a **draw**, not an expense. The P&L may show a larger "profit" number that includes your take-home, and that larger number is what self-employment tax and income tax are computed on. Your CPA will clarify how to read this for your entity type; [Tax Planning Basics](../business-formation/tax-planning-basics.md) covers the mechanics.
 
 ---
 
@@ -149,9 +157,11 @@ How cash actually moved in and out of the business during a period. Splits movem
 
 A practice can be "profitable" on the P&L and still run out of cash. This statement explains the gap.
 
-**Example mystery:** Your P&L shows $8,000 profit this month. Your bank balance went *down* $3,000. Where did the money go? The cash flow statement might reveal you paid off a loan ($6,000), bought equipment ($3,000), and your deferred revenue dropped because members stopped paying annually. The P&L and cash flow tell different stories — both are true.
+**Example mystery:** Your P&L shows $8,000 profit this month. Your bank balance went *down* $4,000. Where did the money go? The cash flow statement might reveal you paid off a loan ($6,000), bought equipment ($3,000), and your deferred revenue dropped because members stopped paying annually. The P&L and cash flow tell different stories — both are true.
 
 ### Simplified example
+
+The month below is not the same month as the P&L example above; it follows the mystery just described.
 
 ```
 Cash flow from operations
@@ -194,7 +204,7 @@ Fifteen minutes. Every month. Preferably the same day each month (e.g., the 5th)
 5. Look at the **cash flow statement** if anything surprises you.
 6. Write down *one question* and ask your CPA or bookkeeper at your next check-in.
 
-That's it. This single habit puts you ahead of 80% of small-business owners.
+That's it. Most small-business owners never build this habit; fifteen minutes a month is enough to be an exception.
 
 ---
 
@@ -202,10 +212,10 @@ That's it. This single habit puts you ahead of 80% of small-business owners.
 
 Don't chase metrics. A few are genuinely useful:
 
-- **Gross margin** = gross profit ÷ revenue. For a DPC practice with minimal supplies, this should be very high (often 85–95%).
-- **Operating margin** = operating profit ÷ revenue. This is how efficient your overhead is.
-- **Months of runway** = cash on hand ÷ monthly operating expenses. Aim for at least 2–3 months; 6+ is safer.
-- **Current ratio** = current assets ÷ current liabilities. Should be > 1.0, ideally > 1.5.
+- **Gross margin** = gross profit ÷ revenue. For a DPC practice with minimal supplies this is very high; the 85–95% range used in this kit is an illustrative assumption, not a survey figure. The example above is 94%.
+- **Operating margin** = operating profit ÷ revenue. This is how efficient your overhead is. Decide once whether owner compensation sits above or below the operating-profit line, and keep it there; the example above is 81% before owner compensation and 24% after.
+- **Months of runway** = cash on hand ÷ monthly operating expenses. Aim for at least 2–3 months; 6+ is safer. The balance sheet above holds $27,000 in cash against $3,120 of monthly operating expenses, roughly 8.7 months.
+- **Current ratio** = current assets ÷ current liabilities. Should be > 1.0, ideally > 1.5. The balance sheet above gives $29,000 ÷ $8,000, about 3.6.
 
 See [Key Business Metrics for a DPC Practice](key-business-metrics.md) for DPC-specific metrics beyond these general ones.
 
@@ -236,3 +246,14 @@ The goal is **literacy**, not fluency. You're a reader, not a writer. That's eno
 - [Cash Flow Management](cash-flow-management.md) — acting on what the cash flow statement reveals
 - [Key Business Metrics for a DPC Practice](key-business-metrics.md) — DPC-specific numbers worth tracking
 - [Working with Accountants & Bookkeepers](working-with-accountants.md) — who can help you interpret the numbers
+- [Tax Planning Basics](../business-formation/tax-planning-basics.md) — how the profit line turns into a tax bill
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*

@@ -78,8 +78,8 @@ Skim the basics and focus on:
 | [Bookkeeping Setup](bookkeeping-setup.md) | Software options, workflows, monthly close |
 | [Reading Financial Statements](reading-financial-statements.md) | P&L, balance sheet, and cash flow statement in plain English |
 | [Cash Flow Management](cash-flow-management.md) | Forecasting, runway, managing feast-or-famine cycles |
-| [Understanding Business Taxes](understanding-business-taxes.md) | Self-employment tax, quarterly estimates, deductions, entity taxation |
-| [Working with Accountants & Bookkeepers](working-with-accountants.md) | When to hire, what to expect, how to evaluate them |
+| [Understanding Business Taxes](understanding-business-taxes.md) | Self-employment tax, quarterly estimates, deductions, retirement plans, entity taxation (the statutory detail lives on [Tax Planning Basics](../business-formation/tax-planning-basics.md)) |
+| [Working with Accountants & Bookkeepers](working-with-accountants.md) | When to hire, what to expect to pay, CPA vs. EA vs. preparer, how to evaluate them |
 | [Key Business Metrics for a DPC Practice](key-business-metrics.md) | MRR, churn, panel economics, break-even math |
 
 ---
@@ -88,8 +88,11 @@ Skim the basics and focus on:
 
 - [Bootstrap](../bootstrap/README.md) — starting lean with minimal capital
 - [Business Formation](../business-formation/README.md) — legal entity, registration, insurance
+- [Tax Planning Basics](../business-formation/tax-planning-basics.md) — the Reviewed tax page; the tax guide in this section defers to it
 - [Pricing & Membership](../pricing-membership/README.md) — revenue models and pricing
 - [Operations](../operations/README.md) — day-to-day practice management
+
+*Read through and figures checked on 2026-09-22.*
 
 ---
 
