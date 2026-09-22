@@ -114,41 +114,50 @@ message is not clear.
 
 ## Reviewing a guide
 
-Every guide is meant to be checked by a practicing DPC physician or a
-subject-matter expert before it is treated as reliable. Progress is tracked
-in [REVIEW-STATUS.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md).
+Progress is tracked in [REVIEW-STATUS.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md).
+There are two kinds of review, and the lighter one is the more common.
 
-### What "Reviewed" means
+### Any help counts
 
-Marking a guide as reviewed asserts that you have:
+Read a page and fix what is unclear, out of date or wrong. Then mark it
+**Read-through** in the status file with your initials and the date. That
+takes twenty minutes, it needs no research, and it is the most useful thing
+most contributors do. Any page qualifies.
+
+### If you want your name on a page
+
+Some pages depend on law, tax rules or market pricing that change. For those,
+a **Reviewed** mark means that, as of the date you give, you:
 
 - read the whole page, not just the part in your specialty;
-- checked each legal, tax, regulatory and pricing claim against a primary
-  source, and updated or removed anything you could not confirm;
-- confirmed state-specific details are current for the date of your review;
-- confirmed the educational-content disclaimer is present where the topic
-  needs one;
-- fixed anything unclear enough that a first-time reader would stumble.
+- checked each legal, tax, regulatory or pricing claim against a primary
+  source, and fixed or removed anything you could not confirm;
+- confirmed the educational-content disclaimer is present.
+
+A page marked Reviewed shows "Reviewed by" with your name at the top. Only
+about fifteen pages need this level of review. They are listed at the top of
+the status file. Pick one in your specialty, or the guide for your state.
 
 If a page needs more work than you can give it, mark it **Needs Update** and
-say what is wrong in the Notes column. That is a useful contribution.
+say what is wrong in the Notes column. That is a useful contribution too.
 
 ### Steps
 
-1. In `REVIEW-STATUS.md`, find a page marked **Not Reviewed** or
-   **Needs Update**. Change its status to **In Review** and put your initials
-   in the Reviewer column, so nobody duplicates your work. Commit that change
-   (Path A above works for this).
+1. In `REVIEW-STATUS.md`, find the page. Set its status to **In Review** and
+   put your initials in the Reviewer column, so nobody duplicates your work.
+   Commit that change (Path A above works for this).
 2. Review the page and make your edits.
-3. Return to `REVIEW-STATUS.md`. Set the status to **Reviewed**, the date in
-   `YYYY-MM-DD` form, and a short note on what you changed.
+3. Return to `REVIEW-STATUS.md`. Set the status to **Read-through** or
+   **Reviewed**, the date in `YYYY-MM-DD` form, and a short note on what
+   you changed.
 4. Submit the page edits and the status change together in one pull request.
 
 | Status | Meaning |
 |---|---|
-| Not Reviewed | No expert review yet |
+| Not Reviewed | Nobody has looked at it yet |
 | In Review | Someone has claimed it |
-| Reviewed | Checked and approved as of the date shown |
+| Read-through | Read in full and corrected for clarity; facts not independently verified |
+| Reviewed | Every legal, tax, regulatory and pricing claim checked against a source as of the date shown |
 | Needs Update | Known to be stale or incomplete |
 
 ---
@@ -156,8 +165,8 @@ say what is wrong in the Notes column. That is a useful contribution.
 ## Credit
 
 Contributors are credited. Reviewers and authors are recorded by name or
-initials in `REVIEW-STATUS.md`, and reviewed pages will carry a visible
-"reviewed by" line on the page itself. If you are contributing on behalf of
+initials in `REVIEW-STATUS.md`, and pages marked Reviewed carry a visible
+"Reviewed by" line on the page itself. If you are contributing on behalf of
 an organization and would like it named, say so in the pull request. If you
 would rather not be named, say that instead and you will be listed as
 "anonymous reviewer".
