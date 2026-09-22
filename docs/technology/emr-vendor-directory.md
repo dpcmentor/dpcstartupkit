@@ -1,8 +1,8 @@
 # EMR Vendor Directory for DPC Practices
 
 > **Quick Summary:** Choosing the right EMR is critical for DPC efficiency. Unlike traditional practices buried in billing codes, DPC EMRs should optimize for patient relationships, communication, and simplicity.
-> [!CAUTION]
-> **Pricing and features change frequently.** The information below reflects our understanding at the time of writing and may be outdated. Always verify current pricing, features, and terms directly with each vendor before making decisions. This is not an exhaustive list, and inclusion or exclusion does not constitute an endorsement or recommendation.
+!!! warning "Caution"
+    **Pricing and features change frequently.** The information below reflects our understanding at the time of writing and may be outdated. Always verify current pricing, features, and terms directly with each vendor before making decisions. This is not an exhaustive list, and inclusion or exclusion does not constitute an endorsement or recommendation.
 ---
 
 ## What DPC Practices Need
@@ -508,11 +508,11 @@ Most EMRs offer migration support (sometimes for a fee). Get data in:
 
 ---
 
-> [!TIP]
-> Most EMR decisions can be changed later. Don't let analysis paralysis delay your launch. Pick something reasonable, learn it well, and know you can switch if needed.
-> 
-> [!NOTE]
-> **Disclaimer:** EMR vendors update pricing, features, and terms regularly. We make no guarantees about the accuracy or completeness of this information. Verify all details directly with vendors before purchasing. Have a correction or addition? [Submit an issue](https://github.com/dpcmentor/dpcstartupkit/issues).
+!!! tip
+    Most EMR decisions can be changed later. Don't let analysis paralysis delay your launch. Pick something reasonable, learn it well, and know you can switch if needed.
+
+    [!NOTE]
+    **Disclaimer:** EMR vendors update pricing, features, and terms regularly. We make no guarantees about the accuracy or completeness of this information. Verify all details directly with vendors before purchasing. Have a correction or addition? [Submit an issue](https://github.com/dpcmentor/dpcstartupkit/issues).
 ---
 
 *Your EMR is your clinical home. Choose one that feels natural for how you want to practice. DPC workflows are different—pick a tool that understands that.*

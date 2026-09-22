@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Florida Board of Medicine](https://flhealthsource.gov/) and review [Florida Statutes Chapter 624](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/0624.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Florida Board of Medicine](https://flhealthsource.gov/) and review [Florida Statutes Chapter 624](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/0624.html) for the most current statutory language.
 
 ---
 
@@ -214,8 +214,8 @@ Florida has no state personal income tax, improving take-home income.
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Florida Board of Medicine and Board of Pharmacy.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Florida Board of Medicine and Board of Pharmacy.
 
 ---
 

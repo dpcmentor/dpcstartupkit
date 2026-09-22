@@ -376,8 +376,8 @@ The question reveals:
 
 ---
 
-> [!TIP]
-> The best answer to most "don't I need" questions is: "Not yet." Get patients first. Add infrastructure second.
+!!! tip
+    The best answer to most "don't I need" questions is: "Not yet." Get patients first. Add infrastructure second.
 
 ---
 

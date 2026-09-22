@@ -6,8 +6,8 @@ Beyond malpractice insurance, your DPC practice needs additional coverage to pro
 
 This guide covers the business insurance needs for a DPC practice beyond professional liability.
 
-> [!CAUTION]
-> **Consult an Insurance Professional:** Insurance requirements vary by state, and coverage needs depend on your specific practice model. Work with an insurance broker who understands healthcare businesses to ensure you have appropriate coverage without gaps. Verify that all your practice activities (home visits, telehealth, dispensing) are covered under your policies.
+!!! warning "Caution"
+    **Consult an Insurance Professional:** Insurance requirements vary by state, and coverage needs depend on your specific practice model. Work with an insurance broker who understands healthcare businesses to ensure you have appropriate coverage without gaps. Verify that all your practice activities (home visits, telehealth, dispensing) are covered under your policies.
 
 ## Prerequisites
 

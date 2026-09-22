@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Alaska lacks explicit DPC legislation. Consult the [Alaska State Medical Board](https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard.aspx) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Alaska lacks explicit DPC legislation. Consult the [Alaska State Medical Board](https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard.aspx) and a healthcare attorney to ensure compliance.
 
 ---
 

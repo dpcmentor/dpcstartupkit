@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [West Virginia Board of Medicine](https://wvbom.wv.gov/) and review [West Virginia Code Chapter 33](http://www.wvlegislature.gov/wvcode/code.cfm?chap=33&art=59) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [West Virginia Board of Medicine](https://wvbom.wv.gov/) and review [West Virginia Code Chapter 33](http://www.wvlegislature.gov/wvcode/code.cfm?chap=33&art=59) for the most current statutory language.
 
 ---
 

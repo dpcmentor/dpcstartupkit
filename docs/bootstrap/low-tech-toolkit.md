@@ -346,8 +346,8 @@ What to include:
 
 ---
 
-> [!TIP]
-> Every tool here can be upgraded later. Nothing locks you in. Start with free, upgrade when free isn't enough.
+!!! tip
+    Every tool here can be upgraded later. Nothing locks you in. Start with free, upgrade when free isn't enough.
 
 ---
 

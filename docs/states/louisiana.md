@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Louisiana State Board of Medical Examiners](https://www.lsbme.la.gov/) and review [Louisiana Revised Statutes Title 22](https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Louisiana State Board of Medical Examiners](https://www.lsbme.la.gov/) and review [Louisiana Revised Statutes Title 22](https://www.legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent) for the most current statutory language.
 
 ---
 

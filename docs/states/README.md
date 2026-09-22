@@ -91,8 +91,8 @@ Each state guide includes:
 - Key resources and contacts
 - State-specific considerations
 
-> [!CAUTION]
-> Laws and regulations change. Always verify current requirements with your state medical board, pharmacy board, and a healthcare attorney licensed in your state.
+!!! warning "Caution"
+    Laws and regulations change. Always verify current requirements with your state medical board, pharmacy board, and a healthcare attorney licensed in your state.
 
 ## Federal Updates (2026)
 

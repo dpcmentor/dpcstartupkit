@@ -206,8 +206,8 @@ This guide provides frameworks, language, and strategies for effectively explain
 **If you don't accept Medicare/Medicaid:**
 > "Due to regulatory complexity, we're not currently able to serve Medicare/Medicaid patients in our membership model. I'm happy to recommend other options in the community."
 
-> [!CAUTION]
-> Medicare and DPC involves complex regulations. Consult a healthcare attorney for your specific approach.
+!!! warning "Caution"
+    Medicare and DPC involves complex regulations. Consult a healthcare attorney for your specific approach.
 
 ---
 

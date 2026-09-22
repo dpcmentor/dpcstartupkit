@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Michigan Board of Medicine](https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/medicine) and review [Michigan Compiled Laws Chapter 550](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-218-of-1956) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Michigan Board of Medicine](https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/medicine) and review [Michigan Compiled Laws Chapter 550](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-218-of-1956) for the most current statutory language.
 
 ---
 

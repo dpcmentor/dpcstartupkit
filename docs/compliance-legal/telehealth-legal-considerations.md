@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> Telehealth regulations vary dramatically by state and are actively changing. Most COVID-era flexibilities have expired; the DEA telemedicine prescribing flexibility runs through 2026-12-31. Verify current rules with your state medical board before practicing telehealth across state lines.
+!!! warning "Caution"
+    Telehealth regulations vary dramatically by state and are actively changing. Most COVID-era flexibilities have expired; the DEA telemedicine prescribing flexibility runs through 2026-12-31. Verify current rules with your state medical board before practicing telehealth across state lines.
 
 ---
 
@@ -412,8 +412,8 @@ Medicare pays for audio-only telehealth for certain visits through 2027-12-31 ([
 
 ---
 
-> [!NOTE]
-> This guide is educational content, not legal advice. Telehealth regulations are a moving target. What was true during COVID may not be true now. When in doubt, practice conservatively and verify current rules with your state medical board.
+!!! note
+    This guide is educational content, not legal advice. Telehealth regulations are a moving target. What was true during COVID may not be true now. When in doubt, practice conservatively and verify current rules with your state medical board.
 
 ---
 

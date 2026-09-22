@@ -46,8 +46,8 @@ The DPC Mentor Platform is designed for physicians and physicians-in-training in
 
 The DPC Mentor Platform is a **volunteer-driven connection service** that pairs aspiring DPC physicians with experienced mentors.
 
-> [!IMPORTANT]
-> The platform serves as a pairing service only. Once an initial connection is made, all subsequent arrangements are determined directly between mentor and mentee.
+!!! info "Important"
+    The platform serves as a pairing service only. Once an initial connection is made, all subsequent arrangements are determined directly between mentor and mentee.
 
 **The Platform Provides:**
 
@@ -208,8 +208,8 @@ As a mentee, you are expected to:
 
 ## Malpractice & Insurance
 
-> [!CAUTION]
-> **The DPC Mentor Platform does not provide malpractice coverage for any party.** You must verify coverage arrangements in writing before any clinical interaction.
+!!! warning "Caution"
+    **The DPC Mentor Platform does not provide malpractice coverage for any party.** You must verify coverage arrangements in writing before any clinical interaction.
 
 ### For Clinical Rotations
 
@@ -279,8 +279,8 @@ Mentorship relationships naturally end when:
 3. **Be brief** — No lengthy explanation required
 4. **Update your profile** — Reflect your current status
 
-> [!TIP]
-> Even if a mentorship ends early, maintaining a professional relationship preserves the connection for the future. The DPC community is small.
+!!! tip
+    Even if a mentorship ends early, maintaining a professional relationship preserves the connection for the future. The DPC community is small.
 
 ---
 
@@ -297,8 +297,8 @@ For all other matters — scheduling, logistics, mentorship questions — commun
 
 ## Legal Disclaimer
 
-> [!CAUTION]
-> The DPC Mentor Platform is a connection service only. We do not supervise, direct, or manage mentorship relationships. All clinical and professional decisions remain the sole responsibility of the participating physicians and learners. The platform does not guarantee outcomes, provide malpractice coverage, or serve as an employer of any party.
+!!! warning "Caution"
+    The DPC Mentor Platform is a connection service only. We do not supervise, direct, or manage mentorship relationships. All clinical and professional decisions remain the sole responsibility of the participating physicians and learners. The platform does not guarantee outcomes, provide malpractice coverage, or serve as an employer of any party.
 
 ---
 

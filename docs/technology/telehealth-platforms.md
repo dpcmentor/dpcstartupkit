@@ -209,8 +209,8 @@ Consider:
 - Integration costs
 - Training time
 
-> [!TIP]
-> For most solo DPC practices, free or low-cost options like Doxy.me are sufficient. Save your budget for other startup needs.
+!!! tip
+    For most solo DPC practices, free or low-cost options like Doxy.me are sufficient. Save your budget for other startup needs.
 
 ---
 
@@ -231,13 +231,13 @@ Consider:
 - Microsoft 365 (Business tier+)
 - Most healthcare-specific platforms
 
-> [!WARNING]
-> **Platforms that are NOT HIPAA compliant:**
-> - Consumer Zoom (free version)
-> - FaceTime (no BAA available)
-> - Skype (consumer)
-> - WhatsApp
-> - Standard Google Meet (without Workspace BAA)
+!!! warning
+    **Platforms that are NOT HIPAA compliant:**
+    - Consumer Zoom (free version)
+    - FaceTime (no BAA available)
+    - Skype (consumer)
+    - WhatsApp
+    - Standard Google Meet (without Workspace BAA)
 
 ---
 

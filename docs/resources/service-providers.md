@@ -311,8 +311,8 @@ If accepting credit cards in-office:
 
 ---
 
-> [!TIP]
-> Start with the essentials (attorney, CPA, malpractice insurance) and add services as needed. You don't need everything at once.
+!!! tip
+    Start with the essentials (attorney, CPA, malpractice insurance) and add services as needed. You don't need everything at once.
 
 ---
 

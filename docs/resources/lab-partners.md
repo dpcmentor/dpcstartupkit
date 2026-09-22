@@ -288,8 +288,8 @@ Pass through at your cost:
 
 ---
 
-> [!TIP]
-> Start with one lab (Quest or Labcorp) and master that relationship before adding complexity. Your patients need convenience more than options.
+!!! tip
+    Start with one lab (Quest or Labcorp) and master that relationship before adding complexity. Your patients need convenience more than options.
 
 ---
 

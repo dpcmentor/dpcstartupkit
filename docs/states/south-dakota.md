@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [South Dakota Board of Medical and Osteopathic Examiners](https://www.sdbmoe.gov/) and review [SDCL Title 58](https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=58) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [South Dakota Board of Medical and Osteopathic Examiners](https://www.sdbmoe.gov/) and review [SDCL Title 58](https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=58) for the most current statutory language.
 
 ---
 

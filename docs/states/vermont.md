@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Vermont lacks explicit DPC legislation. Consult the [Vermont Board of Medical Practice](https://www.healthvermont.gov/systems/board-medical-practice) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Vermont lacks explicit DPC legislation. Consult the [Vermont Board of Medical Practice](https://www.healthvermont.gov/systems/board-medical-practice) and a healthcare attorney to ensure compliance.
 
 ---
 

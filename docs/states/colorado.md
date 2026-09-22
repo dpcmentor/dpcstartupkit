@@ -59,8 +59,8 @@ Colorado allows physician dispensing **without registration or permit**.
 
 ## Important Restriction: Medicaid
 
-> [!CAUTION]
-> **Medicaid Restriction:** Colorado Revised Statutes § 25.5-4-301 prohibits private DPC contracts with Medicaid patients for Medicaid-covered services. Do not enroll Medicaid beneficiaries in DPC memberships for services Medicaid would cover.
+!!! warning "Caution"
+    **Medicaid Restriction:** Colorado Revised Statutes § 25.5-4-301 prohibits private DPC contracts with Medicaid patients for Medicaid-covered services. Do not enroll Medicaid beneficiaries in DPC memberships for services Medicaid would cover.
 
 This is specific to Colorado and affects practices in areas with significant Medicaid populations.
 
@@ -168,8 +168,8 @@ See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for 
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Colorado Medical Board.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Colorado Medical Board.
 
 ---
 

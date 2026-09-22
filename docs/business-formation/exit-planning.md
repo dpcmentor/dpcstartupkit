@@ -330,8 +330,8 @@ Even if retirement is decades away:
 
 ---
 
-> [!NOTE]
-> Exit planning involves complex legal and tax issues. Work with experienced professionals. This guide provides concepts, not legal or tax advice.
+!!! note
+    Exit planning involves complex legal and tax issues. Work with experienced professionals. This guide provides concepts, not legal or tax advice.
 
 ---
 

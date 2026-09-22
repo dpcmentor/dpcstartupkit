@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Alabama lacks explicit DPC legislation. Consult the [Alabama Board of Medical Examiners](https://www.albme.gov/) and a healthcare attorney to ensure compliance. Review [Alabama Code Title 27](https://alisondb.legislature.state.al.us/alison/CodeOfAlabama/1975/Coatoc.htm) for insurance regulations.
+!!! warning "Caution"
+    **Verify Current Law:** Alabama lacks explicit DPC legislation. Consult the [Alabama Board of Medical Examiners](https://www.albme.gov/) and a healthcare attorney to ensure compliance. Review [Alabama Code Title 27](https://alisondb.legislature.state.al.us/alison/CodeOfAlabama/1975/Coatoc.htm) for insurance regulations.
 
 ---
 

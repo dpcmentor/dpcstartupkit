@@ -15,13 +15,13 @@
 
 ---
 
-> [!TIP]
-> **Keep It Simple:** Survey data shows 74% of DPC practices use variable pricing (typically age-based), while 26% use flat per-member pricing. Either works—the key is choosing one approach and keeping it easy to explain.
+!!! tip
+    **Keep It Simple:** Survey data shows 74% of DPC practices use variable pricing (typically age-based), while 26% use flat per-member pricing. Either works—the key is choosing one approach and keeping it easy to explain.
 
 ## The Three Common Models
 
-> [!NOTE]
-> Practice examples below are for illustration only and may not reflect current pricing. Visit each practice's website for up-to-date information.
+!!! note
+    Practice examples below are for illustration only and may not reflect current pricing. Visit each practice's website for up-to-date information.
 
 ---
 
@@ -112,11 +112,11 @@ Lower annual fee with a flat charge per visit.
 
 *Source: [AAFP DPC Data Brief](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html), practice surveys*
 
-> [!NOTE]
-> **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
+!!! note
+    **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
 
-> [!TIP]
-> **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician) and [DPC Frontier Mapper](https://mapper.dpcfrontier.com/). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
+!!! tip
+    **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician) and [DPC Frontier Mapper](https://mapper.dpcfrontier.com/). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
 
 ---
 
@@ -186,8 +186,8 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 
 ## Models to Avoid
 
-> [!WARNING]
-> **Complexity creates problems.** These models sound good in theory but cause headaches in practice.
+!!! warning
+    **Complexity creates problems.** These models sound good in theory but cause headaches in practice.
 
 ### Multi-Tier Service Levels (Basic/Standard/Premium)
 

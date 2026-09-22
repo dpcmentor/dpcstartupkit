@@ -58,8 +58,8 @@
 
 **Purpose:** Inform patients how their health information may be used and their rights regarding it.
 
-> [!TIP]
-> **Use the official HHS template.** The Department of Health and Human Services provides [free, customizable model notices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html) that meet all legal requirements. Download and customize rather than writing from scratch.
+!!! tip
+    **Use the official HHS template.** The Department of Health and Human Services provides [free, customizable model notices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html) that meet all legal requirements. Download and customize rather than writing from scratch.
 
 ### Required Content (Summary)
 
@@ -318,8 +318,8 @@ Your Notice of Privacy Practices must explain:
 
 ### Legal Review
 
-> [!CAUTION]
-> These templates are starting points only. Have a healthcare attorney licensed in your state review all documents before use. Requirements vary by state and change over time.
+!!! warning "Caution"
+    These templates are starting points only. Have a healthcare attorney licensed in your state review all documents before use. Requirements vary by state and change over time.
 
 ### Version Control
 

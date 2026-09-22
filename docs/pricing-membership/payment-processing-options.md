@@ -49,8 +49,8 @@ Collecting membership payments reliably is essential to DPC practice sustainabil
 - [PayPal Business](https://www.paypal.com/us/business) (2.9% + $0.30 per transaction)
 - Checks (no processing fee, more manual work)
 
-> [!TIP]
-> Start with a professional payment processor like Square or Stripe from day one. These platforms scale with your practice, offer recurring billing, and present a professional image to patients.
+!!! tip
+    Start with a professional payment processor like Square or Stripe from day one. These platforms scale with your practice, offer recurring billing, and present a professional image to patients.
 
 **Manual recurring billing:**
 - Set reminders to invoice patients monthly

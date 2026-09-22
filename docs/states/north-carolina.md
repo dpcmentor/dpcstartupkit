@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [North Carolina Medical Board](https://www.ncmedboard.org/) and review [North Carolina General Statutes Chapter 90](https://www.ncleg.gov/Laws/GeneralStatutes/Chapter/90) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [North Carolina Medical Board](https://www.ncmedboard.org/) and review [North Carolina General Statutes Chapter 90](https://www.ncleg.gov/Laws/GeneralStatutes/Chapter/90) for the most current statutory language.
 
 ---
 

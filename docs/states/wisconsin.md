@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Wisconsin Medical Examining Board](https://dsps.wi.gov/pages/BoardsCouncils/MEB/Default.aspx) and review [Wisconsin Statutes Chapter 609](https://docs.legis.wisconsin.gov/statutes/statutes/609) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Wisconsin Medical Examining Board](https://dsps.wi.gov/pages/BoardsCouncils/MEB/Default.aspx) and review [Wisconsin Statutes Chapter 609](https://docs.legis.wisconsin.gov/statutes/statutes/609) for the most current statutory language.
 
 ---
 

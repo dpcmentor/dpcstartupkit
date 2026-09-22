@@ -37,8 +37,8 @@ Your experience is invaluable. The DPC community grows through the willingness o
 
 The DPC Mentor Platform is a **volunteer-driven connection service** that facilitates mentorship relationships between established DPC physicians and learners interested in Direct Primary Care.
 
-> [!NOTE]
-> The platform serves as a pairing service only. Once an initial connection is made, all subsequent arrangements are determined directly between mentor and mentee.
+!!! note
+    The platform serves as a pairing service only. Once an initial connection is made, all subsequent arrangements are determined directly between mentor and mentee.
 
 **The Platform Provides:**
 - Initial matching between mentors and mentees
@@ -58,8 +58,8 @@ The DPC Mentor Platform is a **volunteer-driven connection service** that facili
 
 As a DPC mentor, you serve as an **independent physician** offering guidance based on your experience. All professional decisions remain under your control.
 
-> [!IMPORTANT]
-> **You are not an employee, contractor, or agent of the DPC Mentor Platform.** You participate as an independent volunteer physician sharing expertise with learners.
+!!! info "Important"
+    **You are not an employee, contractor, or agent of the DPC Mentor Platform.** You participate as an independent volunteer physician sharing expertise with learners.
 
 ### Your Responsibilities
 
@@ -152,8 +152,8 @@ Once activated, you will receive match requests from potential mentees. You may:
 
 ## Malpractice & Insurance
 
-> [!CAUTION]
-> **The DPC Mentor Platform does not provide malpractice coverage for any party.** Verify coverage arrangements in writing before any clinical interaction.
+!!! warning "Caution"
+    **The DPC Mentor Platform does not provide malpractice coverage for any party.** Verify coverage arrangements in writing before any clinical interaction.
 
 ### For Clinical Rotations
 
@@ -197,8 +197,8 @@ You may end a mentorship relationship at any time, for any reason. Simply:
 2. Update your availability status on the platform
 3. No explanation to the platform is required
 
-> [!TIP]
-> Ending a mentorship professionally helps preserve relationships. Even if the fit wasn't right, a brief, respectful conversation leaves the door open for future interactions.
+!!! tip
+    Ending a mentorship professionally helps preserve relationships. Even if the fit wasn't right, a brief, respectful conversation leaves the door open for future interactions.
 
 ---
 
@@ -215,8 +215,8 @@ For all other matters — scheduling, logistics, interpersonal concerns, clinica
 
 ## Legal Disclaimer
 
-> [!CAUTION]
-> The DPC Mentor Platform is a connection service only. We do not supervise, direct, or manage mentorship relationships. All clinical and professional decisions remain the sole responsibility of the participating physicians and learners. Mentors are not employees, contractors, or agents of the DPC Mentor Platform.
+!!! warning "Caution"
+    The DPC Mentor Platform is a connection service only. We do not supervise, direct, or manage mentorship relationships. All clinical and professional decisions remain the sole responsibility of the participating physicians and learners. Mentors are not employees, contractors, or agents of the DPC Mentor Platform.
 
 ---
 

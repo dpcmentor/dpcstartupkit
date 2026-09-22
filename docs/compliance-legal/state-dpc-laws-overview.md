@@ -6,8 +6,8 @@ Direct Primary Care exists in a regulatory space that has evolved significantly 
 
 This guide provides an overview of the state regulatory landscape and guidance on researching your specific state's requirements.
 
-> [!CAUTION]
-> **Verify Your State's Current Requirements:** DPC legislation varies significantly by state and continues to evolve. This guide provides general orientation only. Before structuring your practice or membership agreements, consult with a healthcare attorney licensed in your state who can verify current laws, required disclosures, and any state-specific compliance requirements.
+!!! warning "Caution"
+    **Verify Your State's Current Requirements:** DPC legislation varies significantly by state and continues to evolve. This guide provides general orientation only. Before structuring your practice or membership agreements, consult with a healthcare attorney licensed in your state who can verify current laws, required disclosures, and any state-specific compliance requirements.
 
 ## Prerequisites
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Missouri Board of Registration for the Healing Arts](https://pr.mo.gov/healingarts.asp) and review [Missouri Revised Statutes Chapter 376](https://revisor.mo.gov/main/OneChapter.aspx?chapter=376) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Missouri Board of Registration for the Healing Arts](https://pr.mo.gov/healingarts.asp) and review [Missouri Revised Statutes Chapter 376](https://revisor.mo.gov/main/OneChapter.aspx?chapter=376) for the most current statutory language.
 
 ---
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Pennsylvania lacks explicit DPC legislation. Consult the [Pennsylvania State Board of Medicine](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Medicine/Pages/default.aspx) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Pennsylvania lacks explicit DPC legislation. Consult the [Pennsylvania State Board of Medicine](https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Medicine/Pages/default.aspx) and a healthcare attorney to ensure compliance.
 
 ---
 

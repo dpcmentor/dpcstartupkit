@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Wyoming Board of Medicine](https://wyomedboard.wyo.gov/) and review [Wyoming Statutes Title 26](https://wyoleg.gov/NXT/gateway.dll/Statutes/title%2026.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Wyoming Board of Medicine](https://wyomedboard.wyo.gov/) and review [Wyoming Statutes Title 26](https://wyoleg.gov/NXT/gateway.dll/Statutes/title%2026.html) for the most current statutory language.
 
 ---
 
@@ -171,8 +171,8 @@ Wyoming has no state income tax, which simplifies tax planning and improves take
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Wyoming Board of Medicine.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Wyoming Board of Medicine.
 
 ---
 

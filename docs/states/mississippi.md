@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Mississippi State Board of Medical Licensure](https://www.msbml.ms.gov/) and review [Mississippi Code Title 83](https://law.justia.com/codes/mississippi/title-83/) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Mississippi State Board of Medical Licensure](https://www.msbml.ms.gov/) and review [Mississippi Code Title 83](https://law.justia.com/codes/mississippi/title-83/) for the most current statutory language.
 
 ---
 

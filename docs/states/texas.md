@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Texas Medical Board](https://www.tmb.state.tx.us/) and review [Texas Insurance Code Chapter 1452](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1452.htm) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Texas Medical Board](https://www.tmb.state.tx.us/) and review [Texas Insurance Code Chapter 1452](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1452.htm) for the most current statutory language.
 
 ---
 

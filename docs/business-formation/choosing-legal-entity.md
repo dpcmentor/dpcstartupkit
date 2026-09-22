@@ -22,8 +22,8 @@ Selecting the right legal structure for your Direct Primary Care practice is one
 
 This guide compares the most common entity types and helps you determine which structure best fits your situation.
 
-> [!CAUTION]
-> **Consult Local Professionals:** Laws governing business entities, professional corporations, and tax treatment vary significantly by state and change regularly. This guide provides general education only—not legal or tax advice. Before forming any entity, consult with a healthcare attorney licensed in your state and a CPA or tax advisor familiar with medical practices in your jurisdiction.
+!!! warning "Caution"
+    **Consult Local Professionals:** Laws governing business entities, professional corporations, and tax treatment vary significantly by state and change regularly. This guide provides general education only—not legal or tax advice. Before forming any entity, consult with a healthcare attorney licensed in your state and a CPA or tax advisor familiar with medical practices in your jurisdiction.
 
 ## Prerequisites
 
@@ -53,8 +53,8 @@ Before selecting an entity type, you should:
 
 **Best for:** Physicians testing the DPC model briefly before committing, or those in very low-risk situations.
 
-> [!WARNING]
-> Sole proprietorship is generally not recommended for medical practices due to liability exposure.
+!!! warning
+    Sole proprietorship is generally not recommended for medical practices due to liability exposure.
 
 ---
 
@@ -96,8 +96,8 @@ Before selecting an entity type, you should:
 
 **Best for:** Solo DPC physicians in states that require PLLCs for medical practices.
 
-> [!IMPORTANT]
-> In most states, a PLLC protects you from business debts and other members' malpractice, but not from your own professional negligence. Malpractice insurance remains essential.
+!!! info "Important"
+    In most states, a PLLC protects you from business debts and other members' malpractice, but not from your own professional negligence. Malpractice insurance remains essential.
 
 ---
 
@@ -179,8 +179,8 @@ Consider ongoing costs by state. Examples (verify current amounts with your Secr
 | Wyoming | $60 minimum | Annual report license tax; low-cost option |
 | Florida | ~$140 | Annual report fee |
 
-> [!IMPORTANT]
-> State fees, franchise taxes, and filing requirements change regularly. Always verify current amounts directly with your state's Secretary of State office or a local attorney before making decisions based on costs.
+!!! info "Important"
+    State fees, franchise taxes, and filing requirements change regularly. Always verify current amounts directly with your state's Secretary of State office or a local attorney before making decisions based on costs.
 
 ---
 
@@ -209,13 +209,13 @@ If your practice generates significant profit, an S-Corp election can reduce sel
 **As S-Corp:** FICA taxes (employer and employee halves, 15.3%) on the $120,000 salary = $18,360
 - **FICA savings:** ~$9,900/year ($28,234 − $18,360 = $9,874)
 
-> [!NOTE]
-> **Important clarifications:**
-> - The $80,000 distribution is still subject to ordinary income tax—you're saving on FICA taxes specifically, not income taxes
-> - The 15.3% self-employment tax rate includes 12.4% Social Security (capped at the annual wage base, [$184,500 in 2026](https://www.ssa.gov/oact/cola/cbb.html)) and 2.9% Medicare (uncapped)
-> - Income above the Social Security wage base only incurs the 2.9% Medicare tax, reducing S-Corp savings for very high earners
-> - An additional 0.9% Medicare surtax applies to income over $200,000 ($250,000 married filing jointly)
-> - "Reasonable salary" requirements are strict—the IRS scrutinizes unreasonably low salaries
+!!! note
+    **Important clarifications:**
+    - The $80,000 distribution is still subject to ordinary income tax—you're saving on FICA taxes specifically, not income taxes
+    - The 15.3% self-employment tax rate includes 12.4% Social Security (capped at the annual wage base, [$184,500 in 2026](https://www.ssa.gov/oact/cola/cbb.html)) and 2.9% Medicare (uncapped)
+    - Income above the Social Security wage base only incurs the 2.9% Medicare tax, reducing S-Corp savings for very high earners
+    - An additional 0.9% Medicare surtax applies to income over $200,000 ($250,000 married filing jointly)
+    - "Reasonable salary" requirements are strict—the IRS scrutinizes unreasonably low salaries
 
 *Actual savings depend on your income level, state taxes, and individual circumstances. Work with a CPA to model your specific situation.*
 

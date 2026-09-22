@@ -277,8 +277,8 @@ Before hiring, consider:
 
 ---
 
-> [!NOTE]
-> Employment law varies significantly by state. Consult with an employment attorney or HR professional for state-specific requirements.
+!!! note
+    Employment law varies significantly by state. Consult with an employment attorney or HR professional for state-specific requirements.
 
 ---
 

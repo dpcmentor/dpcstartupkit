@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [New Mexico Medical Board](https://www.nmmb.state.nm.us/) and review [NMSA Chapter 59A](https://nmonesource.com/nmos/nmsa/en/nav_date.do) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [New Mexico Medical Board](https://www.nmmb.state.nm.us/) and review [NMSA Chapter 59A](https://nmonesource.com/nmos/nmsa/en/nav_date.do) for the most current statutory language.
 
 ---
 

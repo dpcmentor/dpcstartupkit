@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Kentucky Board of Medical Licensure](https://kbml.ky.gov/) and review [Kentucky Revised Statutes Chapter 304](https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39217) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Kentucky Board of Medical Licensure](https://kbml.ky.gov/) and review [Kentucky Revised Statutes Chapter 304](https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39217) for the most current statutory language.
 
 ---
 
@@ -184,8 +184,8 @@ See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for 
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Kentucky Board of Medical Licensure and Board of Pharmacy.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Kentucky Board of Medical Licensure and Board of Pharmacy.
 
 ---
 

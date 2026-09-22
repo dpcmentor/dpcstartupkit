@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Nebraska Board of Medicine and Surgery](https://dhhs.ne.gov/licensure/Pages/Medicine-and-Surgery.aspx) and review [Nebraska Revised Statutes Chapter 44](https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=44) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Nebraska Board of Medicine and Surgery](https://dhhs.ne.gov/licensure/Pages/Medicine-and-Surgery.aspx) and review [Nebraska Revised Statutes Chapter 44](https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=44) for the most current statutory language.
 
 ---
 

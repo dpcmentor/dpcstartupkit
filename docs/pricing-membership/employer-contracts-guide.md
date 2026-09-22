@@ -2,8 +2,8 @@
 
 > **Quick Summary:** Employer contracts can accelerate panel growth and provide stable revenue. Expect 10-25% discounts from individual rates (typical convention; unsourced), longer sales cycles, and more administrative complexity. Start with small local businesses where relationships matter.
 
-> [!CAUTION]
-> **Educational content only.** Employer-paid DPC touches federal tax, HSA, ERISA and ACA rules that change regularly. This guide is general education, not legal or tax advice. Have a healthcare attorney review your contract and tell each employer to consult its own benefits counsel.
+!!! warning "Caution"
+    **Educational content only.** Employer-paid DPC touches federal tax, HSA, ERISA and ACA rules that change regularly. This guide is general education, not legal or tax advice. Have a healthcare attorney review your contract and tell each employer to consult its own benefits counsel.
 
 ---
 

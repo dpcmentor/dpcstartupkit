@@ -44,8 +44,8 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 - *Do you need a website?* **No.** Your first patients will come from personal relationships and word of mouth. A website can wait.
 - *Do you need business cards, brochures, or a logo?* **No.** These are nice to have, not need to have.
 
-> [!NOTE]
-> The cost breakdowns below represent typical ranges, not requirements. Many DPC physicians have launched with far less than the "Lean Startup" column suggests. Use these as planning references, not shopping lists.
+!!! note
+    The cost breakdowns below represent typical ranges, not requirements. Many DPC physicians have launched with far less than the "Lean Startup" column suggests. Use these as planning references, not shopping lists.
 
 ---
 
@@ -75,8 +75,8 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 
 ## Detailed Cost Breakdown
 
-> [!CAUTION]
-> **These tables show typical ranges, not requirements.** Many DPC physicians have launched for a fraction of these amounts. Don't let these numbers stop you. A stethoscope ($50-$200), a smartphone (you already own one), and malpractice insurance are truly all you need to see your first patient. Everything else can come later.
+!!! warning "Caution"
+    **These tables show typical ranges, not requirements.** Many DPC physicians have launched for a fraction of these amounts. Don't let these numbers stop you. A stethoscope ($50-$200), a smartphone (you already own one), and malpractice insurance are truly all you need to see your first patient. Everything else can come later.
 
 ### One-Time Startup Costs
 
@@ -136,11 +136,11 @@ Everything else — the EMR, the fancy equipment, the dedicated office — can c
 | | | | |
 | **TOTAL ONE-TIME COSTS** | **$7,500-$22,500** | **$14,000-$38,000** | **$35,000-$130,000** |
 
-> [!NOTE]
-> **Absolute minimum launch:** Malpractice insurance (~$4,000-$8,000/year), state licenses (~$200), a stethoscope (~$100), and your smartphone. Total: **under $5,000** for the first year, excluding personal living expenses.
+!!! note
+    **Absolute minimum launch:** Malpractice insurance (~$4,000-$8,000/year), state licenses (~$200), a stethoscope (~$100), and your smartphone. Total: **under $5,000** for the first year, excluding personal living expenses.
 
-> [!TIP]
-> **HIPAA Compliance:** Budget $0-$2,000 for initial HIPAA setup depending on whether you DIY or hire a consultant. HHS provides free security risk assessment tools, policy templates, and training materials at [hhs.gov/hipaa](https://www.hhs.gov/hipaa). Many state medical associations also offer free compliance resources for members. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).
+!!! tip
+    **HIPAA Compliance:** Budget $0-$2,000 for initial HIPAA setup depending on whether you DIY or hire a consultant. HHS provides free security risk assessment tools, policy templates, and training materials at [hhs.gov/hipaa](https://www.hhs.gov/hipaa). Many state medical associations also offer free compliance resources for members. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).
 
 ---
 
@@ -183,8 +183,8 @@ When leaving employment, you lose benefits that must be replaced. Budget for the
 | Health sharing ministry | $200-$500 | Not insurance; faith-based cost sharing |
 | Spouse's plan | Varies | Often most cost-effective if available |
 
-> [!TIP]
-> Health sharing ministries (e.g., Samaritan Ministries, Christian Healthcare Ministries, Medi-Share) are not insurance but can significantly reduce monthly costs. Research eligibility requirements and coverage limitations carefully.
+!!! tip
+    Health sharing ministries (e.g., Samaritan Ministries, Christian Healthcare Ministries, Medi-Share) are not insurance but can significantly reduce monthly costs. Research eligibility requirements and coverage limitations carefully.
 
 **Disability Insurance**
 
@@ -212,8 +212,8 @@ Plan for retirement once practice income is consistent:
 | Solo 401(k) | $23,000 employee + 25% employer (max $69,000 total) | Highest contribution potential |
 | SIMPLE IRA | $16,000 | Lower administrative burden |
 
-> [!NOTE]
-> Don't prioritize retirement contributions until you have adequate cash reserves and consistent income. Focus on practice stability first.
+!!! note
+    Don't prioritize retirement contributions until you have adequate cash reserves and consistent income. Focus on practice stability first.
 
 ---
 
@@ -260,8 +260,8 @@ Plan for retirement once practice income is consistent:
 
 ## Financing Your Launch
 
-> [!TIP]
-> **Most DPC practices bootstrap entirely.** Hundreds of physicians have launched without loans, using personal savings and starting lean. A loan is rarely necessary if you follow the "minimum viable practice" approach.
+!!! tip
+    **Most DPC practices bootstrap entirely.** Hundreds of physicians have launched without loans, using personal savings and starting lean. A loan is rarely necessary if you follow the "minimum viable practice" approach.
 
 ### Bootstrapping (Recommended)
 
@@ -288,8 +288,8 @@ Some physicians prefer to have a financial cushion or want to start with more in
 - Physician-specific lenders exist but still charge interest
 - Equipment financing ties you to payments before you have patients
 
-> [!WARNING]
-> Debt creates pressure to grow faster than may be healthy for your practice. Many successful DPC physicians advise against loans entirely. Buy only what you need, when patient revenue justifies it.
+!!! warning
+    Debt creates pressure to grow faster than may be healthy for your practice. Many successful DPC physicians advise against loans entirely. Buy only what you need, when patient revenue justifies it.
 
 ---
 

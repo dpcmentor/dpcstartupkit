@@ -266,8 +266,8 @@ GPOs leverage collective buying power to negotiate discounts on supplies, medica
 - Insurance products
 - Technology services
 
-> [!TIP]
-> Check if your professional memberships (DPC Alliance, state medical association) include GPO access. Many offer this as a member benefit at no additional cost.
+!!! tip
+    Check if your professional memberships (DPC Alliance, state medical association) include GPO access. Many offer this as a member benefit at no additional cost.
 
 ---
 
@@ -303,8 +303,8 @@ If your state allows physician dispensing, you can offer wholesale medications d
 5. Determine markup strategy (many DPC practices charge cost + small handling fee or dispense at cost)
 6. Ensure proper storage and labeling
 
-> [!NOTE]
-> Dispensing can save patients significant money compared to retail pharmacies and improves medication adherence. Many DPC physicians report patients' prescription savings alone can offset their membership fee.
+!!! note
+    Dispensing can save patients significant money compared to retail pharmacies and improves medication adherence. Many DPC physicians report patients' prescription savings alone can offset their membership fee.
 
 ---
 

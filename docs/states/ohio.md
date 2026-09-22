@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [State Medical Board of Ohio](https://med.ohio.gov/) and review [Ohio Revised Code Title 39](https://codes.ohio.gov/ohio-revised-code/title-39) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [State Medical Board of Ohio](https://med.ohio.gov/) and review [Ohio Revised Code Title 39](https://codes.ohio.gov/ohio-revised-code/title-39) for the most current statutory language.
 
 ---
 

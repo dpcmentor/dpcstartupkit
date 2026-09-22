@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Minnesota Board of Medical Practice](https://mn.gov/boards/medical-practice/) and review [Minnesota Statutes Chapter 62Q](https://www.revisor.mn.gov/statutes/cite/62Q) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Minnesota Board of Medical Practice](https://mn.gov/boards/medical-practice/) and review [Minnesota Statutes Chapter 62Q](https://www.revisor.mn.gov/statutes/cite/62Q) for the most current statutory language.
 
 ---
 

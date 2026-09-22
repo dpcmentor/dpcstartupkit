@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> Controlled substance regulations vary significantly by state and change frequently. This guide covers general federal requirements. Always verify your state-specific rules through your state medical board and Board of Pharmacy before prescribing.
+!!! warning "Caution"
+    Controlled substance regulations vary significantly by state and change frequently. This guide covers general federal requirements. Always verify your state-specific rules through your state medical board and Board of Pharmacy before prescribing.
 
 ---
 
@@ -350,8 +350,8 @@ Same security requirements apply to samples as dispensed medications.
 
 ---
 
-> [!NOTE]
-> Compliance with controlled substance regulations is non-negotiable. Violations can result in DEA action, loss of license, and criminal prosecution. When in doubt, prescribe conservatively and document thoroughly.
+!!! note
+    Compliance with controlled substance regulations is non-negotiable. Violations can result in DEA action, loss of license, and criminal prosecution. When in doubt, prescribe conservatively and document thoroughly.
 
 ---
 

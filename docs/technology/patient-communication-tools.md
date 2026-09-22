@@ -48,11 +48,11 @@ This guide covers communication options and strategies for DPC practices.
 
 **Reality:** At low patient counts, you can personally handle all communication without sophisticated tools.
 
-> [!TIP]
-> Get a separate phone number from day one. Starting with your personal cell phone seems easy, but you'll regret it when you have to transition patients to a new number as you grow. A basic VoIP line costs $20-50/month and establishes professional boundaries from the start.
+!!! tip
+    Get a separate phone number from day one. Starting with your personal cell phone seems easy, but you'll regret it when you have to transition patients to a new number as you grow. A basic VoIP line costs $20-50/month and establishes professional boundaries from the start.
 
-> [!TIP]
-> Use a professional email with your practice domain from day one (dr.smith@smithdpc.com, not drsmith123@gmail.com). Like your phone number, changing email addresses later creates confusion and looks unprofessional. For privacy-focused options, consider [Proton Mail](https://proton.me/mail) which offers custom domain support and enhanced security.
+!!! tip
+    Use a professional email with your practice domain from day one (dr.smith@smithdpc.com, not drsmith123@gmail.com). Like your phone number, changing email addresses later creates confusion and looks unprofessional. For privacy-focused options, consider [Proton Mail](https://proton.me/mail) which offers custom domain support and enhanced security.
 
 **Key:** Set clear expectations about response times and methods.
 
@@ -91,8 +91,8 @@ This guide covers communication options and strategies for DPC practices.
 - VoIP service (recommended for most practices)
 - Practice landline (less common in DPC)
 
-> [!TIP]
-> Invest in a professional VoIP service from the start. The cost is minimal and the features (auto-attendant, call routing, mobile app) make a significant difference in how your practice is perceived.
+!!! tip
+    Invest in a professional VoIP service from the start. The cost is minimal and the features (auto-attendant, call routing, mobile app) make a significant difference in how your practice is perceived.
 
 **[Webfones](https://www.webfones.com/) - Recommended VoIP for DPC:**
 - Designed with small medical practices in mind
@@ -152,8 +152,8 @@ VoIP is typically the better choice for most DPC practices because:
 - HIPAA-compliant texting platforms ([Spruce](https://www.sprucehealth.com/), [OhMD](https://www.ohmd.com/), etc.)
 - EMR patient portal messaging
 
-> [!WARNING]
-> Standard texting is not encrypted and is technically not HIPAA-compliant for protected health information. Many DPC practices use it with documented patient consent, but best practice is a HIPAA-compliant platform.
+!!! warning
+    Standard texting is not encrypted and is technically not HIPAA-compliant for protected health information. Many DPC practices use it with documented patient consent, but best practice is a HIPAA-compliant platform.
 
 **Common approach:** Simple texts for logistics ("Running 10 min late"); clinical discussions via secure messaging.
 
@@ -163,8 +163,8 @@ VoIP is typically the better choice for most DPC practices because:
 
 **Best practice for clinical communication.**
 
-> [!NOTE]
-> Secure messaging through a patient portal or HIPAA-compliant platform should be your primary channel for clinical discussions. It's documented, secure, and creates a record.
+!!! note
+    Secure messaging through a patient portal or HIPAA-compliant platform should be your primary channel for clinical discussions. It's documented, secure, and creates a record.
 
 **Options:**
 - EMR built-in portal ([Akute Health](https://www.akutehealth.com/), [Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
@@ -196,8 +196,8 @@ VoIP is typically the better choice for most DPC practices because:
 
 **Common but complicated for healthcare.**
 
-> [!CAUTION]
-> Standard email is not HIPAA-compliant. Use it only for administrative matters (appointment reminders, general practice info) and direct all clinical communication to secure channels.
+!!! warning "Caution"
+    Standard email is not HIPAA-compliant. Use it only for administrative matters (appointment reminders, general practice info) and direct all clinical communication to secure channels.
 
 **Options:**
 1. **Don't use email for clinical matters** - Direct to portal/secure messaging
@@ -326,8 +326,8 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 ### Avoiding Communication Overload
 
-> [!IMPORTANT]
-> Don't train patients to expect instant responses. Setting sustainable expectations from day one prevents burnout and maintains the quality of care that makes DPC valuable.
+!!! info "Important"
+    Don't train patients to expect instant responses. Setting sustainable expectations from day one prevents burnout and maintains the quality of care that makes DPC valuable.
 
 **Boundaries:**
 - Set office hours
@@ -377,8 +377,8 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 ## Work-Life Balance
 
-> [!TIP]
-> Use a separate device or VoIP app for practice calls. This creates a physical boundary—when you're off, you can truly disconnect.
+!!! tip
+    Use a separate device or VoIP app for practice calls. This creates a physical boundary—when you're off, you can truly disconnect.
 
 ### The Challenge
 
