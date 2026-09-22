@@ -152,7 +152,7 @@ The following states generally require professionals to use a PLLC or PC structu
 
 - New York (requires PC or PLLC)
 - California (does not allow PLLC; requires PC)
-- Texas (allows PLLC)
+- Texas (PA or PLLC; a professional corporation may not be formed to practice medicine — [Tex. Bus. Orgs. Code §301.012](https://statutes.capitol.texas.gov/Docs/BO/htm/BO.301.htm))
 - Florida (allows PLLC or PA)
 - Many others have specific requirements
 
@@ -164,9 +164,8 @@ Some states prohibit corporations from practicing medicine or employing physicia
 - Texas
 - New York
 - Illinois
-- Ohio
 
-In these states, the entity must typically be owned entirely by licensed physicians.
+In these states, ownership is generally limited to licensed physicians, though the details vary by state—Texas, for example, permits physicians and physician assistants to jointly own a professional entity ([Tex. Bus. Orgs. Code §301.012](https://statutes.capitol.texas.gov/Docs/BO/htm/BO.301.htm)).
 
 ### Franchise Taxes and Annual Fees
 
@@ -174,10 +173,10 @@ Consider ongoing costs by state. Examples (verify current amounts with your Secr
 
 | State | Annual LLC Fee | Notes |
 |-------|----------------|-------|
-| California | $800 minimum | Franchise tax regardless of income |
-| Texas | No fee | But has franchise tax on revenue over threshold |
+| California | $800 minimum | Annual LLC tax regardless of income; the first-year waiver expired for LLCs formed after 2023 |
+| Texas | No annual fee | Franchise tax on revenue above the no-tax-due threshold; a Public Information Report must still be filed every year |
 | Delaware | $300 | Popular for incorporation but may not benefit small practices |
-| Wyoming | $50 | Low-cost option |
+| Wyoming | $60 minimum | Annual report license tax; low-cost option |
 | Florida | ~$140 | Annual report fee |
 
 > [!IMPORTANT]
@@ -205,20 +204,27 @@ If your practice generates significant profit, an S-Corp election can reduce sel
 - Reasonable salary: $120,000
 - Remaining profit (distribution): $80,000
 
-**As LLC (default):** Pay self-employment tax (15.3%) on entire $200,000 = ~$30,600
+**As LLC (default):** Self-employment tax applies to 92.35% of net profit ($184,700), and the 12.4% Social Security portion stops at the annual wage base ($184,500 in 2026). Tax ≈ $28,200 (working: 12.4% × $184,500 = $22,878; 2.9% × $184,700 = $5,356; total $28,234)
 
-**As S-Corp:** Pay FICA taxes only on $120,000 salary = ~$18,360
-- **FICA savings:** ~$12,240/year
+**As S-Corp:** FICA taxes (employer and employee halves, 15.3%) on the $120,000 salary = $18,360
+- **FICA savings:** ~$9,900/year ($28,234 − $18,360 = $9,874)
 
 > [!NOTE]
 > **Important clarifications:**
 > - The $80,000 distribution is still subject to ordinary income tax—you're saving on FICA taxes specifically, not income taxes
-> - The 15.3% self-employment tax rate includes 12.4% Social Security (capped at the annual wage base, ~$168,600 in 2024) and 2.9% Medicare (uncapped)
+> - The 15.3% self-employment tax rate includes 12.4% Social Security (capped at the annual wage base, [$184,500 in 2026](https://www.ssa.gov/oact/cola/cbb.html)) and 2.9% Medicare (uncapped)
 > - Income above the Social Security wage base only incurs the 2.9% Medicare tax, reducing S-Corp savings for very high earners
 > - An additional 0.9% Medicare surtax applies to income over $200,000 ($250,000 married filing jointly)
 > - "Reasonable salary" requirements are strict—the IRS scrutinizes unreasonably low salaries
 
 *Actual savings depend on your income level, state taxes, and individual circumstances. Work with a CPA to model your specific situation.*
+
+### The Qualified Business Income (QBI) Deduction
+
+Pass-through owners (sole proprietors, LLC members, S-Corp shareholders) may deduct up to 20% of qualified business income under [26 USC 199A](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section199A&num=0&edition=prelim). The deduction was scheduled to expire after 2025 but was made permanent by P.L. 119-21 (2025). Two points matter for a DPC physician:
+
+- **Medicine is a "specified service trade or business" (SSTB).** Above an inflation-indexed taxable-income threshold the deduction phases out, and past the top of the phase-out range an SSTB receives none of it, so higher-earning physicians may get little or nothing. Check the current-year threshold on the [IRS QBI page](https://www.irs.gov/newsroom/qualified-business-income-deduction).
+- **S-Corp wages reduce QBI.** The reasonable salary you pay yourself is not qualified business income; only the remaining profit is. A higher salary saves less self-employment tax and also shrinks the QBI deduction, so model both effects together with your CPA before electing S-Corp status.
 
 ---
 
@@ -256,7 +262,7 @@ For the typical solo DPC physician, we recommend:
 1. **Form a PLLC** (or LLC if your state doesn't require PLLC for medical practices)
 2. **Operate as default LLC** for the first year while establishing the practice
 3. **Evaluate S-Corp election** with your accountant once profitable
-4. **Elect S-Corp taxation** if annual profit exceeds $60,000-$80,000
+4. **Elect S-Corp taxation** if annual profit consistently exceeds roughly $60,000-$100,000 (the same range used in the Decision Framework above), after your accountant has modelled payroll costs, the reasonable-salary requirement and the QBI effect
 
 This approach provides:
 - Liability protection from day one
@@ -276,7 +282,7 @@ Engage a healthcare attorney to:
 - Review corporate practice of medicine compliance
 - Create any required bylaws or corporate documents
 
-**Expected cost:** $1,500-$5,000 for entity formation
+**Expected cost:** $1,500-$5,000 for entity formation (typical range; unsourced estimate)
 
 ### Accountant/CPA
 
@@ -286,7 +292,7 @@ Work with an accountant experienced in medical practices to:
 - Set up proper accounting systems
 - Determine reasonable salary for S-Corp
 
-**Expected cost:** $200-$500 for initial consultation; ongoing fees for tax preparation
+**Expected cost:** $200-$500 for initial consultation (typical range; unsourced estimate); ongoing fees for tax preparation
 
 ---
 
@@ -309,6 +315,8 @@ Work with an accountant experienced in medical practices to:
 - [SBA: Choose a Business Structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
 - Your state's Secretary of State website for registration requirements
 - Your state medical board for professional entity requirements
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

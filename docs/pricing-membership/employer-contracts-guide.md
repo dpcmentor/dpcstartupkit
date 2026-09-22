@@ -1,6 +1,9 @@
 # Employer Contracts Guide
 
-> **Quick Summary:** Employer contracts can accelerate panel growth and provide stable revenue. Expect 10-25% discounts from individual rates, longer sales cycles, and more administrative complexity. Start with small local businesses where relationships matter.
+> **Quick Summary:** Employer contracts can accelerate panel growth and provide stable revenue. Expect 10-25% discounts from individual rates (typical convention; unsourced), longer sales cycles, and more administrative complexity. Start with small local businesses where relationships matter.
+
+> [!CAUTION]
+> **Educational content only.** Employer-paid DPC touches federal tax, HSA, ERISA and ACA rules that change regularly. This guide is general education, not legal or tax advice. Have a healthcare attorney review your contract and tell each employer to consult its own benefits counsel.
 
 ---
 
@@ -12,6 +15,7 @@
 - [Finding Employer Clients](#finding-employer-clients)
 - [The Sales Process](#the-sales-process)
 - [Contract Essentials](#contract-essentials)
+- [Tax and Benefits Compliance](#tax-and-benefits-compliance)
 - [Operations and Administration](#operations-and-administration)
 - [Common Challenges](#common-challenges)
 
@@ -91,6 +95,8 @@ Combination approaches:
 
 ### Typical Discounts
 
+These are common conventions, not sourced figures:
+
 | Group Size | Typical Discount |
 |------------|------------------|
 | 5-15 employees | 10-15% below individual rates |
@@ -104,7 +110,7 @@ Most common structure. Employer pays X dollars per enrolled employee monthly.
 
 **Example:**
 - Individual rate: $99/month
-- Employer PEPM: $85/month (14% discount)
+- Employer PEPM: $85/month (14% discount; illustrative, unsourced)
 
 **Family considerations:**
 - Employee only: Base PEPM
@@ -248,7 +254,7 @@ Most common structure. Employer pays X dollars per enrolled employee monthly.
 ### Key Terms
 
 **Duration:**
-- 12-month contracts typical
+- 12-month contracts typical (convention; unsourced)
 - Auto-renewal with notice period
 - Termination provisions
 
@@ -269,11 +275,13 @@ Most common structure. Employer pays X dollars per enrolled employee monthly.
 - Billing and payment terms
 
 **Termination:**
-- Notice period (typically 60-90 days)
+- Notice period (typically 60-90 days; convention, unsourced)
 - Proration of fees
 - Continuation options for employees
 
 ### Sample Contract Sections
+
+Illustrative language only; the notice periods and payment terms shown are conventions, not sourced requirements.
 
 **Services description:**
 > Provider will make available to Enrolled Employees all primary care services offered under Provider's standard DPC membership, including office visits, telehealth, secure messaging, and [other services].
@@ -290,6 +298,22 @@ Most common structure. Employer pays X dollars per enrolled employee monthly.
 ### Legal Review
 
 Have a healthcare attorney review your employer contract template before use.
+
+---
+
+## Tax and Benefits Compliance
+
+Employer-paid DPC crosses into tax and benefits law that a cash-pay practice otherwise never touches. The rules below carry dates so you know when to re-check them.
+
+### HSA rules for employer-paid DPC (2026)
+
+!!! warning "Subject to change"
+    Since January 1, 2026, [26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim) (added by P.L. 119-21 §71308) treats a qualifying DPC service arrangement as not being a health plan, so enrollment no longer blocks an employee's HSA contributions—before 2026 it did. The arrangement qualifies only if the fee is **$150/month or less for employee-only coverage** or **$300/month or less for a tier covering more than one person** (indexed after 2026), and it provides only primary care: no bundled non-ambulatory labs and no prescription drugs other than vaccines. Set your employee-only and family PEPM rates with those caps in mind. [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) adds three points that matter in employer deals: fees an employer pays, including through a §125 cafeteria plan, are excluded from the employee's income under [26 USC 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section106&num=0&edition=prelim) and cannot also be reimbursed from the employee's HSA (Q&A-18); an HDHP may not itself provide DPC before the deductible is met (Q&A-15); and DPC fees do not count toward the HDHP deductible (Q&A-16).
+
+### ERISA and ACA exposure
+
+!!! warning "Subject to change"
+    When an employer pays for DPC, the arrangement is generally an employee welfare benefit plan under [29 USC 1002(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim), which brings ERISA plan-document, fiduciary and disclosure duties for the employer. The IRS has also said that an employer payment plan that pays for or reimburses medical care is a group health plan subject to the ACA market reforms unless it is integrated with major-medical coverage ([Notice 2013-54](https://www.irs.gov/pub/irs-drop/n-13-54.pdf) and [Notice 2015-87](https://www.irs.gov/pub/irs-drop/n-15-87.pdf)); a stand-alone arrangement that fails those reforms can trigger the [26 USC 4980D](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4980D&num=0&edition=prelim) excise tax. Proposed regulations that would have let HRAs reimburse DPC fees (REG-109755-19, June 2020) were never finalized, so do not promise FSA or HRA reimbursement. Tell the employer to run the arrangement past its benefits counsel before signing, and say so in the contract.
 
 ---
 
@@ -331,7 +355,7 @@ Employers may request:
 - Satisfaction scores
 - Health outcomes (be careful with PHI)
 
-**Important:** Never share individual PHI with employers without employee authorization.
+**Important:** Never share individual PHI with employers without employee authorization. A cash-only DPC practice that never submits an electronic claim may not be a HIPAA covered entity under [45 CFR 160.103](https://www.ecfr.gov/current/title-45/section-160.103), but your membership agreement, the employer contract and state privacy law still bind you—treat HIPAA as the floor.
 
 ---
 
@@ -403,6 +427,8 @@ Employers may request:
 - [Pricing Your Practice](pricing-your-practice.md)
 - [Membership Agreement Essentials](membership-agreement-essentials.md)
 - [Community Outreach Strategies](../marketing/community-outreach-strategies.md)
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
