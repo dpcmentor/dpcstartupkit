@@ -17,6 +17,7 @@
 - [Common Pricing Mistakes](#common-pricing-mistakes)
 - [Pricing Worksheet](#pricing-worksheet)
 - [Checklist](#checklist-setting-your-prices)
+- [Break-Even Calculator](#break-even-calculator)
 
 ---
 
@@ -372,6 +373,16 @@ Use this worksheet to calculate your pricing:
 - [ ] Finalize pricing structure
 - [ ] Document in membership agreement
 - [ ] Create pricing presentation materials
+
+---
+
+## Break-Even Calculator
+
+Enter your planned membership fee, the variable cost each member adds, your fixed monthly overhead and the monthly take-home you want, and the calculator shows how many members cover overhead, how many reach your income target, and the annual revenue at that panel size. It runs the same formulas as the [Break-Even Analysis Template](../templates/spreadsheets/template-break-even-analysis.xlsx): contribution margin is fee minus variable cost, and each member count is overhead (plus your target) divided by that margin, rounded up. Results update as you type; open the spreadsheet if you want to itemize the overhead line by line.
+
+<div id="dpckit-breakeven"><p><em>The calculator needs JavaScript. The <a href="../templates/spreadsheets/template-break-even-analysis.xlsx">spreadsheet template</a> has the same math.</em></p></div>
+
+*Defaults match the break-even spreadsheet template; they are illustrative, not benchmarks.*
 
 ---
 

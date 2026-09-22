@@ -149,10 +149,12 @@ extra_css:
   - stylesheets/extra.css
   - assets/stylesheets/custom.css
   - assets/stylesheets/checklists.css
+  - assets/stylesheets/breakeven.css
 
 # Custom JavaScript
 extra_javascript:
   - assets/javascripts/checklists.js
+  - assets/javascripts/breakeven.js
 
 # Navigation structure
 nav:
