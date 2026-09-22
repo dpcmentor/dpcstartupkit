@@ -39,6 +39,8 @@ Nothing here is for sale, and nobody pays for placement.
   a "Subject to change" box, so you know when to look again.
 - Every change to every page is visible in the
   [commit history](https://github.com/dpcmentor/dpcstartupkit/commits/main).
+- To keep up without reading commits, see [What Changed](changelog.md), a
+  plain-language list of meaningful updates, newest first.
 
 ## How to help
 
