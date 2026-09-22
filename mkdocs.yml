@@ -84,6 +84,10 @@ plugins:
       exclude:
         - index.md
 
+# Build hooks
+hooks:
+  - hooks/reviewed_by.py
+
 # Extensions
 markdown_extensions:
   - abbr
