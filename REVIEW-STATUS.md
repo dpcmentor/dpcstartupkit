@@ -5,19 +5,46 @@ This file tracks human review of all guides in the DPC Startup Kit.
 ## How to Use This Document
 
 1. **Pick a document** marked "Not Reviewed" or "Needs Update"
-2. **Review the content** for accuracy, completeness, and clarity
-3. **Make any needed edits** directly to the document
-4. **Update this file** with your initials, date, and status
-5. **Commit both changes** together
+2. **Read it in full** and fix anything unclear, out of date or wrong
+3. **Update this file** with your initials, the date (YYYY-MM-DD) and a status:
+   **Read-through** for any page, or **Reviewed** if you also checked every
+   legal, tax, regulatory and pricing claim against a primary source
+4. **Commit both changes** together
+
+See [CONTRIBUTING.md](docs/CONTRIBUTING.md#reviewing-a-guide) for what each status promises.
+
+## Pages that need a full "Reviewed" check
+
+These depend on law, tax rules or market pricing that change. A "Reviewed"
+mark here means every such claim was checked against its source on the date
+shown, and the page displays the reviewer's name. Every other page only
+needs a Read-through. State guides are Read-through by default; a physician
+practicing in that state may promote one to Reviewed.
+
+- [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md)
+- [tax-planning-basics.md](docs/business-formation/tax-planning-basics.md)
+- [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md)
+- [employer-contracts-guide.md](docs/pricing-membership/employer-contracts-guide.md)
+- [state-dpc-laws-overview.md](docs/compliance-legal/state-dpc-laws-overview.md)
+- [medicare-opt-out-guide.md](docs/compliance-legal/medicare-opt-out-guide.md)
+- [hipaa-compliance-basics.md](docs/compliance-legal/hipaa-compliance-basics.md)
+- [baa-requirements.md](docs/compliance-legal/baa-requirements.md)
+- [privacy-practices-guide.md](docs/compliance-legal/privacy-practices-guide.md)
+- [controlled-substances-compliance.md](docs/compliance-legal/controlled-substances-compliance.md)
+- [telehealth-legal-considerations.md](docs/compliance-legal/telehealth-legal-considerations.md)
+- [corporate-practice-medicine.md](docs/compliance-legal/corporate-practice-medicine.md)
+- [required-documentation.md](docs/compliance-legal/required-documentation.md)
+- [incident-response-plan.md](docs/compliance-legal/incident-response-plan.md)
 
 ## Status Key
 
 | Status | Meaning |
 |--------|---------|
-| Not Reviewed | No human review yet |
-| In Review | Currently being reviewed |
-| Reviewed | Human reviewed and approved |
-| Needs Update | Content changed significantly, needs re-review |
+| Not Reviewed | Nobody has looked at it yet |
+| In Review | Someone has claimed it |
+| Read-through | Read in full and corrected for clarity; facts not independently verified |
+| Reviewed | Every legal, tax, regulatory and pricing claim checked against a source as of the date shown |
+| Needs Update | Known to be stale or incomplete |
 
 ---
 
@@ -26,11 +53,11 @@ This file tracks human review of all guides in the DPC Startup Kit.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [README.md](docs/bootstrap/README.md) | Not Reviewed | | | Section overview, philosophy |
-| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Reviewed | JF | 06/15/2026 | $1,500-3,250 launch checklist |
-| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Reviewed | JF | 06/15/2026 | $0-50/month tech stack |
-| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Reviewed | JF | 06/15/2026 | Full philosophy, startup culture |
-| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Reviewed | JF | 06/15/2026 | "Don't I need..." answered |
-| [bootstrapping-resources.md](docs/bootstrap/bootstrapping-resources.md) | Reviewed | JF | 06/15/2026 | Books, podcasts, communities |
+| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Read-through | JF | 2026-06-15 | $1,500-3,250 launch checklist |
+| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Read-through | JF | 2026-06-15 | $0-50/month tech stack |
+| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Read-through | JF | 2026-06-15 | Full philosophy, startup culture |
+| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Read-through | JF | 2026-06-15 | "Don't I need..." answered |
+| [bootstrapping-resources.md](docs/bootstrap/bootstrapping-resources.md) | Read-through | JF | 2026-06-15 | Books, podcasts, communities |
 
 ## Business Formation
 
@@ -76,8 +103,8 @@ This file tracks human review of all guides in the DPC Startup Kit.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Reviewed | JF | 06/15/2026 | |
-| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Reviewed | JF | 06/15/2026 | New - DPC EMR comparison |
+| [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Read-through | JF | 2026-06-15 | |
+| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | New - DPC EMR comparison |
 | [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Not Reviewed | | | |
 | [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Not Reviewed | | | |
 | [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Not Reviewed | | | |
@@ -169,71 +196,71 @@ All 50 state guides require review. Each includes:
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [colorado.md](docs/states/colorado.md) | Reviewed | JF | 06/15/2026 | Medicaid restriction noted |
-| [florida.md](docs/states/florida.md) | Reviewed | JF | 06/15/2026 | Large Medicare population |
-| [georgia.md](docs/states/georgia.md) | Reviewed | JF | 06/15/2026 | |
-| [kentucky.md](docs/states/kentucky.md) | Reviewed | JF | 06/15/2026 | |
-| [maine.md](docs/states/maine.md) | Reviewed | JF | 06/15/2026 | |
-| [tennessee.md](docs/states/tennessee.md) | Reviewed | JF | 06/15/2026 | |
-| [wyoming.md](docs/states/wyoming.md) | Reviewed | JF | 06/15/2026 | Pioneer DPC legislation |
+| [colorado.md](docs/states/colorado.md) | Read-through | JF | 2026-06-15 | Medicaid restriction noted |
+| [florida.md](docs/states/florida.md) | Read-through | JF | 2026-06-15 | Large Medicare population |
+| [georgia.md](docs/states/georgia.md) | Read-through | JF | 2026-06-15 | |
+| [kentucky.md](docs/states/kentucky.md) | Read-through | JF | 2026-06-15 | |
+| [maine.md](docs/states/maine.md) | Read-through | JF | 2026-06-15 | |
+| [tennessee.md](docs/states/tennessee.md) | Read-through | JF | 2026-06-15 | |
+| [wyoming.md](docs/states/wyoming.md) | Read-through | JF | 2026-06-15 | Pioneer DPC legislation |
 
 ### Tier 2: Moderate
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [arizona.md](docs/states/arizona.md) | Reviewed | JF | 06/15/2026 | |
-| [arkansas.md](docs/states/arkansas.md) | Reviewed | JF | 06/15/2026 | |
-| [indiana.md](docs/states/indiana.md) | Reviewed | JF | 06/15/2026 | |
-| [kansas.md](docs/states/kansas.md) | Reviewed | JF | 06/15/2026 | |
-| [louisiana.md](docs/states/louisiana.md) | Reviewed | JF | 06/15/2026 | Civil law system |
-| [michigan.md](docs/states/michigan.md) | Reviewed | JF | 06/15/2026 | |
-| [mississippi.md](docs/states/mississippi.md) | Reviewed | JF | 06/15/2026 | |
-| [missouri.md](docs/states/missouri.md) | Reviewed | JF | 06/15/2026 | |
-| [north-carolina.md](docs/states/north-carolina.md) | Reviewed | JF | 06/15/2026 | |
-| [ohio.md](docs/states/ohio.md) | Reviewed | JF | 06/15/2026 | TDDD license required |
-| [oklahoma.md](docs/states/oklahoma.md) | Reviewed | JF | 06/15/2026 | |
-| [oregon.md](docs/states/oregon.md) | Reviewed | JF | 06/15/2026 | |
-| [texas.md](docs/states/texas.md) | Reviewed | JF | 06/15/2026 | Largest DPC market |
-| [utah.md](docs/states/utah.md) | Reviewed | JF | 06/15/2026 | |
-| [virginia.md](docs/states/virginia.md) | Reviewed | JF | 06/15/2026 | Federal employee considerations |
-| [washington.md](docs/states/washington.md) | Reviewed | JF | 06/15/2026 | |
-| [west-virginia.md](docs/states/west-virginia.md) | Reviewed | JF | 06/15/2026 | Opioid regulations |
+| [arizona.md](docs/states/arizona.md) | Read-through | JF | 2026-06-15 | |
+| [arkansas.md](docs/states/arkansas.md) | Read-through | JF | 2026-06-15 | |
+| [indiana.md](docs/states/indiana.md) | Read-through | JF | 2026-06-15 | |
+| [kansas.md](docs/states/kansas.md) | Read-through | JF | 2026-06-15 | |
+| [louisiana.md](docs/states/louisiana.md) | Read-through | JF | 2026-06-15 | Civil law system |
+| [michigan.md](docs/states/michigan.md) | Read-through | JF | 2026-06-15 | |
+| [mississippi.md](docs/states/mississippi.md) | Read-through | JF | 2026-06-15 | |
+| [missouri.md](docs/states/missouri.md) | Read-through | JF | 2026-06-15 | |
+| [north-carolina.md](docs/states/north-carolina.md) | Read-through | JF | 2026-06-15 | |
+| [ohio.md](docs/states/ohio.md) | Read-through | JF | 2026-06-15 | TDDD license required |
+| [oklahoma.md](docs/states/oklahoma.md) | Read-through | JF | 2026-06-15 | |
+| [oregon.md](docs/states/oregon.md) | Read-through | JF | 2026-06-15 | |
+| [texas.md](docs/states/texas.md) | Read-through | JF | 2026-06-15 | Largest DPC market |
+| [utah.md](docs/states/utah.md) | Read-through | JF | 2026-06-15 | |
+| [virginia.md](docs/states/virginia.md) | Read-through | JF | 2026-06-15 | Federal employee considerations |
+| [washington.md](docs/states/washington.md) | Read-through | JF | 2026-06-15 | |
+| [west-virginia.md](docs/states/west-virginia.md) | Read-through | JF | 2026-06-15 | Opioid regulations |
 
 ### Tier 3: Challenging (with DPC legislation)
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [idaho.md](docs/states/idaho.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [iowa.md](docs/states/iowa.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [minnesota.md](docs/states/minnesota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [montana.md](docs/states/montana.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [nebraska.md](docs/states/nebraska.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [nevada.md](docs/states/nevada.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [new-hampshire.md](docs/states/new-hampshire.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [new-mexico.md](docs/states/new-mexico.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [north-dakota.md](docs/states/north-dakota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [south-carolina.md](docs/states/south-carolina.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [south-dakota.md](docs/states/south-dakota.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
-| [wisconsin.md](docs/states/wisconsin.md) | Reviewed | JF | 06/15/2026 | May warrant Tier 2 |
+| [idaho.md](docs/states/idaho.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [iowa.md](docs/states/iowa.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [minnesota.md](docs/states/minnesota.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [montana.md](docs/states/montana.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [nebraska.md](docs/states/nebraska.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [nevada.md](docs/states/nevada.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [new-hampshire.md](docs/states/new-hampshire.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [new-mexico.md](docs/states/new-mexico.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [north-dakota.md](docs/states/north-dakota.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [south-carolina.md](docs/states/south-carolina.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [south-dakota.md](docs/states/south-dakota.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
+| [wisconsin.md](docs/states/wisconsin.md) | Read-through | JF | 2026-06-15 | May warrant Tier 2 |
 
 ### Tier 3: Challenging (no explicit DPC legislation)
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [alabama.md](docs/states/alabama.md) | Reviewed | JF | 06/15/2026 | Attorney consultation essential |
-| [alaska.md](docs/states/alaska.md) | Reviewed | JF | 06/15/2026 | Unique geography |
-| [california.md](docs/states/california.md) | Reviewed | JF | 06/15/2026 | Complex regulations |
-| [connecticut.md](docs/states/connecticut.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
-| [delaware.md](docs/states/delaware.md) | Reviewed | JF | 06/15/2026 | Small market |
-| [hawaii.md](docs/states/hawaii.md) | Reviewed | JF | 06/15/2026 | Island logistics |
-| [illinois.md](docs/states/illinois.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
-| [maryland.md](docs/states/maryland.md) | Reviewed | JF | 06/15/2026 | DC suburbs |
-| [massachusetts.md](docs/states/massachusetts.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
-| [new-jersey.md](docs/states/new-jersey.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
-| [new-york.md](docs/states/new-york.md) | Reviewed | JF | 06/15/2026 | Complex regulations |
-| [pennsylvania.md](docs/states/pennsylvania.md) | Reviewed | JF | 06/15/2026 | Large market |
-| [rhode-island.md](docs/states/rhode-island.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
-| [vermont.md](docs/states/vermont.md) | Reviewed | JF | 06/15/2026 | Dispensing restricted |
+| [alabama.md](docs/states/alabama.md) | Read-through | JF | 2026-06-15 | Attorney consultation essential |
+| [alaska.md](docs/states/alaska.md) | Read-through | JF | 2026-06-15 | Unique geography |
+| [california.md](docs/states/california.md) | Read-through | JF | 2026-06-15 | Complex regulations |
+| [connecticut.md](docs/states/connecticut.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
+| [delaware.md](docs/states/delaware.md) | Read-through | JF | 2026-06-15 | Small market |
+| [hawaii.md](docs/states/hawaii.md) | Read-through | JF | 2026-06-15 | Island logistics |
+| [illinois.md](docs/states/illinois.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
+| [maryland.md](docs/states/maryland.md) | Read-through | JF | 2026-06-15 | DC suburbs |
+| [massachusetts.md](docs/states/massachusetts.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
+| [new-jersey.md](docs/states/new-jersey.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
+| [new-york.md](docs/states/new-york.md) | Read-through | JF | 2026-06-15 | Complex regulations |
+| [pennsylvania.md](docs/states/pennsylvania.md) | Read-through | JF | 2026-06-15 | Large market |
+| [rhode-island.md](docs/states/rhode-island.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
+| [vermont.md](docs/states/vermont.md) | Read-through | JF | 2026-06-15 | Dispensing restricted |
 
 ## Root Documents
 
