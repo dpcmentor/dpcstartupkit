@@ -6,6 +6,9 @@ Patient cancellations are inevitable in any DPC practice. Having clear policies,
 
 This guide covers cancellation policies, refund approaches, and best practices for handling membership terminations.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. The fees in the sample clauses are placeholders, not recommendations.
+
 ## Prerequisites
 
 - Membership agreement with cancellation terms (see [Membership Agreement Essentials](membership-agreement-essentials.md))
@@ -51,15 +54,15 @@ This guide covers cancellation policies, refund approaches, and best practices f
 
 **1. Notice Period**
 
-How much advance notice must patients provide?
+How much advance notice must patients provide? Check your state's DPC statute first: several states decide this for you.
 
 **Options:**
-- 30 days (most common)
+- 30 days (common in states without a DPC statute; expressly permitted in Florida, where [624.27(4)(c)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html) allows either party to terminate on at least 30 days notice)
 - 15 days (more patient-friendly)
 - End of billing period (simplest)
-- None required (most flexible)
+- None required: the patient may terminate at will on written notice. This is mandatory in Idaho (39-9204(1)(e)), Louisiana (R.S. 37:1360.81(2)), Washington ([RCW 48.150.030](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.030)), Oklahoma (36 O.S. 4605(F)) and Michigan ([MCL 500.129(3)(c)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129))
 
-**Recommendation:** 30 days notice is standard and reasonable. Allows time for transition.
+**Recommendation:** Where your state allows it, 30 days notice is a reasonable convention that allows time for transition. In the at-will states a notice period that keeps billing running is unsafe; accept the cancellation as of the date you receive it and refund anything unearned.
 
 ---
 
@@ -81,14 +84,15 @@ When does cancellation take effect?
 Are unused portions refunded?
 
 **For monthly memberships:**
-- No refund is most common
+- No refund of the month already begun, where state law allows it
 - Patient has access through end of paid period
 - Simple and clear
+- Washington, Idaho, Oklahoma and Louisiana require a refund of unearned fees even on a monthly membership, prorated to the date notice was received (see the box under Sample Policy Language)
 
 **For annual prepaid memberships:**
-- Prorated refund common (minus admin fee)
+- Prorated refund common (an administrative fee may be deducted only where state law allows one)
 - Or credit toward future
-- Or no refund (must be clearly disclosed)
+- Or no refund (must be clearly disclosed, and not permitted in the refund states)
 
 ---
 
@@ -104,20 +108,49 @@ When can you terminate a patient?
 - Non-compliance that endangers health
 - Practice closure
 
-**Notice requirement:** Generally provide 30 days notice except for immediate termination causes.
+**Notice requirement:** Generally provide 30 days notice except for immediate termination causes. Ohio ([3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95)) requires termination to take effect no later than 60 days after notice. Washington and Louisiana limit practice termination to enumerated grounds and bar dropping a patient solely for health status (see below).
 
 ---
 
 ### Sample Policy Language
 
 **Standard Cancellation:**
-> Members may cancel their membership at any time by providing written notice to the Practice. Cancellation will be effective at the end of the current billing period. Monthly membership fees are non-refundable. Members will have access to services through the end of the paid period.
+> Members may cancel their membership at any time by giving written notice to the Practice by [email, patient portal, online account, or letter]. Cancellation is effective [on the date the Practice receives the notice / at the end of the current billing period, where state law permits]. Membership fees are earned only as each month of service is completed; any fee paid for the period after the effective date of cancellation will be refunded [prorated to the date notice was received / within 30 days]. Members will have access to services through the effective date. [Drafting note: "Monthly membership fees are non-refundable" is lawful only in states that do not require a refund of unearned fees. Washington, Idaho, Oklahoma and Louisiana require the refund; choose the bracketed option that matches your state. Never require a mailed letter as the only way to cancel, and if members can enrol online they must be able to cancel online.]
 
 **Annual Membership Cancellation:**
-> For annual prepaid memberships, members may cancel at any time by providing written notice. If cancellation occurs after the initial 30-day period, member will receive a prorated refund for complete months remaining in the membership term, less a $50 administrative fee. No refund will be issued for partial months.
+> For annual prepaid memberships, members may cancel at any time by written notice. The Practice will refund the fee for the remainder of the term [on a prorated daily basis / for complete months remaining in the term, less a $[__] administrative fee, where state law allows a deduction]. If the Practice ceases to offer services, all prepaid fees for the period after closure will be refunded. [Drafting note: an administrative fee and a "complete months only" rule are not permitted in the states that require a refund of unearned fees. Florida ([624.27(4)(g)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html)) requires a refund of prepaid fees if the practice stops offering services.]
 
 **Practice Termination:**
-> The Practice may terminate membership with 30 days written notice for any reason, or immediately for cause including non-payment, abusive behavior, or actions that endanger patient or staff safety. Upon termination, the Practice will provide reasonable assistance in transitioning care to another physician.
+> The Practice may terminate membership only for the following reasons: non-payment after written notice and a reasonable opportunity to cure; fraud or materially false information; repeated failure to follow the treatment plan in a way that makes safe care impossible; abusive, threatening or dangerous behaviour toward the physician, staff or other patients; or closure or relocation of the Practice. Except where there is a danger to the physician, staff or other patients, the Practice will give at least [30] days written notice. The Practice will not terminate membership because of a member's health status, medical condition, or the cost or complexity of the member's care. Upon termination, the Practice will provide reasonable assistance in transitioning care to another physician. [Drafting note: "for any reason" must go. Washington ([RCW 48.150.050](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050)) and Louisiana ([R.S. 37:1360.85](https://www.legis.la.gov/legis/Law.aspx?d=919729)) limit practice termination to enumerated grounds and bar termination solely for health status; Idaho requires the agreement to state the conditions; Ohio caps the notice-to-termination period at 60 days.]
+
+!!! warning "State rules that override this sample"
+    The sample clauses above must be conformed to your state's DPC statute. The following states set terms a sample policy cannot override:
+
+    - **Washington** ([RCW 48.150.030(2)(b)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.030)): patient terminates at will on written notice; unearned fees refunded prorated to the date notice was received; [RCW 48.150.050(1)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050) limits practice termination to enumerated grounds and bars discontinuing a patient solely for health status.
+    - **Idaho** ([39-9204](https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH92.pdf)): patient terminates at will on written notice (39-9204(1)(e)); unearned fees refunded within 30 days (39-9204(2)); agreement must state the conditions for practice termination.
+    - **Oklahoma** (36 O.S. 4605(F)(2)-(3)): fees not earned until the month is complete; unearned fees refunded on patient termination; see [Oklahoma](../states/oklahoma.md).
+    - **Louisiana** ([R.S. 37:1360.85(A)](https://www.legis.la.gov/legis/Law.aspx?d=919729)): practice termination limited to enumerated grounds with notice and a chance to find another physician; no termination solely for health status; unearned fees refunded (37:1360.83(C)); patient terminates at will (37:1360.81(2)); anti-discrimination (37:1360.82).
+    - **Florida** ([624.27(4)(c) and (g)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html)): either party may terminate on at least 30 days notice; prepaid fees refunded if the practice stops offering services.
+    - **Ohio** ([3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95)): termination effective no later than 60 days after notice.
+    - **Michigan** ([MCL 500.129(3)(c)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129)): patient terminates at will on written notice.
+
+    Other states with DPC statutes may add their own terms. Check [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) and your state's page before you adopt these clauses.
+
+---
+
+### Automatic Renewal Laws
+
+A membership that bills every month or renews every year until the patient cancels is a "negative option" or automatic-renewal contract, and a separate body of consumer law applies to it on top of the DPC statutes.
+
+- The FTC's amended Negative Option Rule ("click-to-cancel") was vacated by the Eighth Circuit in *Custom Communications v. FTC* on 2025-07-08 and is not in force. Do not rely on it, and do not assume its absence means there are no rules.
+- The Restore Online Shoppers' Confidence Act, [15 USC 8401-8405](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8403&num=0&edition=prelim), still applies to any recurring sale made online: you must disclose the material terms clearly before taking payment, obtain the patient's express informed consent to the recurring charge, and provide a simple mechanism to stop it.
+- State automatic-renewal laws apply as well. [California Business and Professions Code 17600-17606](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9), as amended by AB 2863 for contracts entered on or after 2025-07-01, has no health-care exemption: a patient who enrolled online must be able to cancel online, at will, without being routed to a phone call or a letter (17602(c)); an annual term needs a renewal reminder 15 to 45 days before it renews; and the renewal terms need the patient's affirmative consent. Many other states have similar statutes.
+
+**What this means in practice:**
+
+- If patients can sign up online, they must be able to cancel online. Never require a mailed letter.
+- Send a written reminder before an annual membership renews, and keep a record that it was sent.
+- Show the recurring-charge terms on the enrolment screen, not only in the agreement, and record the patient's consent.
 
 ---
 
@@ -126,7 +159,7 @@ When can you terminate a patient?
 ### When Patient Requests Cancellation
 
 **Step 1: Receive Request**
-- Accept via email, letter, phone, portal (document all)
+- Accept via email, portal, online account, phone or letter (document all); never require a mailed letter, and if the patient enrolled online, make sure they can cancel online
 - Confirm receipt in writing
 
 **Step 2: Confirm Details**
@@ -223,7 +256,7 @@ When can you terminate a patient?
 **Process:**
 1. First failed payment: Automatic retry; automated notification
 2. Second failed payment: Personal outreach (call/message)
-3. After grace period (e.g., 15-30 days): Send termination notice
+3. After grace period (e.g., 15-30 days; a common practice, not a legal requirement): Send termination notice
 4. End of notice period: Membership terminated
 
 **Document:** Keep records of all outreach and non-response.
@@ -248,7 +281,7 @@ When can you terminate a patient?
 6. Document everything
 
 **Avoid termination for:**
-- Complex medical conditions alone
+- Health status or complex medical conditions alone (expressly barred in Washington, [RCW 48.150.050](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050), and Louisiana, [R.S. 37:1360.85](https://www.legis.la.gov/legis/Law.aspx?d=919729); Louisiana R.S. 37:1360.82 also bars discrimination by race, religion, national origin, disability, education or economic status)
 - Reasonable disagreements
 - Protected class status (discrimination)
 - Filing complaints
@@ -259,14 +292,14 @@ When can you terminate a patient?
 
 ### When Refunds Make Sense
 
-- Annual prepaid membership (prorated refund is fair)
+- Annual prepaid membership (prorated refund is fair, and a refund of unearned fees is required in Washington, Idaho, Oklahoma and Louisiana)
 - Practice-initiated termination
 - Unusual circumstances (deployed military, etc.)
 - Building goodwill (case-by-case)
 
 ### When Refunds May Not Make Sense
 
-- Monthly memberships (service was available)
+- Monthly memberships (service was available), except in the states that require a refund of unearned fees
 - Patient simply changed mind after using services
 - Cancellation for non-payment
 
@@ -363,6 +396,18 @@ When can you terminate a patient?
 - [Membership Agreement Essentials](membership-agreement-essentials.md) - Policy language
 - [Payment Processing Options](payment-processing-options.md) - Handling payments
 - [Required Documentation](../compliance-legal/required-documentation.md) - Records retention
+- [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - Which states mandate refund and termination terms
+- [15 USC 8403 (ROSCA)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8403&num=0&edition=prelim) - Online recurring-charge requirements
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Ambient Scribes and Clinical Tools
 
-> **Quick Summary:** AI-powered documentation tools can dramatically reduce the time you spend on charting. This guide introduces commercial ambient scribe solutions and self-hosted AI options for DPC physicians who want to explore cutting-edge technology while maintaining patient data privacy.
+> **Quick Summary:** AI-powered documentation tools can reduce the time you spend on charting and the burden of after-hours notes. This guide introduces commercial ambient scribe solutions and self-hosted AI options for DPC physicians who want to explore cutting-edge technology while maintaining patient data privacy.
 
 ---
 
@@ -19,7 +19,7 @@
 
 One of DPC's greatest benefits is the ability to spend more time with patients and less time on administrative burden. AI documentation tools can amplify this advantage by:
 
-- **Reducing charting time** — Some physicians report saving 1–2 hours per day
+- **Reducing charting time** — The only randomised trial to date ([Lukac et al., NEJM AI 2025;2(12)](https://pubmed.ncbi.nlm.nih.gov/41497288/)) found a modest, measured effect: physicians using Nabla spent 9.5% less time in notes than controls (P=0.02), while the DAX group's 1.7% reduction was not statistically significant; well-being improved modestly. Reports of saving one to two hours a day are self-reported, not measured
 - **Improving note quality** — Consistent, comprehensive documentation
 - **Enabling presence** — Focus on the patient, not the keyboard
 - **Decreasing burnout** — Less after-hours documentation
@@ -35,13 +35,16 @@ These services listen to your patient encounters (with consent) and generate cli
 
 ### Overview
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. Vendor pricing below was read from each vendor's pricing page on 2026-09-22; it changes without notice.
+
 | Service | Key Features | Pricing Model |
 |---------|--------------|---------------|
-| **Doximity GPT / Scribe** | Integrated with Doximity platform; familiar interface for many physicians | Subscription |
-| **Freed.ai** | Focus on ease of use; minimal training required | Subscription |
-| **Heidi.ai** | Clean interface; strong privacy focus | Subscription |
-| **Mobius.MD** | Designed for primary care workflows | Subscription |
-| **Empathia.ai** | Emphasis on clinical reasoning support | Subscription |
+| **Doximity Scribe** | Integrated with Doximity platform; familiar interface for many physicians | [Free for verified US clinicians](https://www.doximity.com/clinicians/scribe) |
+| **Freed** | Focus on ease of use; minimal training required | [$39–$119 per month](https://www.getfreed.ai/pricing); BAA offered on the Groups plan, so confirm a BAA is available on your tier |
+| **Heidi** | Clean interface; strong privacy focus | [Free tier plus paid plans](https://www.heidihealth.com/pricing) |
+| **Mobius MD** | Dictation plus ambient notes; multi-specialty | Subscription |
+| **Empathia** | Scribe plus intake and administrative automation | Subscription |
 
 ### What to Evaluate
 
@@ -62,7 +65,7 @@ When considering a commercial solution, assess:
 ### Getting Started with Commercial Tools
 
 1. **Request demos** — Most services offer free trials
-2. **Review the BAA** — Ensure HIPAA compliance
+2. **Review the BAA** — Confirm the vendor will sign a Business Associate Agreement and can document its safeguards. HIPAA has no certification programme, so a "HIPAA-compliant" badge on a website is the vendor's own assertion, not a credential
 3. **Test with simulated encounters** — Practice before going live
 4. **Develop consent language** — Inform patients about recording
 5. **Start small** — Use with a few visits before full adoption
@@ -104,13 +107,13 @@ Self-hosted AI means running the AI software on your own hardware (a laptop, des
 
 **Hardware requirements:**
 - Works on Mac, Windows, or Linux
-- Minimum 8GB RAM (16GB+ recommended)
+- Minimum 8GB RAM (16GB+ recommended) as a rule of thumb; the vendor publishes no fixed requirement, and what you need depends on the model you run
 - Models range from small (works on most laptops) to large (needs powerful hardware)
 
 **Getting started:**
-1. Download from [ollama.ai](https://ollama.ai)
+1. Download from [ollama.com](https://ollama.com/)
 2. Install like any other application
-3. Open terminal and run: `ollama run llama3`
+3. Open terminal and run: `ollama run llama3.2` (model names change often; check the [model library](https://ollama.com/library) for the current recommended small model)
 4. Start chatting with the AI locally
 
 #### Open WebUI
@@ -134,7 +137,7 @@ To run Open WebUI (and many other self-hosted applications), you'll use containe
 
 **Best for:** Getting started, familiar platform
 
-**Notes:** Free for personal use; straightforward installation
+**Notes:** [Free for personal use and for businesses with fewer than 250 employees and under $10 million in annual revenue](https://docs.docker.com/subscription/desktop-license/); larger organisations need a paid subscription. Straightforward installation
 
 #### OrbStack (Mac only)
 
@@ -142,7 +145,7 @@ To run Open WebUI (and many other self-hosted applications), you'll use containe
 
 **Best for:** Mac users who want better performance
 
-**Notes:** More resource-efficient than Docker Desktop; excellent user experience
+**Notes:** More resource-efficient than Docker Desktop; excellent user experience. Free for personal use; [commercial use is $8 per user per month](https://docs.orbstack.dev/faq), which includes use in a practice
 
 ### Advanced: Dedicated Server Options
 
@@ -177,8 +180,8 @@ For physicians who want to go further — perhaps running AI tools 24/7 or explo
 
 If you want to try self-hosted AI with minimal friction:
 
-1. **Install Ollama** — Download and install from ollama.ai
-2. **Run a model** — Open your terminal and type: `ollama run llama3`
+1. **Install Ollama** — Download and install from [ollama.com](https://ollama.com/)
+2. **Run a model** — Open your terminal and type: `ollama run llama3.2` (or whichever small model the Ollama library currently recommends)
 3. **Try it out** — Ask it to summarize a clinical scenario (no real patient data yet!)
 
 That's it. You now have a local AI running on your machine.
@@ -190,8 +193,9 @@ To get a ChatGPT-like interface:
 1. **Install Docker Desktop** (or OrbStack on Mac)
 2. **Run Open WebUI** — One command in terminal:
    ```
-   docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+   docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -e WEBUI_SECRET_KEY=change-me-to-a-long-random-string -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
    ```
+   Replace the secret key with a long random string of your own; it signs login sessions. The current command is in the [Open WebUI quick start](https://docs.openwebui.com/getting-started/quick-start/).
 3. **Open your browser** — Go to http://localhost:3000
 4. **Connect to Ollama** — Open WebUI will detect it automatically
 
@@ -232,6 +236,18 @@ Regardless of the solution you choose:
 - **Document consent** — Include acknowledgment in your intake paperwork
 - **Offer opt-out** — Some patients may prefer traditional documentation
 - **Be transparent** — Explain what the technology does and doesn't do
+- **Get recording consent under your state's wiretap law** — An ambient scribe records the visit; in all-party-consent states every person in the room must agree before you record
+
+An ambient scribe is a documentation tool. It is not FDA-regulated clinical decision support unless it starts generating diagnostic or treatment recommendations, so check what the product actually does before you assume either way.
+
+!!! warning "State AI-disclosure laws"
+    A growing number of states require you to tell patients when AI is involved in their care. Check your state before you go live:
+
+    - **California** ([Health and Safety Code 1339.75](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=1339.75.), AB 3030, effective 2025-01-01): patient clinical communications written by generative AI must carry a disclaimer unless a licensed clinician reads and reviews them. A scribe note the physician reviews and signs is exempt; an unreviewed AI-drafted portal message is not.
+    - **Texas** ([Health and Safety Code 183.005](https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01188F.htm), SB 1188, effective 2025-09-01): disclose when AI is used in diagnosis or treatment, and a physician must review AI-generated records. Separately, [Business and Commerce Code 552.051(f)](https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm) (TRAIGA, HB 149, effective 2026-01-01) requires disclosure to the patient no later than the first service.
+    - **Utah** (Title 13, Chapter 77, SB 226 of 2025): disclose the use of generative AI when a patient asks, and proactively in regulated occupations, which include medicine.
+
+    Other states are adding similar rules. Put the disclosure in your intake paperwork and your consent script so it happens by default.
 
 !!! warning "Caution"
     Never use patient data to test new tools. Create fictional scenarios for learning and testing. Only use real patient data once your workflows and compliance measures are established.
@@ -245,7 +261,7 @@ Regardless of the solution you choose:
 - Want minimal setup and maintenance
 - Prefer vendor support and updates
 - Don't mind subscription costs
-- Are comfortable with HIPAA-compliant cloud services
+- Are comfortable with cloud vendors that sign a BAA and document their safeguards
 
 ### Self-Hosted Solutions Are Best If You:
 
@@ -281,7 +297,7 @@ Many physicians use commercial tools for real-time ambient documentation and sel
     External links are provided for reference. Verify current information directly with these sources.
 
 **Self-Hosted Tools:**
-- [Ollama](https://ollama.ai) — Local AI model runner
+- [Ollama](https://ollama.com/) — Local AI model runner
 - [Open WebUI](https://openwebui.com) — Web interface for local AI
 - [Docker](https://docker.com) — Container platform
 - [OrbStack](https://orbstack.dev) — Docker alternative for Mac
@@ -291,6 +307,21 @@ Many physicians use commercial tools for real-time ambient documentation and sel
 - Search for "Ollama tutorial" or "Open WebUI setup" for current guides
 - DPC community forums often discuss technology implementations
 - Reddit communities: r/selfhosted, r/LocalLLaMA
+
+**Evidence and Law:**
+- [Lukac et al., NEJM AI 2025;2(12)](https://pubmed.ncbi.nlm.nih.gov/41497288/) — Randomised trial of ambient AI scribes
+- [45 CFR 164.502(e) and 164.504(e)](https://www.ecfr.gov/current/title-45/section-164.504) — Business associate requirements
+- [BAA Requirements](../compliance-legal/baa-requirements.md) — The kit's BAA guide
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
