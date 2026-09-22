@@ -82,15 +82,15 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [README.md](docs/small-business-fundamentals/README.md) | Not Reviewed | | | Section overview |
-| [accounting-basics.md](docs/small-business-fundamentals/accounting-basics.md) | Not Reviewed | | | Vocabulary, cash vs accrual |
-| [business-banking.md](docs/small-business-fundamentals/business-banking.md) | Not Reviewed | | | Personal/business separation |
-| [bookkeeping-setup.md](docs/small-business-fundamentals/bookkeeping-setup.md) | Not Reviewed | | | Software, monthly workflow |
-| [reading-financial-statements.md](docs/small-business-fundamentals/reading-financial-statements.md) | Not Reviewed | | | P&L, balance sheet, cash flow |
-| [cash-flow-management.md](docs/small-business-fundamentals/cash-flow-management.md) | Not Reviewed | | | Runway, forecasting |
-| [understanding-business-taxes.md](docs/small-business-fundamentals/understanding-business-taxes.md) | Not Reviewed | | | Self-employment tax, quarterlies |
-| [working-with-accountants.md](docs/small-business-fundamentals/working-with-accountants.md) | Not Reviewed | | | Hiring CPAs and bookkeepers |
-| [key-business-metrics.md](docs/small-business-fundamentals/key-business-metrics.md) | Not Reviewed | | | MRR, panel, churn, ARPM |
+| [README.md](docs/small-business-fundamentals/README.md) | Read-through | JF | 2026-09-22 | Section overview; descriptions and links updated |
+| [accounting-basics.md](docs/small-business-fundamentals/accounting-basics.md) | Read-through | JF | 2026-09-22 | Cash method available with inventory (471(c)); example near national average |
+| [business-banking.md](docs/small-business-fundamentals/business-banking.md) | Read-through | JF | 2026-09-22 | EIN, FDIC, no BOI filing; several banks named, none endorsed |
+| [bookkeeping-setup.md](docs/small-business-fundamentals/bookkeeping-setup.md) | Read-through | JF | 2026-09-22 | Software prices re-read from vendor pages 2026-09-22; neutral wording |
+| [reading-financial-statements.md](docs/small-business-fundamentals/reading-financial-statements.md) | Read-through | JF | 2026-09-22 | Tables recomputed; margin definition made explicit; payroll-tax line explained |
+| [cash-flow-management.md](docs/small-business-fundamentals/cash-flow-management.md) | Read-through | JF | 2026-09-22 | Tax line corrected to profit basis and settled SE-tax method; estimated-tax dates |
+| [understanding-business-taxes.md](docs/small-business-fundamentals/understanding-business-taxes.md) | Read-through | JF | 2026-09-22 | Aligned to the Reviewed tax page; 2026 limits; 1099 thresholds verified on irs.gov |
+| [working-with-accountants.md](docs/small-business-fundamentals/working-with-accountants.md) | Read-through | JF | 2026-09-22 | Credentials per IRS; fee ranges enclose the tax page; neutral referrals |
+| [key-business-metrics.md](docs/small-business-fundamentals/key-business-metrics.md) | Read-through | JF | 2026-09-22 | Panel size to survey figures; margin contradiction with statements page resolved |
 
 ## Pricing & Membership
 
