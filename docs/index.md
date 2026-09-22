@@ -67,14 +67,14 @@ Research every decision. Set up complete systems. Launch with everything in plac
 
 ## About This Resource
 
-This startup kit was developed by **experienced DPC physicians** — including some of the first in the nation to practice Direct Primary Care — drawing from years of real-world experience building and mentoring DPC practices.
+This startup kit was written by a family physician who runs a Direct Primary Care practice, drawing on years of building and mentoring DPC practices. Its law and tax pages are checked against primary sources and carry the reviewer's name. See [About This Kit](about-this-kit.md).
 
 **What makes this different:**
 
 - **Bootstrap-first philosophy** — We lead with "what's the minimum?" not "what's ideal?"
 - **All 50 states covered** — State-specific laws, regulations, and resources
-- **Open source** — Free to use, share, and improve (CC BY-NC 4.0)
-- **Real-world tested** — From physicians who've done it, not consultants who haven't
+- **Openly licensed** — Free to use, share, and improve (CC BY-NC 4.0)
+- **Real-world tested** — Written from inside a working DPC practice
 
 This resource serves as the knowledge base for the **DPC Mentor Platform**, connecting aspiring DPC physicians with experienced mentors.
 
@@ -97,14 +97,14 @@ This resource serves as the knowledge base for the **DPC Mentor Platform**, conn
 
 Tick off each day as you go — your progress is saved in your browser.
 
-- [ ] **Day 1–2:** File LLC, get EIN — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
+- [ ] **Day 1–2:** File your business entity and get an EIN (an LLC or PLLC where allowed; California, New York and Texas require a professional entity) — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
 - [ ] **Day 3:** Malpractice insurance — see [Professional Liability Guide](business-formation/professional-liability-guide.md)
 - [ ] **Day 4:** Phone, messaging, video setup — see [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md)
 - [ ] **Day 5:** One-page website, Google Business Profile — see [Low-Tech Toolkit](bootstrap/low-tech-toolkit.md)
 - [ ] **Day 6:** Basic equipment, home office — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
 - [ ] **Day 7:** Tell everyone, sign first patient — you're open
 
-**Total cost: $1,500-3,000. Break-even: 3-10 patients.**
+**Total cost: $1,500-3,000. Break-even: 3-10 patients.** (Illustrative; your numbers will differ.)
 
 ### :building_construction: Comprehensive Quick Start (Launch in 3-6 Months)
 

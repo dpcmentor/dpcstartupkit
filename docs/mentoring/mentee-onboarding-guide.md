@@ -39,6 +39,7 @@ The DPC Mentor Platform is designed for physicians and physicians-in-training in
 | **Medical Students** | Currently enrolled in an accredited MD or DO program |
 | **Resident Physicians** | In an accredited residency program (any specialty) |
 | **Practicing Physicians** | Licensed MD or DO interested in starting or transitioning to DPC |
+| **Others** | The application also accepts pre-medical students and fellows. Mentors decide whom to accept, and most prioritize physicians and physicians-in-training |
 
 ---
 
@@ -117,7 +118,7 @@ Complete your mentee profile with:
 
 ### Step 2: Browse Mentors
 
-Review mentor profiles to find a good match based on:
+The [mentor list](https://dpcmentor.com/mentors/browse/) is public. Review profiles to find a good match based on:
 
 - Geographic location
 - Years of DPC experience
@@ -126,7 +127,7 @@ Review mentor profiles to find a good match based on:
 
 ### Step 3: Request a Match
 
-Send a match request to mentors who align with your goals. Include:
+You need an account and a completed mentee profile to send a request. Send one to mentors who align with your goals. Include:
 
 - A brief introduction
 - Why you're interested in DPC
@@ -289,7 +290,7 @@ Mentorship relationships naturally end when:
 For **technical platform issues only**:
 
 - **Email:** support@dpcmentor.com
-- **Expected Response Time:** 48–72 hours
+- **Expected response time:** a few days. The platform is run by volunteers.
 
 For all other matters — scheduling, logistics, mentorship questions — communicate directly with your mentor.
 

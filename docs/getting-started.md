@@ -12,7 +12,7 @@
 ### :zap: Bootstrap Path
 **"I want to start now with what I have."**
 
-- First patient in 7-30 days
+- First patient in weeks, not months
 - $1,500-3,000 total investment
 - Learn by doing, add as you grow
 
@@ -156,14 +156,15 @@ You're open and seeing patients.
 
 ## Templates
 
-Ready-to-use spreadsheets for planning:
+Ready-to-use spreadsheets for planning (all templates are listed on the [Templates](kit-templates/README.md) page):
 
 | Template | Use For |
 |----------|---------|
-| [Startup Budget](kit-templates/spreadsheets/README.md) | Planning initial investment |
-| [Monthly Expenses](kit-templates/spreadsheets/README.md) | Tracking operating costs |
-| [Pricing Calculator](kit-templates/spreadsheets/README.md) | Modeling membership revenue |
-| [EMR Comparison](kit-templates/spreadsheets/README.md) | Evaluating EMR options |
+| [Startup Budget](kit-templates/spreadsheets/template-startup-budget.xlsx) | Planning initial investment |
+| [Monthly Expenses](kit-templates/spreadsheets/template-monthly-expenses.xlsx) | Tracking operating costs |
+| [Pricing Calculator](kit-templates/spreadsheets/template-pricing-calculator.xlsx) | Modeling membership revenue |
+| [EMR Comparison](kit-templates/spreadsheets/template-emr-comparison.xlsx) | Evaluating EMR options |
+| [Break-Even Analysis](kit-templates/spreadsheets/template-break-even-analysis.xlsx) | Patients needed to cover costs (also [interactive](pricing-membership/pricing-your-practice.md#break-even-calculator)) |
 
 ---
 

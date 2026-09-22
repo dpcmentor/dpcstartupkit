@@ -86,7 +86,7 @@ To maintain quality and safety within the DPC Mentor Platform community, all men
 | Requirement | Details |
 |-------------|---------|
 | **Active Medical License** | Current, unrestricted medical license in your state of practice |
-| **DPC Experience** | Minimum of three years operating a successful, independent Direct Primary Care practice |
+| **DPC Experience** | An established, independent Direct Primary Care practice. The application asks how many years you have practiced in the DPC model, and every application is reviewed by a person before activation |
 | **Clean Record** | No active state board investigations or disciplinary actions |
 | **NPI Verification** | Valid National Provider Identifier, verified through NPPES database |
 | **Professional Standards** | Adherence to the standard code of conduct expected of licensed physicians |
@@ -99,21 +99,11 @@ To maintain quality and safety within the DPC Mentor Platform community, all men
 
 Complete your mentor profile with the following information:
 
-- **Practice Details**
-  - Practice location (city, state)
-  - Years of DPC experience
-  - Practice size and model
-  - Areas of expertise (e.g., starting a practice, pricing strategies, rural DPC)
-
-- **Availability**
-  - Clinical rotation durations offered (2 weeks, 4 weeks, 6 weeks, or custom)
-  - Non-clinical mentoring session availability
-  - Preferred communication methods (phone, video, email, in-person)
-
-- **Your Terms**
-  - Cancellation policy
-  - Any specific requirements for mentees
-  - Time zone and typical response times
+- **Practice details**: practice name, specialty, years in the DPC model, and location (city, state, ZIP)
+- **Bio**: your DPC story, in your own words
+- **Areas of expertise**: a comma-separated list (for example: starting a practice, pricing, rural DPC)
+- **Availability**: one free-text field. Use it for everything a mentee needs to know before asking: whether you offer clinical rotations and for how long (two, four or six weeks, or your own terms), non-clinical formats, preferred contact methods, your time zone, typical response time, and any cancellation expectations. The profile has no separate fields for these.
+- **Maximum mentees**: how many active mentees you will take at once
 
 ### Step 2: Verification Process
 
@@ -194,7 +184,7 @@ Before beginning any clinical rotation, document in writing:
 You may end a mentorship relationship at any time, for any reason. Simply:
 
 1. Communicate directly with your mentee
-2. Update your availability status on the platform
+2. Update the availability text on your profile, or lower your maximum number of mentees
 3. No explanation to the platform is required
 
 !!! tip
@@ -207,7 +197,7 @@ You may end a mentorship relationship at any time, for any reason. Simply:
 For **technical platform issues only**:
 
 - **Email:** support@dpcmentor.com
-- **Expected Response Time:** 48–72 hours
+- **Expected response time:** a few days. The platform is run by volunteers.
 
 For all other matters — scheduling, logistics, interpersonal concerns, clinical questions — please communicate directly with your mentee.
 
