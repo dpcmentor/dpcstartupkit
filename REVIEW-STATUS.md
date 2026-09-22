@@ -52,7 +52,7 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [README.md](docs/bootstrap/README.md) | Not Reviewed | | | Section overview, philosophy |
+| [README.md](docs/bootstrap/README.md) | Read-through | JF | 2026-09-22 | Cost figures harmonised with other entry pages; entity wording |
 | [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Read-through | JF | 2026-06-15 | $1,500-3,250 launch checklist |
 | [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Read-through | JF | 2026-06-15 | $0-50/month tech stack |
 | [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Read-through | JF | 2026-06-15 | Full philosophy, startup culture |
@@ -173,8 +173,8 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [mentor-onboarding-guide.md](docs/mentoring/mentor-onboarding-guide.md) | Not Reviewed | | | |
-| [mentee-onboarding-guide.md](docs/mentoring/mentee-onboarding-guide.md) | Not Reviewed | | | |
+| [mentor-onboarding-guide.md](docs/mentoring/mentor-onboarding-guide.md) | Read-through | JF | 2026-09-22 | Profile fields and requirements aligned with the platform as built |
+| [mentee-onboarding-guide.md](docs/mentoring/mentee-onboarding-guide.md) | Read-through | JF | 2026-09-22 | Eligibility aligned with the platform; browse link |
 
 ## Templates
 
@@ -267,9 +267,9 @@ All 50 state guides require review. Each includes:
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [README.md](README.md) | Not Reviewed | | | |
-| [index.md](docs/index.md) | Not Reviewed | | | Site homepage - bootstrap-first |
-| [getting-started.md](docs/getting-started.md) | Not Reviewed | | | Two-path quick start |
-| [CONTRIBUTING.md](docs/CONTRIBUTING.md) | Not Reviewed | | | |
+| [index.md](docs/index.md) | Read-through | JF | 2026-09-22 | Home page; authorship claim aligned with About page; entity wording |
+| [getting-started.md](docs/getting-started.md) | Read-through | JF | 2026-09-22 | Template links now point at the files; timing wording |
+| [CONTRIBUTING.md](docs/CONTRIBUTING.md) | Read-through | JF | 2026-09-22 | Rewritten in #43/#44 |
 | [CONTENT-ROADMAP.md](CONTENT-ROADMAP.md) | Not Reviewed | | | |
 
 ---
