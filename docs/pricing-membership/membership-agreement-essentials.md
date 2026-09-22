@@ -9,6 +9,9 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 !!! warning "Caution"
     **Have Your Agreement Reviewed by a Healthcare Attorney:** This guide provides educational framework only. Your membership agreement is a legal contract that must comply with your state's DPC laws, contract requirements, and healthcare regulations. Never use a template without legal review. An attorney experienced in DPC can ensure your agreement protects your practice and meets state-specific requirements.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. The fees in the sample clauses are placeholders, not recommendations.
+
 ## Prerequisites
 
 - Selected your [Membership Model](membership-models-comparison.md)
@@ -74,7 +77,9 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 **Example Language:**
 > **THIS IS NOT INSURANCE.** This Agreement establishes a direct physician-patient relationship for primary care services. This membership does not constitute health insurance and does not replace the need for comprehensive health insurance coverage. Members are strongly encouraged to maintain health insurance for hospitalization, emergency services, specialist care, and other services not provided by this Practice.
 
-**State-Specific Note:** Some states (e.g., Texas, Louisiana, Oklahoma) have specific DPC statutes that may require additional language. Verify requirements with a local healthcare attorney.
+This sample paragraph will not, on its own, satisfy the states that dictate the exact wording or typography of the disclosure. [Florida 624.27(4)(h)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html) prescribes a verbatim sentence ("This agreement is not health insurance and the health care provider will not file any claims against the patient's health insurance policy or plan...") in a contrasting colour and at least 12-point type; [Idaho 39-9207](https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH92.pdf) prescribes a verbatim disclaimer; [Ohio 3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95) requires the statement that the agreement is not health insurance, is not subject to insurance laws and does not meet any individual health insurance mandate; [Michigan MCL 500.129(3)(g)-(i)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129) requires a prominent statement that the patient must pay for services not in the agreement. Copy the statutory wording exactly.
+
+**State-Specific Note:** The mandated-wording states are Florida, Idaho, Ohio, Michigan and [Washington](../states/washington.md) (RCW 48.150). [Texas](../states/texas.md) requires only a pre-signing "not insurance" notice (Occupations Code 162.256) and a promise not to bill insurers (162.254). [Oklahoma](../states/oklahoma.md) (36 O.S. 4605(F)) requires three terms: termination on written notice, fees not earned until the month is complete, and a refund of unearned fees when the patient terminates. See [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) and verify with a local healthcare attorney.
 
 ---
 
@@ -183,10 +188,15 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 > - Payment is due on the _____ of each month
 > - Accepted payment methods: Credit card, debit card, ACH bank transfer
 > - A fee of $25 will be charged for returned payments
-> - Membership fees may be adjusted annually with 60 days written notice
+> - Membership fees may be adjusted no more than once per year with at least 60 days written notice
 >
 > **Additional Service Fees:**
 > Laboratory services, vaccines, and certain procedures may incur additional charges. A current fee schedule is available upon request.
+
+In [Louisiana](../states/louisiana.md) the 60-day notice and the once-a-year limit on fee changes are mandatory (R.S. 37:1360.83(D)), not a courtesy. Elsewhere they are a reasonable convention.
+
+!!! warning "Subject to change: 2026 HSA rules"
+    Draft the scope and fee sections with the 2026 HSA rules in mind. Under [26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), added by P.L. 119-21 §71308 and effective for months after 2025-12-31, a DPC arrangement keeps a member HSA-eligible only if the fee is no more than $150 per month for an individual or $300 per month for an arrangement covering more than one individual (indexed after 2026), the services are solely primary care furnished by a primary care practitioner, and the arrangement does not bundle procedures requiring general anaesthesia, prescription drugs other than vaccines, or laboratory services not typically administered in ambulatory primary care. [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) explains the rule. If you want members to keep HSA eligibility, keep bundled labs and medications out of the membership fee and bill them separately. Re-check the dollar caps each January.
 
 ---
 
@@ -203,7 +213,9 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 > This Agreement begins on the Effective Date and continues on a month-to-month basis until terminated by either party. Membership will automatically renew each month unless terminated in accordance with this Agreement.
 
 **Example Language (Annual):**
-> This Agreement is for an initial term of twelve (12) months beginning on the Effective Date. Membership will automatically renew for successive twelve-month terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the current term.
+> This Agreement is for an initial term of twelve (12) months beginning on the Effective Date. Membership will automatically renew for successive twelve-month terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the current term. [Drafting note: an annual term with a notice deadline conflicts with the states where the patient may terminate at will on written notice (Idaho, Louisiana, Washington, Oklahoma, Michigan); in those states the term clause must yield to the cancellation clause.]
+
+A fixed annual term that renews automatically is also a "negative option" or automatic-renewal contract. Under [California Business and Professions Code 17600-17606](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=3.&chapter=1.&article=9) the renewal terms must be disclosed clearly, the patient must give affirmative consent to them, an annual renewal needs a reminder notice 15 to 45 days before it renews, and a patient who enrolled online must be able to cancel online. Other states have similar laws. See [Handling Cancellations and Refunds](handling-cancellations-refunds.md#automatic-renewal-laws).
 
 ---
 
@@ -212,26 +224,35 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 **Purpose:** Define how either party can end the relationship.
 
 **Patient Cancellation:**
-- Notice period required (typically 30 days)
-- How to submit cancellation
-- Refund policy (if any)
+- Notice period, if your state allows one (30 days is common in states without a DPC statute; Idaho, Louisiana, Washington, Oklahoma and Michigan let the patient terminate at will on written notice)
+- How to submit cancellation (never require a mailed letter; if patients can enrol online they must be able to cancel online)
+- Refund of unearned fees (mandatory in some states; see below)
 - Final payment obligations
 
 **Practice Termination:**
-- Reasons practice may terminate (non-payment, abusive behavior, non-compliance, practice closure)
-- Notice period (typically 30 days except for cause)
+- Enumerated reasons practice may terminate (non-payment, fraud, repeated non-compliance, abusive or dangerous behaviour, practice closure)
+- A statement that the practice will not terminate because of the member's health status
+- Notice period (typically 30 days except for cause; Ohio caps it at 60 days after notice)
 - Continuity of care obligations
 
 **Example Language:**
 > **Cancellation by Member:**
-> Member may cancel this Agreement at any time by providing written notice to the Practice. Cancellation is effective thirty (30) days after receipt of notice. Membership fees are non-refundable; however, Member will have access to services through the end of the paid period.
+> Member may cancel this Agreement at any time by giving written notice to the Practice by any of the following methods: [email, patient portal, online account, or letter]. Cancellation is effective [on the date the Practice receives the notice / at the end of the current billing period, where state law permits]. Any membership fee already paid for the period after the effective date of cancellation will be refunded to Member [on a prorated basis / within 30 days], and Member will have access to services through the effective date of cancellation. [Drafting note: choose the option your state allows. Washington, Idaho, Oklahoma and Louisiana require a refund of unearned fees and let the patient terminate at will; Florida permits a notice period of up to 30 days. A clause making fees "non-refundable" is unlawful in the refund states. If members enrol online, the cancellation methods must include an online method.]
 >
 > **Termination by Practice:**
-> Practice may terminate this Agreement:
-> - With thirty (30) days written notice for any reason
-> - Immediately for cause, including but not limited to: non-payment, abusive or threatening behavior toward staff, repeated failure to follow medical recommendations in a manner that endangers health, or fraudulent activity
+> Practice may terminate this Agreement only for the following reasons:
+> - Member fails to pay membership fees when due, after written notice and a reasonable opportunity to cure
+> - Member has committed fraud or provided materially false information in connection with this Agreement
+> - Member repeatedly fails to follow the treatment plan in a way that makes it impossible to provide safe care
+> - Member behaves in an abusive, threatening or dangerous manner toward the physician, staff or other patients
+> - Practice closes, relocates, or the physician ceases to practise
+>
+> Except in cases of danger to the physician, staff or other patients, Practice will give Member at least [thirty (30)] days written notice of termination, and will not terminate this Agreement because of Member's health status, medical condition, or the cost or complexity of Member's care. [Drafting note: Washington (RCW 48.150.050) and Louisiana (R.S. 37:1360.85) limit practice termination to enumerated grounds and bar discontinuing a patient solely for health status; Idaho requires the agreement to state the conditions under which the practice may terminate; Ohio caps the period between notice and termination at 60 days.]
 >
 > Upon termination, Practice will provide Member with copies of medical records and reasonable assistance in transitioning to another physician.
+>
+> **Non-Discrimination:**
+> Practice will not refuse to enter into this Agreement, terminate it, or vary its terms because of Member's health status, pre-existing conditions, race, religion, national origin, disability, sex, age, education, or economic status. [Drafting note: Louisiana R.S. 37:1360.82 lists race, religion, national origin, disability, education and economic status; Washington RCW 48.150.050 and Louisiana R.S. 37:1360.85 add health status. Keep the clause in every state; it costs nothing and prevents a discrimination claim.]
 
 ---
 
@@ -240,13 +261,26 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 **Purpose:** Clearly state refund terms to prevent disputes.
 
 **Common Approaches:**
-- No refunds (most common for monthly memberships)
+- No refund of the current month once it has begun (common for monthly memberships where state law allows it)
 - Prorated refunds for annual prepaid memberships
-- No refunds for cause termination
+- Refund of unearned fees on any cancellation (mandatory in Washington, Idaho, Oklahoma and Louisiana)
 
 **Example Language:**
 > **Refund Policy:**
-> Monthly membership fees are non-refundable. For annual prepaid memberships, if Member cancels after the initial thirty (30) days, a prorated refund will be issued for complete months remaining in the term, less a $50 administrative fee. No refunds will be issued for termination for cause by the Practice.
+> [Option A, where state law allows:] Monthly membership fees cover the month in which they are paid and are not refunded once that month has begun. [Option B, required in Washington, Idaho, Oklahoma and Louisiana:] Membership fees are earned only as each month of service is completed. If this Agreement ends, whether by cancellation or by termination, Practice will refund the unearned portion of any fee paid, prorated to the date the notice of cancellation was received, [within thirty (30) days]. For annual prepaid memberships, Practice will refund the fee for the remainder of the term [on a prorated daily basis / for complete months remaining in the term, less a $[__] administrative fee, where state law allows a deduction]. If Practice ceases to offer services, all prepaid fees for the period after the closure date will be refunded. [Drafting note: an administrative fee, a "complete months only" rule, or a "no refunds for cause" rule is not permitted in the states that require a refund of unearned fees. Florida requires a refund of prepaid fees if the practice stops offering services (624.27(4)(g)).]
+
+!!! warning "State rules that override this sample"
+    The clauses in sections 7 and 8 must be conformed to your state's DPC statute. The following states set terms that a sample agreement cannot override:
+
+    - **Washington** ([RCW 48.150.030(2)(b)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.030)): the patient may terminate at will on written notice and unearned fees are refunded prorated to the date the notice was received; [RCW 48.150.050(1)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050) limits practice termination to enumerated grounds and bars discontinuing a patient solely for health status.
+    - **Idaho** ([39-9204](https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH92.pdf)): the patient may terminate at will on written notice (39-9204(1)(e)); unearned fees are refunded within 30 days (39-9204(2)); the agreement must state the conditions under which the practice may terminate.
+    - **Oklahoma** (36 O.S. 4605(F)(2)-(3)): fees are not earned until the month is complete and unearned fees are refunded when the patient terminates; see [Oklahoma](../states/oklahoma.md).
+    - **Louisiana** ([R.S. 37:1360.85(A)](https://www.legis.la.gov/legis/Law.aspx?d=919729)): practice termination limited to enumerated grounds, no termination solely for health status, notice and a chance to find another physician; unearned fees refunded (37:1360.83(C)); patient terminates at will (37:1360.81(2)); anti-discrimination (37:1360.82).
+    - **Florida** ([624.27(4)(c) and (g)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html)): either party may terminate on at least 30 days notice; prepaid fees are refunded if the practice stops offering services.
+    - **Ohio** ([3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95)): termination takes effect no later than 60 days after notice.
+    - **Michigan** ([MCL 500.129(3)(c)](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-129)): the patient may terminate at will on written notice.
+
+    Other states with DPC statutes may add their own terms. Check [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) and your state's page before you finalise these sections.
 
 ---
 
@@ -287,7 +321,7 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 
 **Example Language:**
 > **Privacy and Medical Records:**
-> Practice maintains Member's medical records in compliance with all applicable laws, including HIPAA. Member has received or been offered the Practice's Notice of Privacy Practices. Member may request copies of medical records at any time; a reasonable fee may be charged for copying and processing. Medical records will be retained in accordance with state law requirements.
+> Practice maintains Member's medical records in compliance with all applicable laws, including HIPAA. Member has received or been offered the Practice's Notice of Privacy Practices. Member may request copies of medical records at any time; a reasonable, cost-based fee may be charged for copying and processing, as permitted by [45 CFR 164.524(c)(4)](https://www.ecfr.gov/current/title-45/section-164.524) and state law. Medical records will be retained in accordance with state law requirements.
 
 ---
 
@@ -356,14 +390,16 @@ A well-crafted agreement prevents misunderstandings, reduces disputes, and suppo
 
 ### States with DPC-Specific Legislation
 
-As of 2024, most states have enacted DPC legislation clarifying that DPC is not insurance. Requirements vary. Key states with specific requirements:
+As of 2026, 33 states have enacted DPC legislation clarifying that DPC is not insurance (see [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md)). Requirements vary. Key states with specific requirements:
 
 | State | Key Requirements |
 |-------|-----------------|
-| Texas | Specific disclosures required; template language available |
-| Washington | First DPC law; specific definitions |
-| Louisiana | Requires specific contract provisions |
-| Idaho | Specific disclosure requirements |
+| Texas | Pre-signing "not insurance" notice (Occupations Code 162.256); no billing of insurers (162.254) |
+| Washington | First comprehensive DPC law (2007; West Virginia's 2006 pilot, since repealed, came first); specific definitions, mandatory refund and termination terms |
+| Louisiana | Requires specific contract provisions, including termination grounds and once-a-year fee changes |
+| Idaho | Verbatim disclaimer; at-will termination and 30-day refund of unearned fees |
+
+See the "State rules that override this sample" box above for Florida, Ohio, Oklahoma and Michigan.
 
 **Action:** Research your state's DPC statute or consult a local healthcare attorney.
 
@@ -371,11 +407,13 @@ As of 2024, most states have enacted DPC legislation clarifying that DPC is not 
 
 ### Medicare Considerations
 
-If you will accept Medicare patients:
-- Cannot charge for services covered by Medicare
-- Consider opt-out or non-participating status
-- Specific contract language may be required
-- Complex area—consult healthcare attorney
+If you will enrol Medicare beneficiaries, there are two paths, and the agreement must say which one you are on:
+
+**Path 1: You have opted out of Medicare.** A physician who has opted out may charge a Medicare beneficiary for Medicare-covered services, at any price, provided each beneficiary has signed a private contract that meets every element of [42 CFR 405.415](https://www.ecfr.gov/current/title-42/section-405.415) before services are furnished. The contract must, among other things: be in writing in a legible type size; state that the beneficiary accepts full responsibility for payment, that Medicare limits do not apply, that neither party will submit a claim to Medicare, and that Medicare and Medigap will not pay; state that the beneficiary knows they may obtain covered services from physicians who have not opted out; give the effective and expiry dates of your opt-out period; be signed by both parties; not be entered into while the beneficiary needs emergency or urgent care; and be retained for the whole opt-out period. The private-contract language can sit inside the membership agreement. Follow the [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for the full list of elements and the affidavit process.
+
+**Path 2: You have not opted out (participating or non-participating).** You must submit claims to Medicare for covered services ([42 USC 1395w-4(g)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w-4&num=0&edition=prelim)) and may charge a membership fee only for services Medicare does not cover. Non-participating status changes how you are paid; it does not free you from billing Medicare. Only opt-out with private contracts does that.
+
+This is a complex area. Have a healthcare attorney review the Medicare language before you enrol your first beneficiary.
 
 ---
 
@@ -446,9 +484,23 @@ If you will accept Medicare patients:
 ## Resources
 
 - **Template Membership Agreement** *(planned)*
-- [Direct Primary Care Alliance](https://www.dpcare.org/) - Member resources
+- [Direct Primary Care Alliance](https://www.dpcalliance.org/) - Member resources
+- [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - Which states have statutes and what they require
+- [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) - Private contracts under 42 CFR 405.415
+- [Handling Cancellations and Refunds](handling-cancellations-refunds.md) - Cancellation, refund and automatic-renewal rules
+- [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) - 2026 HSA rules for DPC arrangements
 - Your state medical board for state-specific requirements
 - Healthcare attorney for legal review
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 

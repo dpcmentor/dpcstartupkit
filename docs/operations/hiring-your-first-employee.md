@@ -9,7 +9,7 @@
 Before hiring, ask yourself:
 
 **Challenge your assumptions:**
-- Can you handle 400-600 patients solo? Many DPC physicians do.
+- Can you handle 400-600 patients solo? Many DPC physicians do (rule of thumb; unsourced).
 - Is your time constraint real or perceived?
 - Would systems improvements or technology help more than an employee?
 - Could you outsource specific tasks instead of hiring?
@@ -22,7 +22,7 @@ Before hiring, ask yourself:
 - You want to take a real vacation
 
 **Signs you're NOT ready:**
-- Panel under 300 patients
+- Panel under 300 patients (rule of thumb; unsourced)
 - Not yet profitable or barely breaking even
 - "It would be nice to have help" (not a business need)
 - Trying to grow faster than sustainable
@@ -33,7 +33,7 @@ Before hiring, ask yourself:
 
 ### Medical Assistant (Part-Time)
 
-**Best for:** Practices with 400+ patients wanting to increase efficiency
+**Best for:** Practices with 400+ patients wanting to increase efficiency (rule of thumb; unsourced)
 
 **Typical duties:**
 - Room patients, vitals
@@ -43,7 +43,7 @@ Before hiring, ask yourself:
 - Prescription refill coordination
 - Lab result follow-up
 
-**Typical cost:** $15-25/hour, 15-25 hours/week = $900-2,500/month
+**Typical cost:** $17-29/hour, 15-25 hours/week ≈ $1,100-3,140/month (estimate; the wage range brackets the [BLS May 2025](https://www.bls.gov/ooh/healthcare/medical-assistants.htm) national median of $21.97/hour, 10th percentile about $17.33)
 
 ### Office Manager / Administrative Assistant (Part-Time)
 
@@ -57,7 +57,7 @@ Before hiring, ask yourself:
 - Correspondence
 - Supply ordering
 
-**Typical cost:** $18-30/hour, 10-20 hours/week = $700-2,400/month
+**Typical cost:** $18-30/hour, 10-20 hours/week ≈ $780-2,600/month (estimate; local rates vary)
 
 ### Virtual Assistant (Remote)
 
@@ -70,7 +70,7 @@ Before hiring, ask yourself:
 - Prior authorizations
 - Administrative tasks
 
-**Typical cost:** $15-35/hour, as-needed basis
+**Typical cost:** $15-35/hour, as-needed basis (estimate; unsourced)
 
 ---
 
@@ -88,11 +88,11 @@ Write a clear job description including:
 ### 2. Determine Compensation
 
 Research local rates for:
-- Medical assistants: $15-25/hour
-- Office managers: $18-35/hour
+- Medical assistants: $17-29/hour ([BLS May 2025](https://www.bls.gov/ooh/healthcare/medical-assistants.htm): median $21.97/hour, 10th percentile about $17.33)
+- Office managers: $18-35/hour (estimate; local rates vary)
 - Consider benefits (or not for part-time)
 
-**For part-time (<30 hours):** Usually no benefits required
+**For part-time staff:** No federal law requires a one-employee practice to offer health benefits at any hour count; the employer mandate in [26 USC 4980H](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4980H&num=0&edition=prelim) applies only to employers with 50 or more full-time-equivalent employees. State paid-sick-leave laws (California, Washington, Arizona, Colorado, New York, Minnesota, Illinois and others) often cover part-time workers, so check your state.
 
 ### 3. Recruit Candidates
 
@@ -154,25 +154,27 @@ Research local rates for:
 - Risk of misclassification
 - Generally not appropriate for regular staff
 
+!!! note "What changed recently"
+    The Department of Labor's 2024 independent-contractor rule is no longer being applied in enforcement; a rescission was proposed on 2026-02-26 and no final rule had issued as of 2026-09-22 ([DOL 2026 rulemaking](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)). For payroll taxes the IRS common-law control test governs regardless. A medical assistant who works your schedule under your supervision is an employee, not a contractor.
+
 ### Required Documentation
 
 - W-4 (employee tax withholding)
-- I-9 (employment eligibility)
+- I-9 (employment eligibility): you must complete Section 2 within three business days of the hire date ([8 CFR 274a.2(b)(1)(ii)](https://www.ecfr.gov/current/title-8/section-274a.2)). E-Verify is voluntary under federal law but mandatory in some states
 - State tax forms (varies by state)
 - Direct deposit authorization
 - Employee handbook acknowledgment
 
 ### Required Postings
 
-Check your state requirements for:
-- Minimum wage poster
-- OSHA poster
+Four federal posters (FLSA, OSHA, EPPA, USERRA) are required of every employer regardless of size; see the legal checklist below. Separately, check your state requirements for:
+- State minimum wage poster
 - Workers' compensation notice
 - Other state-specific postings
 
 ### Insurance Considerations
 
-**Workers' compensation:** Required in most states (even for 1 employee)
+**Workers' compensation:** Required in most states from the first employee, but Texas coverage is elective and several states set thresholds of two to five employees; see the legal checklist below
 
 **Employment practices liability:** Optional but recommended
 
@@ -180,16 +182,32 @@ Check your state requirements for:
 
 ---
 
+## Legal Checklist for Your First Hire
+
+Federal rules that apply from the first employee, with thresholds as of 2026-09-22:
+
+- **EIN and unemployment tax.** Get an Employer Identification Number before the first payroll. Federal unemployment tax (FUTA) applies once you pay $1,500 or more in wages in any calendar quarter, or have an employee on any day in each of 20 different weeks of the year ([26 USC 3306(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3306&num=0&edition=prelim)); file Form 940 annually. Register with your state unemployment-insurance agency as well.
+- **New-hire reporting.** Report the employee's name, address, Social Security number and hire date, plus your name, address and EIN, to your state's new-hire directory within 20 days of hire ([42 USC 653a(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653a&num=0&edition=prelim)).
+- **Form I-9.** Complete Section 2 within three business days of the hire date ([8 CFR 274a.2(b)(1)(ii)](https://www.ecfr.gov/current/title-8/section-274a.2)). E-Verify is voluntary federally and mandatory in some states.
+- **Minimum wage and overtime.** The federal minimum wage is $7.25/hour ([29 USC 206(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim)); most states set a higher one. Both roles described above are non-exempt: pay overtime at one and a half times the regular rate for hours over 40 in a workweek. An employee is exempt only if paid a salary of at least $684/week ($35,568/year) and performing exempt duties ([29 CFR 541.600](https://www.ecfr.gov/current/title-29/section-541.600)). The 2024 rule raising that threshold was vacated in Texas v. DOL on 2024-11-15, and DOL restored the 2019 text effective 2026-05-15 ([DOL release](https://www.dol.gov/newsroom/releases/whd/whd20260514)). California, New York, Washington and Colorado set higher salary thresholds.
+- **Federal posters.** Every employer must display the FLSA minimum wage poster ([29 CFR 516.4](https://www.ecfr.gov/current/title-29/section-516.4)), the OSHA "Job Safety and Health" poster ([29 CFR 1903.2](https://www.ecfr.gov/current/title-29/section-1903.2)), the Employee Polygraph Protection Act notice ([29 CFR 801.6](https://www.ecfr.gov/current/title-29/section-801.6)) and the USERRA notice ([38 USC 4334](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4334&num=0&edition=prelim)). The EEOC poster applies at 15 employees and the FMLA poster at 50. State posters are separate; the [DOL elaws Poster Advisor](https://webapps.dol.gov/elaws/posters.htm) lists the federal set.
+- **Workers' compensation.** Required in most states from the first employee, but thresholds vary: Texas coverage is elective ([Tex. Labor Code § 406.002](https://statutes.capitol.texas.gov/Docs/LA/htm/LA.406.htm)); Florida requires it at four or more non-construction employees ([Fla. Stat. § 440.02(17)(b)2](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0440/Sections/0440.02.html)); Alabama, Georgia, Missouri, Mississippi, New Mexico, South Carolina, Tennessee, Virginia, Arkansas, Michigan and Wisconsin set thresholds of two to five employees. Check your state before assuming you are exempt.
+
+!!! warning "OSHA bloodborne pathogens for a clinical hire"
+    A medical assistant who could be exposed to blood is covered by [29 CFR 1910.1030](https://www.ecfr.gov/current/title-29/section-1910.1030) from the first day. You need a written Exposure Control Plan, personal protective equipment at no cost to the employee, the hepatitis B vaccine offered within 10 working days of assignment at no cost, and annual training. The small-employer exemption for practices with 10 or fewer employees ([29 CFR 1904.1](https://www.ecfr.gov/current/title-29/section-1904.1)) covers only injury and illness recordkeeping, not the bloodborne pathogens standard.
+
+---
+
 ## Payroll Options
 
 ### DIY Options
 
-**Gusto:** $40/month + $6/employee
+**Gusto:** about $49/month + $6/person (as of 2026-03-01, from secondary sources; Gusto's pricing page blocks automated checks, so confirm current pricing on gusto.com)
 - Easy to use
 - Handles all filings
 - Good for small practices
 
-**QuickBooks Payroll:** $45-125/month
+**QuickBooks Payroll:** bundled accounting-plus-payroll plans at $88, $125 or $203/month plus $6.50-$10 per employee per month ([Intuit pricing page](https://quickbooks.intuit.com/payroll/pricing/), September 2026; promotional pricing changes often)
 - Integrates with QB accounting
 - Full service available
 
@@ -261,7 +279,7 @@ If your hire isn't working out:
 
 Before hiring, consider:
 
-- **Outsourced answering service:** $100-300/month
+- **Outsourced answering service:** $100-300/month (estimate; unsourced)
 - **Virtual scribes:** Per-visit or monthly
 - **Billing service:** If you do any fee-for-service
 - **Cleaning service:** Don't clean your own office
@@ -274,11 +292,22 @@ Before hiring, consider:
 - [State labor law resources](https://www.dol.gov/agencies/whd/state)
 - [I-9 forms and instructions](https://www.uscis.gov/i-9)
 - [OSHA small business resources](https://www.osha.gov/smallbusiness)
+- [DOL elaws Poster Advisor](https://webapps.dol.gov/elaws/posters.htm)
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
 !!! note
     Employment law varies significantly by state. Consult with an employment attorney or HR professional for state-specific requirements.
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
