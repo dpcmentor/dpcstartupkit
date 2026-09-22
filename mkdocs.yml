@@ -78,6 +78,11 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: false
+      exclude:
+        - index.md
 
 # Extensions
 markdown_extensions:
@@ -149,6 +154,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - About This Kit: about-this-kit.md
+  - What Changed: changelog.md
 
   - Bootstrap:
     - Start Here: bootstrap/README.md

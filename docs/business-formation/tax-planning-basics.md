@@ -2,6 +2,9 @@
 
 > **Quick Summary:** DPC practice taxes are generally straightforward, but planning ahead saves money and stress. Pay quarterly estimates, track expenses from day one, and find an accountant who understands small medical practices.
 
+!!! warning "Subject to change"
+    This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
+
 > [!CAUTION]
 > **Educational content only.** Tax law and dollar limits change every year and vary by state. This guide is general education, not tax advice. Confirm current figures and your own situation with a CPA or tax advisor familiar with medical practices.
 

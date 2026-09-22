@@ -2,6 +2,9 @@
 
 > **Quick Summary:** HIPAA binds a practice only if it is a "covered entity"—one that sends HIPAA standard electronic transactions such as insurance claims. Many cash-only DPC practices are not, but should treat HIPAA as the floor anyway (see [Are you a covered entity?](#are-you-a-covered-entity)). For solo DPC, focus on: complete a risk assessment, encrypt all devices, sign BAAs with all vendors handling PHI, create basic policies, and provide Notice of Privacy Practices to patients.
 
+!!! warning "Subject to change"
+    This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
+
 ---
 
 ## Table of Contents
