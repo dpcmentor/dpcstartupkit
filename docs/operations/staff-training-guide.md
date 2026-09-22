@@ -367,8 +367,8 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 
 ---
 
-> [!TIP]
-> The best training happens in a supportive environment. Make it okay to ask questions, make mistakes, and learn. Your staff will reflect the culture you create.
+!!! tip
+    The best training happens in a supportive environment. Make it okay to ask questions, make mistakes, and learn. Your staff will reflect the culture you create.
 
 ---
 

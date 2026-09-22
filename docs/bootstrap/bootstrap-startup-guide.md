@@ -576,8 +576,8 @@ Example: $5,000 ÷ $100/mo = 50 patients
 
 ---
 
-> [!TIP]
-> The best funded practices don't always win. The most resourceful ones do. Constraints force creativity. Limited capital forces you to focus on what actually matters: taking great care of patients.
+!!! tip
+    The best funded practices don't always win. The most resourceful ones do. Constraints force creativity. Limited capital forces you to focus on what actually matters: taking great care of patients.
 
 ---
 

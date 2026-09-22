@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Rhode Island lacks explicit DPC legislation. Consult the [Rhode Island Board of Medical Licensure and Discipline](https://health.ri.gov/licenses/detail.php?id=231) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Rhode Island lacks explicit DPC legislation. Consult the [Rhode Island Board of Medical Licensure and Discipline](https://health.ri.gov/licenses/detail.php?id=231) and a healthcare attorney to ensure compliance.
 
 ---
 

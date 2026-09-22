@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> Corporate practice of medicine (CPOM) rules vary dramatically by state. Some states have strict prohibitions, others have exceptions, and some have no restrictions. This guide covers general concepts—verify specific rules with a healthcare attorney in your state.
+!!! warning "Caution"
+    Corporate practice of medicine (CPOM) rules vary dramatically by state. Some states have strict prohibitions, others have exceptions, and some have no restrictions. This guide covers general concepts—verify specific rules with a healthcare attorney in your state.
 
 ---
 
@@ -334,8 +334,8 @@ You cannot contract around CPOM. If your structure violates CPOM, the entire arr
 
 ## States Quick Reference
 
-> [!NOTE]
-> This is a general guide only. Laws change and interpretations vary. Always verify with an attorney.
+!!! note
+    This is a general guide only. Laws change and interpretations vary. Always verify with an attorney.
 
 | State | CPOM? | Notes |
 |-------|-------|-------|
@@ -363,8 +363,8 @@ You cannot contract around CPOM. If your structure violates CPOM, the entire arr
 
 ---
 
-> [!CAUTION]
-> CPOM violations can result in loss of license and voided contracts. Do not rely on this guide for legal decisions. Consult a healthcare attorney in your state for any arrangement involving non-physicians.
+!!! warning "Caution"
+    CPOM violations can result in loss of license and voided contracts. Do not rely on this guide for legal decisions. Consult a healthcare attorney in your state for any arrangement involving non-physicians.
 
 ---
 

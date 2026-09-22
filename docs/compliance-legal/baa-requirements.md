@@ -4,8 +4,8 @@
 
 Business Associate Agreements are the contracts HIPAA requires whenever a vendor creates, receives, maintains or transmits Protected Health Information (PHI) *on your behalf*. They are not required for disclosures to another clinician for treatment, for mere conduits such as the postal service, or for disclosures the patient directs. Understanding when you need a BAA—and what it must contain—protects your practice from compliance violations.
 
-> [!CAUTION]
-> **Review BAAs with Legal Counsel:** While this guide explains BAA requirements, these are legal contracts with significant implications. Have a healthcare attorney review any BAA before signing, especially if a vendor provides their own template. Ensure the terms adequately protect your practice and meet current HIPAA requirements.
+!!! warning "Caution"
+    **Review BAAs with Legal Counsel:** While this guide explains BAA requirements, these are legal contracts with significant implications. Have a healthcare attorney review any BAA before signing, especially if a vendor provides their own template. Ensure the terms adequately protect your practice and meet current HIPAA requirements.
 
 ## Prerequisites
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Kansas State Board of Healing Arts](https://ksbha.org/) and review [Kansas Statutes Chapter 40](https://www.ksrevisor.org/statutes/chapters/ch40/) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Kansas State Board of Healing Arts](https://ksbha.org/) and review [Kansas Statutes Chapter 40](https://www.ksrevisor.org/statutes/chapters/ch40/) for the most current statutory language.
 
 ---
 

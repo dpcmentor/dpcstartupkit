@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Nevada State Board of Medical Examiners](https://medboard.nv.gov/) and review [Nevada Revised Statutes Chapter 689C](https://www.leg.state.nv.us/nrs/NRS-689C.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Nevada State Board of Medical Examiners](https://medboard.nv.gov/) and review [Nevada Revised Statutes Chapter 689C](https://www.leg.state.nv.us/nrs/NRS-689C.html) for the most current statutory language.
 
 ---
 

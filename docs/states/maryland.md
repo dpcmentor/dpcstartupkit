@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Maryland lacks explicit DPC legislation. Consult the [Maryland Board of Physicians](https://www.mbp.state.md.us/) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Maryland lacks explicit DPC legislation. Consult the [Maryland Board of Physicians](https://www.mbp.state.md.us/) and a healthcare attorney to ensure compliance.
 
 ---
 

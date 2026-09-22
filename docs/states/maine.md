@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Maine Board of Licensure in Medicine](https://www.maine.gov/md/) and review [Maine Revised Statutes Title 24-A](https://legislature.maine.gov/statutes/24-A/title24-Ach0.pdf) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Maine Board of Licensure in Medicine](https://www.maine.gov/md/) and review [Maine Revised Statutes Title 24-A](https://legislature.maine.gov/statutes/24-A/title24-Ach0.pdf) for the most current statutory language.
 
 ---
 
@@ -235,8 +235,8 @@ Maine's rural character creates opportunities:
 
 ---
 
-> [!NOTE]
-> This guide provides general information current as of the publication date. Laws and regulations change. Always verify current requirements with the Maine Board of Licensure in Medicine and consult a healthcare attorney for specific legal questions.
+!!! note
+    This guide provides general information current as of the publication date. Laws and regulations change. Always verify current requirements with the Maine Board of Licensure in Medicine and consult a healthcare attorney for specific legal questions.
 
 ---
 

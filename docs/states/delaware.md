@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Delaware lacks explicit DPC legislation. Consult the [Delaware Board of Medical Licensure](https://dpr.delaware.gov/boards/medicalpractice/) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Delaware lacks explicit DPC legislation. Consult the [Delaware Board of Medical Licensure](https://dpr.delaware.gov/boards/medicalpractice/) and a healthcare attorney to ensure compliance.
 
 ---
 

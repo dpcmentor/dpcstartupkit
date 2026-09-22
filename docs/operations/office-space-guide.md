@@ -283,14 +283,14 @@ This guide covers office space options, requirements, and strategies for each st
 
 ### Red Flags
 
-> [!WARNING]
-> Watch out for these lease red flags:
-> - Very long lease required (5+ years) with no exit
-> - Large personal guarantee
-> - Significant build-out required at your expense
-> - Hidden fees (CAM charges not disclosed)
-> - Zoning uncertainty
-> - Difficult parking situation
+!!! warning
+    Watch out for these lease red flags:
+    - Very long lease required (5+ years) with no exit
+    - Large personal guarantee
+    - Significant build-out required at your expense
+    - Hidden fees (CAM charges not disclosed)
+    - Zoning uncertainty
+    - Difficult parking situation
 
 ---
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [North Dakota Board of Medicine](https://www.ndbom.org/) and review [North Dakota Century Code Title 26.1](https://www.ndlegis.gov/cencode/t26-1.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [North Dakota Board of Medicine](https://www.ndbom.org/) and review [North Dakota Century Code Title 26.1](https://www.ndlegis.gov/cencode/t26-1.html) for the most current statutory language.
 
 ---
 

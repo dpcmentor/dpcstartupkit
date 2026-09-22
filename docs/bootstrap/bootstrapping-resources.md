@@ -401,8 +401,8 @@ Some accept service businesses. Look for:
 
 ---
 
-> [!TIP]
-> You don't need to read everything. Pick one book, one podcast, one community. Go deep, not wide. Implement before you consume more.
+!!! tip
+    You don't need to read everything. Pick one book, one podcast, one community. Go deep, not wide. Implement before you consume more.
 
 ---
 

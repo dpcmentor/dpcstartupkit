@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Idaho Board of Medicine](https://bom.idaho.gov/) and review [Idaho Code Title 41](https://legislature.idaho.gov/statutesrules/idstat/Title41/) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Idaho Board of Medicine](https://bom.idaho.gov/) and review [Idaho Code Title 41](https://legislature.idaho.gov/statutesrules/idstat/Title41/) for the most current statutory language.
 
 ---
 

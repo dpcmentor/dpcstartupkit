@@ -228,8 +228,8 @@ After your first patient:
 
 ---
 
-> [!NOTE]
-> This is the minimum to start, not the minimum forever. Your practice will grow and professionalize naturally. The point is to *start*.
+!!! note
+    This is the minimum to start, not the minimum forever. Your practice will grow and professionalize naturally. The point is to *start*.
 
 ---
 

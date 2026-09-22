@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Washington Medical Commission](https://wmc.wa.gov/) and review [RCW 48.150](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Washington Medical Commission](https://wmc.wa.gov/) and review [RCW 48.150](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150) for the most current statutory language.
 
 ---
 

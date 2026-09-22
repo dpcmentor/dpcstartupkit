@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Tennessee Board of Medical Examiners](https://www.tn.gov/health/health-program-areas/health-professional-boards/me-board.html) and review [Tennessee Code Title 56](https://law.justia.com/codes/tennessee/title-56/) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Tennessee Board of Medical Examiners](https://www.tn.gov/health/health-program-areas/health-professional-boards/me-board.html) and review [Tennessee Code Title 56](https://law.justia.com/codes/tennessee/title-56/) for the most current statutory language.
 
 ---
 
@@ -183,8 +183,8 @@ Tennessee has no state income tax on wages and salaries, improving take-home inc
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Tennessee Board of Medical Examiners.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Tennessee Board of Medical Examiners.
 
 ---
 

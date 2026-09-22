@@ -271,8 +271,8 @@ Many DPC physicians intentionally cap their practice:
 
 ---
 
-> [!NOTE]
-> Scaling decisions are highly personal. There's no right answer - only what's right for you, your patients, and your goals.
+!!! note
+    Scaling decisions are highly personal. There's no right answer - only what's right for you, your patients, and your goals.
 
 ---
 

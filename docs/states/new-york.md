@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** New York lacks explicit DPC legislation and has complex healthcare regulations. Consult the [New York State Education Department Office of the Professions](http://www.op.nysed.gov/prof/med/) and a New York healthcare attorney before proceeding.
+!!! warning "Caution"
+    **Verify Current Law:** New York lacks explicit DPC legislation and has complex healthcare regulations. Consult the [New York State Education Department Office of the Professions](http://www.op.nysed.gov/prof/med/) and a New York healthcare attorney before proceeding.
 
 ---
 

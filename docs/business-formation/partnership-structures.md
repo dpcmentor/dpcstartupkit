@@ -316,8 +316,8 @@ Watch for these warning signs:
 
 ---
 
-> [!CAUTION]
-> Partnership agreements are complex legal documents. Always work with an experienced healthcare attorney. This guide provides concepts only, not legal advice.
+!!! warning "Caution"
+    Partnership agreements are complex legal documents. Always work with an experienced healthcare attorney. This guide provides concepts only, not legal advice.
 
 ---
 

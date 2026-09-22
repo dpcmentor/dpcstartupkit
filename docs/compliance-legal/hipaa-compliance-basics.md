@@ -28,8 +28,8 @@ HIPAA (Health Insurance Portability and Accountability Act) applies to practices
 
 This guide covers what you actually need to do—not theoretical perfection, but practical compliance for a small practice.
 
-> [!CAUTION]
-> **Consult a HIPAA Compliance Expert:** While this guide provides practical orientation, HIPAA regulations are complex and enforcement evolves. Consider consulting a healthcare compliance specialist or HIPAA-focused attorney, especially for your initial risk assessment and policy development. When in doubt, get professional guidance.
+!!! warning "Caution"
+    **Consult a HIPAA Compliance Expert:** While this guide provides practical orientation, HIPAA regulations are complex and enforcement evolves. Consider consulting a healthcare compliance specialist or HIPAA-focused attorney, especially for your initial risk assessment and policy development. When in doubt, get professional guidance.
 
 ## Are You a Covered Entity?
 
@@ -255,8 +255,8 @@ Start from the [HHS model notices for health care providers (2026)](https://www.
 - Request before using any service for PHI
 - Keep signed copies
 
-> [!CAUTION]
-> If a vendor won't sign a BAA, don't use them for anything involving PHI.
+!!! warning "Caution"
+    If a vendor won't sign a BAA, don't use them for anything involving PHI.
 
 ---
 

@@ -46,8 +46,8 @@
 
 ## State Regulatory Categories
 
-> [!CAUTION]
-> Regulations change. Always verify current requirements with your state medical board and pharmacy board before dispensing.
+!!! warning "Caution"
+    Regulations change. Always verify current requirements with your state medical board and pharmacy board before dispensing.
 
 ### No Registration Required
 
@@ -263,8 +263,8 @@ Some DPC practices include common medications in membership:
 
 ### Pricing Philosophy
 
-> [!TIP]
-> The goal isn't to maximize medication revenue. It's to provide convenient, affordable access. Price fairly, communicate transparently, and let pharmacy savings be another reason patients value DPC.
+!!! tip
+    The goal isn't to maximize medication revenue. It's to provide convenient, affordable access. Price fairly, communicate transparently, and let pharmacy savings be another reason patients value DPC.
 
 ---
 

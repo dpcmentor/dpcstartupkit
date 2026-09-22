@@ -60,8 +60,8 @@ Before making any moves, carefully review:
 - Time duration (typically 1-2 years)
 - Scope (primary care, all medicine, specific services)
 
-> [!CAUTION]
-> Non-compete enforceability varies dramatically by state. Some states (California, Oklahoma, North Dakota) largely prohibit them. Others enforce them strictly. Consult an employment attorney in your state before assuming yours is or isn't enforceable.
+!!! warning "Caution"
+    Non-compete enforceability varies dramatically by state. Some states (California, Oklahoma, North Dakota) largely prohibit them. Others enforce them strictly. Consult an employment attorney in your state before assuming yours is or isn't enforceable.
 
 **Non-Solicitation Clauses:**
 - Can you contact former patients?

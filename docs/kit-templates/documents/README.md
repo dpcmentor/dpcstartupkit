@@ -18,8 +18,8 @@ This directory contains document templates and language guides for policies and 
 - Controlled substance agreement
 - Telehealth consent
 
-> [!NOTE]
-> We intentionally do not provide a membership agreement template due to the legal complexity and state-specific requirements. Consult a healthcare attorney in your state for membership agreements.
+!!! note
+    We intentionally do not provide a membership agreement template due to the legal complexity and state-specific requirements. Consult a healthcare attorney in your state for membership agreements.
 
 ## Important Disclaimer
 

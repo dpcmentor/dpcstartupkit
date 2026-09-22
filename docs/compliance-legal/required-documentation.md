@@ -6,8 +6,8 @@ Proper medical documentation is essential for clinical care, legal protection, a
 
 This guide covers documentation requirements and best practices for Direct Primary Care practices.
 
-> [!CAUTION]
-> **Verify State-Specific Requirements:** Medical record-keeping requirements, retention periods, and documentation standards vary by state. Consult your state medical board's rules and consider guidance from your malpractice carrier, as documentation practices directly impact legal protection.
+!!! warning "Caution"
+    **Verify State-Specific Requirements:** Medical record-keeping requirements, retention periods, and documentation standards vary by state. Consult your state medical board's rules and consider guidance from your malpractice carrier, as documentation practices directly impact legal protection.
 
 ## Prerequisites
 

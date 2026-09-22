@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Hawaii lacks explicit DPC legislation. Consult the [Hawaii Medical Board](https://cca.hawaii.gov/pvl/boards/medical/) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Hawaii lacks explicit DPC legislation. Consult the [Hawaii Medical Board](https://cca.hawaii.gov/pvl/boards/medical/) and a healthcare attorney to ensure compliance.
 
 ---
 

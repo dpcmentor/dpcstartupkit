@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Virginia Board of Medicine](https://www.dhp.virginia.gov/medicine/) and review [Code of Virginia Title 38.2](https://law.lis.virginia.gov/vacode/title38.2/) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Virginia Board of Medicine](https://www.dhp.virginia.gov/medicine/) and review [Code of Virginia Title 38.2](https://law.lis.virginia.gov/vacode/title38.2/) for the most current statutory language.
 
 ---
 

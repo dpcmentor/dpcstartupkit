@@ -242,8 +242,8 @@ Develop 3-5 key messages you repeat consistently:
 6. Say it out loud — does it sound professional on the phone?
 7. Sleep on it — does it still feel right?
 
-> [!TIP]
-> Don't overthink it. Many successful DPC practices simply use the physician's name plus "Family Medicine" or "Direct Primary Care." Your patients are choosing *you*, not your brand name.
+!!! tip
+    Don't overthink it. Many successful DPC practices simply use the physician's name plus "Family Medicine" or "Direct Primary Care." Your patients are choosing *you*, not your brand name.
 
 **State naming rules:**
 
@@ -262,8 +262,8 @@ Check with your state medical board before finalizing.
 
 Before finalizing your practice name, secure matching handles across all platforms you might use. Inconsistent names (smithdpc.com, @drsmithfamilymed on Instagram, Smith Family Direct Care on Facebook) confuse patients and weaken your brand.
 
-> [!TIP]
-> Secure your domain name and social media handles at the same time you finalize your practice name. Use a handle checking service to verify availability across platforms before committing.
+!!! tip
+    Secure your domain name and social media handles at the same time you finalize your practice name. Use a handle checking service to verify availability across platforms before committing.
 
 ### Handle Checking Services
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Indiana Medical Licensing Board](https://www.in.gov/pla/professions/medical-licensing-board-of-indiana/) and review [Indiana Code Title 27](https://iga.in.gov/laws/2024/ic/titles/27) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Indiana Medical Licensing Board](https://www.in.gov/pla/professions/medical-licensing-board-of-indiana/) and review [Indiana Code Title 27](https://iga.in.gov/laws/2024/ic/titles/27) for the most current statutory language.
 
 ---
 

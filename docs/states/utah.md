@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Utah Division of Occupational and Professional Licensing](https://dopl.utah.gov/) and review [Utah Code Title 31A](https://le.utah.gov/xcode/Title31A/31A.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Utah Division of Occupational and Professional Licensing](https://dopl.utah.gov/) and review [Utah Code Title 31A](https://le.utah.gov/xcode/Title31A/31A.html) for the most current statutory language.
 
 ---
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Oklahoma State Board of Medical Licensure](https://www.okmedicalboard.org/) and review [Oklahoma Statutes Title 36](https://oksenate.gov/sites/default/files/2019-12/os36.pdf) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Oklahoma State Board of Medical Licensure](https://www.okmedicalboard.org/) and review [Oklahoma Statutes Title 36](https://oksenate.gov/sites/default/files/2019-12/os36.pdf) for the most current statutory language.
 
 ---
 

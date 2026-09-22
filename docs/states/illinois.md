@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Illinois lacks explicit DPC legislation. Consult the [Illinois Department of Financial and Professional Regulation](https://idfpr.illinois.gov/) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Illinois lacks explicit DPC legislation. Consult the [Illinois Department of Financial and Professional Regulation](https://idfpr.illinois.gov/) and a healthcare attorney to ensure compliance.
 
 ---
 

@@ -5,8 +5,8 @@
 !!! warning "Subject to change"
     This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
 
-> [!CAUTION]
-> **Educational content only.** Tax law and dollar limits change every year and vary by state. This guide is general education, not tax advice. Confirm current figures and your own situation with a CPA or tax advisor familiar with medical practices.
+!!! warning "Caution"
+    **Educational content only.** Tax law and dollar limits change every year and vary by state. This guide is general education, not tax advice. Confirm current figures and your own situation with a CPA or tax advisor familiar with medical practices.
 
 ---
 
@@ -59,8 +59,8 @@
 - Each partner receives K-1
 - Income passes through to personal returns
 
-> [!TIP]
-> Most new DPC physicians start as sole proprietors or single-member LLCs. As income grows, consult an accountant about S-Corp election timing.
+!!! tip
+    Most new DPC physicians start as sole proprietors or single-member LLCs. As income grows, consult an accountant about S-Corp election timing.
 
 ---
 
@@ -233,8 +233,8 @@ Model the S-Corp election and the QBI deduction together with your accountant.
 - Solo 401(k): Employee contributions by Dec 31; employer contributions by tax filing deadline. Exception: a sole proprietor with no employees who adopts a new plan after year-end may make first-year employee deferrals up to the filing deadline (without extensions) under SECURE 2.0 Act §317
 - SIMPLE IRA: Specific deadlines apply
 
-> [!TIP]
-> A SEP-IRA is the simplest option for most solo DPC physicians. You can open one at any major brokerage and contribute significant amounts with minimal paperwork.
+!!! tip
+    A SEP-IRA is the simplest option for most solo DPC physicians. You can open one at any major brokerage and contribute significant amounts with minimal paperwork.
 
 ---
 

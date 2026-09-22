@@ -142,8 +142,8 @@ Everything else can wait.
 
 ---
 
-> [!TIP]
-> The goal isn't to stay minimal forever. It's to start. Growth, systems, and sophistication come naturally when you have patients and revenue. They're impossible when you're still "preparing."
+!!! tip
+    The goal isn't to stay minimal forever. It's to start. Growth, systems, and sophistication come naturally when you have patients and revenue. They're impossible when you're still "preparing."
 
 ---
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Massachusetts lacks explicit DPC legislation and has complex healthcare regulations. Consult the [Massachusetts Board of Registration in Medicine](https://www.mass.gov/orgs/board-of-registration-in-medicine) and a Massachusetts healthcare attorney before proceeding.
+!!! warning "Caution"
+    **Verify Current Law:** Massachusetts lacks explicit DPC legislation and has complex healthcare regulations. Consult the [Massachusetts Board of Registration in Medicine](https://www.mass.gov/orgs/board-of-registration-in-medicine) and a Massachusetts healthcare attorney before proceeding.
 
 ---
 

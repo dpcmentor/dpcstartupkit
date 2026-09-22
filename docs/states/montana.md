@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Montana Board of Medical Examiners](https://boards.bsd.dli.mt.gov/medical-examiners) and review [Montana Code Title 33](https://leg.mt.gov/bills/mca/title_0330/chapters_index.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Montana Board of Medical Examiners](https://boards.bsd.dli.mt.gov/medical-examiners) and review [Montana Code Title 33](https://leg.mt.gov/bills/mca/title_0330/chapters_index.html) for the most current statutory language.
 
 ---
 

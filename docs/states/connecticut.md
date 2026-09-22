@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Connecticut lacks explicit DPC legislation. Consult the [Connecticut Medical Examining Board](https://portal.ct.gov/DPH/Practitioner-Licensing--Investigations/PLIS/Physician-and-Physician-Assistant-Licensure) and a healthcare attorney to ensure compliance.
+!!! warning "Caution"
+    **Verify Current Law:** Connecticut lacks explicit DPC legislation. Consult the [Connecticut Medical Examining Board](https://portal.ct.gov/DPH/Practitioner-Licensing--Investigations/PLIS/Physician-and-Physician-Assistant-Licensure) and a healthcare attorney to ensure compliance.
 
 ---
 

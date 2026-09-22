@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Iowa Board of Medicine](https://medicalboard.iowa.gov/) and review [Iowa Code Chapter 514K](https://www.legis.iowa.gov/law/iowaCode/sections?codeChapter=514K) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Iowa Board of Medicine](https://medicalboard.iowa.gov/) and review [Iowa Code Chapter 514K](https://www.legis.iowa.gov/law/iowaCode/sections?codeChapter=514K) for the most current statutory language.
 
 ---
 

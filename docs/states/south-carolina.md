@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [South Carolina Board of Medical Examiners](https://llr.sc.gov/med/) and review [South Carolina Code Title 38](https://www.scstatehouse.gov/code/title38.php) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [South Carolina Board of Medical Examiners](https://llr.sc.gov/med/) and review [South Carolina Code Title 38](https://www.scstatehouse.gov/code/title38.php) for the most current statutory language.
 
 ---
 

@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Oregon Medical Board](https://www.oregon.gov/omb/) and review [Oregon Revised Statutes Chapter 735](https://www.oregonlegislature.gov/bills_laws/ors/ors735.html) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Oregon Medical Board](https://www.oregon.gov/omb/) and review [Oregon Revised Statutes Chapter 735](https://www.oregonlegislature.gov/bills_laws/ors/ors735.html) for the most current statutory language.
 
 ---
 

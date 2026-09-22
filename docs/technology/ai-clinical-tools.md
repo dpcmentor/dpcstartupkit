@@ -24,8 +24,8 @@ One of DPC's greatest benefits is the ability to spend more time with patients a
 - **Enabling presence** — Focus on the patient, not the keyboard
 - **Decreasing burnout** — Less after-hours documentation
 
-> [!TIP]
-> You don't have to choose between technology and the personal touch. AI tools handle the documentation while you maintain the human connection that drew you to DPC.
+!!! tip
+    You don't have to choose between technology and the personal touch. AI tools handle the documentation while you maintain the human connection that drew you to DPC.
 
 ---
 
@@ -56,8 +56,8 @@ When considering a commercial solution, assess:
 - [ ] **Data Handling** — Where is data processed and stored?
 - [ ] **Patient Consent** — How do they recommend handling consent?
 
-> [!NOTE]
-> Pricing and features change frequently. Contact vendors directly for current information. This list is not exhaustive — new services launch regularly.
+!!! note
+    Pricing and features change frequently. Contact vendors directly for current information. This list is not exhaustive — new services launch regularly.
 
 ### Getting Started with Commercial Tools
 
@@ -91,8 +91,8 @@ Self-hosted AI means running the AI software on your own hardware (a laptop, des
 - May require decent hardware for best performance
 - No vendor support
 
-> [!TIP]
-> Don't let the technical aspects intimidate you. Modern self-hosted AI tools have become remarkably user-friendly. If you can install an app, you can likely run these tools.
+!!! tip
+    Don't let the technical aspects intimidate you. Modern self-hosted AI tools have become remarkably user-friendly. If you can install an app, you can likely run these tools.
 
 ### Key Tools to Know
 
@@ -203,8 +203,8 @@ To get a ChatGPT-like interface:
 | **Intermediate** | Add Open WebUI, customize settings | Half day |
 | **Advanced** | Set up Proxmox, run 24/7 services | Ongoing project |
 
-> [!NOTE]
-> You don't need to become a system administrator. Many physicians stop at the beginner or intermediate level and are perfectly happy. Go as far as interests you.
+!!! note
+    You don't need to become a system administrator. Many physicians stop at the beginner or intermediate level and are perfectly happy. Go as far as interests you.
 
 ---
 
@@ -233,8 +233,8 @@ Regardless of the solution you choose:
 - **Offer opt-out** — Some patients may prefer traditional documentation
 - **Be transparent** — Explain what the technology does and doesn't do
 
-> [!CAUTION]
-> Never use patient data to test new tools. Create fictional scenarios for learning and testing. Only use real patient data once your workflows and compliance measures are established.
+!!! warning "Caution"
+    Never use patient data to test new tools. Create fictional scenarios for learning and testing. Only use real patient data once your workflows and compliance measures are established.
 
 ---
 
@@ -277,8 +277,8 @@ Many physicians use commercial tools for real-time ambient documentation and sel
 
 ## External Resources
 
-> [!NOTE]
-> External links are provided for reference. Verify current information directly with these sources.
+!!! note
+    External links are provided for reference. Verify current information directly with these sources.
 
 **Self-Hosted Tools:**
 - [Ollama](https://ollama.ai) — Local AI model runner

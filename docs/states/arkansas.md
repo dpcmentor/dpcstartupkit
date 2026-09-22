@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Arkansas State Medical Board](https://www.armedicalboard.org/) and review the [Arkansas Code](https://advance.lexis.com/container?config=00JAA3ZTU0NTIzYy0zZDEyLTRhYmQtYmRmMS1iMWIxNDgxYWMxZTQKAFBvZFNob3J0Y3V0TWVudV9iaHRhYmJNdXJy&crid=81c84a05-ca8e-459e-888f-9b204a2351b5) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Arkansas State Medical Board](https://www.armedicalboard.org/) and review the [Arkansas Code](https://advance.lexis.com/container?config=00JAA3ZTU0NTIzYy0zZDEyLTRhYmQtYmRmMS1iMWIxNDgxYWMxZTQKAFBvZFNob3J0Y3V0TWVudV9iaHRhYmJNdXJy&crid=81c84a05-ca8e-459e-888f-9b204a2351b5) for the most current statutory language.
 
 ---
 

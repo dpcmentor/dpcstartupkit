@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** New Jersey lacks explicit DPC legislation and has restrictive dispensing rules. Consult the [New Jersey State Board of Medical Examiners](https://www.njconsumeraffairs.gov/bme/) and a New Jersey healthcare attorney before proceeding.
+!!! warning "Caution"
+    **Verify Current Law:** New Jersey lacks explicit DPC legislation and has restrictive dispensing rules. Consult the [New Jersey State Board of Medical Examiners](https://www.njconsumeraffairs.gov/bme/) and a New Jersey healthcare attorney before proceeding.
 
 ---
 

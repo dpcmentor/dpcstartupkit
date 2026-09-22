@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** California lacks explicit DPC legislation and has complex regulatory environment. Consult the [Medical Board of California](https://www.mbc.ca.gov/) and a California healthcare attorney before proceeding. Review [California Insurance Code](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=INS) carefully.
+!!! warning "Caution"
+    **Verify Current Law:** California lacks explicit DPC legislation and has complex regulatory environment. Consult the [Medical Board of California](https://www.mbc.ca.gov/) and a California healthcare attorney before proceeding. Review [California Insurance Code](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=INS) carefully.
 
 ---
 

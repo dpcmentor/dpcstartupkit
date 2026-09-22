@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [New Hampshire Board of Medicine](https://www.oplc.nh.gov/board-medicine) and review [RSA 420-O](https://www.gencourt.state.nh.us/rsa/html/XXXVII/420-O/420-O-mrg.htm) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [New Hampshire Board of Medicine](https://www.oplc.nh.gov/board-medicine) and review [RSA 420-O](https://www.gencourt.state.nh.us/rsa/html/XXXVII/420-O/420-O-mrg.htm) for the most current statutory language.
 
 ---
 

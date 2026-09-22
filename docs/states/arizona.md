@@ -4,8 +4,8 @@
 
 ---
 
-> [!CAUTION]
-> **Verify Current Law:** Always confirm current regulations with the [Arizona Medical Board](https://www.azmd.gov/) and review [Arizona Revised Statutes Title 20](https://www.azleg.gov/arsDetail/?title=20) for the most current statutory language.
+!!! warning "Caution"
+    **Verify Current Law:** Always confirm current regulations with the [Arizona Medical Board](https://www.azmd.gov/) and review [Arizona Revised Statutes Title 20](https://www.azleg.gov/arsDetail/?title=20) for the most current statutory language.
 
 ---
 
@@ -162,8 +162,8 @@ See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for 
 
 ---
 
-> [!NOTE]
-> This guide provides general information. Laws and regulations change. Verify current requirements with the Arizona Medical Board.
+!!! note
+    This guide provides general information. Laws and regulations change. Verify current requirements with the Arizona Medical Board.
 
 ---
 

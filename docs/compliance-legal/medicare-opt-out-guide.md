@@ -34,8 +34,8 @@ Medicare opt-out is a formal process that allows physicians to:
 - Just not accepting Medicare patients
 - Dropping Medicare participation
 
-> [!IMPORTANT]
-> If you are enrolled in Medicare (participating or non-participating), you cannot simply stop billing. You must formally opt out OR continue to comply with Medicare rules for any Medicare-covered services you provide to beneficiaries.
+!!! info "Important"
+    If you are enrolled in Medicare (participating or non-participating), you cannot simply stop billing. You must formally opt out OR continue to comply with Medicare rules for any Medicare-covered services you provide to beneficiaries.
 
 ---
 

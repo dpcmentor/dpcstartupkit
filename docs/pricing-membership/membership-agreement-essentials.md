@@ -6,8 +6,8 @@ Your membership agreement is the legal contract between your practice and each p
 
 A well-crafted agreement prevents misunderstandings, reduces disputes, and supports the unique nature of the DPC model.
 
-> [!CAUTION]
-> **Have Your Agreement Reviewed by a Healthcare Attorney:** This guide provides educational framework only. Your membership agreement is a legal contract that must comply with your state's DPC laws, contract requirements, and healthcare regulations. Never use a template without legal review. An attorney experienced in DPC can ensure your agreement protects your practice and meets state-specific requirements.
+!!! warning "Caution"
+    **Have Your Agreement Reviewed by a Healthcare Attorney:** This guide provides educational framework only. Your membership agreement is a legal contract that must comply with your state's DPC laws, contract requirements, and healthcare regulations. Never use a template without legal review. An attorney experienced in DPC can ensure your agreement protects your practice and meets state-specific requirements.
 
 ## Prerequisites
 
