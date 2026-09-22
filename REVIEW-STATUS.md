@@ -65,7 +65,7 @@ practicing in that state may promote one to Reviewed.
 |----------|--------|----------|------|-------|
 | [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 | [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Not Reviewed | | | |
-| [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Not Reviewed | | | Bootstrap philosophy emphasized |
+| [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Read-through | JF | 2026-09-22 | Totals recomputed; CLIA $248; 2026 retirement limits; broken table fixed |
 | [partnership-structures.md](docs/business-formation/partnership-structures.md) | Not Reviewed | | | New - partner models, buy-in |
 | [exit-planning.md](docs/business-formation/exit-planning.md) | Not Reviewed | | | New - succession, valuation |
 | [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Not Reviewed | | | |
@@ -92,10 +92,10 @@ practicing in that state may promote one to Reviewed.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
-| [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Not Reviewed | | | |
+| [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Read-through | JF | 2026-09-22 | 2026 HSA caps; benchmarks aligned to State of DPC 2026 |
 | [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md) | Not Reviewed | | | |
-| [payment-processing-options.md](docs/pricing-membership/payment-processing-options.md) | Not Reviewed | | | |
-| [family-pricing-strategies.md](docs/pricing-membership/family-pricing-strategies.md) | Not Reviewed | | | |
+| [payment-processing-options.md](docs/pricing-membership/payment-processing-options.md) | Read-through | JF | 2026-09-22 | Processor fees re-read from vendor pricing pages 2026-09-22 |
+| [family-pricing-strategies.md](docs/pricing-membership/family-pricing-strategies.md) | Read-through | JF | 2026-09-22 | 2026 HSA $300 household cap added to examples |
 | [handling-cancellations-refunds.md](docs/pricing-membership/handling-cancellations-refunds.md) | Not Reviewed | | | |
 | [employer-contracts-guide.md](docs/pricing-membership/employer-contracts-guide.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 
@@ -143,7 +143,7 @@ practicing in that state may promote one to Reviewed.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [office-space-guide.md](docs/operations/office-space-guide.md) | Not Reviewed | | | |
-| [equipment-supplies-checklist.md](docs/operations/equipment-supplies-checklist.md) | Not Reviewed | | | |
+| [equipment-supplies-checklist.md](docs/operations/equipment-supplies-checklist.md) | Read-through | JF | 2026-09-22 | Stage totals corrected; vendor claims neutralised; dispensing HSA note |
 | [patient-onboarding-workflow.md](docs/operations/patient-onboarding-workflow.md) | Not Reviewed | | | |
 | [daily-workflow-optimization.md](docs/operations/daily-workflow-optimization.md) | Not Reviewed | | | |
 | [after-hours-coverage.md](docs/operations/after-hours-coverage.md) | Not Reviewed | | | |
@@ -159,8 +159,8 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [service-providers.md](docs/resources/service-providers.md) | Not Reviewed | | | New - attorneys, CPAs, vendors |
-| [lab-partners.md](docs/resources/lab-partners.md) | Not Reviewed | | | New - Quest, Labcorp, pricing |
+| [service-providers.md](docs/resources/service-providers.md) | Read-through | JF | 2026-09-22 | Acquisitions/renames; fees updated; no single-vendor recommendations |
+| [lab-partners.md](docs/resources/lab-partners.md) | Read-through | JF | 2026-09-22 | No-BAA and pass-through pricing rules; vendor names updated |
 | [dpc-organizations.md](docs/resources/dpc-organizations.md) | Not Reviewed | | | |
 | [state-resources-directory.md](docs/resources/state-resources-directory.md) | Not Reviewed | | | |
 | [recommended-reading.md](docs/resources/recommended-reading.md) | Not Reviewed | | | |
