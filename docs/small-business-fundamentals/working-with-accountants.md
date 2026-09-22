@@ -2,6 +2,9 @@
 
 > **You should not be doing your own taxes.** You probably shouldn't be doing your own books long-term either. This guide helps you decide who to hire, when to hire them, and how to get the most out of the relationship.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Who Does What
@@ -22,7 +25,7 @@ These roles can be held by the same person or by three different people. A good 
 
 You can do your own books using software ([see Bookkeeping Setup](bookkeeping-setup.md)). Many DPC owners do — at least at first. But watch for these signals that it's time to outsource:
 
-- You avoid opening QuickBooks because it feels like a chore
+- You avoid opening your accounting software because it feels like a chore
 - Transactions are uncategorized for weeks at a time
 - You can't find a specific expense when the CPA asks
 - You're regularly confused about whether a reconciliation is right
@@ -32,16 +35,16 @@ You can do your own books using software ([see Bookkeeping Setup](bookkeeping-se
 ### What to expect to pay
 
 - **Setup / onboarding (one-time):** $200–$800
-- **Ongoing monthly (basic):** $150–$400/mo
+- **Ongoing monthly (basic):** $100–$400/mo
 - **Ongoing monthly (with payroll, complex):** $400–$1,000+/mo
 - **Full-service firm with year-end support:** $500–$1,500/mo
 
-Prices vary by region, experience, and volume.
+Prices vary by region, experience, and volume. Get quotes from at least two firms before committing.
 
 ### Questions to ask a bookkeeper
 
 1. Do you have experience with small medical practices?
-2. Do you work in QuickBooks Online / Xero / Wave? (Match your software or be willing to switch.)
+2. Which accounting software do you work in (QuickBooks Online, Xero, Wave, FreshBooks, Zoho Books)? (Match your software or be willing to switch.)
 3. How often do you reconcile? (Monthly at minimum.)
 4. Do you provide monthly reports, and which ones?
 5. Do you communicate via email, Slack, a shared portal?
@@ -61,11 +64,11 @@ Prices vary by region, experience, and volume.
 
 - **Initial consultation:** often free or $100–$300
 - **Entity setup advice:** $200–$500 one-time
-- **Annual tax return preparation (business + personal):** $800–$3,000
+- **Annual tax return preparation (business + personal):** $500–$3,000, at the higher end once an S-Corp return (Form 1120-S) is involved
 - **Quarterly tax planning meetings:** $250–$1,000 per meeting
 - **Ongoing advisory / retainer:** $300–$2,000/mo
 
-A CPA who specializes in medical practices or small businesses is worth substantially more than a generalist. Ask.
+A CPA who specializes in medical practices or small businesses is worth substantially more than a generalist. Ask. The kit's [Tax Planning Basics](../business-formation/tax-planning-basics.md#finding-an-accountant) page carries a shorter list of what to look for.
 
 ### Red flags in a CPA
 
@@ -103,13 +106,15 @@ A CPA who specializes in medical practices or small businesses is worth substant
 
 ## CPA vs. Enrolled Agent vs. Tax Preparer
 
-Not all tax professionals are the same:
+Not all tax professionals are the same. The IRS sorts them by representation rights ([IRS: Understanding tax return preparer credentials and qualifications](https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications)):
 
-- **CPA (Certified Public Accountant)** — state-licensed, broad accounting expertise, can sign audited financials, can represent you before the IRS. Usually the most expensive.
-- **Enrolled Agent (EA)** — federally licensed by the IRS, specializes in taxation, can represent you before the IRS. Often less expensive than a CPA with comparable tax expertise.
-- **Tax Preparer (unlicensed)** — anyone with a PTIN. Limited authority, limited training, limited value for a practice owner. **Avoid.**
+- **CPA (Certified Public Accountant)** — licensed by a state board of accountancy; broad accounting expertise; can sign audited financials; has unlimited representation rights before the IRS (audits, collections, appeals). Usually the most expensive.
+- **Enrolled Agent (EA)** — licensed by the IRS after a three-part exam; specializes in taxation; has the same unlimited representation rights as a CPA. Often less expensive than a CPA with comparable tax expertise.
+- **Attorney** — also has unlimited representation rights, but you would hire one for tax controversy or complex structuring, not routine returns.
+- **Annual Filing Season Program participant** — a non-credentialed preparer who completes voluntary IRS continuing education; may represent you only on a return they prepared and signed, only before examiners and customer-service staff, and not in appeals or collections.
+- **PTIN holder with no credential** — may prepare and sign returns but has no authority to represent you before the IRS for returns filed after 2015.
 
-For most DPC owners, a good CPA or EA is the right choice. A generic tax preparer from a chain storefront is not.
+For most DPC owners, a CPA or EA is the right choice. A preparer with no credential can file a simple return, but cannot stand between you and the IRS when it matters.
 
 ---
 
@@ -185,9 +190,9 @@ Your CPA and bookkeeper are experts. Don't second-guess them based on a Reddit t
 - **Referrals from other DPC physicians** — the single best source. Ask in DPC communities (see [DPC Communities](../resources/dpc-communities.md))
 - **Physician-focused CPAs** — some firms specialize in medical practices
 - **Local small-business networks** — chambers of commerce, SBDCs
-- **AICPA directories** and state CPA societies
-- **Dave Ramsey's Trusted Pros / ELP network** — mixed quality but a starting point
-- **Google reviews for local firms** — filter by business focus
+- **Professional directories** — state CPA societies, the [NAEA "Find a Tax Expert" directory](https://taxexperts.naea.org/) for enrolled agents, and the [IRS Directory of Federal Tax Return Preparers](https://irs.treasury.gov/rpo/rpo.jsf), which confirms a preparer's credential
+- **Paid referral networks** (for example the Ramsey Trusted / ELP program) — the listed firms pay to be there; treat them as a starting point, not a vetting
+- **Online reviews for local firms** — filter by business focus
 
 ### Interview at least two or three
 
@@ -208,5 +213,18 @@ Even if the first one seems great. Comparison clarifies what matters to you.
 ## Next
 
 - [Understanding Business Taxes](understanding-business-taxes.md) — context for your CPA conversations
+- [Tax Planning Basics](../business-formation/tax-planning-basics.md) — the Reviewed tax page with current-year limits and citations
 - [Bookkeeping Setup](bookkeeping-setup.md) — what a bookkeeper picks up from you
 - [Key Business Metrics for a DPC Practice](key-business-metrics.md) — numbers to discuss with your advisor
+
+*Read through and figures checked on 2026-09-22.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

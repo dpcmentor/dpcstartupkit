@@ -2,6 +2,9 @@
 
 > **The single most important rule of small business finance: keep business and personal money separate.** Everything else flows from that.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Why Separation Matters
@@ -48,35 +51,41 @@ Larger or more complex practices may also want:
 
 ### What you'll need
 
-- **EIN (Employer Identification Number)** from the IRS — free, 15 minutes online
+- **EIN (Employer Identification Number)** from the IRS — free and issued immediately through the [IRS online application](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number); never pay a third-party site for one. The IRS requires an EIN for corporations, partnerships and any business with employees; a single-member LLC or sole proprietor with no employees can technically use a Social Security number, but banks generally ask for an EIN to open an entity account, and it keeps your SSN off business paperwork
 - **Formation documents** — your LLC / PLLC / PC articles of organization
 - **Operating agreement** (some banks require it, some don't)
 - **Government-issued ID**
 - **Business address** (can be home address for most small DPCs)
 - **Initial deposit** (varies, often $25–$100)
+- **Beneficial owner details** — banks collect the name, date of birth, address and ID number of each person who owns 25% or more of the entity or controls it, under the bank's own customer due diligence rules. This is a bank form, not a government filing: FinCEN removed the separate beneficial ownership information (BOI) report for companies formed in the United States in March 2025 ([FinCEN BOI page](https://www.fincen.gov/boi)), so you do not need to file a BOI report before opening the account
 
 ### Which bank?
 
 There is no single right answer. Trade-offs to consider:
 
-**Big national banks (Chase, BofA, Wells Fargo)**
+**Big national banks (Chase, Bank of America, Wells Fargo, U.S. Bank and similar)**
 
 - Pros: branches everywhere, robust online tools, merchant services, business credit card options
-- Cons: fees, rigid policies, slower customer service for small accounts
+- Cons: monthly fees unless you keep a minimum balance, rigid policies, slower customer service for small accounts
 
 **Community banks and credit unions**
 
 - Pros: relationship banking, easier conversations, often better rates, more flexible on small business loans
 - Cons: fewer branches, sometimes dated online tools, smaller ATM networks
 
-**Online-only business banks (Mercury, Relay, Bluevine, Novo)**
+**Online-only business accounts (Mercury, Relay, Bluevine, Novo and others)**
 
-- Pros: no fees, slick software, fast setup, great for digital-first practices
-- Cons: no cash deposits, no branches, customer service via chat
+- Pros: low or no monthly fees, strong software, fast setup, well suited to digital-first practices
+- Cons: limited or no cash deposits, no branches, customer service via chat
+- Note: several of these are financial-technology companies rather than banks. Your deposits are held at one or more partner banks, and FDIC coverage applies only if the partner bank fails, not if the fintech itself fails. Check the account's disclosures for which bank holds your money
 
 ### A reasonable default
 
-**Open your primary checking at a community bank or credit union** where you can build a relationship (useful later for lines of credit), and **open a secondary online business checking** for its software and tools. Many DPC owners use a hybrid setup like this.
+One common arrangement is to **open your primary checking at a community bank or credit union** where you can build a relationship (useful later for lines of credit), and **add a secondary online business checking** for its software and tools. Other DPC owners keep everything at one national bank for simplicity. Either works; the kit does not recommend a particular bank.
+
+### Deposit insurance
+
+FDIC insurance covers **$250,000 per depositor, per insured bank, per ownership category** ([FDIC deposit insurance](https://www.fdic.gov/resources/deposit-insurance/)); credit unions have equivalent coverage through the NCUA. A business entity's accounts at one bank are a single ownership category, so checking, savings and a tax sub-account at the same bank are added together against the $250,000 limit. Most new practices are nowhere near it, but if reserves grow past that point, spread them across banks.
 
 ---
 
@@ -89,9 +98,9 @@ One habit will save you from the most common first-year catastrophe: **set aside
 1. Open a separate business savings account labeled "Taxes."
 2. Every time you pay yourself — or every week, or every deposit — transfer **25–35% of net income** into that account.
 3. Do not touch it. It exists to pay quarterly estimates and your year-end tax bill.
-4. Work with your CPA to dial in the exact percentage. It varies with entity type, state, and deductions.
+4. Work with your CPA to dial in the exact percentage. It varies with entity type, state, and deductions. The 25–35% figure is a rule of thumb, not a calculation; self-employment tax alone is 15.3% on 92.35% of net profit before income tax is added (see [Tax Planning Basics](../business-formation/tax-planning-basics.md)).
 
-This isn't optional discipline — it's the difference between a calm April and a panicked one. See [Understanding Business Taxes](understanding-business-taxes.md) for details.
+This isn't optional discipline — it's the difference between a calm April and a panicked one. Estimated payments fall due on 15 April, 15 June, 15 September and 15 January. See [Understanding Business Taxes](understanding-business-taxes.md) for details.
 
 ---
 
@@ -102,9 +111,9 @@ A business credit card is not a loan — it's an expense-tracking and reward too
 **Benefits:**
 
 - Every business purchase funnels into one statement → easier bookkeeping
-- Most offer 1.5–2% cash back or travel rewards
+- Many offer roughly 1.5–2% cash back or travel rewards
 - Builds business credit history separate from your personal credit
-- Extra float (21–25 days) between purchase and payment
+- Extra float (typically 21–25 days) between purchase and payment
 - Fraud protection stronger than debit cards
 
 **Risks:**
@@ -112,7 +121,7 @@ A business credit card is not a loan — it's an expense-tracking and reward too
 - Carrying a balance at 20%+ APR will destroy a small practice
 - **Pay the full statement balance every month.** No exceptions.
 
-**Good starter cards** (typically): Chase Ink Business Unlimited, Capital One Spark, AmEx Blue Business Cash. Evaluate current offers when you're ready.
+**Examples of no-annual-fee business cards** include Chase Ink Business Unlimited, Capital One Spark Cash Select and American Express Blue Business Cash; most large issuers and many credit unions offer an equivalent. The kit does not recommend one; compare current offers, fees and reporting features when you're ready.
 
 ---
 
@@ -156,3 +165,16 @@ Ten minutes. Every month.
 - [Bookkeeping Setup](bookkeeping-setup.md) — software to track what flows through these accounts
 - [Cash Flow Management](cash-flow-management.md) — keeping enough in the checking account
 - [Understanding Business Taxes](understanding-business-taxes.md) — why the tax savings account exists
+- [Business Registration Checklist](../business-formation/checklist-business-registration.md) — the EIN and formation steps that come before the bank
+
+*Read through and figures checked on 2026-09-22.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

@@ -2,6 +2,9 @@
 
 > **You can't manage what you don't measure — but tracking everything is worse than tracking nothing.** This guide covers the handful of numbers that actually matter for a DPC practice.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. Where this page gives a benchmark range without a source, it is an illustrative planning assumption, not a survey result.
+
 ---
 
 ## The Philosophy
@@ -39,7 +42,7 @@ For each member, normalize their payment to a monthly amount:
 - Quarterly payer at $285/quarter → $95 MRR
 - Annual payer at $1,080/year → $90 MRR
 
-Sum MRR across all active members.
+Sum MRR across all active members. ($100/month is a round figure close to the $98.64 national average adult fee in the State of DPC 2026 survey; see [Pricing Your Practice](../pricing-membership/pricing-your-practice.md). The quarterly and annual payers above receive a 5% and 10% prepayment discount respectively.)
 
 ### What's a good MRR?
 
@@ -67,12 +70,12 @@ DPC is fundamentally a panel-based business. Your panel size, combined with your
 
 ### What's a target panel?
 
-Industry rule-of-thumb numbers for a solo DPC physician:
+Established DPC panels typically run 400–700 patients per physician (State of DPC 2026 survey), and the AAFP reports an average of about 413; see [Pricing Your Practice](../pricing-membership/pricing-your-practice.md). The bands below are illustrative planning stages for a solo physician, not survey results:
 
 - **0–150 members:** starting phase; you have capacity for anyone
-- **150–400 members:** sustainable solo practice for most physicians
-- **400–600 members:** high end of solo capacity; service level may strain
-- **600+ members:** usually requires staff or multiple providers
+- **150–400 members:** building toward a sustainable solo practice; many physicians reach take-home targets in this range at typical fees
+- **400–700 members:** the typical established solo panel; toward the top, service level may strain
+- **700+ members:** usually requires staff or additional physicians
 
 Your number depends on patient mix, acuity, scope, and workflow.
 
@@ -104,16 +107,18 @@ Monthly churn rate = (Members lost in month ÷ Members at start of month) × 100
 
 ### Annual churn
 
-Roughly: annual churn ≈ monthly churn × 12 (not exactly, but close enough for small numbers).
+Roughly: annual churn ≈ monthly churn × 12 (not exactly, but close enough for small numbers). Compounded, 2% a month is 1 − 0.98¹² ≈ 21.5% a year rather than 24%; the simple multiplication is fine for a dashboard.
 
 ### What's a healthy DPC churn rate?
+
+The kit has no published survey figure for individual-member churn, so the bands below are illustrative planning assumptions:
 
 - **Under 1%/month (under ~12%/year):** healthy
 - **1–2%/month:** acceptable, worth investigating
 - **2–4%/month:** problem — dig into why
 - **Over 4%/month:** serious issue requiring urgent attention
 
-Most DPC practices, once established, see annual churn in the 10–20% range. Some reasons are unavoidable (moves, job changes, death). Others reflect service issues, pricing mismatches, or unmet expectations.
+Established practices commonly plan on annual churn somewhere in the 10–20% range. Some reasons are unavoidable (moves, job changes, death). Others reflect service issues, pricing mismatches, or unmet expectations.
 
 ### Track *why* members leave
 
@@ -137,7 +142,7 @@ ARPM tells you how much revenue each relationship generates, blending membership
 ARPM = Monthly revenue ÷ Number of active members
 ```
 
-**Example:** $24,000 monthly revenue ÷ 180 members = $133 ARPM.
+**Example:** $24,000 monthly revenue ÷ 180 members = $133 ARPM. That is well above the $98.64 national average membership fee because the numerator includes dispensing, employer-contract and other ancillary revenue, not dues alone; in this example dues at about $99 would account for roughly $17,800 of the $24,000.
 
 ### What to look for
 
@@ -161,7 +166,7 @@ Both come from your P&L ([see Reading Financial Statements](reading-financial-st
 Gross margin = (Revenue - Cost of services) ÷ Revenue
 ```
 
-For a DPC practice, cost of services is usually small (supplies, dispensing cost, lab pass-through). Gross margins should be high — typically 85–95%.
+For a DPC practice, cost of services is usually small (supplies, dispensing cost, lab pass-through). Gross margins should be high; the 85–95% range used in this kit is an illustrative assumption, not a survey figure.
 
 ### Operating margin
 
@@ -169,7 +174,7 @@ For a DPC practice, cost of services is usually small (supplies, dispensing cost
 Operating margin = Operating profit ÷ Revenue
 ```
 
-This shows how efficient your overhead is. Good DPC practices hit 30–60% operating margins once established, though this varies widely with stage and pricing.
+This shows how efficient your overhead is. The figure depends almost entirely on whether the physician's own compensation is booked above the operating-profit line: the worked P&L in [Reading Financial Statements](reading-financial-statements.md) shows an 81% operating margin before owner compensation and about 24% after it. A 30–60% operating margin after a market-rate physician salary is a reasonable illustrative target for an established practice, but the kit has no survey benchmark for it; it varies widely with stage, panel size and pricing.
 
 ### Net margin
 
@@ -202,7 +207,7 @@ Once the core six are habitual, consider adding:
 | **New members acquired / month** | Top-of-funnel health |
 | **Member lifetime value (LTV)** | Average revenue from a member across their whole tenure |
 | **Customer acquisition cost (CAC)** | How much you spend to land a member (marketing, outreach) |
-| **LTV:CAC ratio** | Aim for > 3:1 — members should return far more than they cost to acquire |
+| **LTV:CAC ratio** | Aim for > 3:1, a rule of thumb borrowed from subscription businesses — members should return far more than they cost to acquire |
 | **Employer contract % of revenue** | Diversification; concentration risk |
 | **Visit volume per member per year** | Service intensity; may predict churn |
 | **Average days to first visit after signup** | Onboarding speed |
@@ -233,7 +238,7 @@ Update it on the same day each month (say, the 5th). Fifteen minutes. Done.
 
 ### More sophisticated options
 
-- Your EMR's reporting module (Atlas, Elation, Hint all have dashboards)
+- The reporting module of your EMR or membership platform (Atlas.md, Elation Health, Hint Health and Cerbo, among others, include dashboards; the kit endorses none)
 - A dedicated DPC management platform
 - A BI tool like Google Looker Studio connected to your accounting software
 
@@ -286,3 +291,14 @@ That's it. This one routine, repeated, compounds into a practice that's genuinel
 - [Cash Flow Management](cash-flow-management.md) — managing the inputs these metrics depend on
 - [Reading Financial Statements](reading-financial-statements.md) — where the margin numbers come from
 - [Pricing & Membership](../pricing-membership/README.md) — strategic decisions that shape MRR and ARPM
+- [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) — the panel-size and fee figures behind these metrics
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*

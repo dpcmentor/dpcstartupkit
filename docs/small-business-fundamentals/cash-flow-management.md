@@ -2,6 +2,9 @@
 
 > **Profit is an opinion. Cash is a fact.** You can be profitable on paper and still bounce checks. Cash flow management is the discipline of making sure the business always has enough money in the bank to meet its obligations.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## The Core Idea
@@ -19,7 +22,7 @@ Cash is what keeps the lights on. Profit is what the IRS taxes. Both matter — 
 
 ## Why DPC Has Unusual Cash Flow Dynamics
 
-Direct Primary Care has some cash flow advantages most small businesses would kill for:
+Direct Primary Care has some cash flow advantages most small businesses would envy:
 
 **Advantages:**
 
@@ -53,6 +56,8 @@ Runway (in months) = Cash on hand ÷ Monthly operating expenses
 
 $18,000 ÷ $4,500 = **4 months of runway**
 
+Decide whether your own draw or salary counts as an operating expense and use the same rule every time. Excluding it, as above, tells you how long the practice itself survives; including it tells you how long you do.
+
 ### What's a healthy runway?
 
 - **1 month:** Dangerous. One bad month and you're out.
@@ -80,7 +85,7 @@ A single spreadsheet with:
 | 3    | $18,300        | $4,100  | $2,400   | $20,000     |
 | 4    | $20,000        | $3,800  | $5,200   | $18,600     |
 
-It doesn't need to be fancy. Google Sheets works. The point is to see problems **before** they arrive.
+It doesn't need to be fancy. Google Sheets works. The point is to see problems **before** they arrive. (The inflows above, roughly $16,000 a month, correspond to about 160 members at the $98.64/month national average adult fee from the State of DPC 2026 survey; substitute your own numbers.)
 
 ### What to forecast
 
@@ -102,7 +107,7 @@ Update it weekly or biweekly. Ten minutes. Always know your next-four-weeks cash
 ### Collect reliably
 
 - **Automate billing.** Credit card / ACH on file for every member. Never chase paper checks.
-- **Use a good processor.** Stripe, Hint, Elation Billing — pick one and let it run.
+- **Use a reliable processor.** A general-purpose processor (Square, Stripe, PayPal or similar) or a DPC membership platform (Hint Health, Atlas.md, Cerbo and others) will run recurring billing for you. The kit endorses no vendor; compare current fees in [Payment Processing Options](../pricing-membership/payment-processing-options.md).
 - **Set clear failure workflows.** When a card declines, your software should email the member and you *before* it becomes an aged receivable.
 
 ### Offer annual prepayment (carefully)
@@ -110,6 +115,7 @@ Update it weekly or biweekly. Ten minutes. Always know your next-four-weeks cash
 Some practices offer a small discount (1–2 months free) for annual prepayment. This is great for cash flow but:
 
 - Record it as **deferred revenue**, not revenue, if you're on accrual
+- On the cash method (which most DPC practices may use; see [Tax Planning Basics](../business-formation/tax-planning-basics.md)), the whole prepayment is taxable income in the year you receive it, even though you still owe eleven months of care
 - Don't spend it all — you still owe the care
 - Understand that a heavy annual-plan month creates a false "boom" on cash basis
 
@@ -136,9 +142,9 @@ Know your **monthly fixed cost floor**. That's the number you must cover to stay
 
 ### Negotiate terms
 
-Most vendors will offer net-30 or net-60 payment terms if you ask. This is free cash flow flexibility. Ask.
+Some vendors will offer net-30 or net-60 payment terms if you ask. This is free cash flow flexibility. Ask.
 
-### Don't finance deprecating assets aggressively
+### Don't finance depreciating assets aggressively
 
 Financing a $30,000 build-out at 9% when your practice generates $3,000/month in profit is how practices fail. Match financing to cash flow, not ambition.
 
@@ -148,11 +154,11 @@ Financing a $30,000 build-out at 9% when your practice generates $3,000/month in
 
 The #1 cash flow killer for new practice owners: **forgetting to save for taxes.**
 
-Revenue feels like money you have. It isn't. Roughly 25–35% of it belongs to the IRS and your state. If you spend all of it, then April arrives.
+Revenue feels like money you have. It isn't. Tax is charged on **net profit**, not on revenue, but for a lean DPC practice most of the revenue *is* profit. For a sole proprietor or single-member LLC, self-employment tax alone is 15.3% on 92.35% of net profit (the Social Security portion stops at the annual wage base), and federal and state income tax come on top; a combined 25–40% of profit is a common planning assumption, but your own rate depends on your bracket, entity and state. If you spend all of it, then April arrives.
 
 ### The fix
 
-Every time money comes in, sweep a percentage (work with your CPA on the exact number) into a **separate tax savings account**. Treat it as untouchable. Pay quarterly estimates from it. See [Understanding Business Taxes](understanding-business-taxes.md).
+Every time money comes in, sweep a percentage (work with your CPA on the exact number) into a **separate tax savings account**. Treat it as untouchable. Pay quarterly estimates from it: they are due 15 April, 15 June, 15 September and 15 January (the next business day when that falls on a weekend or holiday), and paying in 100% of last year's tax (110% if last year's adjusted gross income was over $150,000) avoids an underpayment penalty even if this year's income jumps. See [Understanding Business Taxes](understanding-business-taxes.md) and [Tax Planning Basics](../business-formation/tax-planning-basics.md).
 
 ---
 
@@ -215,3 +221,14 @@ Starting from near-zero, here's a reasonable sequence:
 - [Understanding Business Taxes](understanding-business-taxes.md) — the biggest outflow you can't forget
 - [Key Business Metrics for a DPC Practice](key-business-metrics.md) — tracking churn, ARPU, and panel economics
 - [Reading Financial Statements](reading-financial-statements.md) — where cash flow shows up in your statements
+- [Payment Processing Options](../pricing-membership/payment-processing-options.md) — the tools that collect the inflows
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*
