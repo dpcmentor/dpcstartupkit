@@ -11,8 +11,8 @@ license, so you may share and adapt it with attribution, but not sell it.
 
 ## Who built it
 
-The kit was written by Jack Forbush, DO, a family physician who runs a DPC
-practice, and is maintained alongside the [DPC Mentor Platform](https://dpcmentor.com/),
+The kit was put together by Jack Forbush, DO, a family physician who runs a
+DPC practice, with input from DPC colleagues, and is maintained alongside the [DPC Mentor Platform](https://dpcmentor.com/),
 a volunteer-run service that pairs physicians considering DPC with physicians
 who have already made the move. Both are operated at no charge.
 

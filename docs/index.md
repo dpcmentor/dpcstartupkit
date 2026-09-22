@@ -67,7 +67,7 @@ Research every decision. Set up complete systems. Launch with everything in plac
 
 ## About This Resource
 
-This startup kit was written by a family physician who runs a Direct Primary Care practice, drawing on years of building and mentoring DPC practices. Its law and tax pages are checked against primary sources and carry the reviewer's name. See [About This Kit](about-this-kit.md).
+This startup kit was put together by a family physician who runs a Direct Primary Care practice, with input from DPC colleagues, drawing on years of building and mentoring DPC practices. Its law and tax pages are checked against primary sources and carry the reviewer's name. See [About This Kit](about-this-kit.md).
 
 **What makes this different:**
 
