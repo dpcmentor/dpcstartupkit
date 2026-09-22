@@ -32,3 +32,8 @@ This section covers membership model design, pricing strategies, and billing sys
 - [Business Formation](../business-formation/) - Legal structure impacts pricing
 - [Marketing](../marketing/) - Communicating value proposition
 - [Templates](../templates/) - Membership agreement templates
+
+!!! tip "Talk to a mentor about this"
+    Questions about pricing or membership design? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

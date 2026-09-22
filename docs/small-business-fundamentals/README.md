@@ -99,3 +99,8 @@ Skim the basics and focus on:
 ---
 
 *You don't need an MBA to run a healthy practice. You do need to understand your own numbers.*
+
+!!! tip "Talk to a mentor about this"
+    Questions about reading your own numbers? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

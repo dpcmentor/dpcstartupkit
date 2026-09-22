@@ -38,3 +38,8 @@ This section covers day-to-day practice management and operational workflows for
 
 - [Technology](../technology/) - Practice management software
 - [Compliance and Legal](../compliance-legal/) - Operational compliance requirements
+
+!!! tip "Talk to a mentor about this"
+    Questions about day-to-day operations? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

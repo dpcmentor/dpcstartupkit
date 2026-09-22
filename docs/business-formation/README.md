@@ -31,3 +31,8 @@ This section covers the legal and administrative foundations for starting a Dire
 
 - [Compliance and Legal](../compliance-legal/) - Regulatory requirements
 - [Pricing and Membership](../pricing-membership/) - Financial planning
+
+!!! tip "Talk to a mentor about this"
+    Questions about entity choice, insurance or setup? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

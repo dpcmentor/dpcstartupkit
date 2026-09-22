@@ -35,3 +35,8 @@ This section covers patient acquisition, branding, and outreach strategies for D
 
 - [Pricing and Membership](../pricing-membership/) - Value proposition and pricing communication
 - [Technology](../technology/) - Website and online presence
+
+!!! tip "Talk to a mentor about this"
+    Questions about finding your first patients? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }
