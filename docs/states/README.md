@@ -104,3 +104,8 @@ If you practice in a state and can provide updated information, contributions ar
 - [DPC Frontier State Laws](https://www.dpcfrontier.com/states) — Comprehensive state profiles
 - [DPC Coalition](https://www.dpcare.org/) — Advocacy and legislation tracking
 - [State Medical Board Directory](https://www.fsmb.org/contact-a-state-medical-board/) — FSMB directory
+
+!!! tip "Talk to a mentor about this"
+    Questions about your state's rules? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

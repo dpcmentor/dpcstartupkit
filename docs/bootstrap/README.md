@@ -148,3 +148,8 @@ Everything else can wait.
 ---
 
 *Stop preparing. Start practicing.*
+
+!!! tip "Talk to a mentor about this"
+    Questions about launching on a small budget? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

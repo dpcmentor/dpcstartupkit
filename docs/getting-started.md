@@ -182,3 +182,8 @@ The **DPC Mentor Platform** connects aspiring DPC physicians with experienced me
 - **Attend an event** — [Conferences & Events](resources/conferences-events.md)
 - **Read more** — [Recommended Reading](resources/recommended-reading.md)
 - **Listen and learn** — [Podcasts & Media](resources/podcasts-media.md)
+
+!!! tip "Talk to a mentor about this"
+    Questions about where to start? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }

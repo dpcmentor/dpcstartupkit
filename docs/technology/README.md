@@ -44,3 +44,8 @@ This section covers technology selection and implementation for Direct Primary C
 
 - [Compliance and Legal](../compliance-legal/) - HIPAA requirements for technology
 - [Operations](../operations/) - Daily workflow integration
+
+!!! tip "Talk to a mentor about this"
+    Questions about choosing an EMR and tools? A physician who has already done it will answer them, one to one and free.
+
+    [Find a mentor](https://dpcmentor.com/mentors/browse/){ .md-button .dpckit-mentor-cta }
