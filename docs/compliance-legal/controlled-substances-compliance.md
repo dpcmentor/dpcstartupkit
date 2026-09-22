@@ -16,13 +16,12 @@
 **Requirements:**
 - Valid medical license in state of practice
 - Complete DEA Form 224 (new registration)
-- Fee: $888 for 3-year registration
-- Process: 4-6 weeks typically
+- Fee: $888 for 3-year registration ([21 CFR 1301.13(e)](https://www.ecfr.gov/current/title-21/section-1301.13))
 
 **Registration address:**
 - Must match your practice location
-- If multiple locations, may need multiple DEAs (check requirements)
-- Home address acceptable if practicing from home (some states restrict)
+- Each location where you store, administer or dispense controlled substances needs its own registration; a second office in the same state used only for prescribing does not ([21 CFR 1301.12(b)(3)](https://www.ecfr.gov/current/title-21/section-1301.12))
+- Home address acceptable if practicing from home (some states restrict), but a registered location is a controlled premises that DEA may inspect
 
 **Schedule II-V authorization:**
 - Standard registration covers all schedules
@@ -31,16 +30,18 @@
 ### DEA Renewal
 
 - Every 3 years
-- Apply 45 days before expiration
+- Renew within the 60-day window before expiration ([21 CFR 1301.13(b)](https://www.ecfr.gov/current/title-21/section-1301.13)); DEA sends reminders at 60, 45, 30, 15 and 5 days out
+- There is no grace period: DEA allows reinstatement for one calendar month after expiration, but you may not prescribe while the registration is lapsed
 - Online renewal available
 - $888 renewal fee
+- Attest to the one-time MATE Act training at your first new or renewal registration on or after 2023-06-27 (see [Buprenorphine](#buprenorphine-mat-for-opioid-use-disorder) below)
 
 ### Multiple Locations
 
 **When you need separate DEA numbers:**
 - Different states require separate registrations
-- Same state, different addresses: Check DEA guidance
-- Telehealth across state lines: Complex—get legal advice
+- Same state, different addresses: a separate registration for each place you store, administer or dispense; none for a prescribing-only office (21 CFR 1301.12(b)(3))
+- Telehealth across state lines: Complex—get legal advice, and see [Telemedicine Prescribing](#telemedicine-prescribing) below
 
 ---
 
@@ -63,7 +64,7 @@
 **Schedule II (opioids, stimulants, etc.):**
 - Written prescription required (or EPCS)
 - No refills allowed
-- 90-day maximum in most states
+- Federal rule: up to three separate prescriptions issued on the same day, each dated and marked for sequential filling, for a total supply of up to 90 days ([21 CFR 1306.12(b)](https://www.ecfr.gov/current/title-21/section-1306.12)); many states are stricter
 - Some states require separate prescriptions for each fill
 
 **Schedule III-IV:**
@@ -78,12 +79,12 @@
 
 ### EPCS (Electronic Prescribing for Controlled Substances)
 
-**Federal requirement:** Medicare Part D requires EPCS as of 2022
+**Federal requirement:** Section 2003 of the SUPPORT Act ([42 USC 1395w-104(e)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w-104)) requires controlled-substance prescriptions covered under Medicare Part D to be transmitted electronically, effective 2021. CMS began measuring compliance with prescriptions written from 2023-01-01: at least 70% of your Part D controlled-substance prescriptions must be electronic, and prescribers who write 100 or fewer such prescriptions a year get an automatic exception
 
 **State requirements:** Many states now mandate EPCS
 
 **EMR requirements:**
-- Must be DEA-certified for EPCS
+- Must have been certified or audited by a DEA-approved third party under [21 CFR 1311.300](https://www.ecfr.gov/current/title-21/section-1311.300); DEA does not certify software itself, so ask your vendor for the certification report
 - Two-factor authentication required
 - Identity proofing required
 - Most modern EMRs support EPCS
@@ -161,7 +162,7 @@ Many states participate in interstate data sharing (PMP InterConnect). Check if 
 - DEA-registered location required
 - Substantially constructed locked cabinet or safe
 - Limited access (you and authorized staff only)
-- Separate from non-controlled medications
+- Separate from non-controlled medications (best practice; not a federal requirement)
 
 **Record keeping:**
 - Separate controlled substance log
@@ -177,7 +178,7 @@ Same security requirements apply to samples as dispensed medications.
 ### Theft or Loss
 
 **Required:**
-- Report to DEA within 1 business day (DEA Form 106)
+- Notify your DEA Field Division in writing within one business day of discovering the loss or theft, then file DEA Form 106 electronically within 45 days of discovery ([21 CFR 1301.76(b)](https://www.ecfr.gov/current/title-21/section-1301.76), as amended at 88 FR 40712)
 - Report to local police
 - Report to state Board of Pharmacy
 - Document in your records
@@ -215,7 +216,7 @@ Same security requirements apply to samples as dispensed medications.
 **X-waiver eliminated (2023):**
 - No longer need special waiver
 - Standard DEA allows MAT prescribing
-- Training still recommended
+- Training is required, not optional: the MATE Act (Consolidated Appropriations Act, 2023, §1263) requires every DEA registrant except veterinarians to complete a one-time eight hours of training on treating and managing patients with opioid or other substance use disorders, attested at the first new or renewal registration on or after 2023-06-27
 - 30-patient limit removed
 
 **Documentation:** Same as other controlled substances, plus addiction-specific notes.
@@ -235,6 +236,11 @@ Same security requirements apply to samples as dispensed medications.
 - Document tapering plan for chronic use
 - Consider alternatives
 - PDMP monitoring
+
+### Telemedicine Prescribing
+
+!!! warning "Subject to change"
+    Through 2026-12-31, DEA's COVID-era telemedicine flexibilities, extended for a fourth time by [Federal Register document 2025-24123](https://www.federalregister.gov/documents/2025/12/31/2025-24123) (90 FR, 2025-12-31), let a DEA-registered prescriber issue Schedule II-V prescriptions after an audio-video telemedicine visit with no prior in-person evaluation (21 CFR 1307.41). DEA's separate final rule on prescribing buprenorphine for opioid use disorder by telemedicine took effect 2025-12-31, and the proposed special registration for telemedicine is still pending. Check DEA's current guidance before prescribing by telemedicine in 2027. State telemedicine and prescribing rules apply on top of the federal ones.
 
 ---
 
@@ -258,7 +264,8 @@ Same security requirements apply to samples as dispensed medications.
 
 ### Ongoing Compliance
 
-- [ ] DEA renewal calendar reminder (every 3 years)
+- [ ] DEA renewal calendar reminder (every 3 years; renew within the 60 days before expiration)
+- [ ] MATE Act eight-hour training completed and attested at renewal
 - [ ] PDMP checked regularly
 - [ ] Controlled substance inventory (if dispensing)
 - [ ] CME on pain management/prescribing
@@ -338,6 +345,8 @@ Same security requirements apply to samples as dispensed medications.
 - **State PDMP:** Check your state Board of Pharmacy
 - **SAMHSA:** Guidelines for MAT
 - **CDC:** Opioid Prescribing Guidelines
+
+*Sources checked against primary law and agency guidance on 2026-09-22.*
 
 ---
 
