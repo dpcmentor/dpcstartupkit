@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Most DPC practices use one of three simple approaches: (1) Individual vs. Family pricing with a family cap, (2) Age-based tiers, or (3) Annual membership + per-visit fee. Pick one and keep it simple—patients should understand your pricing in 30 seconds.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Table of Contents
@@ -43,6 +46,7 @@ Simple two-tier approach with a family cap.
 - Families know their maximum cost upfront
 - Encourages whole-family enrollment
 - No tracking age changes
+- A family cap of $300/month or less keeps HSA-holding members eligible (see the 2026 HSA box under Model 2)
 
 **Practices Using Model 1:**
 - [Ciampi Family Practice](https://www.ciampifamilypractice.com/pricing) (South Portland, ME) — $60/month individual; family discounts available
@@ -75,6 +79,9 @@ Pricing varies by age bracket, reflecting expected care utilization.
 - [Holton Direct Care](https://www.holtondirectcare.com/) (Holton, KS) — $10-$100/month based on age
 - [Stand Up Family Medicine](https://standupdpc.com/pricing/) (Marietta, GA) — Pediatric $69, Adult $129, Senior $149, Family $300
 
+!!! warning "Subject to change"
+    **2026 HSA fee caps.** Since January 1, 2026, a member who has an HSA-qualified high-deductible health plan keeps HSA eligibility only if your DPC fee is no more than **$150/month for an individual** or **$300/month for an arrangement covering more than one person** (indexed after 2026) — [26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), added by P.L. 119-21. A senior or premium tier above $150/month, or a family cap above $300/month, costs those members their HSA contributions ([IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf), Q&A-13 and Q&A-20). The arrangement also may not bundle non-ambulatory laboratory services or prescription drugs other than vaccines; labs and medications billed separately must be offered to non-members on the same terms, or they are treated as part of the arrangement (Notice 2026-05, Q&A-11 and Q&A-12). Confirm your tier design with a tax advisor; this is educational content, not tax advice.
+
 ---
 
 ### Model 3: Annual Membership + Per-Visit Fee
@@ -102,18 +109,20 @@ Lower annual fee with a flat charge per visit.
 
 ---
 
-### National DPC Pricing Ranges (2024)
+### National DPC Pricing Ranges
 
-| Category | Low | Average | High |
+The national average adult membership was **$98.64/month** in the State of DPC 2026 survey (465 practices, data collected October–November 2024): West $113, Northeast $110, South $98, Midwest $80; urban $110, rural $82. The ranges below are broader estimates drawn from practice websites and the survey.
+
+| Category | Low | Typical | High |
 |----------|-----|---------|------|
-| Adults | $50-$75 | $75-$100 | $100-$150 |
+| Adults | $50-$75 | $80-$113 by region (national average $98.64) | $113-$150 |
 | Children | $20-$35 | $35-$50 | $50-$75 |
 | Family Cap | $150-$200 | $200-$300 | $300-$400 |
 
-*Source: [AAFP DPC Data Brief](https://www.aafp.org/family-physician/practice-and-career/delivery-payment-models/direct-primary-care.html), practice surveys*
+*Sources: State of DPC 2026 (DPC Alliance and Hint Health); the [AAFP DPC overview](https://www.aafp.org/practice-operations/practice-and-payment-models/direct-primary-care) cites a broader $50-$100/month range. Children and family-cap figures are estimates.*
 
-!!! note
-    **HSA Update (2026):** Starting January 1, 2026, DPC memberships up to $150/month individual ($300/month family) are HSA-eligible under new federal legislation. This may influence your pricing ceiling.
+!!! warning "Subject to change"
+    A family cap in the $300-$400 band, or an adult or senior tier above $150/month, is above the 2026 HSA caps ($150 individual, $300 for an arrangement covering more than one person; [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). Members with HSA-qualified high-deductible plans lose HSA eligibility at those prices. See the 2026 HSA box under Model 2.
 
 !!! tip
     **Research your market independently.** Review publicly available pricing on practice websites to understand what patients in your area expect to pay. Useful directories include [DPC Alliance](https://www.dpcalliance.org/find-a-dpc-physician) and [DPC Frontier Mapper](https://mapper.dpcfrontier.com/). Your pricing should be based on your own costs, value, and business needs—not coordinated with other practices.
@@ -141,6 +150,9 @@ Keep this simple too. Everything routine is included; specialized add-ons cost e
 - Vaccines (administration included, patient pays vaccine cost)
 - Imaging (coordinated at wholesale pricing)
 
+!!! warning "Subject to change"
+    **Pass-through labs and medications.** Keep labs and dispensed medications as separate, itemized charges and offer them to non-members at the same pass-through prices. Under [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) (Q&A-11 and Q&A-12), separately billed items that are available only to members are treated as part of the membership; an arrangement that includes non-ambulatory labs or prescription drugs other than vaccines is not a qualifying DPC arrangement, and members with HSA-qualified high-deductible plans lose HSA eligibility. Vaccines are the exception and may be included.
+
 **Not Included:**
 - Specialist visits
 - Hospital care
@@ -160,7 +172,7 @@ Offer a discount for annual prepayment:
 - Improved cash flow
 - Reduced payment processing fees
 - Patient commitment for full year
-- Attractive for HSA/FSA spending
+- Members with an HSA may be able to pay the fee of a qualifying arrangement from HSA funds (see the 2026 HSA box above); FSA treatment depends on the plan, so ask a tax advisor
 
 **Important:** Have a clear refund policy for patients who move or have other qualifying life changes.
 
@@ -174,13 +186,14 @@ As your practice grows, employers may approach you about covering their employee
 - Per Employee Per Month (PEPM): $100-$150
 - Often 10-15% below individual rates due to volume
 - Dependents at additional cost
+- Keep employee-only rates at or below $150/month and family tiers at or below $300/month so employees on high-deductible plans keep their HSA eligibility (see the 2026 HSA box above)
 
 **Keep it simple:**
 - Same comprehensive coverage as individual members
 - Payroll deduction simplifies collection
 - Start with one small employer before scaling
 
-See [Pricing Your Practice](pricing-your-practice.md) for more on employer contracts.
+See the [Employer Contracts Guide](employer-contracts-guide.md) and [Pricing Your Practice](pricing-your-practice.md) for more on employer contracts.
 
 ---
 
@@ -196,6 +209,7 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 - Creates perception of two-class care
 - Constant questions about "what's included in my tier"
 - Administrative nightmare tracking who gets what
+- A premium tier priced above $150/month costs those members their HSA eligibility (see the 2026 HSA box above)
 
 ### Age-Bracketed Pricing (5+ age tiers)
 
@@ -221,7 +235,7 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 - [ ] Calculate required revenue (see [Pricing Your Practice](pricing-your-practice.md))
 - [ ] Choose your model: Individual/Family, Age-Based, or Annual + Per-Visit
 - [ ] Set your rates based on local market research
-- [ ] Determine family cap
+- [ ] Determine family cap (at or below $300/month, and individual tiers at or below $150/month, if you want members to keep HSA eligibility)
 - [ ] Define what's included vs. additional cost
 - [ ] Decide on annual prepayment discount (typically 10%)
 - [ ] Create simple one-page pricing sheet
@@ -234,7 +248,19 @@ See [Pricing Your Practice](pricing-your-practice.md) for more on employer contr
 
 - [Pricing Your Practice](pricing-your-practice.md) - Calculate your specific pricing
 - [Membership Agreement Essentials](membership-agreement-essentials.md) - Document your model legally
-- [DPC Frontier Mapper](https://www.dpcfrontier.com/mapper/) - See other DPC practices and pricing
+- [Employer Contracts Guide](employer-contracts-guide.md) - Pricing for employer groups
+- [DPC Frontier Mapper](https://mapper.dpcfrontier.com/) - See other DPC practices and pricing
+- [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) - HSA rules for DPC arrangements
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*
 
 ---
 

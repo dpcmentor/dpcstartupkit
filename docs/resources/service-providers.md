@@ -2,6 +2,11 @@
 
 > **Quick Summary:** The right professional advisors can save you significant time, money, and legal risk. Here's what to look for in key service providers.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
+Vendors are named on this page as examples so you know where to start looking. The kit does not endorse any of them; compare at least two before you sign.
+
 ---
 
 ## Essential Professional Advisors
@@ -30,7 +35,7 @@
 - Partnership agreement: $3,000-10,000
 
 **Finding DPC-savvy attorneys:**
-- DPC Alliance provider directory
+- DPC Alliance and DPC Frontier vendor listings
 - DPC conference sponsor lists
 - Ask other DPC physicians
 - State medical society referrals
@@ -116,21 +121,23 @@
 
 ### Payment Processing
 
+Published standard rates, checked 2026-09-22. Both vendors change these; the linked pages are the source of truth.
+
 | Provider | Monthly Fee | Transaction Fee | Notes |
 |----------|-------------|-----------------|-------|
-| Stripe | None | 2.9% + 30¢ | Easy integration |
-| Square | None | 2.6% + 10¢ | In-person and online |
-| Hint Health | Varies | Included | DPC-specific platform |
+| [Stripe](https://stripe.com/pricing) | None | 2.9% + 30¢ per online card payment; ACH 0.8% capped at $5 | Easy integration; the processor behind several DPC platforms |
+| [Square](https://squareup.com/help/us/en/article/5068-what-are-square-s-fees) | None on the Free plan | 2.6% + 15¢ in person; 3.3% + 30¢ online and invoices; 3.5% + 15¢ keyed | In-person and online |
+| DPC membership platforms (Hint Health, Atlas.md and others) | Subscription | Processing fees are charged on top of the subscription, usually through Stripe or a similar processor | Billing, enrolment and card-on-file handled for you |
 | ACH providers | $10-30 | $0.25-0.75 | Lower fees for recurring |
 
-**For DPC:** ACH (bank transfer) is cheapest for recurring memberships.
+**For DPC:** ACH (bank transfer) is usually the cheapest way to collect recurring memberships. A 2.9% card fee on a $100 membership is $3.20 a month per member; the ACH equivalent is under $1.
 
 ### Merchant Services
 
 If accepting credit cards in-office:
 - Compare rates carefully
 - Watch for hidden fees
-- Consider Square or Stripe terminals
+- Compare terminal options (Square, Stripe, Clover, your bank's merchant services) on total monthly cost at your expected volume
 - Avoid long-term contracts
 
 ---
@@ -153,7 +160,7 @@ If accepting credit cards in-office:
 | Colleague coverage | Trade/free | Best clinical judgment |
 
 **What to look for:**
-- HIPAA compliance
+- HIPAA compliance and a signed BAA (an answering service handles PHI on your behalf; see [BAA Requirements](../compliance-legal/baa-requirements.md))
 - Medical experience
 - Clear protocols
 - Message delivery method
@@ -182,12 +189,13 @@ If accepting credit cards in-office:
 - Biohazardous materials
 - Some medications
 
-**Providers:**
-- Stericycle
-- Sharps Compliance
-- Local medical waste services
+**Vendors (names checked 2026-09-22):**
+- Stericycle (acquired by WM in November 2024 and now operates as part of WM Healthcare Solutions; the Stericycle name is still used: [WM notice to Stericycle customers](https://www.wm.com/us/en/op/welcome-stericycle))
+- Sharps Compliance (privately held by Aurora Capital Partners since 2022; name unchanged)
+- Daniels Health and other regional route-based services
+- Mail-back sharps programs, often the cheapest option for a low-volume solo practice
 
-**Cost:** $30-100/month for small practice
+**Cost:** $30-100/month for a small practice on a route-based service; mail-back containers are priced per box. Get quotes from at least two and check the contract term.
 
 ### Cleaning Services
 
@@ -212,14 +220,14 @@ If accepting credit cards in-office:
 
 | Option | Cost | Best For |
 |--------|------|----------|
-| DIY (Squarespace, Wix) | $15-40/month | Budget-conscious, simple needs |
+| DIY (Squarespace, Wix, others) | $20-50/month ([Squarespace](https://www.squarespace.com/pricing) was $19-49/month on annual billing when checked 2026-09-22) | Budget-conscious, simple needs |
 | WordPress + designer | $2,000-5,000 setup | Custom design, SEO focus |
-| DPC-specific platforms | $100-200/month | All-in-one solution |
+| DPC-specific website platforms | $100-200/month | All-in-one solution |
 
 ### Logo and Branding
 
-- DIY (Canva): Free-$15/month
-- 99designs: $300-1,000
+- DIY (Canva, or similar tools): a free tier plus a paid tier of roughly $15-18/month (check Canva's pricing page; it has risen several times since 2024)
+- Design contest sites (99designs, part of Vista since 2020, and others): roughly $300-1,300 per logo contest
 - Local designer: $500-2,500
 - Branding agency: $5,000+
 
@@ -235,39 +243,41 @@ If accepting credit cards in-office:
 
 ---
 
-## Specialty DPC Service Providers
+## DPC-Specific Software and Resources
+
+The vendors below are the ones you will hear about first at DPC conferences. Listing them is not a recommendation; several other DPC EMRs and membership platforms (Cerbo, Akute Health and others) compete on the same features, and the [Lab Partners](lab-partners.md) page covers their lab integrations.
 
 ### Hint Health
 
-**Services:** Membership management, billing, patient enrollment
+**Services:** Membership management, billing, patient enrolment, and since 2023 an integrated EMR (Hint Clinical)
 
-**Cost:** ~1% of revenue or per-member fee
+**Cost:** A flat monthly subscription that includes one clinician and scales by clinician and, on higher tiers, by active members; published tiers started at $290/month when checked 2026-09-22 ([hint.com/pricing](https://www.hint.com/pricing)). It is not priced as a percentage of revenue.
 
-**Best for:** Practices wanting turnkey membership management
+**Best for:** Practices wanting turnkey membership management, with or without the EMR
 
 ### Atlas.md
 
 **Services:** EMR + practice management for DPC
 
-**Cost:** Monthly subscription
+**Cost:** Monthly subscription; contact for pricing
 
 **Best for:** All-in-one DPC solution
 
+### Elation Health
+
+**Services:** EMR with DPC-friendly features and a separate membership-billing add-on
+
+**Cost:** Monthly subscription; contact for pricing
+
+**Best for:** Clinical-focused EMR
+
 ### DPC Frontier
 
-**Services:** Education, resources, community
+**Services:** Education, resources, state-law mapper, community
 
 **Cost:** Free (with some premium content)
 
 **Best for:** Learning and networking
-
-### Elation Health
-
-**Services:** EMR with DPC-friendly features
-
-**Cost:** Monthly subscription
-
-**Best for:** Clinical-focused EMR
 
 ---
 
@@ -303,11 +313,23 @@ If accepting credit cards in-office:
 
 ---
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+---
+
 ## Related Guides
 
 - [Working with Attorneys](../business-formation/working-with-attorneys.md)
 - [Business Insurance Guide](../business-formation/business-insurance-guide.md)
 - [Tax Planning Basics](../business-formation/tax-planning-basics.md)
+- [BAA Requirements](../compliance-legal/baa-requirements.md)
+- [Lab Partners](lab-partners.md)
 
 ---
 
@@ -317,3 +339,5 @@ If accepting credit cards in-office:
 ---
 
 *Good advisors pay for themselves in avoided mistakes and saved time. Invest in relationships with professionals who understand your DPC practice.*
+
+*Read through and figures checked on 2026-09-22.*

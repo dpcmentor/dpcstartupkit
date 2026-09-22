@@ -6,6 +6,9 @@ Families represent significant opportunity for DPC practices—enrolling multipl
 
 This guide covers strategies for pricing family memberships and managing household accounts.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Base pricing established (see [Pricing Your Practice](pricing-your-practice.md))
@@ -40,6 +43,9 @@ This guide covers strategies for pricing family memberships and managing househo
 ---
 
 ## Family Pricing Approaches
+
+!!! warning "Subject to change"
+    **2026 HSA fee caps.** Since January 1, 2026, a member who has an HSA-qualified high-deductible health plan keeps HSA eligibility only if the DPC fee is no more than **$150/month for an individual** or **$300/month for an arrangement covering more than one person** (indexed after 2026) — [26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), added by P.L. 119-21; [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf), Q&A-13 and Q&A-20. The $300 limit applies to the household total, whatever the family size, so a family cap at or below $300/month keeps every family on the safe side; an approach with no cap (Approach 3 below) can exceed $300 for large families. The arrangement also may not bundle non-ambulatory laboratory services or prescription drugs other than vaccines, and labs or medications billed separately must be offered to non-members on the same terms (Notice 2026-05, Q&A-11 and Q&A-12). The examples on this page use an adult rate of $89, close to the $98.64 national average in the State of DPC 2026 survey. Confirm your design with a tax advisor; this is educational content, not tax advice.
 
 ### Approach 1: Individual Pricing with Family Cap
 
@@ -123,7 +129,7 @@ This guide covers strategies for pricing family memberships and managing househo
 
 **Cons:**
 - More complex pricing table
-- No cap for very large families
+- No cap for very large families (2 adults + 4 children = $314/month in this example, above the $300 HSA cap; add a household cap at or below $300 if members use HSAs)
 
 ---
 
@@ -331,6 +337,9 @@ Include clear family pricing information:
 **Q: What if I add a new baby?**
 > A: Congratulations! Your new baby can be added to your family membership at the child rate ($49/month), or free if you're already at the family cap.
 
+**Q: Will a family membership affect our health savings account?**
+> A: If you have an HSA-qualified high-deductible health plan, federal rules since 2026 let you keep contributing to your HSA as long as your membership fee is $150/month or less for one person, or $300/month or less for a household membership. Our family cap is $250/month, so every household stays under that limit. Labs and medications are billed separately at our pass-through prices, which are the same for members and non-members. Please confirm your own situation with a tax advisor.
+
 ---
 
 ## Checklist: Family Pricing
@@ -338,7 +347,7 @@ Include clear family pricing information:
 ### Policy Design
 - [ ] Select family pricing approach
 - [ ] Define family/household
-- [ ] Set cap or discount levels
+- [ ] Set cap or discount levels (household cap at or below $300/month, individual at or below $150/month, if members use HSAs)
 - [ ] Model revenue impact
 - [ ] Document in membership agreement
 
@@ -361,6 +370,17 @@ Include clear family pricing information:
 - [Membership Models Comparison](membership-models-comparison.md) - Overall pricing structures
 - [Payment Processing Options](payment-processing-options.md) - Billing households
 - [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.csv) - Model scenarios
+- [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) - HSA rules for DPC arrangements, including the $300 household limit
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-22.*
 
 ---
 
