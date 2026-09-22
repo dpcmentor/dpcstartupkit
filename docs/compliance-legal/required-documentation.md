@@ -92,8 +92,8 @@ Beyond the chart, the following documents are required where your practice is a 
 - HIPAA policies and procedures, and a security risk analysis: [45 CFR 164.308](https://www.ecfr.gov/current/title-45/section-164.308) and 164.316
 - Business associate agreements: [45 CFR 164.504(e)](https://www.ecfr.gov/current/title-45/section-164.504)
 - Workforce training records: [45 CFR 164.530(b) and (j)](https://www.ecfr.gov/current/title-45/section-164.530)
-- CLIA certificate of waiver, if you run waived tests: [42 CFR Part 493](https://www.ecfr.gov/current/title-42/part-493)
-- OSHA bloodborne pathogens exposure control plan, if you have employees: [29 CFR 1910.1030(c)](https://www.ecfr.gov/current/title-29/section-1910.1030)
+- CLIA certificate of waiver, if you run any in-office test, even waived ones: [42 CFR 493.3](https://www.ecfr.gov/current/title-42/section-493.3) and [493.35](https://www.ecfr.gov/current/title-42/section-493.35) (one application per location; the biennial waiver fee is $248 on the [CMS fee schedule updated 2024](https://www.cms.gov/files/document/clia-certificate-fee-schedule-updated-06/7/2024.pdf))
+- OSHA bloodborne pathogens exposure control plan, if you have employees: [29 CFR 1910.1030(c)](https://www.ecfr.gov/current/title-29/section-1910.1030); and the OSHA workplace poster, which has no small-employer exemption: [29 CFR 1903.2](https://www.ecfr.gov/current/title-29/section-1903.2)
 
 ---
 
@@ -289,7 +289,7 @@ Document that patient understands and consents to telehealth care (can be includ
 
 | Patient Type | Common Requirement |
 |--------------|-------------------|
-| Adults | Commonly 5-10 years after the last encounter, set by state law; check your board. Florida, for example, requires 5 years from the last patient contact (Florida Administrative Code 64B8-10.002). |
+| Adults | Commonly 5-10 years after the last encounter, set by state law; check your board. Florida, for example, requires 5 years from the last patient contact ([Florida Administrative Code 64B8-10.002](https://flrules.org/gateway/ruleno.asp?id=64B8-10.002)). |
 | Minors | Until age of majority + state retention period |
 
 **There is no federal chart-retention rule for a private practice.** Some states require longer than the range above; research your state's specific requirements.

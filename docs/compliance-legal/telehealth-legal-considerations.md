@@ -146,7 +146,7 @@ Not where they live. Not where you are. Where they are *right now*.
 
 ### Consent Best Practices
 
-- Written consent recommended (not required everywhere); the FSMB telemedicine policy (September 2024, PDF at fsmb.org) sets out the consent elements state boards expect
+- Written consent recommended (not required everywhere); the [FSMB Telemedicine Policies: Board-by-Board Overview](https://www.fsmb.org/siteassets/advocacy/key-issues/telemedicine_policies_by_state.pdf) (September 2024) sets out the consent elements state boards expect
 - Can be part of membership agreement
 - Verbal consent acceptable with documentation
 - Re-consent for significant changes
@@ -232,7 +232,7 @@ vital signs self-reported.
 
 ### CMS/Medicare
 
-Medicare pays for audio-only telehealth for certain visits through 2027-12-31 (CMS telehealth FAQ, 2026-02-26). This is moot if you have opted out of Medicare, as most DPC physicians have; see the [Medicare Opt-Out Guide](medicare-opt-out-guide.md).
+Medicare pays for audio-only telehealth for certain visits through 2027-12-31 ([CMS Telehealth FAQ, updated 2026-02-26](https://www.cms.gov/files/document/telehealth-faq-updated-02-26-2026.pdf)). This is moot if you have opted out of Medicare, as most DPC physicians have; see the [Medicare Opt-Out Guide](medicare-opt-out-guide.md).
 
 ### Best Practice
 
