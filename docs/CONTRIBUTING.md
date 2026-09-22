@@ -1,280 +1,267 @@
-# CLAUDE.md - Direct Primary Care Startup Kit
+# Contributing to the DPC Startup Kit
 
-## Project Overview
+The DPC Startup Kit is a free, physician-written reference for starting and
+running a Direct Primary Care practice. It is published under a
+[Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/),
+built in the open at
+[github.com/dpcmentor/dpcstartupkit](https://github.com/dpcmentor/dpcstartupkit),
+and maintained alongside the [DPC Mentor Platform](https://dpcmentor.com/).
 
-This repository contains guides, templates, and reference documents for physicians starting a Direct Primary Care (DPC) practice. The content serves both physicians with no prior business experience and those transitioning from traditional practice models.
+Contributions of every size are welcome: a corrected fee, a dated citation, a
+reviewed state guide, or a new chapter. This page explains how.
 
-## Repository Structure
+---
 
-Content is organized by topic:
+## Ways to contribute
+
+| You want to... | Do this |
+|---|---|
+| Report an error or something out of date | [Open an issue](https://github.com/dpcmentor/dpcstartupkit/issues/new) with the page and what is wrong |
+| Suggest a topic the kit does not cover | Check the [content roadmap](https://github.com/dpcmentor/dpcstartupkit/blob/main/CONTENT-ROADMAP.md), then open an issue |
+| Review an existing guide for accuracy | See [Reviewing a guide](#reviewing-a-guide) below |
+| Write or substantially revise content | See [Submitting changes](#submitting-changes) below |
+
+You do not need to know Git. Small edits can be made entirely in the browser.
+
+---
+
+## Before you write
+
+**This is educational content, not legal, tax or financial advice.** Every
+guide that touches law, tax, licensing or regulation must keep that framing
+and point readers to a qualified professional for their situation.
+
+**Cite your sources.** For any legal, tax, regulatory or pricing claim, link
+the primary source (statute, agency page, IRS or CMS guidance) and note the
+date you checked it. Rules differ by state and change often. An undated claim
+is the first thing a reviewer will ask about.
+
+**Disclose affiliations.** The kit does not endorse a single EMR, website
+vendor, consultant or membership organization, and it is not funded by any.
+If you mention a product or company and have a financial relationship with
+it, say so in your pull request so the maintainer can decide how to present
+it. Mentioning several options with plain tradeoffs is fine. Steering readers
+to one is not.
+
+**Write for the reader who has never run a business.** Assume clinical
+expertise and no administrative experience. Define acronyms on first use.
+Say "physicians", not "providers". Give timeframes and cost ranges where you
+can. Formal but plain.
+
+---
+
+## Submitting changes
+
+There are two paths. Both end in a pull request, which the maintainer reviews
+before anything is published.
+
+### Path A: small edits in the browser
+
+Good for typo fixes, updated numbers, a corrected link or a new paragraph.
+
+1. Open the page on the site and click the **edit icon** (pencil) at the top
+   of the page, or find the file under `docs/` in the repository and click
+   the pencil there.
+2. If you are not a collaborator, GitHub will offer to **fork** the
+   repository for you. Accept.
+3. Make your edit and click **Commit changes**. Write a one-line summary of
+   what you changed and why.
+4. GitHub will prompt you to **open a pull request**. Do that, and add any
+   sources you relied on to the description.
+
+### Path B: larger work on your own machine
+
+Good for new guides, reorganizing a section, or anything you want to preview
+before submitting.
+
+1. Fork the repository and clone your fork.
+2. Create a branch for the change.
+3. Preview the site locally:
+
+    ```bash
+    pip install -r requirements-docs.txt
+    mkdocs serve
+    ```
+
+    Then open <http://127.0.0.1:8000/> in a browser. Pages reload as you save.
+
+4. Run the same check the pull request will run:
+
+    ```bash
+    mkdocs build --strict
+    ```
+
+5. Push your branch and open a pull request against `main`.
+
+### What the automated checks do
+
+Every pull request runs two checks. Both must pass before merge.
+
+- **Strict build.** The site is built with MkDocs Material in strict mode.
+  A broken internal link, a page missing from the navigation, or a
+  malformed Markdown table fails the build. Use relative links between
+  pages (`../technology/emr-selection-guide.md`, not a full URL) so the
+  check can verify them.
+- **Internal link check.** Every internal link on the site is followed.
+  External links are checked on a weekly schedule rather than per pull
+  request, so a dead outside link will not block you, but please fix any
+  you notice.
+
+If a check fails, the pull request page shows which one and why. Ask if the
+message is not clear.
+
+---
+
+## Reviewing a guide
+
+Every guide is meant to be checked by a practicing DPC physician or a
+subject-matter expert before it is treated as reliable. Progress is tracked
+in [REVIEW-STATUS.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md).
+
+### What "Reviewed" means
+
+Marking a guide as reviewed asserts that you have:
+
+- read the whole page, not just the part in your specialty;
+- checked each legal, tax, regulatory and pricing claim against a primary
+  source, and updated or removed anything you could not confirm;
+- confirmed state-specific details are current for the date of your review;
+- confirmed the educational-content disclaimer is present where the topic
+  needs one;
+- fixed anything unclear enough that a first-time reader would stumble.
+
+If a page needs more work than you can give it, mark it **Needs Update** and
+say what is wrong in the Notes column. That is a useful contribution.
+
+### Steps
+
+1. In `REVIEW-STATUS.md`, find a page marked **Not Reviewed** or
+   **Needs Update**. Change its status to **In Review** and put your initials
+   in the Reviewer column, so nobody duplicates your work. Commit that change
+   (Path A above works for this).
+2. Review the page and make your edits.
+3. Return to `REVIEW-STATUS.md`. Set the status to **Reviewed**, the date in
+   `YYYY-MM-DD` form, and a short note on what you changed.
+4. Submit the page edits and the status change together in one pull request.
+
+| Status | Meaning |
+|---|---|
+| Not Reviewed | No expert review yet |
+| In Review | Someone has claimed it |
+| Reviewed | Checked and approved as of the date shown |
+| Needs Update | Known to be stale or incomplete |
+
+---
+
+## Credit
+
+Contributors are credited. Reviewers and authors are recorded by name or
+initials in `REVIEW-STATUS.md`, and reviewed pages will carry a visible
+"reviewed by" line on the page itself. If you are contributing on behalf of
+an organization and would like it named, say so in the pull request. If you
+would rather not be named, say that instead and you will be listed as
+"anonymous reviewer".
+
+---
+
+## License for contributions
+
+By submitting a contribution you agree that:
+
+- it is licensed under the same
+  [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) terms as
+  the rest of the kit, with copyright held collectively as "DPC Startup Kit
+  Contributors";
+- you have the right to contribute it. Do not paste in text, forms or
+  tables from copyrighted sources without permission. Summarize and cite
+  instead.
+
+The non-commercial license is deliberate. The kit is meant to stay free for
+physicians, and contributions cannot change that.
+
+---
+
+## Authoring reference
+
+### Where files go
+
+All published content lives under `docs/`, organized by section:
 
 ```
-/
-├── business-formation/      # LLC setup, contracts, legal structure
-├── pricing-membership/      # Membership models, pricing strategies
-├── technology/              # EMR selection, practice management software
-├── marketing/               # Patient acquisition, branding, outreach
-├── compliance-legal/        # Regulatory requirements, insurance, HIPAA
-├── operations/              # Day-to-day practice management
-├── templates/               # Reusable templates and checklists
-│   ├── spreadsheets/        # Excel/CSV financial and tracking templates
-│   └── documents/           # PDF and document templates
-└── resources/               # External links, recommended reading
+docs/
+├── bootstrap/                    # Lowest-cost launch path
+├── getting-started.md
+├── business-formation/           # Entity, registration, insurance, tax
+├── small-business-fundamentals/  # Accounting, cash flow, financial statements
+├── pricing-membership/           # Membership models, pricing, agreements
+├── technology/                   # EMR, telehealth, communication tools
+├── marketing/                    # Branding, outreach, employer partnerships
+├── compliance-legal/             # HIPAA, opt-out, documentation, state rules
+├── operations/                   # Space, staffing, workflow, inventory
+├── mentoring/                    # Mentor and mentee onboarding
+├── resources/                    # External links, reading
+├── states/                       # One guide per state
+└── templates/                    # Spreadsheets and document templates
 ```
 
-## Writing Guidelines
+A new page must also be added to the `nav` section of `mkdocs.yml`, or the
+strict build will fail.
 
-### Tone and Style
+### Page structure
 
-- Use formal, professional language
-- Write for clarity and actionability
-- Assume readers are intelligent but may lack business/administrative experience
-- Define acronyms and industry terms on first use
-- Avoid jargon when plain language suffices
+1. **Title**, a clear descriptive heading
+2. **Overview**, what the page covers and why it matters
+3. **Prerequisites**, what the reader should have done first
+4. **Content**, with clear subheadings
+5. **Checklist**, an actionable summary where it fits
+6. **Resources**, sources, templates and related pages
 
-### Document Structure
+### File naming
 
-Each guide should follow this structure:
-
-1. **Title** - Clear, descriptive heading
-2. **Overview** - Brief summary of what the guide covers and why it matters
-3. **Prerequisites** - What the reader should know or have completed first
-4. **Content** - Main instructional content with clear headings
-5. **Checklist** - Actionable summary checklist (when applicable)
-6. **Resources** - Links to external resources, templates, or related guides
+- Lowercase with hyphens: `choosing-legal-entity.md`
+- Descriptive: `membership-pricing-calculator.xlsx`, not `calculator.xlsx`
+- Templates start with `template-`, checklists with `checklist-`
 
 ### Checklists
 
-Format checklists using GitHub-flavored markdown:
+Use task-list syntax:
 
 ```markdown
-## Checklist: [Topic Name]
+## Checklist: Business Registration
 
-- [ ] First action item
-- [ ] Second action item
-- [ ] Third action item
+- [ ] Choose entity type
+- [ ] Apply for EIN
 ```
 
-#### Making a checklist page interactive
-
-A page can opt into **interactive** checklists — where readers can tick boxes and have that state persist across visits — by adding a single front-matter flag at the very top of the file:
+A page whose main purpose is a working checklist can make it interactive, so
+readers can tick items and have progress saved in their own browser. Add this
+at the very top of the file:
 
 ```markdown
 ---
 interactive_checklist: true
 ---
-
-# My Checklist
-
-- [ ] First action item
-- [ ] Second action item
 ```
 
-When this flag is set:
-
-- Every `- [ ]` task-list item on the page becomes a real, tickable checkbox
-- A progress bar and a "Reset this page" button are automatically added at the top of the content
-- Checked state is saved to the reader's browser (localStorage) — never transmitted, never seen by anyone else, including the maintainers
-- The feature works on mobile with large touch targets and survives into the browser's print view
-
-Guidelines for when to use it:
-
-- **Do** use it on pages that are *actionable checklists* — bootstrap steps, business registration, equipment lists, patient onboarding workflows, pre-launch checklists
-- **Don't** use it on general reference or informational pages — even ones that happen to contain a `- [ ]` list inside an example
-- **Keep item labels short and action-oriented.** Editing an item's text later will reset any reader's saved state for that specific item (the label text is used to identify the checkbox). Small typo fixes are fine; large rewrites will appear as "unchecked" to returning readers
-- `- [ ]` items inside fenced code blocks (like the example above) are **not** activated — MkDocs correctly skips them
-
-See [`ARCHITECTURE.md`](https://github.com/dpcmentor/dpcstartupkit/blob/main/ARCHITECTURE.md) at the repo root for the implementation details, design decisions, and how to debug the feature.
+When set, every `- [ ]` item on the page becomes a real checkbox with a
+progress bar and a reset button. Checked state stays in the reader's browser
+and is never sent anywhere. Use it on action checklists, not on reference
+pages that happen to contain a list. Keep item labels short, because the
+label text identifies the checkbox and rewording an item resets it for
+returning readers. Implementation details are in
+[ARCHITECTURE.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/ARCHITECTURE.md).
 
 ### Templates
 
-- Store spreadsheet templates in `/templates/spreadsheets/`
-- Store PDF templates in `/templates/documents/`
-- Include a README in each template folder explaining the purpose of each file
-- Provide instructions for template usage within the relevant guide
-
-## File Formats
-
-| Format | Use Case |
-|--------|----------|
-| Markdown (.md) | Guides, instructional content, checklists |
-| PDF (.pdf) | Printable documents, sample contracts, official forms |
-| Spreadsheet (.xlsx, .csv) | Financial calculators, tracking sheets, comparison matrices |
-
-## File Naming Conventions
-
-- Use lowercase with hyphens: `business-entity-selection.md`
-- Be descriptive: `membership-pricing-calculator.xlsx` not `calculator.xlsx`
-- Prefix templates with their type: `template-patient-agreement.pdf`
-- Prefix checklists with `checklist-`: `checklist-pre-launch.md`
-
-## Content Guidelines
-
-### For New Physicians (No Business Experience)
-
-- Explain foundational concepts before diving into specifics
-- Provide context for why each step matters
-- Include estimated timeframes and costs where applicable
-- Link to beginner-friendly external resources
-
-### For Transitioning Physicians
-
-- Acknowledge existing clinical expertise
-- Focus on what differs from traditional practice
-- Address common concerns about leaving employed positions
-- Include comparison points with traditional practice models
-
-## Topics to Cover
-
-### Business Formation
-- Legal entity selection (LLC, PLLC, S-Corp)
-- State registration requirements
-- Business banking and financial setup
-- Professional liability and business insurance
-- Employment agreements and contracts
-
-### Pricing and Membership
-- Membership model structures
-- Pricing strategy and market research
-- Payment processing and billing systems
-- Membership agreement templates
-
-### Technology
-- EMR/EHR selection criteria
-- Practice management software
-- Telehealth platforms
-- Patient communication tools
-- Website and online presence
-
-### Marketing
-- Brand development
-- Patient acquisition strategies
-- Community outreach
-- Social media and online marketing
-- Referral programs
-
-### Compliance and Legal
-- State medical board requirements
-- HIPAA compliance for small practices
-- Regulatory considerations by state
-- Documentation requirements
-
-### Operations
-- Office space selection and setup
-- Staffing considerations
-- Daily workflow and scheduling
-- Inventory and supply management
-- Patient onboarding processes
-
-## Contributing
-
-When adding new content:
-
-1. Place files in the appropriate topic directory
-2. Follow the document structure and naming conventions
-3. Update any relevant index or navigation files
-4. Ensure all checklists are actionable and complete
-5. Test any spreadsheet formulas before committing
+- Spreadsheets go in `docs/templates/spreadsheets/`, documents in
+  `docs/templates/documents/`. Each folder has a README listing its files.
+- Test every formula before submitting a spreadsheet.
+- Explain how to use a template in the guide that references it.
 
 ---
 
-## Document Review Process (Step-by-Step for GitHub Beginners)
+## Questions
 
-All guides require human review before publication. Progress is tracked at [REVIEW-STATUS.md](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md).
-
-### Before You Start
-
-You'll need:
-- A GitHub account (free at [github.com](https://github.com))
-- Access to this repository (request from the maintainer if needed)
-
-### Step 1: Claim a Document to Review
-
-1. Go to the repository: https://github.com/dpcmentor/dpcstartupkit
-2. Click on **REVIEW-STATUS.md** to open it
-3. Find a document marked "Not Reviewed" that you want to review
-4. Click the **pencil icon** (top right of the file content) to edit
-5. Change the status from `Not Reviewed` to `In Review`
-6. Add your initials in the Reviewer column
-7. Scroll down to **"Commit changes"**
-8. In the commit message box, type: `Claiming [document name] for review`
-9. Click **"Commit changes"**
-
-### Step 2: Review the Document
-
-1. Navigate to the document you claimed (click the link in REVIEW-STATUS.md)
-2. Read through the entire document carefully
-3. Check for:
-   - **Accuracy** — Is the information correct?
-   - **Completeness** — Is anything missing?
-   - **Clarity** — Is it easy to understand?
-   - **Broken links** — Do all links work?
-   - **Formatting** — Does it display correctly?
-
-### Step 3: Make Edits (If Needed)
-
-1. While viewing the document, click the **pencil icon** to edit
-2. Make your changes directly in the editor
-3. Scroll down to **"Commit changes"**
-4. In the commit message box, describe your changes briefly:
-   - Example: `Fix typo in pricing section`
-   - Example: `Update EMR vendor information`
-   - Example: `Add missing HIPAA requirement`
-5. Click **"Commit changes"**
-
-> **Tip:** Make multiple small commits rather than one large one. This makes it easier to track what changed.
-
-### Step 4: Mark the Document as Reviewed
-
-1. Go back to **REVIEW-STATUS.md**
-2. Click the **pencil icon** to edit
-3. Find your document's row and update:
-   - Change status from `In Review` to `Reviewed`
-   - Add today's date (format: YYYY-MM-DD)
-   - Add any notes about changes you made
-4. Scroll down to **"Commit changes"**
-5. In the commit message box, type: `Mark [document name] as reviewed`
-6. Click **"Commit changes"**
-
-### Example: Completed Review Entry
-
-**Before:**
-```
-| [choosing-legal-entity.md](...) | Not Reviewed | | | |
-```
-
-**After:**
-```
-| [choosing-legal-entity.md](...) | Reviewed | JF | 2026-01-11 | Updated S-Corp tax info, added state fee disclaimer |
-```
-
-### Quick Reference: GitHub Edit Button Location
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  📄 choosing-legal-entity.md                            │
-│                                                         │
-│  [Raw] [Blame] [History]              [✏️ pencil icon]  │  ← Click this to edit
-│                                                         │
-│  # Choosing a Legal Entity                              │
-│  ...                                                    │
-└─────────────────────────────────────────────────────────┘
-```
-
-### If You Get Stuck
-
-- **Can't find the edit button?** Make sure you're logged into GitHub
-- **Getting an error when committing?** You may not have write access—contact the maintainer
-- **Made a mistake?** Click "History" on the file to see previous versions, or ask for help
-
-### Questions?
-
-Contact the repository maintainer for assistance.
-
----
-
-## Build and Maintenance
-
-This is a documentation repository. No build process is required. Content should be readable directly on GitHub or when cloned locally.
-
-For PDF generation from Markdown, contributors may use tools like Pandoc, but source Markdown files should always be maintained as the primary format.
+Email [support@dpcmentor.com](mailto:support@dpcmentor.com) or open an issue.
+If you are unsure whether something belongs in the kit, ask first. A short
+issue saves a long rewrite.
