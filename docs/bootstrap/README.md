@@ -41,8 +41,10 @@
 - Break-even at 150+ patients
 - Stress, debt, pressure
 
+(Both columns are illustrative, not survey data.)
+
 **Bootstrap launch:**
-- $1,500-5,000 startup costs
+- $1,500-3,000 startup costs
 - 30-60 days to first patient
 - Break-even at 30-50 patients
 - Flexibility, learning, iteration
@@ -60,8 +62,8 @@
 | Medical license | Already have | Or $300-800 if new state |
 | DEA registration | $888 | 3-year, can delay if not prescribing controlled |
 | NPI number | $0 | Already have or free to get |
-| Malpractice insurance | $200-400/mo | DPC rates are lower |
-| Business entity | $50-500 | LLC filing, state dependent |
+| Malpractice insurance | $300-800/mo | Estimate; varies widely by state and specialty. See the [Professional Liability Guide](../business-formation/professional-liability-guide.md) |
+| Business entity | $50-500 | LLC or PLLC filing where allowed; California, New York and Texas require a professional entity |
 | Bank account | $0 | Business checking |
 
 **Absolute minimum to legally practice:** ~$1,500-2,500 upfront
