@@ -48,25 +48,48 @@ DPC-enabling legislation generally:
 As of 2026, 33 states have enacted DPC-specific legislation; Alaska (SB 45 of 2024, codified at AS 21.03.025) was the 33rd. This landscape continues to evolve.
 
 **States with DPC laws (33):**
-- Alabama, Alaska (AS 21.03.025), Arizona, Arkansas
-- Colorado
-- Florida, Georgia (O.C.G.A. § 33-7-2.1)
-- Idaho, Indiana, Iowa
-- Kansas, Kentucky
-- Louisiana
-- Maine, Michigan, Mississippi, Missouri, Montana (MCA 50-4-107)
-- Nebraska, New Hampshire (RSA 329:1-e), North Carolina (G.S. 58-3-8, enacted by HB 471 in 2020), North Dakota (NDCC 26.1-53.1-01(4))
-- Ohio (ORC 3901.95, effective 2019-10-17)
-- Oklahoma, Oregon
-- South Dakota
-- Tennessee, Texas
-- Utah
-- Virginia
-- Washington, West Virginia, Wyoming
+
+| State | Statute | Enacted |
+|---|---|---|
+| Alabama | [Ala. Code § 22-7A-1](https://alison.legislature.state.al.us/code-of-alabama?section=22-7A-1) | 2017 |
+| Alaska | AS 21.03.025 ([SB 45](https://www.akleg.gov/basis/Bill/Text/33?Hsid=SB0045E)) | 2024 |
+| Arizona | [A.R.S. § 20-103(E)](https://www.azleg.gov/ars/20/00103.htm) and [§ 44-1799.96](https://www.azleg.gov/ars/44/01799-96.htm) | 2015, rewritten 2019 |
+| Arkansas | Ark. Code § 23-60-104 ([Act 1020 of 2017](https://arkleg.state.ar.us/Home/FTPDocument?path=%2FACTS%2F2017R%2FPublic%2FACT1020.pdf)) | 2015, rewritten 2017 |
+| Colorado | [C.R.S. § 6-23-102](https://leg.colorado.gov/bills/hb17-1115) | 2017 |
+| Florida | [Fla. Stat. § 624.27](https://www.flsenate.gov/Laws/Statutes/2026/0624.27) | 2018 |
+| Georgia | O.C.G.A. § 33-7-2.1 | 2019 |
+| Idaho | [Idaho Code § 39-9206](https://legislature.idaho.gov/statutesrules/idstat/title39/t39ch92/sect39-9206/) | 2015 |
+| Indiana | Ind. Code § 25-1-10-4 (official site could not be fetched on 2026-09-22; confirmed via secondary publishers) | 2017 |
+| Iowa | [Iowa Code § 135N.1](https://www.legis.iowa.gov/docs/code/135N.1.pdf) | 2018 |
+| Kansas | [K.S.A. 65-4978](https://ksrevisor.gov/statutes/chapters/ch65/065_049_0078.html) | 2015 |
+| Kentucky | [KRS 311.6202](https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45769) | 2017 |
+| Louisiana | [La. R.S. 37:1360.86](https://www.legis.la.gov/legis/Law.aspx?d=919730) | 2014 |
+| Maine | [22 M.R.S. § 1771](https://legislature.maine.gov/statutes/22/title22sec1771.html) | 2017 |
+| Michigan | [MCL 500.129](https://legislature.mi.gov/Laws/MCL?objectName=MCL-500-129) | 2014 |
+| Mississippi | Miss. Code Ann. § 83-81-5 ([SB 2687 of 2015](https://billstatus.ls.state.ms.us/documents/2015/html/SB/2600-2699/SB2687SG.htm)) | 2015 |
+| Missouri | [RSMo § 376.1800](https://revisor.mo.gov/main/OneSection.aspx?section=376.1800) | 2015 |
+| Montana | [MCA 50-4-107](https://mca.legmt.gov/bills/mca/title_0500/chapter_0040/part_0010/section_0070/0500-0040-0010-0070.html) | 2015 |
+| Nebraska | [Neb. Rev. Stat. § 71-9502](https://nebraskalegislature.gov/laws/statutes.php?statute=71-9502) | 2016 |
+| New Hampshire | [RSA 329:1-e](https://www.gc.nh.gov/rsa/html/XXX/329/329-1-e.htm) | 2019 |
+| North Carolina | G.S. 58-3-8 (HB 471) | 2020 |
+| North Dakota | [NDCC 26.1-53.1-01(4)](https://ndlegis.gov/cencode/t26-1c53-1.pdf) | 2019 |
+| Ohio | [ORC 3901.95](https://codes.ohio.gov/ohio-revised-code/section-3901.95) | 2019 |
+| Oklahoma | [36 O.S. § 4605](https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=475624) | 2015 |
+| Oregon | [ORS 735.500 to 735.510](https://www.oregonlegislature.gov/bills_laws/ors/ors735.html) (a certification regime, not an exemption; see note) | 2011 |
+| South Dakota | [SDCL 34-54-2](https://sdlegislature.gov/Statutes/34-54-2) | 2021 |
+| Tennessee | Tenn. Code Ann. § 63-1-504 ([SB 2317 of 2020](https://capitol.tn.gov/Bills/111/Bill/SB2317.PDF)) | 2016, rewritten 2020 |
+| Texas | Tex. Occ. Code § 162.253 ([HB 1945 of 2015](https://capitol.texas.gov/tlodocs/84R/billtext/html/HB01945F.htm)) | 2015 |
+| Utah | [Utah Code § 31A-4-106.5](https://le.utah.gov/xcode/Title31A/Chapter4/31A-4-S106.5.html) (an exemption with a mandatory disclaimer; see note) | 2012 |
+| Virginia | [Va. Code § 54.1-2997](https://law.lis.virginia.gov/vacode/title54.1/chapter29/section54.1-2997/) | 2017 |
+| Washington | [RCW 48.150.060](https://app.leg.wa.gov/RCW/default.aspx?cite=48.150.060) | 2007 |
+| West Virginia | [W. Va. Code § 30-3F-3](https://code.wvlegislature.gov/30-3F-3/) | 2017 |
+| Wyoming | Wyo. Stat. § 26-1-104(a)(vi) ([SF 49 of 2016](https://wyoleg.gov/2016/Enroll/SF0049.pdf)) | 2016 |
+
+**Two statutes work differently.** Oregon does not exempt DPC from insurance law; it requires the practice to be certified by the Department of Consumer and Business Services and to disclose that the agreement is not insurance. Utah exempts "medical retainer agreements" from its insurance code but requires a written disclaimer. Several other states have since renamed or widened their statutes to "direct health care" or "direct medical care" agreements (Florida, Iowa, Maine, Tennessee, West Virginia); the citations above are to the current sections.
 
 **Not on the list, despite what older summaries say:** Connecticut and Hawaii have no DPC statute. South Carolina's H.3966 has been pending since February 2025. Wisconsin's SB 4 was vetoed on 2025-08-08 and the veto was sustained on 2026-05-13.
 
-**How this list was checked:** On 2026-09-22 it was compared against the [DPC Frontier](https://www.dpcfrontier.com/) state tracker and against the statutes cited above. The states listed without a citation rest on that tracker and were not individually verified against statute text in this pass; read your own state's statute before relying on it.
+**How this list was checked:** On 2026-09-22 every entry was checked against the statute on the state legislature's official site (Indiana against secondary publishers, because the official site could not be fetched) and against the [DPC Frontier](https://www.dpcfrontier.com/) state tracker. No additional state with an enacted DPC statute was found. Read your own state's statute before relying on it; the text, not this table, governs.
 
 **Note:** This list changes as new legislation passes. Always verify current status for your state.
 
