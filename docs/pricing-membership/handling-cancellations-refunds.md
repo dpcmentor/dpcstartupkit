@@ -112,18 +112,17 @@ When can you terminate a patient?
 
 ---
 
-### Sample Policy Language
+### What Your Policy Must State
 
-**Standard Cancellation:**
-> Members may cancel their membership at any time by giving written notice to the Practice by [email, patient portal, online account, or letter]. Cancellation is effective [on the date the Practice receives the notice / at the end of the current billing period, where state law permits]. Membership fees are earned only as each month of service is completed; any fee paid for the period after the effective date of cancellation will be refunded [prorated to the date notice was received / within 30 days]. Members will have access to services through the effective date. [Drafting note: "Monthly membership fees are non-refundable" is lawful only in states that do not require a refund of unearned fees. Washington, Idaho, Oklahoma and Louisiana require the refund; choose the bracketed option that matches your state. Never require a mailed letter as the only way to cancel, and if members can enrol online they must be able to cancel online.]
+The kit does not publish policy or contract wording; your membership agreement, drafted by a healthcare attorney in your state, is where these terms live. See [Membership Agreement Essentials](membership-agreement-essentials.md). Your written policy must be consistent with it and must cover:
 
-**Annual Membership Cancellation:**
-> For annual prepaid memberships, members may cancel at any time by written notice. The Practice will refund the fee for the remainder of the term [on a prorated daily basis / for complete months remaining in the term, less a $[__] administrative fee, where state law allows a deduction]. If the Practice ceases to offer services, all prepaid fees for the period after closure will be refunded. [Drafting note: an administrative fee and a "complete months only" rule are not permitted in the states that require a refund of unearned fees. Florida ([624.27(4)(g)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.27.html)) requires a refund of prepaid fees if the practice stops offering services.]
+**Cancellation by the member** must state how notice is given (accept email, portal or online; never only a mailed letter; online enrolment requires online cancellation), when it takes effect, and that fees for any period after that date are refunded where state law requires it.
 
-**Practice Termination:**
-> The Practice may terminate membership only for the following reasons: non-payment after written notice and a reasonable opportunity to cure; fraud or materially false information; repeated failure to follow the treatment plan in a way that makes safe care impossible; abusive, threatening or dangerous behaviour toward the physician, staff or other patients; or closure or relocation of the Practice. Except where there is a danger to the physician, staff or other patients, the Practice will give at least [30] days written notice. The Practice will not terminate membership because of a member's health status, medical condition, or the cost or complexity of the member's care. Upon termination, the Practice will provide reasonable assistance in transitioning care to another physician. [Drafting note: "for any reason" must go. Washington ([RCW 48.150.050](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050)) and Louisiana ([R.S. 37:1360.85](https://www.legis.la.gov/legis/Law.aspx?d=919729)) limit practice termination to enumerated grounds and bar termination solely for health status; Idaho requires the agreement to state the conditions; Ohio caps the notice-to-termination period at 60 days.]
+**Annual prepaid memberships** must state that the member may cancel at any time on written notice, how the remainder of the term is refunded (prorated daily where refund of unearned fees is required; an administrative deduction only where state law allows one), and that prepaid fees for any period after a practice closure are refunded.
 
-!!! warning "State rules that override this sample"
+**Termination by the practice** must list the grounds (non-payment after written notice and a chance to cure; fraud; repeated failure to follow the treatment plan in a way that makes safe care impossible; abusive or dangerous behaviour; closure or relocation), the notice period with an exception only for danger, that health status and cost of care are never grounds, and the commitment to records and transition help.
+
+!!! warning "State rules your policy must follow"
     The sample clauses above must be conformed to your state's DPC statute. The following states set terms a sample policy cannot override:
 
     - **Washington** ([RCW 48.150.030(2)(b)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.030)): patient terminates at will on written notice; unearned fees refunded prorated to the date notice was received; [RCW 48.150.050(1)](https://app.leg.wa.gov/rcw/default.aspx?cite=48.150.050) limits practice termination to enumerated grounds and bars discontinuing a patient solely for health status.

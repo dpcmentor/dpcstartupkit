@@ -8,7 +8,7 @@ This section covers membership model design, pricing strategies, and billing sys
 - Pricing strategy and market research
 - Competitive analysis methods
 - Payment processing and billing systems
-- Membership agreement templates
+- What a membership agreement must cover (the kit publishes no template, by design)
 - Fee-for-service considerations
 - Employer contract pricing
 
@@ -31,7 +31,7 @@ This section covers membership model design, pricing strategies, and billing sys
 
 - [Business Formation](../business-formation/) - Legal structure impacts pricing
 - [Marketing](../marketing/) - Communicating value proposition
-- [Templates](../kit-templates/) - Membership agreement templates
+- [Templates](../kit-templates/) - What a membership agreement must cover (the kit publishes no template, by design)
 
 !!! tip "Talk to a mentor about this"
     Questions about pricing or membership design? A physician who has already done it will answer them, one to one and free.

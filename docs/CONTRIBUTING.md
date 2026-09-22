@@ -43,6 +43,8 @@ it, say so in your pull request so the maintainer can decide how to present
 it. Mentioning several options with plain tradeoffs is fine. Steering readers
 to one is not.
 
+**No contract templates.** The kit does not publish membership agreement or policy wording for readers to copy. Refund, termination and disclaimer clauses are dictated by state statute, and wrong wording harms both physician and patient. Describe what an agreement must cover and cite the statute; leave the drafting to the reader's attorney.
+
 **Write for the reader who has never run a business.** Assume clinical
 expertise and no administrative experience. Define acronyms on first use.
 Say "physicians", not "providers". Give timeframes and cost ranges where you
