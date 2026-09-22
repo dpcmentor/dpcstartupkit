@@ -511,7 +511,7 @@ Most EMRs offer migration support (sometimes for a fee). Get data in:
 !!! tip
     Most EMR decisions can be changed later. Don't let analysis paralysis delay your launch. Pick something reasonable, learn it well, and know you can switch if needed.
 
-    [!NOTE]
+!!! note
     **Disclaimer:** EMR vendors update pricing, features, and terms regularly. We make no guarantees about the accuracy or completeness of this information. Verify all details directly with vendors before purchasing. Have a correction or addition? [Submit an issue](https://github.com/dpcmentor/dpcstartupkit/issues).
 ---
 
