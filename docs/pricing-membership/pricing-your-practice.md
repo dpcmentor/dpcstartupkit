@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Calculate your required revenue (operating costs + desired income + buffer), divide by target panel size and 12 months for base pricing. Validate against local market rates. The national average adult membership was $98.64/month in the State of DPC 2026 survey, with regional averages from about $80 (Midwest) to $113 (West).
 
+!!! warning "Subject to change"
+    This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
+
 ---
 
 ## Table of Contents

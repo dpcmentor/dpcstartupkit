@@ -2,6 +2,9 @@
 
 State-specific information for Direct Primary Care practices, including DPC legislation, medication dispensing rules, and key regulatory requirements.
 
+!!! warning "Subject to change"
+    This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
+
 ## State Categories
 
 ### Tier 1: DPC Friendly

@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Opting out of Medicare allows you to see Medicare beneficiaries without Medicare billing constraints. The process requires a signed affidavit filed with your Medicare Administrative Contractor (MAC), and patients must sign private contracts before receiving services. Opt-out periods are two years, with automatic renewal.
 
+!!! warning "Subject to change"
+    This page depends on law, regulation or market pricing that changes. Check the "last updated" date at the bottom of the page and the Reviewed date in the [review status file](https://github.com/dpcmentor/dpcstartupkit/blob/main/REVIEW-STATUS.md), and confirm against the cited primary source before acting.
+
 ---
 
 ## Table of Contents
