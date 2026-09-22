@@ -5,7 +5,7 @@
  * (docs/pricing-membership/pricing-your-practice.md). Vanilla JS, no
  * dependencies. Does nothing on pages without the mount point.
  *
- * The math mirrors docs/templates/spreadsheets/template-break-even-analysis.xlsx
+ * The math mirrors docs/kit-templates/spreadsheets/template-break-even-analysis.xlsx
  * cell for cell, so the page and the spreadsheet never disagree:
  *
  *   B13  Total fixed monthly expenses   = SUM(B5:B12)            -> input "overhead"

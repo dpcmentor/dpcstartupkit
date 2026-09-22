@@ -64,7 +64,7 @@ How many patients do you want to care for?
 
 ### Step 1: Calculate Your Operating Costs
 
-Use your numbers from the [Startup Costs Overview](../business-formation/startup-costs-overview.md) or the [Monthly Expenses Template](../templates/spreadsheets/template-monthly-expenses.xlsx).
+Use your numbers from the [Startup Costs Overview](../business-formation/startup-costs-overview.md) or the [Monthly Expenses Template](../kit-templates/spreadsheets/template-monthly-expenses.xlsx).
 
 **Example Monthly Operating Costs (Shared Space Model):**
 
@@ -378,9 +378,9 @@ Use this worksheet to calculate your pricing:
 
 ## Break-Even Calculator
 
-Enter your planned membership fee, the variable cost each member adds, your fixed monthly overhead and the monthly take-home you want, and the calculator shows how many members cover overhead, how many reach your income target, and the annual revenue at that panel size. It runs the same formulas as the [Break-Even Analysis Template](../templates/spreadsheets/template-break-even-analysis.xlsx): contribution margin is fee minus variable cost, and each member count is overhead (plus your target) divided by that margin, rounded up. Results update as you type; open the spreadsheet if you want to itemize the overhead line by line.
+Enter your planned membership fee, the variable cost each member adds, your fixed monthly overhead and the monthly take-home you want, and the calculator shows how many members cover overhead, how many reach your income target, and the annual revenue at that panel size. It runs the same formulas as the [Break-Even Analysis Template](../kit-templates/spreadsheets/template-break-even-analysis.xlsx): contribution margin is fee minus variable cost, and each member count is overhead (plus your target) divided by that margin, rounded up. Results update as you type; open the spreadsheet if you want to itemize the overhead line by line.
 
-<div id="dpckit-breakeven"><p><em>The calculator needs JavaScript. The <a href="../templates/spreadsheets/template-break-even-analysis.xlsx">spreadsheet template</a> has the same math.</em></p></div>
+<div id="dpckit-breakeven"><p><em>The calculator needs JavaScript. The <a href="../kit-templates/spreadsheets/template-break-even-analysis.xlsx">spreadsheet template</a> has the same math.</em></p></div>
 
 *Defaults match the break-even spreadsheet template; they are illustrative, not benchmarks.*
 
@@ -389,7 +389,7 @@ Enter your planned membership fee, the variable cost each member adds, your fixe
 ## Resources
 
 - [Membership Models Comparison](membership-models-comparison.md)
-- [Pricing Calculator Template](../templates/spreadsheets/template-pricing-calculator.xlsx)
+- [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.xlsx)
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md)
 - [DPC Frontier Mapper](https://mapper.dpcfrontier.com/)
 

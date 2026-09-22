@@ -6,6 +6,9 @@ build housekeeping are left out. Every change, large or small, is visible in the
 
 ## September 2026
 
+- **Templates section restored.** A build-tool default had been silently
+  dropping every template page and spreadsheet download from the published
+  site. The folder was renamed and every link updated; downloads work again.
 - **Fourteen law and tax pages checked against primary sources.** Every legal,
   tax, regulatory and pricing claim on the entity, tax, pricing, employer
   contract, state law, Medicare opt-out, corporate practice, controlled

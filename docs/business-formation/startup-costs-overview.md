@@ -396,9 +396,9 @@ Before launching, ensure you have:
 
 ## Resources
 
-- [Startup Budget Template](../templates/spreadsheets/template-startup-budget.xlsx)
-- [Monthly Expenses Template](../templates/spreadsheets/template-monthly-expenses.xlsx)
-- [Pricing Calculator Template](../templates/spreadsheets/template-pricing-calculator.xlsx)
+- [Startup Budget Template](../kit-templates/spreadsheets/template-startup-budget.xlsx)
+- [Monthly Expenses Template](../kit-templates/spreadsheets/template-monthly-expenses.xlsx)
+- [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.xlsx)
 - [Break-Even Calculator](../pricing-membership/pricing-your-practice.md#break-even-calculator) - the break-even spreadsheet template's math, in your browser
 - [SBA Business Loan Information](https://www.sba.gov/funding-programs/loans)
 

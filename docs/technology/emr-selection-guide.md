@@ -481,7 +481,7 @@ Create a simple scoring matrix:
 
 ## Resources
 
-- [EMR Comparison Template](../templates/spreadsheets/template-emr-comparison.xlsx)
+- [EMR Comparison Template](../kit-templates/spreadsheets/template-emr-comparison.xlsx)
 - [DPC Alliance](https://www.dpcare.org/) - Member forums with EMR discussions
 - [DPC Frontier](https://www.dpcfrontier.com/) - Community discussions
 - Vendor websites for current pricing and features

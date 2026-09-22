@@ -182,7 +182,7 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [template-language-guide.md](docs/templates/documents/template-language-guide.md) | Not Reviewed | | | |
+| [template-language-guide.md](docs/kit-templates/documents/template-language-guide.md) | Not Reviewed | | | |
 
 ## State Guides
 
