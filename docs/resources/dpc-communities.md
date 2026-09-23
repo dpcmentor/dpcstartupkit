@@ -4,6 +4,17 @@
 
 Building a DPC practice can feel isolating. Connecting with other DPC physicians provides invaluable support—practical advice, emotional encouragement, and professional networking. This guide covers the communities and networks available to DPC physicians.
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+!!! note "About the entries on this page"
+    Every organization and group named below was checked on 2026-09-23 and links to its current address. The kit endorses none of them. Facebook groups come and go; if a link fails, search the group name on Facebook.
+
 ---
 
 ## Why Community Matters
@@ -23,45 +34,55 @@ Building a DPC practice can feel isolating. Connecting with other DPC physicians
 
 ### DPC Frontier
 
-**What it is:** The largest online community of DPC physicians and those considering DPC.
+**What it is:** A DPC resource website founded in 2015 by Phil Eskew, DO, JD, MBA. Earlier versions of this page described it as a Facebook group; it is not.
 
 **Website:** [dpcfrontier.com](https://www.dpcfrontier.com/)
 
-**Platform:** Facebook group
+**Platform:** Website with discussion forums, a blog, [recordings](https://www.dpcfrontier.com/recordings), an [events calendar](https://www.dpcfrontier.com/events), [state law pages](https://www.dpcfrontier.com/states) and the [DPC Mapper](https://mapper.dpcfrontier.com/) (over 1,300 practices as of 2026-09-23)
 
-**Who's there:** Practicing DPC physicians, residents exploring DPC, industry vendors, thought leaders
+**Who's there:** Practicing DPC physicians, residents exploring DPC, vendors
 
-**Value:** Real-time Q&A, experience sharing, vendor recommendations, moral support
+**Value:** Reference material by state, finding nearby practices, event listings
 
-**How to join:** Search "DPC Frontier" on Facebook, request to join
-
-**Activity level:** Very active, multiple posts daily
+**How to join:** Free to read; register on the site to post in the forums
 
 ---
 
-### DPC Alliance Community
+### Facebook Groups for Physicians
 
-**What it is:** Community associated with the DPC Alliance organization
+Two physician groups were confirmed on 2026-09-23:
 
-**Access:** Through DPC Alliance membership
+**[Direct Primary Care Alliance Group](https://www.facebook.com/groups/dpcalliance/)** — run by the DPC Alliance; open to physicians whether or not they are Alliance members
 
-**Value:** Curated resources, member directory, organized discussions
+**[Direct Primary Care Physicians](https://www.facebook.com/groups/252997592641690/)** — private physician group
 
-**How to join:** Join DPC Alliance (see [DPC Organizations](dpc-organizations.md))
+**Value:** Real-time Q&A, experience sharing, vendor experiences, moral support
+
+**How to join:** Request to join and answer the screening questions; physician status is usually verified
+
+**A caution:** Facebook threads are not searchable in any lasting way and the same questions recur. Use them for conversation; use DPC Frontier, the DPC Alliance library and this kit for reference.
+
+---
+
+### DPC Alliance Community (DPC Exchange and Masterminds)
+
+**What it is:** The member forum, library and mentorship programs of the [Direct Primary Care Alliance](https://www.dpcalliance.org/)
+
+**Access:** Paid membership. Dues stated on the [membership page](https://www.dpcalliance.org/membership-information) on 2026-09-23: $500/year for a practicing DPC physician ($250 for a new practice), $25 for residents, $10 for medical students.
+
+**Value:** Curated resources, organized discussions (DPC Exchange), Masterminds peer groups, public [Find a DPC Physician](https://www.dpcalliance.org/find-a-dpc-physician) directory
+
+**How to join:** See [DPC Organizations](dpc-organizations.md). Do not confuse it with the DPC Coalition (dpcare.org), the policy advocacy group.
 
 ---
 
 ### State-Specific Groups
 
-Many states have their own DPC communities:
+Many states have their own DPC communities, usually an informal Facebook group and sometimes an annual state summit. In 2026 the [DPC Frontier events calendar](https://www.dpcfrontier.com/events) listed state DPC summits in California and Illinois, for example.
 
-**Examples:**
-- Texas DPC Alliance
-- California DPC Physicians
-- Florida DPC Network
-- Many others
+Named state groups listed here previously (a "Texas DPC Alliance", "California DPC Physicians" and "Florida DPC Network") could not be confirmed under those names on 2026-09-23 and were removed; groups rename and merge often.
 
-**How to find:** Search Facebook for "[Your State] DPC" or ask in DPC Frontier
+**How to find:** Search Facebook for "[Your State] DPC", ask in the physician groups above, check the [DPC Frontier events calendar](https://www.dpcfrontier.com/events), and read the kit's own [state guide](../states/README.md) for your state.
 
 **Value:** Local regulatory discussion, in-state networking, regional collaboration
 
@@ -69,10 +90,7 @@ Many states have their own DPC communities:
 
 ### Specialty-Focused Groups
 
-**Examples:**
-- DPC Pediatrics
-- DPC Women's Health
-- DPC Psychiatry/Behavioral Health
+Smaller groups exist for pediatric, women's health and psychiatric or behavioral-health direct care practices. They are mostly private Facebook groups and were not individually verified for this page; search Facebook for "direct care" plus your specialty, or ask in the physician groups above.
 
 **Value:** Specialty-specific DPC challenges and solutions
 
@@ -80,9 +98,9 @@ Many states have their own DPC communities:
 
 ### Reddit
 
-**[r/DirectPrimaryCare](https://www.reddit.com/r/DirectPrimaryCare/)** - Smaller community, occasional useful discussions
-
 **[r/medicine](https://www.reddit.com/r/medicine/)** - General physician discussions, occasional DPC threads
+
+**[r/DirectPrimaryCare](https://www.reddit.com/r/DirectPrimaryCare/)** - Small; its size and activity could not be checked from outside a logged-in Reddit session on 2026-09-23
 
 ---
 
@@ -108,10 +126,9 @@ Many states have their own DPC communities:
 ### Finding Local DPC Physicians
 
 **How to find:**
-- DPC Frontier member directory
-- DPC Alliance member map
-- DPC practice directories (Hint Health, Atlas.md)
-- Google search for DPC in your area
+- [DPC Frontier Mapper](https://mapper.dpcfrontier.com/)
+- [DPC Alliance Find a DPC Physician](https://www.dpcalliance.org/find-a-dpc-physician) directory
+- Web search for DPC in your area
 - State medical association
 - Word of mouth
 
@@ -149,17 +166,17 @@ If none exists in your area:
 **DPC residency tracks:**
 - Growing number of residencies offer DPC exposure
 - Some have dedicated DPC tracks
-- DPC Frontier has discussions on training programs
+- DPC Frontier's forums and the physician Facebook groups discuss training programs
 
 **Finding information:**
-- Ask in DPC Frontier about residency programs
+- Ask in the physician Facebook groups about residency programs
 - Contact family medicine residencies about DPC exposure
 - AAFP resources on practice models
 
 ### Early Career Physicians
 
 **Resources:**
-- DPC Frontier (very welcoming to new physicians)
+- The physician Facebook groups (welcoming to new physicians)
 - Mentorship from established DPC physicians
 - Early career DPC sessions at conferences
 - DPC Alliance resources for starting out
@@ -170,12 +187,12 @@ If none exists in your area:
 
 ### DPC-Focused Companies
 
-Many DPC vendors foster communities:
+Some DPC vendors run user communities and events. The kit endorses no vendor; these are examples of what to expect.
 
 **[Hint Health](https://www.hint.com/):**
 - Customer community
 - Educational webinars
-- User conferences
+- Hint Summit, an annual conference (usually spring)
 
 **[Elation Health](https://www.elationhealth.com/):**
 - Customer forums
@@ -273,10 +290,11 @@ Many DPC vendors foster communities:
 
 ## Community Comparison
 
-| Community | Best For | Activity | Cost |
+| Community | Useful For | Activity | Cost |
 |-----------|----------|----------|------|
-| DPC Frontier (Facebook) | General DPC Q&A, networking | Very high | Free |
-| DPC Alliance | Structured resources, advocacy | Moderate | Membership fee |
+| Facebook physician groups | General DPC Q&A, networking | High | Free |
+| DPC Frontier (website) | State law pages, mapper, events, forums | Moderate | Free |
+| DPC Alliance (DPC Exchange, Masterminds) | Structured resources, mentorship | Moderate | Paid ($500/year practising physician, stated 2026-09-23) |
 | State DPC groups | Local issues, regulations | Varies | Usually free |
 | Local DPC networks | Coverage, collaboration | Varies | Free |
 | Vendor communities | Product-specific help | Varies | Product subscription |
@@ -286,7 +304,7 @@ Many DPC vendors foster communities:
 ## Checklist: Community Engagement
 
 ### Getting Started
-- [ ] Join DPC Frontier on Facebook
+- [ ] Join one of the physician Facebook groups; read DPC Frontier's page for your state
 - [ ] Find state-specific DPC group
 - [ ] Research local DPC physicians
 - [ ] Consider DPC Alliance membership
@@ -320,3 +338,5 @@ Many DPC vendors foster communities:
 After connecting with communities:
 - [Conferences and Events](conferences-events.md) - In-person networking
 - Regular participation and contribution
+
+*Read through and figures checked on 2026-09-23.*

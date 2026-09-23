@@ -6,6 +6,17 @@ Regulations, licensing, and resources vary significantly by state. This director
 
 **Important:** This directory provides guidance on WHERE to find information, not the information itself. State regulations change; always verify current requirements with official sources.
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+!!! tip "Start with the kit's own state guides"
+    The kit has a guide for every state and the District of Columbia at [State-by-State DPC Guides](../states/README.md), covering the DPC statute (if any), dispensing rules and key agencies, and a table of all 33 DPC statutes in the [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md). Read your state's guide first; use this page to find the official agency behind each fact.
+
 ---
 
 ## How to Use This Guide
@@ -25,8 +36,8 @@ For each state you practice in (or plan to practice in), you need to research:
 ### Medical Licensing
 
 **Find your State Medical Board:**
-- Search "[State] Medical Board" or "[State] Board of Medical Examiners"
-- Federation of State Medical Boards directory: [fsmb.org](https://www.fsmb.org/)
+- Federation of State Medical Boards directory: [Contact a State Medical Board](https://www.fsmb.org/contact-a-state-medical-board/) (fsmb.org blocks automated requests, so link checkers report 403; the page opens in a browser)
+- Or search "[State] Medical Board" or "[State] Board of Medical Examiners"
 
 **What to check:**
 - License status and renewal
@@ -35,6 +46,20 @@ For each state you practice in (or plan to practice in), you need to research:
 - Telehealth rules
 - Advertising restrictions
 - Documentation requirements
+
+---
+
+### Board of Pharmacy (Dispensing)
+
+**Find your State Board of Pharmacy:**
+- National Association of Boards of Pharmacy directory: [Boards of Pharmacy](https://nabp.pharmacy/boards-of-pharmacy/)
+
+**What to check:**
+- Whether physicians may dispense, and any registration or permit
+- Labeling, record-keeping and inspection rules
+- Prescription drug monitoring program (PDMP) registration
+
+See [Dispensing Medications](../operations/dispensing-medications.md) and your [state guide](../states/README.md) before calling the board.
 
 ---
 
@@ -56,10 +81,10 @@ For each state you practice in (or plan to practice in), you need to research:
 ### DPC Legislation
 
 **Research approach:**
-- Search "[State] Direct Primary Care law"
-- Check state legislature website
-- Review DPC Alliance resources
-- Consult healthcare attorney
+- Read the kit's [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) (statute table with links, checked 2026-09-22) and your [state guide](../states/README.md)
+- Check the statute on the state legislature's own site
+- DPC Frontier's [state pages](https://www.dpcfrontier.com/states) and the DPC Coalition's [model legislation](https://www.dpcare.org/advocacy)
+- Consult a healthcare attorney
 
 **What to find:**
 - Whether DPC-specific legislation exists
@@ -110,29 +135,12 @@ For each state, search for:
 
 ---
 
-## States with Notable DPC Legislation
+## States with DPC Legislation
 
-The following states have enacted significant DPC legislation (as of 2024). **Verify current status directly:**
-
-**Early Adopters:**
-- Washington (first DPC law, 2007)
-- Oregon
-- Utah
-- West Virginia
-
-**Comprehensive Laws:**
-- Texas
-- Louisiana
-- Oklahoma
-- Arizona
-- Florida
-- Idaho
-
-**Growing List:**
-Many other states have enacted DPC-related legislation. The landscape continues to evolve.
+As of 2026, 33 states have a DPC statute; Washington's (RCW 48.150, 2007) was the first. The full table, with a link to each statute and its year, is maintained on one page so it is not duplicated here: [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md). Note that Oregon and Washington regulate DPC through the insurance code rather than exempting it, and that Connecticut and Hawaii have no DPC statute despite older summaries saying otherwise.
 
 **States Without Specific DPC Laws:**
-Some states operate DPC without specific legislation. DPC may function under general medical practice law or regulatory interpretation.
+DPC operates in every state. Where there is no statute, practices rely on general medical practice law and, in some states, an insurance-department opinion. Your [state guide](../states/README.md) says which applies.
 
 ---
 
@@ -140,22 +148,9 @@ Some states operate DPC without specific legislation. DPC may function under gen
 
 This doctrine affects who can own a medical practice.
 
-**Strong Restrictions:**
-- California
-- Texas
-- New York
-- Illinois
-- Ohio
-- Iowa
-- Colorado
+**States usually cited for strong restrictions:** California, Texas, New York and Illinois (see the [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md#corporate-practice-of-medicine)). Most other states have some form of restriction; a few allow broad non-physician ownership.
 
-**Moderate/Limited Restrictions:**
-- Many other states have some form of restriction
-
-**Few/No Restrictions:**
-- Some states allow broad corporate ownership
-
-**Action:** Research your specific state; consult healthcare attorney.
+**Action:** Research your specific state; consult a healthcare attorney before choosing an entity or bringing in a non-physician owner.
 
 ---
 
@@ -166,7 +161,8 @@ Medicare rules are federal, but implementation involves state carriers:
 **Medicare Administrative Contractors (MACs):**
 - Different MACs serve different states
 - Opt-out procedures go through your MAC
-- Find your MAC: [CMS.gov](https://www.cms.gov/Medicare/Medicare-Contracting/Medicare-Administrative-Contractors/Who-are-the-MACs)
+- Find your MAC: [Who are the MACs (CMS)](https://www.cms.gov/medicare/coding-billing/medicare-administrative-contractors-macs/who-are-macs)
+- Opt-out procedure: [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md)
 
 ---
 
@@ -182,7 +178,7 @@ State medical associations often provide:
 **Finding Yours:**
 - Search "[State] Medical Association"
 - Or "[State] Academy of Family Physicians"
-- Or check AAFP state chapter list
+- Or the [AAFP chapter page](https://www.aafp.org/membership/chapter)
 
 ---
 
@@ -258,10 +254,15 @@ State regulations change. Stay informed:
 
 ## Resources
 
-- [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - General legal framework
-- [DPC Alliance](https://www.dpcare.org/) - State resources section
-- [Federation of State Medical Boards](https://www.fsmb.org/) - Licensing information
-- [NAIC](https://naic.org/) - Insurance department directory
+- [State-by-State DPC Guides](../states/README.md) - The kit's guide for each state
+- [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - Statute table and legal framework
+- [FSMB: Contact a State Medical Board](https://www.fsmb.org/contact-a-state-medical-board/) - Medical board directory
+- [NABP: Boards of Pharmacy](https://nabp.pharmacy/boards-of-pharmacy/) - Pharmacy board directory
+- [NAIC: Insurance Departments](https://content.naic.org/state-insurance-departments) - Insurance department directory
+- [NASS](https://www.nass.org/) - Secretaries of State
+- [DPC Alliance](https://www.dpcalliance.org/) - Physician membership organization
+- [DPC Coalition](https://www.dpcare.org/) - Policy advocacy and model legislation
+- [DPC Frontier state pages](https://www.dpcfrontier.com/states) - Independent state-by-state summaries
 
 ---
 
@@ -274,10 +275,12 @@ This directory provides general guidance for research purposes. It is not legal 
 - Consult with a healthcare attorney licensed in your state
 - Confirm current requirements before making decisions
 
+*Read through and figures checked on 2026-09-23.*
+
 ---
 
 ## Next Steps
 
-- Research your specific state using this guide
+- Read your [state guide](../states/README.md), then research the agencies listed here
 - [DPC Organizations](dpc-organizations.md) - Connect with community resources
 - [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - Legal framework

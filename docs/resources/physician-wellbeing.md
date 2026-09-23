@@ -1,6 +1,9 @@
 # Physician Well-Being in DPC
 
-> **Quick Summary:** DPC can dramatically reduce burnout — but it's not automatic. The same qualities that make you a good physician can lead to overwork. Set boundaries from day one, protect your time, and remember why you made this change.
+> **Quick Summary:** DPC removes several common drivers of burnout, but not all of them, and it adds a few of its own. Set boundaries from day one, protect your time, and know where to turn if things get hard.
+
+!!! note "If you are in crisis"
+    Call or text **988** (the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), 24/7, free and confidential; chat at [chat.988lifeline.org](https://chat.988lifeline.org/)). Physicians and medical students can also call the [Physician Support Line](https://www.physiciansupportline.com/) at **1-888-409-0141**, staffed by volunteer psychiatrists, Monday to Friday 8:00 a.m. to 11:00 p.m. ET except federal holidays. Both numbers verified on the operators' sites 2026-09-23.
 
 ---
 
@@ -13,7 +16,7 @@
 - [Work-Life Integration](#work-life-integration)
 - [Financial Stress](#financial-stress)
 - [When Things Get Hard](#when-things-get-hard)
-- [Resources](#resources)
+- [Related Resources](#related-resources)
 
 ---
 
@@ -52,7 +55,7 @@ DPC removes many burnout drivers:
 
 **The risk:** With a small panel, every patient feels like family. You feel guilty taking vacation, not responding immediately, saying no.
 
-**The reality:** You cannot care for others if you don't care for yourself.
+**The reality:** A small panel still needs a rested physician. Time off is part of running the practice, not a favour you owe yourself.
 
 ### The Solo Trap
 
@@ -145,7 +148,7 @@ You will need to say no to:
 - Requests outside your scope
 - Commitments that don't serve you
 
-**Saying no is caring for yourself so you can care for others.**
+Saying no to some requests is what keeps you available for the rest.
 
 ---
 
@@ -199,7 +202,7 @@ DPC income is often:
 
 ### The Income vs. Life Trade-Off
 
-Many DPC physicians earn less than they would in traditional practice. Most would not trade back.
+Income in a DPC practice can be lower than in employed practice, particularly in the first two or three years while the panel fills. Whether that trade is worth it is a personal decision; work out your own numbers before you start (see [Startup Costs](../business-formation/startup-costs-overview.md)).
 
 **Ask yourself:**
 - What income do I need vs. want?
@@ -226,7 +229,7 @@ Watch for:
 - Spouse or partner
 - Trusted colleague (DPC or otherwise)
 - Therapist or counselor
-- Physician support programs
+- One of the physician-specific services listed under [Professional Resources](#professional-resources) below
 
 **Take action:**
 - Re-evaluate boundaries
@@ -242,9 +245,15 @@ Watch for:
 
 ### Professional Resources
 
-- **Dr. Lorna Breen Heroes Foundation:** Physician mental health resources
-- **Physician Support Line:** 1-888-409-0141 (free, confidential, by physicians for physicians)
-- **State Physician Health Programs:** Confidential support for physicians
+All entries verified against the operator's own site on 2026-09-23.
+
+- **[988 Suicide & Crisis Lifeline](https://988lifeline.org/):** call or text 988, or chat at [chat.988lifeline.org](https://chat.988lifeline.org/). Available 24/7, free and confidential. For anyone, not physician-specific.
+- **[Physician Support Line](https://www.physiciansupportline.com/):** 1-888-409-0141. A free, confidential and anonymous peer-support line for physicians and medical students, staffed by volunteer psychiatrists. Monday to Friday, 8:00 a.m. to 11:00 p.m. ET, closed on federal holidays; no appointment needed. It is not a 24-hour crisis line; outside those hours use 988.
+- **[Dr. Lorna Breen Heroes' Foundation](https://drlornabreen.org/):** an advocacy organization working on health-worker burnout and on removing mental-health questions from licensing and credentialing applications. It does not provide clinical care or run a hotline; its site has a "Find Support" page listing no- and low-cost services for health workers.
+- **State Physician Health Programs (PHPs):** most states have a program offering confidential assessment, referral and monitoring for physicians with mental health or substance use concerns. The [Federation of State Physician Health Programs directory](https://www.fsphp.org/state-programs) lists them by state. Terms of confidentiality and any reporting to the medical board differ by state; read your state program's description before enrolling.
+
+!!! note "About statistics on this page"
+    This page deliberately quotes no burnout or suicide figures. If you want the survey data, the [AMA's physician burnout page](https://www.ama-assn.org/practice-management/physician-health/measuring-and-addressing-physician-burnout) links its annual national surveys.
 
 ---
 
@@ -265,11 +274,11 @@ Take a moment to remember:
 - Relationships, not transactions
 - Control over your practice and life
 
-### Protecting the Gift
+### Keeping It That Way
 
-DPC is not a cure for burnout. It's an opportunity.
+DPC is not a cure for burnout. It removes some causes and leaves the rest to you.
 
-The opportunity only works if you:
+That works only if you:
 - Set boundaries
 - Protect your time
 - Care for yourself
@@ -286,10 +295,18 @@ The opportunity only works if you:
 
 ### External Resources
 
-- [Physician Support Line](https://www.physiciansupportline.com/) — Free, confidential
-- [Dr. Lorna Breen Heroes Foundation](https://drlornabreen.org/)
-- [DPC Communities](dpc-communities.md) — Peer support from those who understand
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — call or text 988, 24/7
+- [Physician Support Line](https://www.physiciansupportline.com/) — 1-888-409-0141, weekdays 8 a.m. to 11 p.m. ET
+- [Dr. Lorna Breen Heroes' Foundation](https://drlornabreen.org/) — advocacy and a directory of support services
+- [FSPHP state physician health program directory](https://www.fsphp.org/state-programs)
+- [DPC Communities](dpc-communities.md) — Peer support from other DPC physicians
 
----
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
 
-*DPC can be the practice of your dreams — but only if you protect yourself as carefully as you protect your patients.*
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*

@@ -2,65 +2,55 @@
 
 ## Overview
 
-Podcasts, blogs, and other media provide ongoing education and inspiration for DPC physicians. Whether commuting, exercising, or looking for focused learning, these resources keep you connected to DPC developments and best practices.
+Podcasts, blogs, and other media provide ongoing education and inspiration for DPC physicians. Whether commuting, exercising, or looking for focused learning, these resources keep you connected to DPC developments and practices.
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+!!! note "How this list was checked"
+    Every podcast, blog and site below was checked on 2026-09-23 against its public feed or site. "Publishing" means an episode or post within the previous 18 months; shows that have gone quiet are marked with their last episode date. Links go to each publisher's own site, not to a podcast platform. The kit endorses none of them. Where a publisher is a vendor, a consultant or a trade publication that sells to physicians or practices, that is stated so you know who is speaking.
 
 ---
 
 ## DPC-Focused Podcasts
 
-### DPC Frontier Podcast
-
-**Host:** DPC Frontier team
-
-**Focus:** Interviews with DPC physicians, practical guidance
-
-**Audience:** DPC physicians at all stages
-
-**Frequency:** Regular episodes
-
-**Where to listen:** Major podcast platforms
-
-**Best for:** Hearing diverse DPC experiences, practical advice
-
----
-
 ### My DPC Story
 
-**Host:** Dr. Maryal Concepcion
+**Site:** [mydpcstory.com](https://www.mydpcstory.com/)
 
-**Focus:** Stories from DPC physicians about their journey
+**Host:** Maryal Concepcion, MD, a DPC physician
+
+**Focus:** Interviews with DPC physicians about how they built their practices; about 340 episodes
 
 **Audience:** Those considering or practicing DPC
 
-**Frequency:** Regular episodes
+**Frequency:** Weekly; publishing as of September 2026
 
-**Where to listen:** Major podcast platforms
-
-**Best for:** Understanding different paths to and through DPC
+**Also on the site:** Event listings and a DPC practice mapper
 
 ---
 
-### Direct Primary Care Podcast
+### DPC Life: Direct Primary Care Podcast
 
-**Focus:** DPC education and advocacy
+**Site:** [dpclife.com](https://dpclife.com/)
 
-**Audience:** Physicians interested in DPC
+**Host:** Anne Gonzalez, MD, a DPC physician
 
-**Where to listen:** Major podcast platforms
+**Focus:** Conversations with DPC physicians about the day-to-day of running a practice
 
-**Best for:** Understanding DPC landscape
+**Frequency:** Weekly; publishing as of September 2026
+
+**Note:** The show is affiliated with the host's DPC consulting business (Harmony Ops Health), which sells a paid course
 
 ---
 
-### Hint Health Podcast Content
-
-**Source:** Hint Health
-
-**Focus:** Direct care practice development, employer health
-
-**Where to find:** Hint Health website, podcast platforms
-
-**Best for:** Practice growth, employer market
+!!! note "Entries removed 2026-09-23"
+    Earlier versions of this page listed a "DPC Frontier Podcast", a "Direct Primary Care Podcast" and "Hint Health podcast content". DPC Frontier has never produced a podcast; it maintains a [recordings index](https://www.dpcfrontier.com/recordings) of conference talks (see Video Content below). No podcast called simply "Direct Primary Care Podcast" with an official site or a verifiable publishing record could be found in the Apple Podcasts directory. Hint Health has no podcast; its blog is listed below and labelled as vendor content.
 
 ---
 
@@ -68,13 +58,20 @@ Podcasts, blogs, and other media provide ongoing education and inspiration for D
 
 ### Physician-Focused
 
-**The Business of Medicine** - Practice management topics
+**Off the Chart: A Business of Medicine Podcast** — [medicaleconomics.com/podcasts](https://www.medicaleconomics.com/podcasts)
+- Practice management and health policy; two episodes a week; publishing as of September 2026
+- Produced by *Medical Economics* and *Physicians Practice*, advertising-supported trade publications (MJH Life Sciences); the site blocks automated requests, so open it in a browser
 
-**The Physician Philosopher** - Finance, burnout, practice models
+**Money Meets Medicine (formerly The Physician Philosopher Podcast)** — [moneymeetsmedicine.com](https://moneymeetsmedicine.com/)
+- Physician personal finance, burnout and career design; hosted by Jimmy Turner, MD, and Justin Harvey, CFP; weekly; publishing as of September 2026
+- The host also sells physician coaching through thephysicianphilosopher.com
 
-**Docs Outside the Box** - Alternative practice models
+**Docs Outside the Box** — [drniidarko.com](https://www.drniidarko.com/)
+- Nii Darko, DO, on non-traditional physician careers and practice models; about 570 episodes; publishing as of September 2026
+- Note: the domain docsoutsidethebox.com now belongs to an unrelated urgent-care clinic; use the host's site above
 
-**Kevin MD Podcast** - Broad physician topics
+**The Podcast by KevinMD** — [kevinmdpodcast.com](https://www.kevinmdpodcast.com/)
+- Kevin Pho, MD; daily short interviews on broad physician topics; publishing as of September 2026
 
 **Best for:** Broader context, practice management, physician wellness
 
@@ -82,9 +79,13 @@ Podcasts, blogs, and other media provide ongoing education and inspiration for D
 
 ### Healthcare Business
 
-**Healthcare Strategies Podcast** - Healthcare business topics
+**Healthcare Strategies** — [healthcarestrategies.podbean.com](https://healthcarestrategies.podbean.com/)
+- Healthcare business and policy; produced by Informa TechTarget, a trade publisher
+- Last episode June 2025; no new episodes since, so treat the archive as the resource
 
-**The Healthcare Leadership Experience** - Leadership in healthcare
+**The Healthcare Leadership Experience** — thehealthcareleadershipexperience.com
+- Hospital leadership and cost management; hosted by Lisa T. Miller of VIE Healthcare Consulting, a hospital cost-reduction consultancy
+- Last episode July 2024; the show appears to have stopped. The site's certificate was invalid when checked; the archive remains on podcast platforms
 
 **Best for:** Business perspective, leadership development
 
@@ -92,25 +93,27 @@ Podcasts, blogs, and other media provide ongoing education and inspiration for D
 
 ## Blogs and Written Content
 
-### DPC-Specific Blogs
+### DPC-Specific Blogs and News
 
-**DPC Frontier Blog**
-- News and updates
-- Practice tips
-- Community highlights
-- dpcfrontier.com
+**DPC Frontier Blog** — [dpcfrontier.com/blog](https://www.dpcfrontier.com/blog)
+- Legal and regulatory articles on DPC
+- Published by DPC Frontier, LLC, founded by Phil Eskew, DO, JD, a DPC physician-attorney; the site carries an attorney-advertising disclaimer
 
-**DPC Alliance Resources**
-- Member articles
-- Best practices
-- Advocacy updates
-- dpcalliance.org
+**DPC News** — [dpcnews.com](https://dpcnews.com/)
+- Daily DPC news and commentary edited by Douglas Farrago, MD; publishing as of September 2026
+- Also collects DPC podcast episodes and videos in one place
+- Carries advertising from DPC vendors
 
-**Hint Health Blog**
-- Direct care insights
-- Employer health
-- Practice development
-- hint.com/blog
+**DPC Alliance** — [dpcalliance.org](https://www.dpcalliance.org/)
+- Membership organization of DPC physicians (paid membership; the fee is not stated on its public site)
+- Newsletter, webinars and an online library, largely for members
+
+**Direct Primary Care Coalition** — [dpcare.org](https://www.dpcare.org/)
+- Advocacy organization; federal and state policy updates
+
+**Hint Health Blog** — [blog.hint.com](https://blog.hint.com/)
+- Direct care and employer-health articles
+- Vendor content: Hint Health sells membership-billing software to DPC practices, and this blog is that company's marketing
 
 ---
 
@@ -130,11 +133,11 @@ Many DPC physicians share their experiences through personal blogs:
 
 ### General Healthcare Writing
 
-**KevinMD.com** - Diverse physician perspectives
+**KevinMD.com** — [kevinmd.com](https://www.kevinmd.com/) — physician-written essays on a wide range of topics; publishing as of September 2026 (the site blocks automated requests; open it in a browser)
 
-**Physician on FIRE** - Physician finance, lifestyle
+**Physician on FIRE** — [physicianonfire.com](https://www.physicianonfire.com/) — physician personal finance and early retirement; publishing as of September 2026; supported by affiliate and advertising revenue
 
-**The White Coat Investor** - Physician finance
+**The White Coat Investor** — [whitecoatinvestor.com](https://www.whitecoatinvestor.com/) — physician personal finance; publishing as of September 2026; the publisher also sells courses and is supported by affiliate and advertising revenue
 
 **Best for:** Broader context, financial planning, physician lifestyle
 
@@ -145,27 +148,26 @@ Many DPC physicians share their experiences through personal blogs:
 ### YouTube
 
 **DPC-related content:**
-- Practice tour videos
-- DPC explanations
-- Conference recordings
-- Physician vlogs
+- [DPC Alliance YouTube channel](https://www.youtube.com/@dpcalliance)
+- Practice tour videos and physician vlogs
+- Conference recordings (see below)
 
 **Search terms:**
 - "Direct Primary Care"
 - "DPC practice"
 - "Starting a DPC practice"
 
-**Quality varies** - look for content from established DPC physicians
+**Quality varies** — note who is speaking and whether they sell a product or service to DPC practices
 
 ---
 
-### Webinar Recordings
+### Conference and Webinar Recordings
 
 **Available from:**
-- DPC Alliance (member access)
-- Hint Health (website)
-- Conference recordings
-- Vendor educational content
+- [DPC Frontier recordings index](https://www.dpcfrontier.com/recordings): talks from the DPC Summit, Hint Summit and AAFP events, 2012–2024; some are free on YouTube or Vimeo, some require an AAFP purchase
+- DPC Alliance webinars (member access)
+- Hint Summit recordings (a vendor's conference; Hint Health sells membership-billing software)
+- Other vendor educational content, which is also that vendor's marketing
 
 **Best for:** Deep dives on specific topics
 
@@ -176,15 +178,13 @@ Many DPC physicians share their experiences through personal blogs:
 ### X (Twitter)
 
 **DPC physicians and organizations:**
-- @dikimartin
-- @dpcalliance
-- @HintHealth
-- Many individual DPC physicians
+- [@HintHealth](https://x.com/HintHealth) (vendor account, linked from hint.com)
+- Many individual DPC physicians; find them through the podcasts and blogs above
+- The DPC Alliance's own site links Facebook, LinkedIn, Instagram and YouTube accounts but no X account, so an "@dpcalliance" handle on X could not be confirmed and is not listed here
 
 **Hashtags:**
 - #DirectPrimaryCare
 - #DPC
-- #IdealMedicalCare
 
 **Value:** Quick updates, discussions, community connection
 
@@ -194,8 +194,8 @@ Many DPC physicians share their experiences through personal blogs:
 
 **Content from:**
 - DPC physicians sharing experiences
-- Hint Health and industry updates
-- Healthcare thought leaders
+- [DPC Alliance](https://www.linkedin.com/company/dpca/posts/) and vendor company pages (vendor posts are marketing)
+- Healthcare commentators
 
 **Value:** Professional networking, industry news
 
@@ -204,10 +204,11 @@ Many DPC physicians share their experiences through personal blogs:
 ### Facebook
 
 **Groups:**
-- DPC Frontier (most active)
-- Various DPC groups
+- Private physician-only DPC groups: the two that resolved on 2026-09-23 are listed on [DPC Communities](dpc-communities.md#facebook-groups-for-physicians)
+- State and regional DPC groups
+- [DPC Alliance page](https://www.facebook.com/dpcalliance)
 
-**Value:** Community discussion, Q&A (see [DPC Communities](dpc-communities.md))
+**Value:** Community discussion, Q&A (see [DPC Communities](dpc-communities.md) for how to find and join groups)
 
 ---
 
@@ -215,27 +216,29 @@ Many DPC physicians share their experiences through personal blogs:
 
 ### Staying Current
 
-**Healthcare news sources:**
-- Medscape
-- Healthcare Dive
-- Modern Healthcare
-- Becker's Hospital Review
+**Healthcare news sources** (all are advertising-supported trade or consumer publications):
+- [Medscape](https://www.medscape.com/)
+- [Healthcare Dive](https://www.healthcaredive.com/)
+- [Modern Healthcare](https://www.modernhealthcare.com/)
+- [Becker's Hospital Review](https://www.beckershospitalreview.com/)
 
 **DPC-specific news:**
-- DPC Frontier
-- DPC Alliance updates
+- [DPC News](https://dpcnews.com/)
+- [DPC Frontier blog](https://www.dpcfrontier.com/blog)
+- DPC Alliance newsletter
 - State DPC organization newsletters
-- Hint Health insights
+- Vendor newsletters (for example Hint Health's), read as vendor marketing
 
 ---
 
 ### Legislative Updates
 
 **Track DPC legislation:**
+- [Direct Primary Care Coalition](https://www.dpcare.org/) (federal and state advocacy)
 - DPC Alliance advocacy updates
 - State medical associations
 - DPC state-specific groups
-- DPC Frontier discussions
+- DPC Frontier blog and the kit's [state guides](../states/README.md)
 
 ---
 
@@ -243,26 +246,29 @@ Many DPC physicians share their experiences through personal blogs:
 
 ### DPC-Specific
 
-**"The Direct Primary Care Solution"**
-- Overview of DPC model
-- Practical guidance
+**"Direct Primary Care: The Cure for Our Broken Healthcare System"** by Paul Thomas, MD (self-published, 2018)
+- Overview of the DPC model from one Detroit practice
 - Good for those exploring
+- The author also sells a companion startup guide and coaching through startupdpc.com
 
 **DPC startup guides:**
-- Various e-books and guides available
-- Check DPC Frontier recommendations
+- Various self-published e-books and guides
+- Check the publication date and who wrote it; a vendor's or consultant's guide is also their marketing
 - Quality varies
+
+!!! note "Entry removed 2026-09-23"
+    An earlier version listed a book called "The Direct Primary Care Solution". No book by that title could be identified; the Paul Thomas title above is the book most often meant.
 
 ---
 
 ### Practice Management
 
-**"The E-Myth Physician"** by Michael Gerber
+**"The E-Myth Physician"** by Michael E. Gerber (2003)
 - Systems thinking for practices
 - Business fundamentals
 - Applicable to DPC
 
-**"Getting Things Done"** by David Allen
+**"Getting Things Done"** by David Allen (2001; revised edition 2015)
 - Personal productivity
 - Workflow management
 - Useful for solo practitioners
@@ -271,12 +277,11 @@ Many DPC physicians share their experiences through personal blogs:
 
 ### Healthcare Business
 
-**"Reboot"** by various physician authors
-- Physician wellness and change
-- Career transitions
-
 **Business and finance books:**
-- See [Recommended Reading](recommended-reading.md)
+- See [Recommended Reading](recommended-reading.md) for the full list with authors and years
+
+!!! note "Entry removed 2026-09-23"
+    An earlier version listed "Reboot" by "various physician authors". No book matching that description could be identified, so it has been removed. For burnout and career-change resources see [Physician Wellbeing](physician-wellbeing.md).
 
 ---
 
@@ -293,7 +298,7 @@ Many DPC physicians share their experiences through personal blogs:
 **Reading:**
 - Newsletter subscriptions
 - RSS feeds
-- Save articles for later (Pocket, Instapaper)
+- Save articles for later in a read-later app (Pocket shut down in July 2025; Instapaper and browser reading lists still work)
 - Dedicated reading time
 
 **Video:**
@@ -382,6 +387,9 @@ As you gain experience, consider contributing:
 - [DPC Communities](dpc-communities.md) - Interactive learning
 - [Conferences and Events](conferences-events.md) - In-person learning
 - [Recommended Reading](recommended-reading.md) - Book recommendations
+- [Physician Wellbeing](physician-wellbeing.md) - Support resources
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
