@@ -14,7 +14,7 @@ Traditional medical office training doesn't fully apply to DPC:
 | Prior authorizations | Direct scheduling |
 | Billing codes | Simple invoicing |
 | High volume, brief encounters | Relationship-focused care |
-| Transactional interactions | Concierge-level service |
+| Transactional interactions | Personal, unhurried service |
 
 **Train for what makes DPC special.**
 
@@ -73,6 +73,7 @@ Traditional medical office training doesn't fully apply to DPC:
 - Handling billing questions
 - Cancellation procedures
 - What's included vs. not included
+- How pass-through labs and dispensed medications are billed (separately from the fee, and at the same price to non-members; see [Dispensing Medications](dispensing-medications.md))
 
 **Common questions staff should answer:**
 - "What does the monthly fee cover?"
@@ -97,7 +98,9 @@ Traditional medical office training doesn't fully apply to DPC:
 
 ### 5. HIPAA and Compliance
 
-**Required training:**
+A cash-only DPC that sends no HIPAA standard electronic transaction is not a HIPAA covered entity, but the kit's position is to treat HIPAA as the floor and train as if it applies; see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md). For a covered entity the Privacy Rule requires training for every workforce member within a reasonable time after hire, and again after any material change to your policies ([45 CFR 164.530(b)](https://www.ecfr.gov/current/title-45/section-164.530)). There is no federal annual HIPAA training mandate; an annual refresher is a best practice, not a rule. Document each session (date, attendee, content) and keep the record for six years ([45 CFR 164.530(j)](https://www.ecfr.gov/current/title-45/section-164.530)).
+
+**Training content:**
 - What PHI is
 - Minimum necessary standard
 - Proper disclosure procedures
@@ -110,7 +113,7 @@ Traditional medical office training doesn't fully apply to DPC:
 - Home visit documentation
 - Small office challenges
 
-See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) for details.
+**Medicare patients:** if you have opted out, staff must know that a beneficiary signs a private contract before any service, that the contract states Medicare will not pay for services it would otherwise have covered, and that a beneficiary without a private contract who needs emergency or urgent care is treated and the care billed to Medicare ([42 CFR 405.440](https://www.ecfr.gov/current/title-42/section-405.440)). Referred services from other physicians, labs and imaging centers are billed to Medicare as usual. See the [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md).
 
 ### 6. Clinical Support (for MAs)
 
@@ -122,6 +125,9 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 - Basic clinical tasks (per scope)
 - Emergency procedures
 
+!!! warning "OSHA bloodborne pathogens training is annual and mandatory"
+    Any employee who could be exposed to blood is covered by [29 CFR 1910.1030](https://www.ecfr.gov/current/title-29/section-1910.1030) from the first day: training at assignment and at least annually after that, a written Exposure Control Plan, personal protective equipment at no cost, and the hepatitis B vaccine offered within 10 working days. The 10-or-fewer-employee exemption ([29 CFR 1904.1](https://www.ecfr.gov/current/title-29/section-1904.1)) covers injury recordkeeping only. Keep training records for three years (1910.1030(h)(2)). Details are in [Hiring Your First Employee](hiring-your-first-employee.md).
+
 ---
 
 ## Training Timeline
@@ -132,7 +138,7 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 - Practice tour and introductions
 - DPC philosophy discussion
 - Employee handbook review
-- Paperwork completion
+- Paperwork completion (Form I-9, Form W-4, state new-hire reporting; see [Hiring Your First Employee](hiring-your-first-employee.md))
 - Basic system access
 
 **Day 3-5: Core systems**
@@ -168,6 +174,7 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 
 - Weekly check-ins (initially)
 - Monthly one-on-ones
+- Annual OSHA bloodborne-pathogens refresher for exposed staff (required); HIPAA refresher (best practice) and retraining after any policy change (required)
 - Continuing education
 - Performance feedback
 - Skills expansion
@@ -331,6 +338,15 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 - Offer to discuss with physician if appropriate
 - Handle professionally regardless of reason
 
+### "I Have Medicare"
+
+**Staff should:**
+- Know whether the physician has opted out and what that means for the patient
+- Have the private contract signed before any service is scheduled or provided
+- Never suggest the patient can submit a claim to Medicare for the physician's services
+- Reassure the patient that referrals, labs, imaging and prescriptions are still covered as usual
+- Escalate a beneficiary who needs emergency or urgent care rather than presenting a contract
+
 ---
 
 ## Creating Training Culture
@@ -364,6 +380,18 @@ See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) fo
 - [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md)
 - [Patient Onboarding Workflow](patient-onboarding-workflow.md)
 - [After-Hours Coverage](after-hours-coverage.md)
+- [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md)
+- [Dispensing Medications](dispensing-medications.md)
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 

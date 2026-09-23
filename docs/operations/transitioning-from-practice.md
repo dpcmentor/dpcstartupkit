@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Whether you're leaving an employed position or converting a traditional practice to DPC, thoughtful transition planning protects your patients, your reputation, and your legal standing. Plan 3-6 months ahead when possible.
 
+!!! note "About the figures on this page"
+    Dollar amounts, percentages and timelines are estimates unless a source is linked next to them. Notice periods, retention periods and record-custody rules are set by your state medical board and your contracts, not by a single national rule; where this page gives a number of days, treat it as the common case and check your board's rule before relying on it.
+
 ---
 
 ## Table of Contents
@@ -61,7 +64,7 @@ Before making any moves, carefully review:
 - Scope (primary care, all medicine, specific services)
 
 !!! warning "Caution"
-    Non-compete enforceability varies dramatically by state. Some states (California, Oklahoma, North Dakota) largely prohibit them. Others enforce them strictly. Consult an employment attorney in your state before assuming yours is or isn't enforceable.
+    Non-compete enforceability is a matter of state law, and it varies dramatically. California, North Dakota and Oklahoma have long refused to enforce most non-competes; Minnesota bans agreements signed on or after 2023-07-01; and a growing list of states ban or cap physician non-competes specifically (for example, Indiana for hospital-employed physicians from 2025-07-01, and duration or geography limits in Maryland and Louisiana). Other states enforce them if "reasonable". There is **no federal ban**: the FTC's 2024 Non-Compete Clause Rule was set aside by a federal court in August 2024 before it took effect, the FTC dismissed its appeals and acceded to the vacatur on 2025-09-05 ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2025/09/federal-trade-commission-files-accede-vacatur-non-compete-clause-rule)), and the rule was removed from the Code of Federal Regulations in February 2026. Consult an employment attorney in your state before assuming yours is or isn't enforceable.
 
 **Non-Solicitation Clauses:**
 - Can you contact former patients?
@@ -69,7 +72,7 @@ Before making any moves, carefully review:
 - What constitutes "solicitation"?
 
 **Notice Requirements:**
-- How much notice must you give? (typically 60-90 days)
+- How much notice must you give? (contracts commonly require 60-90 days; yours governs)
 - What happens if you leave early?
 
 **Tail Coverage:**
@@ -117,6 +120,9 @@ If your employer won't modify restrictive covenants:
 - Patients who independently find you can choose to follow
 - Word of mouth from friends and family is not solicitation
 
+!!! note "Your board's rule may override your employer's preference"
+    In several states the medical board's patient-notification rule applies to the departing physician personally, whatever the employment contract says, and some boards treat an employer's refusal to let patients learn where you have gone as an ethics problem for both parties. Patients always have the right to copies of their records and to choose their physician; no contract can bar that. Check your board's rule on physician departure before you agree to a notification plan, and ask your attorney to reconcile the two if they conflict. The AMA's guidance is [Code of Medical Ethics Opinion 1.1.5](https://code-medical-ethics.ama-assn.org/ethics-opinions/terminating-patient-physician-relationship): notify patients far enough in advance to let them secure another physician, and facilitate the transfer of care.
+
 ---
 
 ## Converting Your Own Practice to DPC
@@ -148,7 +154,7 @@ If your employer won't modify restrictive covenants:
 
 ### Medicare Opt-Out
 
-If you're opting out of Medicare, this is a separate process from private insurance. See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for detailed instructions.
+If you're opting out of Medicare, this is a separate process from private insurance. See [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) for detailed instructions. Two points matter during a transition: every Medicare beneficiary who stays with you must sign a private contract that tells them the contract covers services Medicare would otherwise pay for, and emergency or urgent care you give a beneficiary who has not signed one must be billed to Medicare.
 
 ### Staff Considerations
 
@@ -159,9 +165,9 @@ If you're opting out of Medicare, this is a separate process from private insura
 - Timeline for transition
 
 **Reality:**
-- DPC practices often need less staff (no billing department)
+- DPC practices often need fewer staff (no billing department)
 - Some staff may not want to make the change
-- Be honest and give appropriate notice
+- Be honest and give appropriate notice; final-paycheck timing and accrued-leave payout are set by state law (see [Hiring Your First Employee](hiring-your-first-employee.md))
 
 ---
 
@@ -232,17 +238,21 @@ Have individual conversations. Don't let them learn about the change from a form
 ### Your Obligations
 
 - Patients have a right to their medical records
-- You must provide records or transfer them upon request
-- You may charge a reasonable fee for copying (varies by state)
-- You must retain records for the period required by your state (typically 7-10 years for adults, longer for minors)
+- You must provide records or transfer them upon request. If you are a HIPAA covered entity (an insurance-based practice is), that means within 30 days, with one 30-day extension on written notice to the patient ([45 CFR 164.524](https://www.ecfr.gov/current/title-45/section-164.524)); state law may set a shorter deadline
+- You may charge only a reasonable, cost-based copying fee under HIPAA, and many states cap the fee further
+- You must retain records for the period your state sets: commonly 5-10 years after the last encounter for adults, longer for minors (until the age of majority plus the state period). HIPAA compliance documents, such as policies, training records and authorizations, are kept 6 years. There is no federal chart-retention rule for a private practice. Details are on the [Required Documentation](../compliance-legal/required-documentation.md) page
 
-### Records Retention
+### Records Retention and Custody
 
-If closing the insurance-based practice entirely:
-- Notify patients in writing of records disposition
+If closing the insurance-based practice entirely, your state medical board's rules on closing a practice govern, and they differ on the notice period, the notice method (letter, newspaper notice, website posting) and who may hold the records. Commonly they require you to:
+
+- Notify patients in writing where their records will be kept and how to request them
 - Offer to transfer records to new physicians
-- Arrange secure storage for retained records
-- Know your state's retention requirements
+- Name a records custodian (yourself, a colleague, a records-storage company or a hospital) and, in some states, file the custodian's name with the board
+- Keep records secure and retrievable for the full retention period, including after the custodian arrangement begins
+- Check your board's rule before sending the closing letter; the [Required Documentation](../compliance-legal/required-documentation.md) page has the retention facts
+
+If you are converting rather than closing, the records of patients who do not join stay under your custody until transferred, and the same retention period runs on them.
 
 ### Electronic Records
 
@@ -256,9 +266,9 @@ If closing the insurance-based practice entirely:
 
 ### Abandonment
 
-Patient abandonment is a serious concern. To avoid abandonment claims:
+Patient abandonment is a serious concern. No federal rule sets the notice period; state medical boards do, and many follow [AMA Code of Medical Ethics Opinion 1.1.5](https://code-medical-ethics.ama-assn.org/ethics-opinions/terminating-patient-physician-relationship), which calls for notice far enough in advance for the patient to secure another physician and for help with the transfer of care. Thirty days' written notice is the common practice and the minimum some boards write into their rules; a few require more, or specify the method (for example, a letter to every active patient plus a newspaper or website notice). Check your board's rule and follow it exactly. To avoid abandonment claims:
 
-- Provide adequate notice (typically 30 days minimum)
+- Give written notice at least as long as your board requires, and no less than 30 days where the board sets no number
 - Offer to continue emergency care during transition
 - Provide referrals to other physicians
 - Transfer records promptly
@@ -324,9 +334,24 @@ If you currently have hospital call obligations, ensure proper transition of tho
 ## Related Resources
 
 - [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md) — Detailed Medicare opt-out process
+- [Required Documentation](../compliance-legal/required-documentation.md) — Record retention and patient access
+- [Professional Liability Guide](../business-formation/professional-liability-guide.md) — Tail coverage
 - [Choosing a Legal Entity](../business-formation/choosing-legal-entity.md) — Business structure
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md) — Budget planning
 - [Working with Attorneys](../business-formation/working-with-attorneys.md) — Finding legal help
+- [AMA Code of Medical Ethics Opinion 1.1.5](https://code-medical-ethics.ama-assn.org/ethics-opinions/terminating-patient-physician-relationship) — Terminating the patient-physician relationship
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

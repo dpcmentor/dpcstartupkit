@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Scaling doesn't always mean bigger. Focus on optimizing your solo practice before expanding. When you do grow, be intentional about maintaining what makes DPC special.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Question Your Assumptions First
@@ -13,8 +16,8 @@ Before scaling, ask:
 - **What would you lose?** Patient relationships? Work-life balance?
 - **Is bigger actually better?** Many physicians are happiest at 400-500 patients
 
-**The DPC sweet spot:** Many physicians find 400-600 patients ideal:
-- Sustainable income ($200K-400K+)
+**The DPC sweet spot:** Typical DPC panels run 400-700 patients per physician (State of DPC 2026 survey; the AAFP reports an average of about 413; see [Pricing Your Practice](../pricing-membership/pricing-your-practice.md)). Many physicians find the lower half of that range ideal:
+- Sustainable income (often $200K-400K before tax at typical panel sizes and fees)
 - Manageable workload
 - Deep patient relationships
 - Work-life balance
@@ -42,18 +45,18 @@ Before adding people or locations, optimize what you have:
 **Revenue optimization:**
 - Is your pricing appropriate?
 - Are you losing patients unnecessarily?
-- Could you add services (dispensing, procedures)?
+- Could you add services (dispensing, procedures)? Bill dispensed medications separately rather than bundling them in the membership fee; bundling prescription drugs (other than vaccines) costs your members with high-deductible plans their HSA eligibility ([IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). See [Dispensing Medications](dispensing-medications.md).
 - Employer contracts?
 
 ### The Math of Scaling
 
-**Solo practice (500 patients @ $100/month):**
+**Solo practice (500 patients @ $100/month, close to the $98.64 national average adult fee in the State of DPC 2026 survey):**
 - Revenue: $600,000/year
-- Expenses: $100,000/year
-- Net income: $500,000/year
+- Expenses: $100,000/year (illustrative; a lean solo practice can run well under this)
+- Net income before tax: $500,000/year
 - Overhead: 17%
 
-**Add an employee ($50K fully loaded):**
+**Add an employee (about $50K fully loaded for a full-time medical assistant at $17-29/hour plus payroll taxes; see [Hiring Your First Employee](hiring-your-first-employee.md)):**
 - Need 42 additional patients just to break even on the hire
 - Or justify through time savings that enable more patients
 
@@ -68,7 +71,7 @@ Before adding people or locations, optimize what you have:
 
 ### Option 1: Grow Your Solo Panel
 
-**Target:** 600-800 patients (some physicians manage more)
+**Target:** 600-700 patients, the upper end of typical DPC panels (some physicians manage more)
 
 **Requirements:**
 - Highly efficient systems
@@ -88,8 +91,10 @@ Before adding people or locations, optimize what you have:
 2. Full-time MA or add office manager
 3. Possibly second MA
 
+Both roles are non-exempt hourly positions (overtime over 40 hours in a workweek). Wages, required posters, OSHA bloodborne-pathogens duties and payroll setup are covered in [Hiring Your First Employee](hiring-your-first-employee.md); this page does not repeat them.
+
 **What staff enables:**
-- More patients (600-800+)
+- More patients (toward the upper end of the 400-700 range, sometimes beyond)
 - Better patient experience
 - Physician focuses on clinical work
 - Vacation coverage for admin
@@ -111,6 +116,7 @@ Before adding people or locations, optimize what you have:
 - Management capacity (or hire it)
 - Clear financial arrangement
 - Exit provisions
+- Their own Medicare opt-out affidavit and private contracts before they see a Medicare beneficiary; opt-out is per physician, not per practice (see [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md))
 
 See [Partnership Structures](../business-formation/partnership-structures.md) for details.
 
@@ -133,7 +139,7 @@ See [Partnership Structures](../business-formation/partnership-structures.md) fo
 - DPC for primary care
 - Cash-pay procedures
 - Occupational medicine
-- Some accept insurance for specific services
+- Some accept insurance for specific services. If you have opted out of Medicare you cannot bill Medicare for any of them (emergency and urgent care to a beneficiary without a private contract excepted, [42 CFR 405.440](https://www.ecfr.gov/current/title-42/section-405.440)); see the [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md)
 
 **DPC + Employer Contracts:**
 - Direct contracts with local businesses
@@ -164,9 +170,9 @@ See [Partnership Structures](../business-formation/partnership-structures.md) fo
 
 **Where to find candidates:**
 - DPC conferences
-- DPC Facebook groups
+- DPC online communities (Facebook groups, DPC Alliance and Direct Primary Care Coalition forums)
 - Residency programs
-- AAFP job board
+- AAFP and other specialty-society job boards
 - Word of mouth
 
 ### Financial Arrangements
@@ -175,7 +181,7 @@ See [Partnership Structures](../business-formation/partnership-structures.md) fo
 - Salary + bonus structure
 - Lower risk for new physician
 - You retain control
-- Typically $180K-250K base
+- Often $180K-250K base (estimate; varies by market, panel size and how much of the panel the new physician brings)
 
 **Partnership track:**
 - Employment initially (1-3 years)
@@ -211,7 +217,7 @@ See [Partnership Structures](../business-formation/partnership-structures.md) fo
 ### Financial Complexity Increases
 
 **New considerations:**
-- Payroll taxes and compliance
+- Payroll taxes and compliance (see [Hiring Your First Employee](hiring-your-first-employee.md))
 - Workers' compensation
 - Benefits administration
 - More complex accounting
@@ -268,6 +274,18 @@ Many DPC physicians intentionally cap their practice:
 - [Hiring Your First Employee](hiring-your-first-employee.md)
 - [Partnership Structures](../business-formation/partnership-structures.md)
 - [Employer Contracts Guide](../pricing-membership/employer-contracts-guide.md)
+- [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) - Panel sizes and fee benchmarks
+- [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md)
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 

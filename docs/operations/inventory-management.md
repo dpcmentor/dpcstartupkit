@@ -4,6 +4,11 @@
 
 Managing supplies and medications efficiently prevents both shortages and waste. For DPC practices—especially those starting lean—smart inventory management means having what you need without tying up cash in unused supplies.
 
+!!! note "About the figures on this page"
+    Dollar amounts and par levels are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. The sample par levels below are starting points for a solo practice, not benchmarks.
+
+This page covers the mechanics of counting, storing and reordering. The legal side of stocking and selling medications—state registration, DEA records, supplier rules and pricing—is settled on the [Dispensing Medications](dispensing-medications.md) page; this page links to it rather than repeating it.
+
 ## Prerequisites
 
 - Office space secured (see [Office Space Guide](office-space-guide.md))
@@ -160,6 +165,12 @@ When inventory drops to this level, order to bring back to par.
 - State pharmacy laws
 - Documentation requirements
 
+**Three federal rules that shape your stock** (details and citations on the [Dispensing Medications](dispensing-medications.md) page):
+
+- **Buy only from wholesale distributors licensed in your state**, and keep the transaction information for every prescription-drug purchase for six years (Drug Supply Chain Security Act). The invoice or transaction statement you receive with each order is that record; file it with the lot numbers.
+- **Manufacturer samples may never be sold** or charged for in any form (21 CFR 203.20). Store samples apart from dispensing stock and keep them out of your tracking spreadsheet's priced inventory.
+- **DEA record-keeping applies to controlled substances only** (21 CFR 1304.22(c)); other medications follow your state's dispensing rules.
+
 ### Medication Selection
 
 **Start with high-volume, low-risk:**
@@ -180,7 +191,8 @@ When inventory drops to this level, order to bring back to par.
 - Lot number
 - Expiration date
 - Quantity on hand
-- Dispensed to whom (for controlled substances, all medications)
+- Supplier and the DSCSA transaction record for the purchase
+- Dispensed to whom, when and how much. A per-patient dispensing record is a federal requirement for controlled substances (21 CFR 1304.22(c)) and a state requirement in many states for every dispensed drug; keeping it for all medications is the simpler habit and makes recalls traceable
 
 ### Expiration Management
 
@@ -197,9 +209,8 @@ When inventory drops to this level, order to bring back to par.
 ### Special Requirements
 
 **Storage:**
-- Proper refrigeration (35-46°F for most)
-- Freezer for frozen vaccines
-- Temperature monitoring
+- Refrigerator held between 36°F and 46°F (2°C to 8°C) for most vaccines; freezer between -58°F and +5°F (-50°C to -15°C) for frozen vaccines ([CDC Vaccine Storage and Handling Toolkit](https://www.cdc.gov/vaccines/hcp/storage-handling/index.html))
+- A digital data logger with a probe; CDC asks you to check and record the minimum and maximum temperatures each workday
 - Backup power or plan
 
 **Tracking:**
@@ -236,12 +247,12 @@ If seeing children:
 - Customer service
 - Product quality
 
-**Common suppliers:**
-- McKesson
-- Henry Schein
-- Medline
-- Amazon Business (for some supplies)
+**Common suppliers** (examples, not endorsements; the kit recommends no vendor):
+- Medical-surgical distributors such as McKesson, Henry Schein, Medline and Cardinal Health
+- Amazon Business and office-supply retailers, for general and office supplies only
 - Direct from manufacturers
+
+Prescription drugs are different: under the DSCSA you may buy them only from a wholesale distributor licensed in your state. Supplier options and illustrative pricing are on the [Dispensing Medications](dispensing-medications.md) page.
 
 ### Bulk vs. As-Needed
 
@@ -260,12 +271,12 @@ If seeing children:
 ### Group Purchasing
 
 **Options:**
-- DPC Alliance group purchasing
-- Buying groups
+- DPC organizations (the DPC Alliance is reported to offer member purchasing discounts; confirm with the organization)
+- Independent-practice buying groups and group purchasing organizations
 - State medical association programs
 - Hospital system affiliations (if applicable)
 
-**Potential savings:** 10-30% on many supplies
+**Potential savings:** commonly quoted at 10-30% on many supplies; compare against a direct quote before joining
 
 ---
 
@@ -290,7 +301,8 @@ If seeing children:
 
 ### Medication Storage
 
-- Secure location (locked for controlled substances)
+- Secure location (a locked cabinet or safe is required for controlled substances; see [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md))
+- Samples stored separately from dispensing stock
 - Proper temperature
 - Away from moisture
 - Organized by category or alphabetically
@@ -325,10 +337,10 @@ If seeing children:
 
 ### Expired Medication Disposal
 
-- Follow DEA requirements for controlled substances
-- Some pharmacies accept returns
-- Medication take-back programs
-- Document disposal
+- Controlled substances go to a DEA-registered reverse distributor, with the transfer recorded; do not dispose of them yourself (see [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md))
+- Non-controlled stock: wholesaler return programs or a reverse distributor; some manufacturers credit returns of unopened, in-date stock
+- Medication take-back programs are for patients' own medications, not practice inventory
+- Document every disposal (drug, lot, quantity, date, method)
 
 ---
 
@@ -383,8 +395,11 @@ If seeing children:
 **DPC models:**
 - At-cost medication dispensing
 - Small markup for handling
-- Included in membership
 - Separate billing for supplies
+- Included in membership (see the warning below before choosing this)
+
+!!! warning "Subject to change"
+    Bundling prescription drugs (other than vaccines) into the membership fee makes the arrangement a non-qualifying one under 26 USC 223(c)(1)(E), and a member covered by it cannot contribute to an HSA. Keep dispensed medications as separate, itemised charges and offer them to non-members at the same price ([IRS Notice 2026-05, Q&A-11 and 12](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). Some states also cap dispensing markups. The pricing models and the state rules are on the [Dispensing Medications](dispensing-medications.md) page.
 
 ---
 
@@ -409,9 +424,12 @@ If seeing children:
 ### Medications (if dispensing)
 - [ ] Secure storage
 - [ ] Lot and expiration tracking
+- [ ] DSCSA transaction records filed for six years; suppliers verified as state-licensed wholesalers
+- [ ] Samples stored apart and never charged for
 - [ ] Proper disposal procedures
 - [ ] Controlled substance compliance
 - [ ] Regular inventory counts
+- [ ] Medications billed separately from the membership fee (HSA rule)
 
 ---
 
@@ -442,9 +460,24 @@ If seeing children:
 ## Resources
 
 - [Equipment and Supplies Checklist](equipment-supplies-checklist.md) - What to stock
+- [Dispensing Medications](dispensing-medications.md) - State registration, DEA records, DSCSA, suppliers and pricing
+- [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md) - Storage, counts and disposal
 - [Office Space Guide](office-space-guide.md) - Storage considerations
-- DPC Alliance - Group purchasing
-- State medical associations - Buying programs
+- [Equipment inventory template](../kit-templates/spreadsheets/template-equipment-inventory.xlsx) - Spreadsheet starting point
+- [CDC Vaccine Storage and Handling Toolkit](https://www.cdc.gov/vaccines/hcp/storage-handling/index.html) - Temperature ranges and logging
+- DPC organizations and state medical associations - Group purchasing programs
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

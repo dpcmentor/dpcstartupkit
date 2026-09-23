@@ -4,6 +4,9 @@
 
 After-hours access is a defining feature of DPC—patients value knowing their doctor is available when traditional offices are closed. But sustainable after-hours coverage requires planning. This guide covers strategies for providing extended access while protecting your personal life.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Understanding of your DPC value proposition
@@ -126,6 +129,9 @@ Be honest with yourself about:
 - Less personal
 - May frustrate some patients
 
+!!! warning "Subject to change"
+    A telehealth backup service is practising telehealth on your patients, so the same rules apply as for your own video visits. The covering physician must be licensed in the state where the patient is located at the time of the call, and any controlled-substance prescription issued after a video visit with no prior in-person exam relies on the DEA telemedicine flexibility, which currently runs through 2026-12-31 (21 CFR 1307.41; audio-only visits qualify only for Schedule III–V medications for opioid use disorder, and state law may be stricter). See [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md) and [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md). Ask any answering, triage or telehealth vendor to sign a business associate agreement before it handles patient information ([BAA Requirements](../compliance-legal/baa-requirements.md)).
+
 ---
 
 ### Model 5: Limited After-Hours
@@ -186,14 +192,17 @@ Be honest with yourself about:
 **Options:**
 - Personal cell phone
 - Separate practice phone
-- Google Voice or similar (separate number)
-- HIPAA-compliant messaging app
+- A second number that forwards to your phone (a carrier add-on line, Google Voice on a Google Workspace account, or another VoIP provider)
+- A secure messaging platform built for medical practices (several are compared in [Patient Communication Tools](../technology/patient-communication-tools.md))
 
 **Considerations:**
 - Do you want patients having personal cell?
 - Separate line creates boundary
-- Google Voice can forward to personal phone
-- Can control when it rings
+- A forwarding number lets you control when it rings and hand the line to a covering colleague
+- Consumer texting and personal Google Voice accounts carry no business associate agreement. Google covers Google Voice under its Workspace BAA only for managed (Workspace) users ([Google Workspace HIPAA included functionality](https://workspace.google.com/terms/2015/1/hipaa_functionality/)); a personal account is not covered
+
+!!! note "Is HIPAA the law for you?"
+    A cash-only DPC that sends no HIPAA standard electronic transaction is not a HIPAA covered entity, so "HIPAA-compliant" is not a legal test for your phone or texting setup. State privacy law, your medical board and your malpractice carrier still expect patient information to be protected, and one electronic claim makes you a covered entity. The kit's advice is to treat HIPAA as the floor: prefer tools that offer a BAA and sign it. See [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md).
 
 ### Managing After-Hours Flow
 
@@ -207,7 +216,7 @@ Be honest with yourself about:
 
 ### Documentation
 
-- Document all after-hours encounters
+- Document all after-hours encounters in the chart; they are part of the medical record and subject to the same retention rules as an office visit (see [Required Documentation](../compliance-legal/required-documentation.md))
 - Brief note is sufficient
 - Include advice given
 - Follow up next business day if needed
@@ -300,7 +309,7 @@ Be honest with yourself about:
 **Coverage options:**
 - Another DPC physician
 - Locum tenens
-- Telehealth service
+- Telehealth service (the covering physician must hold a license in the state where each patient is located; see the "Subject to change" note under Model 4)
 - Urgent care arrangement
 - Clear patient guidance
 
@@ -344,6 +353,10 @@ Clear guidance for when after-hours isn't appropriate:
 - Beyond scope of phone advice
 - Patient preference for ER
 
+### Patients Who Are Out of State
+
+An after-hours call or video visit with a member who is travelling is telehealth delivered where the patient is. Most state boards require you to be licensed in that state, with narrow exceptions for established patients or occasional consultations that vary by state. Controlled-substance prescriptions after a video-only visit rely on the DEA flexibility that runs through 2026-12-31 and on the law of the state where the patient is located. Decide in advance how you will handle these calls and say so in your policy. See [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md).
+
 ### Coverage Agreements
 
 If sharing coverage with other physicians:
@@ -356,14 +369,14 @@ If sharing coverage with other physicians:
 
 ## Cost Considerations
 
-### Free with Membership
+### Included in the Membership Fee
 
-Most DPC practices include after-hours access in membership fee.
+Most DPC practices include after-hours access in the membership fee rather than charging for it separately.
 
 ### Additional Costs
 
 If using services:
-- Answering services: $50-200/month
+- Answering services: roughly $25–150/month for basic after-hours message-taking at a solo practice, billed per call (about $1–2) or per minute (about $0.75–1.50); flat-rate bundles with live medical agents run $150–800+/month (2026 pricing survey: [Helpware, Medical Answering Service Pricing](https://helpware.com/blog/medical-answering-service-pricing)). Ask for a sample invoice; setup fees, holiday premiums and 28-day billing cycles are common
 - Nurse triage: Varies by call volume
 - Telehealth backup: Varies by arrangement
 
@@ -409,9 +422,23 @@ Consider:
 ## Resources
 
 - [Patient Communication Tools](../technology/patient-communication-tools.md) - Communication systems
+- [Telehealth Platforms](../technology/telehealth-platforms.md) - Video visit tools
 - [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md) - Policy documentation
-- DPC Alliance - Colleague networking
-- Local DPC groups - Coverage partnerships
+- [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md) - Licensure where the patient is located; DEA telemedicine flexibility through 2026-12-31
+- [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) - Whether HIPAA applies to your practice
+- DPC Alliance, DPC Frontier and local DPC groups - Colleague networking and coverage partnerships
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
