@@ -4,7 +4,8 @@ This section contains curated external resources, recommended reading, and refer
 
 ## Professional Organizations
 
-- [Direct Primary Care Alliance (DPCA)](https://www.dpcare.org/)
+- [Direct Primary Care Alliance (DPCA)](https://www.dpcalliance.org/) — physician membership organization
+- [Direct Primary Care Coalition](https://www.dpcare.org/) — advocacy organization (a different group, despite the similar name)
 - [American Academy of Family Physicians (AAFP)](https://www.aafp.org/)
 - [Direct Primary Care Coalition](https://www.dpcare.org/dpc-coalition)
 

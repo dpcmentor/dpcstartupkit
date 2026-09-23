@@ -1,6 +1,11 @@
 # Conferences and Events
 
-> **Quick Summary:** DPC Summit (hosted by DPC Alliance) is the premier annual event for comprehensive education and networking. Regional events and virtual webinars offer lower-cost alternatives. Budget $1,000-2,500 per major conference including travel.
+> **Quick Summary:** The DPC Summit (co-hosted by the AAFP, ACOFP, the DPC Alliance and FMEC) is the largest annual DPC-specific conference. Hint Summit, the DPC Alliance's own events, state DPC summits and virtual webinars are the other main options. Budget roughly $1,000-2,500 per major conference including travel.
+
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
+The kit endorses no conference, organizer or vendor. Events are listed so you know where to look; check the organizer's site for the current programme and fees.
 
 ---
 
@@ -26,50 +31,72 @@ DPC conferences and events provide concentrated learning, networking, and inspir
 
 ## Major DPC Conferences
 
+*Organizers, seasons and links verified 2026-09-23. Dates and fees change every year; check the organizer's site before you book.*
+
 ### DPC Summit
 
-**Hosted by:** DPC Alliance
+**Hosted by:** [American Academy of Family Physicians](https://www.aafp.org/) (AAFP), [American College of Osteopathic Family Physicians](https://acofp.org/) (ACOFP), the [DPC Alliance](https://www.dpcalliance.org/) and the [Family Medicine Education Consortium](https://www.fmec.net/) (FMEC), jointly
 
-**Frequency:** Annual (typically summer)
+**Frequency:** Annual, usually mid-July, three to four days
 
-**Location:** Varies (national locations)
+**Location:** Varies (a different US city each year)
 
-**Audience:** DPC physicians at all stages, staff, industry
+**Audience:** DPC physicians at all stages, residents and students, staff, industry
 
 **Content:**
-- Keynotes from DPC leaders
-- Breakout sessions on operations, marketing, clinical topics
+- Tracks for starting, growing and running a DPC practice, plus clinical sessions
+- Procedural skills workshops (extra fee)
 - Vendor exhibits
 - Networking events
-- Pre-conference workshops
+- AAFP Prescribed CME credit
+- Recorded sessions sold afterwards as "DPC Summit On Demand" through the AAFP
 
-**Best for:** Comprehensive DPC education, networking
+**Suited to:** A broad introduction to DPC in one place, meeting a large number of DPC physicians
 
-**Cost:** Typically $300-600 (member discounts available)
+**Cost:** For the 2026 event the organizer's [registration page](https://www.dpcsummit.org/register) listed $615 early-bird and $715 standard registration, $250 for residents and $150 for medical students, with one-day and on-demand options (checked 2026-09-23). Expect the next year's fees to differ.
 
-**Website:** [dpcare.org](https://www.dpcare.org/) - Check for current event information
+**Website:** [dpcsummit.org](https://www.dpcsummit.org/)
 
 ---
 
-### Hint Health Summit
+### DPC Alliance Events
 
-**Hosted by:** [Hint Health](https://www.hint.com/)
+**Hosted by:** [DPC Alliance](https://www.dpcalliance.org/) (a physician membership organization; some events are discounted for members)
 
-**Frequency:** Annual
+**Events:** Besides co-hosting the DPC Summit, the Alliance runs its own smaller events, which as of September 2026 include a DPC Frontline Bootcamp (September), a Pediatric DPC Conference (spring), DPC Masterminds practice-startup sessions (autumn) and a physician retreat. Names and timing change from year to year.
 
-**Audience:** DPC and direct care practices, especially Hint customers
+**Suited to:** Focused, smaller-group sessions on starting or running a practice
+
+**Cost:** Not stated on the events listing; see each event's page
+
+**Website:** [dpcalliance.org/events](https://www.dpcalliance.org/events)
+
+!!! note "DPC Alliance vs. DPC Coalition"
+    The DPC Alliance (dpcalliance.org) is a physician membership organization and event host. The [DPC Coalition](https://www.dpcare.org/) (dpcare.org) is a separate advocacy organization focused on federal and state policy and does not run a conference. Earlier versions of this page confused the two.
+
+---
+
+### Hint Summit
+
+**Hosted by:** [Hint Health](https://www.hint.com/), a DPC membership-management software vendor
+
+**Frequency:** Annual, usually April, three to four days
+
+**Location:** Varies (US cities)
+
+**Audience:** DPC and direct care practices, employers and benefit advisers, industry; open to non-customers
 
 **Content:**
 - DPC practice development
-- Direct care innovation
-- Employer health benefits
+- Employer and benefits-adviser market
 - Technology in direct care
+- CME credit offered since 2026
 
-**Best for:** Practice growth, employer market, Hint users
+**Suited to:** Practice growth, the employer market; a vendor-run event, so expect the host's product to feature
 
-**Cost:** Varies
+**Cost:** Not stated on the summit site at the time of checking; see the registration page
 
-**Website:** [hint.com](https://www.hint.com/)
+**Website:** [summit.hint.com](https://summit.hint.com/)
 
 ---
 
@@ -77,35 +104,34 @@ DPC conferences and events provide concentrated learning, networking, and inspir
 
 **Hosted by:** [American Academy of Family Physicians](https://www.aafp.org/)
 
-**Frequency:** Annual (typically fall)
+**Frequency:** Annual, usually October
 
-**Location:** Varies (major cities)
+**Location:** Varies (major US cities)
 
 **Audience:** All family physicians
 
-**DPC content:** Sessions on practice models including DPC
+**DPC content:** Not DPC-specific. Session topics change yearly; check the programme for practice-model and DPC sessions before registering for that reason alone.
 
-**Best for:** CME plus DPC education, broad family medicine networking
+**Suited to:** General family medicine CME and networking, with DPC content as a side benefit
 
-**Cost:** $500-800+ (member pricing)
+**Cost:** Registration fees are published on the AAFP site each year and differ for members and non-members
 
-**Note:** Not DPC-specific, but has DPC tracks and sessions
+**Website:** [aafp.org/cme-and-events/in-person/fmx](https://www.aafp.org/cme-and-events/in-person/fmx)
 
 ---
 
 ### State and Regional Events
 
-Many states host DPC-focused events:
+Several states now have their own DPC summits, usually organized by a state DPC group or a DPC practice rather than a medical society.
 
-**Examples:**
-- Texas DPC Summit
-- California DPC events
-- Midwest DPC gatherings
-- Various state medical association DPC sessions
+**Examples listed on the DPC Frontier events calendar as of September 2026:**
+- Illinois State DPC Summit (autumn, Naperville)
+- California DPC Summit (early summer)
+- Free Market Medical Association annual conference (winter; not DPC-specific but with DPC content)
 
-**Best for:** Local networking, state-specific issues, lower travel costs
+**Suited to:** Local networking, state-specific legal and market questions, lower travel costs
 
-**How to find:** Check state DPC groups, DPC Frontier, state medical associations
+**How to find:** The [DPC Frontier events page](https://www.dpcfrontier.com/events) keeps a running calendar; state DPC groups and state medical associations also post events.
 
 ---
 
@@ -152,10 +178,10 @@ Many states host DPC-focused events:
 **Value:** No travel, specific topic focus, accessible
 
 **Sources:**
-- DPC Alliance
-- Hint Health
-- DPC Frontier (informal)
-- Vendor webinars
+- DPC Alliance (some member-only)
+- Hint Health and other vendors (expect product content)
+- DPC Frontier blog and events calendar
+- AAFP on-demand CME
 
 ---
 
@@ -236,12 +262,15 @@ Many states host DPC-focused events:
 
 Plan around major conferences:
 
-| Event | Typical Timing | Location |
+| Event | Usual Timing | Location |
 |-------|---------------|----------|
-| DPC Summit | Summer | Varies |
-| Hint Summit | Varies | Varies |
-| AAFP FMX | Fall | Major cities |
-| State events | Various | In-state |
+| Hint Summit | April | Varies |
+| DPC Summit | July | Varies |
+| DPC Alliance Frontline Bootcamp | September | Varies |
+| AAFP FMX | October | Major cities |
+| State DPC summits | Various | In-state |
+
+Timing verified 2026-09-23 against each organizer's site; confirm before booking travel.
 
 ### Budget Considerations
 
@@ -265,14 +294,14 @@ Plan around major conferences:
 
 ## For Those Exploring DPC
 
-### Best First Events
+### Reasonable First Events
 
-If you're considering DPC:
+If you are considering DPC:
 
-1. **DPC Summit** - Comprehensive overview
-2. **Virtual webinars** - Low commitment introduction
-3. **Local DPC meetup** - Personal conversations
-4. **DPC tracks at AAFP FMX** - If attending anyway
+1. **DPC Summit** - the broadest single overview, with a starting-a-practice track
+2. **Virtual webinars** - low-commitment introduction
+3. **Local DPC meetup or state summit** - personal conversations, lower cost
+4. **DPC sessions at AAFP FMX** - if you are attending anyway
 
 ### What to Learn
 
@@ -392,6 +421,17 @@ If you're considering DPC:
 - [DPC Organizations](dpc-organizations.md) - Conference hosts
 - [DPC Communities](dpc-communities.md) - Online community to complement events
 - [Podcasts and Media](podcasts-media.md) - Ongoing learning between events
+- [DPC Summit](https://www.dpcsummit.org/), [DPC Alliance events](https://www.dpcalliance.org/events), [Hint Summit](https://summit.hint.com/), [AAFP FMX](https://www.aafp.org/cme-and-events/in-person/fmx), [DPC Frontier events calendar](https://www.dpcfrontier.com/events)
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
