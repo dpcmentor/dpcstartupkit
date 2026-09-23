@@ -166,13 +166,13 @@ practicing in that state may promote one to Reviewed.
 |----------|--------|----------|------|-------|
 | [service-providers.md](docs/resources/service-providers.md) | Read-through | JF | 2026-09-22 | Acquisitions/renames; fees updated; no single-vendor recommendations |
 | [lab-partners.md](docs/resources/lab-partners.md) | Read-through | JF | 2026-09-22 | No-BAA and pass-through pricing rules; vendor names updated |
-| [dpc-organizations.md](docs/resources/dpc-organizations.md) | Not Reviewed | | | |
-| [state-resources-directory.md](docs/resources/state-resources-directory.md) | Not Reviewed | | | |
-| [recommended-reading.md](docs/resources/recommended-reading.md) | Not Reviewed | | | |
-| [conferences-events.md](docs/resources/conferences-events.md) | Not Reviewed | | | |
-| [podcasts-media.md](docs/resources/podcasts-media.md) | Not Reviewed | | | |
-| [dpc-communities.md](docs/resources/dpc-communities.md) | Not Reviewed | | | |
-| [physician-wellbeing.md](docs/resources/physician-wellbeing.md) | Not Reviewed | | | |
+| [dpc-organizations.md](docs/resources/dpc-organizations.md) | Read-through | JF | 2026-09-23 | Every link fetched; phantom books/podcast removed; Alliance vs Coalition fixed; dues from org page |
+| [state-resources-directory.md](docs/resources/state-resources-directory.md) | Read-through | JF | 2026-09-23 | Routes to state guides + FSMB/NABP directories; stale DPC-law tiers removed |
+| [recommended-reading.md](docs/resources/recommended-reading.md) | Read-through | JF | 2026-09-23 | Authors/years added; phantom podcast removed; AAFP links to final URLs; vendor blogs labelled |
+| [conferences-events.md](docs/resources/conferences-events.md) | Read-through | JF | 2026-09-23 | DPC Summit organizers/site corrected; past-year dates and invented fees removed; verified 2026-09-23 |
+| [podcasts-media.md](docs/resources/podcasts-media.md) | Read-through | JF | 2026-09-23 | Every show linked with active/stopped status; three phantom podcasts removed; renamed shows updated |
+| [dpc-communities.md](docs/resources/dpc-communities.md) | Read-through | JF | 2026-09-23 | DPC Frontier is a website not a Facebook group; two FB groups confirmed; unverifiable state groups removed |
+| [physician-wellbeing.md](docs/resources/physician-wellbeing.md) | Read-through | JF | 2026-09-23 | 988 and Physician Support Line verified with hours; FSPHP directory; preachy lines cut |
 
 ## Mentoring
 
