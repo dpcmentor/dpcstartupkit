@@ -351,7 +351,7 @@ For objection handling:
 - [Building Your Brand](building-your-brand.md)
 - [Website Content Guide](website-content-guide.md)
 - [Practice Website Essentials](../technology/practice-website-essentials.md)
-- [DPC Alliance](https://www.dpcare.org/) - Patient-facing resources
+- [DPC Alliance](https://www.dpcalliance.org/) - Member organization; patient-facing explainers are also at the [DPC Coalition](https://www.dpcare.org/)
 
 ---
 
