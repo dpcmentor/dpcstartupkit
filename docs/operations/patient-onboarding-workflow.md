@@ -12,7 +12,7 @@ This guide covers the complete onboarding workflow from first inquiry to establi
 
 ## Prerequisites
 
-- Membership agreement finalized (see [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md))
+- Membership agreement finalized and reviewed by an attorney licensed in your state (see [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md); the kit does not publish an agreement template)
 - Payment collection method established
 - EMR or documentation system ready
 - Ability to see patients (space, equipment)
@@ -38,7 +38,7 @@ This guide covers the complete onboarding workflow from first inquiry to establi
 **Process can be:**
 - Phone conversation
 - Paper forms
-- Payment via Square, Stripe, or check
+- Payment by card processor (Square, Stripe, PayPal or similar), ACH or check
 - Face-to-face enrollment
 
 ### 50+ Patients: Systematize
@@ -120,6 +120,7 @@ As volume grows, systematize to save time:
 - Pricing
 - That this is not insurance
 - Recommendation to maintain insurance
+- For patients with a health savings account: whether your fee and bundled services fit the 2026 HSA rule (see the note under [Payment Collection](#payment-collection))
 - How to reach you
 - Next steps to enroll
 
@@ -156,6 +157,7 @@ If needs time:
   - Payment terms
   - Cancellation policy
 - Get signature (paper or electronic)
+- If you have opted out of Medicare, a Medicare beneficiary must also sign a private contract before you treat them, and it must state that the contract covers services Medicare would otherwise pay for (see [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md#private-contracts))
 
 **2. Collect Patient Information**
 - Demographics form
@@ -180,7 +182,7 @@ If needs time:
 - Provide receipt
 
 **5. Provide Welcome Materials**
-- Notice of Privacy Practices (HIPAA required)
+- Notice of Privacy Practices (HIPAA requires it of covered entities; provide one either way—see [Forms and Documents](#forms-and-documents))
 - How to contact you
 - Patient portal setup (if applicable)
 - What to expect
@@ -260,7 +262,8 @@ If needs time:
 ### Essential Forms
 
 **1. Membership Agreement**
-- See [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md)
+- See [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md) for the clauses it should contain and the states that mandate specific wording
+- The kit intentionally publishes no membership agreement template; have an attorney licensed in your state draft or review yours
 - Patient signature required
 
 **2. Patient Information Form**
@@ -284,15 +287,15 @@ If needs time:
 - Can be part of membership agreement
 
 **5. Notice of Privacy Practices**
-- HIPAA required
-- Acknowledgment of receipt (signature or documentation)
+- Required of every HIPAA covered entity ([45 CFR 164.520](https://www.ecfr.gov/current/title-45/section-164.520)). A cash-only DPC practice that sends no HIPAA standard electronic transaction (insurance claims and the like) is not a covered entity, but provide an NPP anyway and treat HIPAA as the floor: patients and vendors expect it, and state privacy law applies regardless. See [Are You a Covered Entity?](../compliance-legal/hipaa-compliance-basics.md#are-you-a-covered-entity) and the [Privacy Practices Guide](../compliance-legal/privacy-practices-guide.md)
+- Acknowledgment of receipt (signature or documentation of a good-faith attempt)
 
 **6. HIPAA Authorization** (optional at enrollment)
 - For specific releases (family members, etc.)
 
 ### Optional Forms
 
-- Telehealth consent (if not in membership agreement)
+- Telehealth consent (if not in membership agreement; see [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md))
 - Communication consent (for texting, etc.)
 - Financial policy acknowledgment
 - Records release request
@@ -323,6 +326,9 @@ If needs time:
 - First month's membership fee
 - Enrollment fee (if applicable)
 
+!!! warning "Subject to change: 2026 HSA rule"
+    For months after 2025-12-31, a member with a high-deductible health plan keeps HSA eligibility only if the DPC fee is no more than $150 per month for an individual or $300 per month for an arrangement covering more than one person (indexed after 2026), and the membership does not bundle prescription drugs (other than vaccines) or laboratory services not typically performed in ambulatory primary care ([26 USC 223(c)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim); [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). Labs and medications billed separately must be offered to members and non-members at the same price, or the arrangement loses that status. If you charge an enrollment fee, ask your tax advisor how it is treated under the cap. See [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md#5-fees-and-payment-terms).
+
 **Methods:**
 - Credit card (most common)
 - Debit card
@@ -338,16 +344,14 @@ If needs time:
 - ACH draft (bank account draft monthly)
 
 **Tools:**
-- Square
-- Stripe
-- PayPal
-- Practice management software
-- EMR integrated billing
-- Hint Health (DPC-specific)
-- Various membership management tools
+- General-purpose processors with recurring billing (Square, Stripe, PayPal and similar)
+- Practice management software or EMR-integrated billing
+- DPC-specific membership platforms (Hint Health, Atlas.md, Cerbo, among others)
+
+The kit endorses no vendor; compare current fees in [Payment Processing Options](../pricing-membership/payment-processing-options.md).
 
 **Starting Lean:**
-Square or Stripe with recurring billing is sufficient for most small practices. No need for elaborate systems initially.
+A general-purpose processor with recurring billing is sufficient for most small practices. No need for elaborate systems initially.
 
 ### Payment Timing
 
@@ -391,7 +395,7 @@ Common approaches:
 - Have phone/manual backup
 - Don't let technology be a barrier to enrollment
 
-### Records From Previous Provider
+### Records From the Previous Physician
 
 **Process:**
 - Provide records release form
@@ -399,7 +403,7 @@ Common approaches:
 - Follow up if not received
 - Document request in chart
 
-**Reality:** Records may take weeks. Don't delay care waiting for them.
+**Reality:** Records may take weeks. Don't delay care waiting for them. A HIPAA covered entity must act on a patient's request for their own records within 30 days, with one 30-day extension ([45 CFR 164.524](https://www.ecfr.gov/current/title-45/section-164.524)); a request made by the patient, rather than by you, often moves faster. See [Required Documentation](../compliance-legal/required-documentation.md).
 
 ---
 
@@ -426,7 +430,7 @@ Common approaches:
 - [ ] Establish care plan
 
 ### After Onboarding
-- [ ] Request records from previous provider
+- [ ] Request records from previous physician
 - [ ] Complete any missing information
 - [ ] Verify payment processing
 - [ ] Follow up on patient experience
@@ -438,7 +442,21 @@ Common approaches:
 - [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md)
 - [Explaining DPC to Patients](../marketing/explaining-dpc-to-patients.md)
 - [Required Documentation](../compliance-legal/required-documentation.md)
-- [Template Forms](../kit-templates/documents/)
+- [Privacy Practices Guide](../compliance-legal/privacy-practices-guide.md) - Notice of Privacy Practices contents
+- [Payment Processing Options](../pricing-membership/payment-processing-options.md)
+- [Document Templates](../kit-templates/documents/README.md) and the [Template Language Guide](../kit-templates/documents/template-language-guide.md) - consent, NPP, financial policy and records-release language (no membership agreement template)
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

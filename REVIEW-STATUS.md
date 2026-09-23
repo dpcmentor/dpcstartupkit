@@ -147,18 +147,18 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [office-space-guide.md](docs/operations/office-space-guide.md) | Not Reviewed | | | |
+| [office-space-guide.md](docs/operations/office-space-guide.md) | Read-through | JF | 2026-09-23 | ADA Title III applies regardless of size; home-office deduction; neutral listings |
 | [equipment-supplies-checklist.md](docs/operations/equipment-supplies-checklist.md) | Read-through | JF | 2026-09-22 | Stage totals corrected; vendor claims neutralised; dispensing HSA note |
-| [patient-onboarding-workflow.md](docs/operations/patient-onboarding-workflow.md) | Not Reviewed | | | |
-| [daily-workflow-optimization.md](docs/operations/daily-workflow-optimization.md) | Not Reviewed | | | |
-| [after-hours-coverage.md](docs/operations/after-hours-coverage.md) | Not Reviewed | | | |
-| [inventory-management.md](docs/operations/inventory-management.md) | Not Reviewed | | | |
-| [transitioning-from-practice.md](docs/operations/transitioning-from-practice.md) | Not Reviewed | | | |
+| [patient-onboarding-workflow.md](docs/operations/patient-onboarding-workflow.md) | Read-through | JF | 2026-09-23 | Covered-entity nuance; no agreement template; Medicare private contract; 2026 HSA note |
+| [daily-workflow-optimization.md](docs/operations/daily-workflow-optimization.md) | Read-through | JF | 2026-09-23 | DEA telemedicine date; rename artefact fixed; neutral support options |
+| [after-hours-coverage.md](docs/operations/after-hours-coverage.md) | Read-through | JF | 2026-09-23 | Licensed where the patient is; DEA date; Google Voice BAA scope; answering-service pricing sourced |
+| [inventory-management.md](docs/operations/inventory-management.md) | Read-through | JF | 2026-09-23 | DSCSA, samples, DEA-records scope; CDC vaccine temperatures corrected; HSA bundling note |
+| [transitioning-from-practice.md](docs/operations/transitioning-from-practice.md) | Read-through | JF | 2026-09-23 | Non-compete: state law, FTC rule vacated; notice/retention as board rules; AMA 1.1.5 linked |
 | [dispensing-medications.md](docs/operations/dispensing-medications.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sources linked on page |
-| [referral-network-building.md](docs/operations/referral-network-building.md) | Not Reviewed | | | |
+| [referral-network-building.md](docs/operations/referral-network-building.md) | Read-through | JF | 2026-09-23 | Anti-kickback/Stark nuance added; Medicare referral facts |
 | [hiring-your-first-employee.md](docs/operations/hiring-your-first-employee.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sources linked on page |
-| [scaling-your-practice.md](docs/operations/scaling-your-practice.md) | Not Reviewed | | | New - questions growth assumptions |
-| [staff-training-guide.md](docs/operations/staff-training-guide.md) | Not Reviewed | | | New - DPC-specific training |
+| [scaling-your-practice.md](docs/operations/scaling-your-practice.md) | Read-through | JF | 2026-09-23 | Panel sizes to survey; hiring law deferred to hiring guide; opt-out per physician |
+| [staff-training-guide.md](docs/operations/staff-training-guide.md) | Read-through | JF | 2026-09-23 | HIPAA training rule (no annual mandate) vs OSHA annual; Medicare scenario |
 
 ## Resources
 

@@ -1,6 +1,9 @@
 # Office Space Guide
 
-> **Quick Summary:** Start with shared/sublease space ($500-$2,500/month) rather than dedicated space. Most solo DPC practices need only 300-800 sq ft. Match your space to your current stage, not your five-year vision. Negotiate shorter lease terms (1-2 years) and free rent periods when possible.
+> **Quick Summary:** Start with shared/sublease space ($500-$2,500/month) rather than dedicated space. Many solo DPC practices need only 300-800 sq ft. Match your space to your current stage, not your five-year vision. Negotiate shorter lease terms (1-2 years) and free rent periods when possible.
+
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. Rent and build-out costs in particular vary several-fold between markets; get local quotes before you budget.
 
 ---
 
@@ -49,7 +52,7 @@ This guide covers office space options, requirements, and strategies for each st
 
 **What you need:**
 - Reliable phone/internet
-- Secure place for documentation (HIPAA)
+- Secure place for documentation (treat HIPAA as the floor even if you are not a covered entity; see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md))
 - Place to meet patients when needed (home visits, rented space)
 - Mailing address for business
 
@@ -164,15 +167,13 @@ This guide covers office space options, requirements, and strategies for each st
 - Check with specialists who have part-time space
 
 **2. Commercial Real Estate**
-- LoopNet.com
-- Local commercial brokers
-- Google "medical office space [your city]"
+- Online listing services (LoopNet, Crexi and similar; the kit endorses none)
+- Local commercial brokers, ideally one who handles medical space
+- Search "medical office space [your city]"
 
-**3. Shared Office Providers**
-- Regus/IWG (some medical-capable locations)
-- WeWork (limited medical options)
-- Local shared medical office concepts
-- Coworking spaces (for admin only, not patient care)
+**3. Shared Office Operators**
+- Executive-suite and coworking operators (Regus/IWG, WeWork and local equivalents) are usually suitable for administrative work only; confirm in writing that the lease and the building's zoning permit medical use before seeing patients there
+- Local shared medical office concepts (time-share exam rooms)
 
 **4. Creative Options**
 - Gyms/wellness centers wanting medical services
@@ -192,11 +193,14 @@ This guide covers office space options, requirements, and strategies for each st
 
 **Building Considerations:**
 - Zoning allows medical use
-- ADA accessibility
+- ADA accessibility (see the note below)
 - Building condition
 - HVAC adequate
 - Plumbing appropriate (sink in exam room)
 - Signage allowed
+
+!!! note "ADA applies regardless of practice size"
+    A physician's office is a place of public accommodation under [ADA Title III](https://www.ada.gov/topics/title-iii/), whatever its size or patient count; there is no small-practice exemption. In an existing building you must remove architectural barriers where doing so is readily achievable, and any alteration or new construction must meet the ADA Standards for Accessible Design. Ask the landlord which party is responsible for accessibility work and put the answer in the lease.
 
 ---
 
@@ -239,7 +243,7 @@ This guide covers office space options, requirements, and strategies for each st
 - Appropriate lighting
 
 **Restroom:**
-- ADA compliant (or plan for compliance)
+- Accessible to patients with disabilities (ADA Title III; see the note above)
 - Hand washing
 - Sharps container if collecting specimens
 
@@ -333,10 +337,10 @@ See [Equipment and Supplies Checklist](equipment-supplies-checklist.md) for full
 ### Can You See Patients at Home?
 
 **Challenges:**
-- Zoning often prohibits (residential zones)
+- Residential zoning often restricts or prohibits seeing patients at home; check with your municipality before you plan on it
 - Professional appearance concerns
 - Work-life balance
-- HIPAA/privacy in home setting
+- Privacy and security of records in a home setting (treat HIPAA as the floor)
 - Malpractice insurance may have limits
 - Some patients uncomfortable
 
@@ -349,10 +353,14 @@ See [Equipment and Supplies Checklist](equipment-supplies-checklist.md) for full
 ### What You Can Do From Home
 
 - Administrative work
-- Telemedicine visits (if HIPAA-compliant setup)
+- Telemedicine visits (on a platform that will sign a BAA, in a private room; you must be licensed where the patient is located—see [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md))
 - Phone consultations
 - Documentation
 - Business planning
+
+### Home Office Deduction
+
+If part of your home is used regularly and exclusively for the practice, you may deduct it. The simplified method allows [$5 per square foot up to 300 square feet](https://www.irs.gov/businesses/small-businesses-self-employed/simplified-option-for-home-office-deduction) (a maximum of $1,500 a year); the regular method deducts a share of actual home expenses. A room that doubles as a guest room does not qualify. See [Tax Planning Basics](../business-formation/tax-planning-basics.md#home-office-deduction) and confirm with your accountant.
 
 ---
 
@@ -420,7 +428,7 @@ See [Equipment and Supplies Checklist](equipment-supplies-checklist.md) for full
 
 ### When Evaluating Space
 - [ ] Confirm zoning allows medical use
-- [ ] Verify ADA accessibility (or plan for compliance)
+- [ ] Verify ADA accessibility and agree in the lease who pays for any barrier removal
 - [ ] Check plumbing (sink capability)
 - [ ] Assess HVAC adequacy
 - [ ] Evaluate parking situation
@@ -439,7 +447,7 @@ See [Equipment and Supplies Checklist](equipment-supplies-checklist.md) for full
 - [ ] Plan layout
 - [ ] Order essential equipment
 - [ ] Set up utilities and services
-- [ ] Ensure HIPAA compliance
+- [ ] Secure records and devices (see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md))
 - [ ] Create welcoming environment
 - [ ] Install signage (where permitted)
 
@@ -449,8 +457,21 @@ See [Equipment and Supplies Checklist](equipment-supplies-checklist.md) for full
 
 - [Startup Costs Overview](../business-formation/startup-costs-overview.md) - Budgeting for space
 - [Equipment and Supplies Checklist](equipment-supplies-checklist.md) - What you need
-- LoopNet.com - Commercial real estate listings
-- Local commercial real estate brokers
+- [Tax Planning Basics](../business-formation/tax-planning-basics.md#home-office-deduction) - Home office deduction
+- [ADA Title III](https://www.ada.gov/topics/title-iii/) - Accessibility obligations of businesses open to the public
+- Commercial listing services (LoopNet, Crexi and similar) and local commercial brokers
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

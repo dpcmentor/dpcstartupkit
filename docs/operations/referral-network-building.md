@@ -74,15 +74,15 @@ Oncology, nephrology, infectious disease, allergy/immunology, physical medicine,
 
 ### Imaging Centers
 
-- Independent imaging often 50-80% less than hospital
+- Independent imaging centers often charge far less than hospital-based imaging for the same study; the gap varies widely by market, so ask for the cash price
 - Look for cash-pay or self-pay pricing
 - Build relationships with those who serve your patients well
 - Common needs: X-ray, CT, MRI, ultrasound, mammography
 
 ### Laboratories
 
-- Quest, Labcorp have direct-pay pricing
-- Independent labs may offer better pricing
+- National laboratories (for example, Quest Diagnostics and Labcorp) publish direct-pay pricing
+- Regional and independent labs may offer better pricing or service; compare more than one
 - See [Lab & Imaging Integration](../technology/lab-imaging-integration.md)
 
 ### Urgent Care / After-Hours
@@ -108,7 +108,7 @@ Oncology, nephrology, infectious disease, allergy/immunology, physical medicine,
 
 - Therapists and counselors
 - Psychiatrists
-- Crisis resources
+- Crisis resources (the 988 Suicide and Crisis Lifeline, local mobile crisis teams, nearest psychiatric emergency service)
 - Establish referral pathways before you need them urgently
 
 ---
@@ -190,6 +190,13 @@ Before reaching out:
 
 Some specialists may refer patients to you. Be responsive and appreciate the trust.
 
+!!! warning "Payment for referrals"
+    Never pay, receive or accept anything of value in exchange for referrals, and do not tie a shared-space, marketing or "support" arrangement to referral volume.
+
+    The federal Anti-Kickback Statute ([42 USC 1320a-7b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a-7b&num=0&edition=prelim)) and the Stark physician self-referral law ([42 USC 1395nn](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395nn&num=0&edition=prelim)) reach items and services paid for by Medicare, Medicaid and other federal health care programs. A cash-only practice whose physicians have opted out of Medicare has far less exposure under those two statutes than an insurance-based practice, but not none: the specialist, imaging center or laboratory you refer to usually does bill Medicare or Medicaid for your patients, so a payment to you for those referrals is still federal-program business. Separately, most states have their own fee-splitting, anti-kickback and self-referral laws that apply regardless of who pays.
+
+    Treat referral fees and percentage-of-revenue arrangements as off limits, and have a healthcare attorney review any shared-space, medical-director or co-marketing agreement before you sign. See [Corporate Practice of Medicine](../compliance-legal/corporate-practice-medicine.md) for the state fee-splitting rules.
+
 ---
 
 ## When Specialists Don't Understand DPC
@@ -208,6 +215,11 @@ Some specialists may refer patients to you. Be responsive and appreciate the tru
 **"Is this a concierge practice?":**
 - Brief DPC explanation if they're curious
 - Focus on what matters: the patient and their needs
+
+**"Can Medicare pay if the referring physician opted out?":**
+- Yes. Your opt-out ends Medicare payment for your own services only. You may still order tests and refer beneficiaries, and the specialist, laboratory or imaging center bills Medicare as usual, provided you are not paid for those services ([42 CFR 405.425](https://www.ecfr.gov/current/title-42/section-405.425)). Keep your opt-out current with your MAC so the ordering check succeeds.
+- Your Medicare patients sign a private contract with you before any service; the contract must state that it covers services Medicare would otherwise pay for. If a beneficiary who has no private contract with you needs emergency or urgent care, you must bill Medicare for that care ([42 CFR 405.440](https://www.ecfr.gov/current/title-42/section-405.440)).
+- See the [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md).
 
 ### Handling Friction
 
@@ -272,6 +284,18 @@ Remove specialists who consistently underperform.
 - [Lab & Imaging Integration](../technology/lab-imaging-integration.md)
 - [Community Outreach Strategies](../marketing/community-outreach-strategies.md)
 - [Patient Communication Tools](../technology/patient-communication-tools.md)
+- [Medicare Opt-Out Guide](../compliance-legal/medicare-opt-out-guide.md)
+- [Corporate Practice of Medicine](../compliance-legal/corporate-practice-medicine.md) - State fee-splitting and referral rules
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 

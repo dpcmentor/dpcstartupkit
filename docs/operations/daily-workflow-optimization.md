@@ -188,7 +188,7 @@ For each scheduled patient:
 Use 5-10 minute buffers for:
 - Quick chart completion
 - Brief messages
-- Prescription refills
+- Prescription refills (see the note on controlled substances below)
 - Simple result notifications
 - Mental reset
 
@@ -245,6 +245,9 @@ Patient messages, results, and tasks can overwhelm you if not managed systematic
 "Your lab results are in and look [normal/good/require follow-up]. [Brief interpretation]. [Next steps if any]."
 
 "I've sent a refill for [medication] to [pharmacy]. Please allow 24-48 hours for processing."
+
+!!! warning "Subject to change: controlled-substance refills and telehealth"
+    Controlled-substance refills are not a between-patients task. Check your state PDMP, confirm the treatment agreement is current, and document the visit interval your state requires. If you see the patient only by telehealth, the DEA flexibility that lets you prescribe controlled substances after a real-time audio-video visit without a prior in-person examination runs through 2026-12-31 (21 CFR 1307.41, fourth extension); audio-only visits suffice only for Schedule III–V medications for opioid use disorder, and state law may be stricter. You must be licensed in the state where the patient is located. See [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md#telemedicine-prescribing) and [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md).
 
 ---
 
@@ -327,8 +330,8 @@ Patient messages, results, and tasks can overwhelm you if not managed systematic
 - Minimize movement
 
 **Patient communication:**
-- Set expectations about response times
-- Use patient portal
+- Set expectations about response times (write them into the membership agreement and the welcome email)
+- Use a secure messaging channel or patient portal for clinical content; ordinary email and SMS are not secure (see [Patient Communication Tools](../technology/patient-communication-tools.md))
 - Provide clear instructions
 - Reduce unnecessary back-and-forth
 
@@ -389,11 +392,11 @@ Patient messages, results, and tasks can overwhelm you if not managed systematic
 ### Virtual Support Options
 
 As practice grows, consider:
-- Virtual assistant (scheduling, messages)
-- Virtual scribe (documentation)
-- Virtual receptionist (phone)
+- Virtual assistant (scheduling, messages); see [Hiring Your First Employee](hiring-your-first-employee.md#virtual-assistant-remote) for the contractor-versus-employee question
+- Virtual or AI scribe (documentation); see [AI Clinical Tools](../technology/ai-clinical-tools.md) for what to evaluate
+- Virtual receptionist or answering service (phone); see [After-Hours Coverage](after-hours-coverage.md)
 
-Can add without in-person overhead.
+These can be added without in-person overhead. Any vendor that handles patient information should sign a BAA (see [BAA Requirements](../compliance-legal/baa-requirements.md)); the kit endorses no vendor.
 
 ---
 
@@ -425,7 +428,7 @@ Can add without in-person overhead.
 ### During Patient Hours
 - [ ] Document in real-time (or immediately after)
 - [ ] Complete orders during visit
-- [ ] Use kit-templates/handouts
+- [ ] Use templates and handouts
 - [ ] Maintain schedule
 
 ### Between Patients
@@ -447,6 +450,20 @@ Can add without in-person overhead.
 - [Scheduling Systems](../technology/scheduling-systems.md) - Scheduling optimization
 - [Patient Communication Tools](../technology/patient-communication-tools.md) - Communication efficiency
 - [Equipment and Supplies Checklist](equipment-supplies-checklist.md) - Supplies management
+- [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md) - Refill and telemedicine prescribing rules
+- [Required Documentation](../compliance-legal/required-documentation.md) - Record retention and patient access
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
