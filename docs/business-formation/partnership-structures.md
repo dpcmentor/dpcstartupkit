@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Adding partners to a DPC practice is a major decision that affects your autonomy, income, and exit options. Most DPC practices start solo and many stay that way. If you do partner, get the agreements right from the start.
 
+!!! note "About the figures on this page"
+    Dollar amounts, percentages and timelines are estimates unless a source is linked next to them. Prices, valuations and market norms vary by state, market and practice; treat them as orders of magnitude and confirm with your own attorney and accountant before you rely on them.
+
 ---
 
 ## Do You Need a Partner?
@@ -135,6 +138,9 @@
 - Corporate formalities required
 - May have tax advantages
 
+!!! note "Bringing in a non-physician partner"
+    Ownership and revenue-sharing among the physician-owners themselves (the compensation models below) is ordinary partnership economics, not fee splitting. If a partner is not a licensed physician, or you're structuring compensation for someone who refers patients to the practice, corporate-practice-of-medicine and fee-splitting rules can restrict who may own equity and how compensation may be calculated. See [Corporate Practice of Medicine](../compliance-legal/corporate-practice-medicine.md).
+
 ### Key Documents Needed
 
 1. **Operating/Shareholder Agreement** - Core partnership terms
@@ -204,13 +210,16 @@
 
 ### Valuation Methods
 
+!!! warning "No formula is the standard"
+    There is no single accepted valuation method for a DPC practice, and no regulator or professional body has blessed one of the ranges below as typical. Practice value depends heavily on panel size, payer/pricing mix, physician-dependence, and local market. Have a qualified valuation professional or your accountant value the practice rather than applying a rule of thumb, and put the method and the trigger for re-valuing it in the buy-sell agreement itself.
+
 **Multiple of revenue:**
-- Typical: 0.5x - 1.5x annual revenue
+- Sometimes seen: a fraction to low multiple of annual revenue
 - Simple to calculate
-- Common for DPC practices
+- Not a recognized industry standard for DPC specifically
 
 **Multiple of earnings:**
-- EBITDA multiple (2-4x)
+- EBITDA multiple
 - More complex
 - Better reflects profitability
 
@@ -245,8 +254,10 @@
 **Typical terms:**
 - Geographic radius: 5-25 miles
 - Time period: 1-3 years
-- Enforceability varies by state
 - Must be reasonable
+
+!!! warning "Enforceability is state law, not a federal rule"
+    Non-compete enforceability is a matter of state law and varies dramatically — some states refuse to enforce most physician non-competes, others enforce them if "reasonable," and a growing list ban or cap them specifically. There is no federal ban: the FTC's 2024 Non-Compete Clause Rule was vacated by a federal court before it took effect, and the FTC conceded the vacatur in September 2025. See [Transitioning from an Existing Practice](../operations/transitioning-from-practice.md#review-your-employment-contract) for the fuller explanation and consult an employment attorney in your state before drafting or relying on one.
 
 ---
 
@@ -310,14 +321,26 @@ Watch for these warning signs:
 ## Related Guides
 
 - [Choosing a Legal Entity](choosing-legal-entity.md)
+- [Corporate Practice of Medicine](../compliance-legal/corporate-practice-medicine.md)
 - [Scaling Your Practice](../operations/scaling-your-practice.md)
 - [Exit Planning](exit-planning.md)
 - [Working with Attorneys](working-with-attorneys.md)
+- [Transitioning from an Existing Practice](../operations/transitioning-from-practice.md) - non-compete enforceability
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
 !!! warning "Caution"
     Partnership agreements are complex legal documents. Always work with an experienced healthcare attorney. This guide provides concepts only, not legal advice.
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
