@@ -12,6 +12,9 @@ For technical website setup, see [Practice Website Essentials](../technology/pra
 - Defined pricing structure
 - Understanding of your target patients
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Starting Lean: Website Progression
@@ -46,7 +49,7 @@ If you're just starting, one page with these sections works:
 6. How to join / contact
 
 **Time to create:** 2-4 hours
-**Cost:** Free (Carrd.co) to $12-$20/month (Squarespace/Wix)
+**Cost:** Free tier available (Carrd) up to roughly $20-$50/month for a hosted site builder (Squarespace, Wix and similar); see [Service Providers](../resources/service-providers.md#website) for current pricing rather than treating this as fixed.
 
 ---
 
@@ -280,7 +283,7 @@ Educate visitors who don't know what Direct Primary Care is.
 
 > **DPC vs. Concierge Medicine**
 >
-> You may have heard of concierge medicine—it's similar but different. Concierge practices typically charge $2,000-$10,000+ per year AND still bill your insurance for services. DPC is more affordable ($600-$1,800/year for most practices) and doesn't involve insurance billing at all.
+> You may have heard of concierge medicine—it's similar but different. Concierge practices typically charge $2,000-$10,000+ per year AND still bill your insurance for services. DPC is more affordable — commonly $600-$1,800/year, with a national average adult membership around $1,184/year ($98.64/month) per the [State of DPC 2026 survey](../pricing-membership/pricing-your-practice.md) — and doesn't involve insurance billing at all.
 >
 > DPC was designed to be accessible to more than just the wealthy.
 
@@ -390,6 +393,9 @@ Transparent pricing (a key DPC advantage—don't hide it).
 >
 > **One-time enrollment fee:** $50 per person (waived for annual prepayment)
 
+!!! note "2026 HSA rule for family and tiered pricing"
+    If a household member is enrolled in an HSA-qualified high-deductible health plan, they keep HSA eligibility only if your DPC fee is no more than $150/month per individual or $300/month for an arrangement covering more than one person (26 USC 223(c)(1)(E); [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). See [Family Pricing Strategies](../pricing-membership/family-pricing-strategies.md) before publishing a family or tiered price table.
+
 ---
 
 **2. What's Included Summary**
@@ -452,7 +458,7 @@ A: You can absolutely use DPC alongside your insurance. Many members find this c
 A: We coordinate all referrals to specialists. Dr. [Name] will recommend trusted specialists and communicate with them about your care. You would use your insurance for specialist visits.
 
 **Q: Can I use my HSA/FSA?**
-A: Yes! DPC memberships are generally HSA/FSA eligible expenses.
+A: Since January 1, 2026, a DPC membership fee can qualify as an HSA-eligible expense without disqualifying you from HSA participation, but only up to $150/month per individual or $300/month for a family arrangement (26 USC 223(c)(1)(E); [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). Above that, HSA-qualified plan holders can lose HSA eligibility entirely. FSA treatment may differ — confirm with your accountant before advertising this to patients.
 
 **Q: What if I have an emergency?**
 A: For true emergencies (chest pain, difficulty breathing, severe injuries), call 911 or go to the nearest ER. For urgent but not emergency issues, contact us first—we can often help you avoid the ER.
@@ -518,11 +524,24 @@ A: Yes, Dr. [Name] is a fully licensed physician who prescribes medications, ord
 
 ---
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+---
+
 ## Resources
 
 - [Practice Website Essentials](../technology/practice-website-essentials.md) - Technical setup
 - [Building Your Brand](building-your-brand.md) - Voice and messaging
 - [Explaining DPC to Patients](explaining-dpc-to-patients.md) - Core messaging
+- [Service Providers](../resources/service-providers.md) - Current website and design vendor pricing
+- [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) - National DPC pricing data
+- [Family Pricing Strategies](../pricing-membership/family-pricing-strategies.md) - 2026 HSA fee caps
 
 ---
 
@@ -531,3 +550,7 @@ A: Yes, Dr. [Name] is a fully licensed physician who prescribes medications, ord
 After creating your content:
 - [Practice Website Essentials](../technology/practice-website-essentials.md) - Build the site
 - [Launch Marketing Plan](launch-marketing-plan.md) - Drive traffic
+
+---
+
+*Read through and figures checked on 2026-09-23.*

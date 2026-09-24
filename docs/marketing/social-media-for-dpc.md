@@ -356,12 +356,22 @@ Social media ROI is hard to measure directly. View it as one component of overal
 
 ---
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+---
+
 ## Resources
 
 - [Building Your Brand](building-your-brand.md) - Visual identity
 - [Launch Marketing Plan](launch-marketing-plan.md) - Overall marketing strategy
 - [Community Outreach Strategies](community-outreach-strategies.md) - Offline visibility
-- Buffer or Hootsuite - Scheduling tools
+- Buffer or Hootsuite - Scheduling tools (neither is required; several other schedulers cover the same platforms)
 
 ---
 
@@ -370,3 +380,7 @@ Social media ROI is hard to measure directly. View it as one component of overal
 After establishing social media presence:
 - [Community Outreach Strategies](community-outreach-strategies.md) - Offline marketing
 - **Patient Referral Programs** — Leveraging satisfied patients *(planned)*
+
+---
+
+*Read through and figures checked on 2026-09-23.*

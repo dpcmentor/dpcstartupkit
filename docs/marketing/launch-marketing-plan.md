@@ -6,6 +6,9 @@ Your launch marketing creates initial awareness and drives your first patients. 
 
 This guide provides a practical, staged approach to launch marketing that works on any budget.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Branding at least minimally developed (see [Building Your Brand](building-your-brand.md))
@@ -263,7 +266,7 @@ This guide provides a practical, staged approach to launch marketing that works 
 
 **Options:**
 - Google Ads (search and local)
-- Facebook/Instagram ads
+- Meta ads (Facebook/Instagram, run through Meta Ads Manager)
 - Local print advertising
 - Direct mail
 - Sponsored content
@@ -406,6 +409,18 @@ Track responses. This tells you what's working.
 - [Website Content Guide](website-content-guide.md) - Website marketing
 - [Social Media for DPC](social-media-for-dpc.md) - Social media tactics
 - [Community Outreach Strategies](community-outreach-strategies.md) - Local visibility
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
