@@ -4,6 +4,11 @@
 
 Appointment scheduling in DPC is simpler than traditional practice—no complex insurance considerations, fewer barriers to access—but the right system still matters for efficiency and patient experience. This guide covers scheduling options from simple to sophisticated.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
+Vendors are named as examples, not endorsements. Compare at least two before you commit.
+
 ## Prerequisites
 
 - EMR selected or in process (see [EMR Selection Guide](emr-selection-guide.md))
@@ -77,7 +82,7 @@ Appointment scheduling in DPC is simpler than traditional practice—no complex 
 
 **Popular tools:**
 - Calendly (free tier available)
-- Acuity Scheduling ($15-$45/month)
+- Acuity Scheduling (still called Acuity Scheduling—it was briefly rebranded "Squarespace Scheduling" after Squarespace's acquisition, then reunited under the Acuity name; Squarespace still owns it)
 - Square Appointments (free for solo)
 - SimplyBook.me
 
@@ -99,10 +104,14 @@ Appointment scheduling in DPC is simpler than traditional practice—no complex 
 - Limited appointment type complexity
 - Separate system to manage
 
-**Costs:**
-- Calendly: Free (basic) to $12-$20/month
-- Acuity: $15-$45/month
-- Square Appointments: Free for individuals
+**Costs** (checked on each vendor's own pricing page 2026-09-24):
+- [Calendly](https://calendly.com/pricing): Free (basic), Standard $10/seat/month, Teams $16/seat/month
+- [Acuity Scheduling](https://www.squarespace.com/scheduling): Starter ~$16-20/month, Standard ~$27-34/month, Premium ~$49-61/month (monthly vs. annual billing); the HIPAA BAA option is only on the Premium tier
+- [Square Appointments](https://squareup.com/us/en/appointments/pricing): Free for a solo location, Plus $49/month per location, Premium $149/month per location
+- [SimplyBook.me](https://simplybook.me/en/pricing): Free (50 bookings), Basic ~$14/month, Standard ~$30/month, Premium ~$60/month (annual billing); a BAA is available on request starting at the Standard tier
+
+!!! warning "BAA before you book PHI"
+    A self-scheduling tool that captures the patient's name and reason for the visit is handling data that can be PHI. Calendly does not publish HIPAA BAA availability on its security page—don't use it for anything beyond a bare time slot without confirming directly with Calendly first. Acuity (Premium tier), Square (conditionally, per its user agreement), and SimplyBook.me (Standard tier and up) do offer a BAA. Whether your practice needs one at all depends on whether you're a HIPAA covered entity—see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) and [BAA Requirements](../compliance-legal/baa-requirements.md).
 
 ---
 
@@ -136,14 +145,14 @@ Appointment scheduling in DPC is simpler than traditional practice—no complex 
 - Jane App (popular for small practices)
 - Practice Fusion (EMR with scheduling)
 
+These three—and other EMR/practice-management options—are compared for pricing and BAA availability in the [EMR Vendor Directory](emr-vendor-directory.md); this page won't repeat those figures since they change independently of the scheduling-specific tools above.
+
 **Features:**
 - Full scheduling functionality
 - Patient self-scheduling
 - Reminders and confirmations
 - Reporting
 - Often includes other practice management
-
-**Costs:** Varies; typically $25-$100+/month
 
 ---
 
@@ -336,7 +345,10 @@ If using external scheduling:
 ## Resources
 
 - [EMR Selection Guide](emr-selection-guide.md) - EMR scheduling features
+- [EMR Vendor Directory](emr-vendor-directory.md) - Pricing and BAA comparison for Hint Health, Jane App, Practice Fusion and others
 - [Patient Communication Tools](patient-communication-tools.md) - Communication approach
+- [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) - Whether your practice is a covered entity
+- [BAA Requirements](../compliance-legal/baa-requirements.md) - When you need a signed BAA
 - [Daily Workflow Optimization](../operations/daily-workflow-optimization.md) - Schedule efficiency
 
 ---
@@ -346,3 +358,15 @@ If using external scheduling:
 After setting up scheduling:
 - [Lab and Imaging Integration](lab-imaging-integration.md) - Clinical workflows
 - [Daily Workflow Optimization](../operations/daily-workflow-optimization.md) - Practice efficiency
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*

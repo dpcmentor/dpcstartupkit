@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Concise, plain-language examples for common DPC practice documents. Use these as starting points — customize for your practice and have an attorney review before use.
 
+!!! note
+    This page covers consent, notice and policy documents, not the membership agreement itself. The kit does not publish membership agreement wording; see [Membership Agreement Essentials](../../pricing-membership/membership-agreement-essentials.md) for what that document must cover and why the kit leaves the drafting to your attorney.
+
 ---
 
 ## Table of Contents
@@ -43,6 +46,8 @@
 > If signed by someone other than patient:
 > Relationship to patient: _______________
 
+See [Required Documentation](../../compliance-legal/required-documentation.md#informed-consent-documentation) for when written consent is needed beyond this general form, and what a procedure-specific consent should include.
+
 ### Key Elements
 
 - [ ] Clear statement of consent
@@ -68,9 +73,12 @@ Your Notice of Privacy Practices must explain:
 1. **How we use your information** — Treatment, payment, healthcare operations
 2. **When we may share without your permission** — Public health, legal requirements, safety
 3. **When we need your written permission** — Marketing, most sharing with third parties
-4. **Your rights** — Access records, request corrections, request restrictions, receive confidential communications, get a copy of the notice, file complaints
+4. **Your rights** — Access records, request corrections, request restrictions (including your right to insist we not tell your health plan about an item you paid for in full out of pocket), receive confidential communications, get a copy of the notice, file complaints
 5. **Our duties** — Maintain privacy, notify you of breaches, follow the notice
 6. **Contact information** — Privacy officer or contact for questions/complaints
+7. **Substance use disorder (42 CFR Part 2) statements** — required since 2026-02-16 if you create, receive, or maintain SUD treatment records
+
+This is a summary, not the full list of required elements — see [HIPAA Compliance Basics](../../compliance-legal/hipaa-compliance-basics.md#step-5-create-notice-of-privacy-practices) for everything [45 CFR 164.520(b)(1)](https://www.ecfr.gov/current/title-45/section-164.520) requires, including the verbatim header sentence and the effective date.
 
 ### Plain Language Opening (Example)
 
@@ -87,8 +95,8 @@ Your Notice of Privacy Practices must explain:
 
 ### Resources
 
-- [HHS Model Notice for Healthcare Providers](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/privacy-practices-health-care-provider/index.html)
-- [AMA HIPAA Notice Template](https://www.ama-assn.org/) (search "HIPAA notice template")
+- [HHS Model Notices of Privacy Practices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html) (2026 versions; same link used in [HIPAA Compliance Basics](../../compliance-legal/hipaa-compliance-basics.md))
+- [AMA Practice Management resources](https://www.ama-assn.org/practice-management) (search "HIPAA notice template")
 
 ---
 
@@ -121,6 +129,8 @@ Your Notice of Privacy Practices must explain:
 > I have read and understand this financial policy.
 >
 > Signature: _______________ Date: _______________
+
+A financial policy is a companion document, not a substitute for your membership agreement. See [Membership Agreement Essentials](../../pricing-membership/membership-agreement-essentials.md#5-fees-and-payment-terms) for what the agreement itself must cover, and [Handling Cancellations & Refunds](../../pricing-membership/handling-cancellations-refunds.md) for what your failed-payment and suspension language needs to say.
 
 ### Key Elements
 
@@ -164,6 +174,8 @@ Your Notice of Privacy Practices must explain:
 **Interstate practice (if applicable):**
 > I understand that my physician is licensed in [State] and that I must be physically located in [State] during telehealth visits.
 
+See [Telehealth Legal Considerations](../../compliance-legal/telehealth-legal-considerations.md) for the full licensed-where-the-patient-is-located rule and the current DEA telemedicine prescribing flexibilities.
+
 ### Key Elements
 
 - [ ] Definition of telehealth
@@ -203,9 +215,11 @@ Your Notice of Privacy Practices must explain:
 >
 > **This authorization expires:** _______________ (date or event)
 >
-> I understand I may revoke this authorization in writing at any time, except to the extent that action has already been taken based on this authorization.
+> I understand I may revoke this authorization in writing at any time, except to the extent that action has already been taken based on this authorization. [Practice Name] will not condition my treatment on whether I sign this authorization. I understand that once my information is disclosed under this authorization, the recipient may redisclose it, and it may no longer be protected by federal privacy law.
 >
 > Signature: _______________ Date: _______________
+
+The revocation, non-conditioning and redisclosure statements above are all required elements of a valid authorization, not optional wording — see [Required Documentation](../../compliance-legal/required-documentation.md#records-requests-and-release) for the complete list and what happens if one is missing.
 
 ### Key Elements
 
@@ -215,6 +229,8 @@ Your Notice of Privacy Practices must explain:
 - [ ] Purpose of release
 - [ ] Expiration date
 - [ ] Right to revoke
+- [ ] Statement that treatment is not conditioned on signing
+- [ ] Statement that redisclosed information may lose HIPAA protection
 - [ ] Signature and date
 
 ---
@@ -247,6 +263,8 @@ Your Notice of Privacy Practices must explain:
 >
 > Patient Signature: _______________ Date: _______________
 > Physician Signature: _______________ Date: _______________
+
+This agreement is optional under federal law but recommended for chronic controlled substance therapy. See [Controlled Substances Compliance](../../compliance-legal/controlled-substances-compliance.md) for PDMP requirements, DEA registration rules and the current telemedicine prescribing flexibilities that this agreement doesn't cover.
 
 ### Key Elements
 
@@ -296,6 +314,8 @@ Your Notice of Privacy Practices must explain:
 >
 > Our commitment: We will respond to urgent messages within [X hours]. Routine messages are answered within [X business days].
 
+See [After-Hours Coverage](../../operations/after-hours-coverage.md) for the coverage models this policy language assumes and more sample policies by model.
+
 ### Key Elements
 
 - [ ] Emergency instructions (call 911)
@@ -339,6 +359,24 @@ Your Notice of Privacy Practices must explain:
 - Check your state medical board website
 - Consult a healthcare attorney in your state
 
+**Related kit guides for the full legal requirements behind each example above:**
+- [Required Documentation](../../compliance-legal/required-documentation.md) — informed consent and records release
+- [HIPAA Compliance Basics](../../compliance-legal/hipaa-compliance-basics.md) — Notice of Privacy Practices
+- [Telehealth Legal Considerations](../../compliance-legal/telehealth-legal-considerations.md) — telehealth consent
+- [Controlled Substances Compliance](../../compliance-legal/controlled-substances-compliance.md) — controlled substance agreements
+- [Membership Agreement Essentials](../../pricing-membership/membership-agreement-essentials.md) and [Handling Cancellations & Refunds](../../pricing-membership/handling-cancellations-refunds.md) — financial policy
+- [After-Hours Coverage](../../operations/after-hours-coverage.md) — after-hours policy
+
 ---
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
 *These templates are provided for educational purposes. Always consult with a healthcare attorney before implementing.*
+
+*Read through and figures checked on 2026-09-23.*

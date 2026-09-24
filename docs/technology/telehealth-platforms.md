@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Telehealth is a natural fit for DPC—no billing complexity, just clinical appropriateness. Start with free HIPAA-compliant options like Doxy.me, consider EMR-integrated solutions as you grow, and always verify BAA availability before using any platform.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Table of Contents
@@ -70,7 +73,7 @@ Video visits built into or tightly integrated with your EMR.
 - [Elation Health](https://www.elationhealth.com/) (built-in)
 - [Doxy.me](https://doxy.me/) (integrates with many EMRs)
 - [Spruce](https://www.sprucehealth.com/) (communication platform with video)
-- [Zoom for Healthcare](https://www.zoom.us/healthcare) (EMR integrations available)
+- [Zoom for Healthcare](https://www.zoom.com/en/industry/healthcare/) (EMR integrations available)
 
 **Pros:**
 - Single workflow for in-person and virtual visits
@@ -93,7 +96,7 @@ Dedicated telehealth platforms used alongside your EMR.
 
 **Examples:**
 - [Doxy.me](https://doxy.me/)
-- [Zoom for Healthcare](https://www.zoom.us/healthcare)
+- [Zoom for Healthcare](https://www.zoom.com/en/industry/healthcare/)
 - [Google Meet](https://meet.google.com/) (with BAA via Google Workspace)
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions) (with BAA)
 - [VSee](https://vsee.com/)
@@ -121,7 +124,7 @@ Broader patient communication tools that include video capability.
 
 **Examples:**
 - [Spruce Health](https://www.sprucehealth.com/)
-- [Klara](https://www.klara.com/)
+- [Klara](https://www.modmed.com/what-we-do/patient-engagement/) (a ModMed product; klara.com now redirects to ModMed's patient-engagement page)
 - [OhMD](https://www.ohmd.com/)
 - [Luma Health](https://www.lumahealth.io/)
 
@@ -195,9 +198,9 @@ Broader patient communication tools that include video capability.
 
 | Platform | Typical Cost | Notes |
 |----------|--------------|-------|
-| Doxy.me Professional | $35-$50/month | More features, branding |
-| Zoom for Healthcare | $150-$200/month | Enterprise features, BAA |
-| Spruce | $24-$49/month | Includes messaging |
+| Doxy.me paid tiers | Check [doxy.me/pricing](https://doxy.me/pricing) | Free tier's BAA covers a solo physician only; paid tiers add branding and multi-clinician BAA coverage |
+| Zoom Pro | ~$14-17/user/month | Self-serve BAA available on accounts with up to 9 licenses; the enterprise healthcare tier is not required ([zoom.com/en/pricing](https://zoom.com/en/pricing), checked 2026-09-24; see [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md#platform-requirements)) |
+| Spruce | $24-$49/month | Includes messaging ([sprucehealth.com/pricing](https://www.sprucehealth.com/pricing), checked 2026-09-24) |
 | Platform add-on to EMR | $0-$100/month | Varies by vendor |
 
 ### True Cost Calculation
@@ -225,19 +228,23 @@ Consider:
 - Audit capabilities
 
 **Platforms with BAA available:**
-- Doxy.me
-- Zoom for Healthcare
+- Doxy.me (free tier's BAA covers a solo physician only)
+- Zoom Pro (self-serve BAA on accounts up to 9 licenses; enterprise tier not required)
+- VSee (all paid plans; not the free VSee Messenger tier)
 - Google Workspace (Business tier+)
 - Microsoft 365 (Business tier+)
 - Most healthcare-specific platforms
+
+See [Telehealth Platform Requirements](../compliance-legal/telehealth-legal-considerations.md#platform-requirements) for the settled facts on these and for what "HIPAA-compliant" does and doesn't mean.
 
 !!! warning
     **Platforms that are NOT HIPAA compliant:**
     - Consumer Zoom (free version)
     - FaceTime (no BAA available)
-    - Skype (consumer)
     - WhatsApp
     - Standard Google Meet (without Workspace BAA)
+
+    Skype was retired on 2025-05-05 and is no longer an option at all, compliant or not.
 
 ---
 
@@ -251,8 +258,8 @@ Consider:
 - Out-of-state patient restrictions
 
 **Key considerations:**
-- Most states require you be licensed where the patient is located
-- DEA recently clarified rules for controlled substance prescribing via telehealth
+- You must be licensed in the state where the patient is physically located at the time of the visit — see [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md#the-fundamental-rule) for the rule and the Interstate Medical Licensure Compact
+- DEA telemedicine prescribing flexibilities for controlled substances run through 2026-12-31 — see [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md#controlled-substances) and [Controlled Substances Compliance](../compliance-legal/controlled-substances-compliance.md)
 - Some states require specific telehealth consent
 - Interstate telehealth compacts may expand options
 
@@ -363,6 +370,8 @@ Unlike fee-for-service, DPC allows you to choose the right modality without fina
 
 ## Telehealth Consent
 
+See [Informed Consent for Telehealth](../compliance-legal/telehealth-legal-considerations.md#informed-consent-for-telehealth) for the full list of elements state boards expect; the summary below is a starting point, not the complete requirement.
+
 ### Recommended Elements
 
 **Document patient acknowledgment of:**
@@ -379,7 +388,7 @@ Unlike fee-for-service, DPC allows you to choose the right modality without fina
 - Included in membership agreement
 
 **Sample Language:**
-> I understand that telehealth involves the use of electronic communication to enable healthcare providers to share individual patient medical information for the purpose of improving patient care. I understand that telehealth is not appropriate for emergencies and that I should call 911 or go to the nearest emergency room if I experience a medical emergency.
+> I understand that telehealth involves the use of electronic communication to enable physicians to share individual patient medical information for the purpose of improving patient care. I understand that telehealth is not appropriate for emergencies and that I should call 911 or go to the nearest emergency room if I experience a medical emergency.
 
 ---
 
@@ -464,10 +473,21 @@ Periodically ask:
 
 ## Resources
 
+- [Telehealth Legal Considerations](../compliance-legal/telehealth-legal-considerations.md) - Licensure, DEA prescribing rules and BAA requirements
 - [Center for Connected Health Policy](https://www.cchpca.org/) - State telehealth laws
 - [HHS Telehealth Resources](https://telehealth.hhs.gov/)
 - [Federation of State Medical Boards](https://www.fsmb.org/) - Licensing information
 - Your EMR vendor's telehealth documentation
+
+*Read through and figures checked on 2026-09-23.*
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
