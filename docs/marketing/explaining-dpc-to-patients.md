@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Lead with what patients hate about current healthcare (long waits, short visits, surprise bills), then explain DPC as the solution. Use simple analogies like "Netflix for primary care" or "gym membership for healthcare." Always clarify DPC is not insurance and doesn't replace coverage for hospitals, specialists, or emergencies.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ---
 
 ## Table of Contents
@@ -227,7 +230,7 @@ When explaining DPC, always cover:
 
 **Problem:** Traditional healthcare is frustrating (long waits, short visits, billing hassles)
 
-**Solution:** DPC removes insurance from primary care; you pay directly for comprehensive care
+**Solution:** DPC takes insurance billing out of the primary care visit; you pay the physician directly for comprehensive primary care, and keep insurance for hospitalization, specialists, and emergencies
 
 **Benefit:** You get the access and attention you deserve, I get to practice medicine the way it should be practiced
 
@@ -353,6 +356,8 @@ For objection handling:
 - [Practice Website Essentials](../technology/practice-website-essentials.md)
 - [DPC Alliance](https://www.dpcalliance.org/) - Member organization; patient-facing explainers are also at the [DPC Coalition](https://www.dpcare.org/)
 
+*Read through and figures checked on 2026-09-23.*
+
 ---
 
 ## Next Steps
@@ -361,3 +366,13 @@ After mastering your explanation:
 - [Building Your Brand](building-your-brand.md) - Create consistent messaging
 - [Website Content Guide](website-content-guide.md) - Translate to written content
 - [Launch Marketing Plan](launch-marketing-plan.md) - Get the word out
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

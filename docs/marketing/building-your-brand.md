@@ -1,6 +1,9 @@
 # Building Your Brand
 
-> **Quick Summary:** Your brand is how patients experience your practice. Start with your authentic story and values—logos and visuals can come later. Before finalizing your practice name, secure matching domain and social media handles across all platforms using a service like Namechk.
+> **Quick Summary:** Your brand is how patients experience your practice. Start with your authentic story and values—logos and visuals can come later. Before finalizing your practice name, secure matching domain and social media handles across all platforms using a handle-checking service (several are listed below).
+
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
 
 ---
 
@@ -154,7 +157,7 @@ You cannot appeal to everyone. Define who you most want to serve:
 - 30-40 years old parents
 - Children ages 0-12
 - Values convenience, trust, comprehensive care
-- Frustrated by juggling multiple providers, long waits
+- Frustrated by juggling multiple physicians, long waits
 - Budget-conscious but willing to pay for value
 - Wants a doctor who knows their whole family
 
@@ -235,8 +238,8 @@ Develop 3-5 key messages you repeat consistently:
 **Process for selecting your name:**
 
 1. Brainstorm 10-15 options
-2. Check domain availability (GoDaddy, Namecheap, Google Domains)
-3. Check social handle availability (Namechk, KnowEm)
+2. Check domain availability (GoDaddy, Namecheap, Squarespace Domains — Google Domains shut down in 2023 and its registrations moved to Squarespace)
+3. Check social handle availability (Namechk; see the note below on handle-checker tools)
 4. Check your state's business name registry
 5. Check state medical board rules on practice naming
 6. Say it out loud — does it sound professional on the phone?
@@ -267,14 +270,16 @@ Before finalizing your practice name, secure matching handles across all platfor
 
 ### Handle Checking Services
 
-These services check username availability across multiple platforms simultaneously:
+These services check username availability across multiple platforms simultaneously. Links checked 2026-09-23; Namechk and Instant Username Search block automated requests (bot-detection, not a sign either site is down)—confirm current terms on their own sites.
 
 | Service | Platforms Checked | Cost |
 |---------|------------------|------|
 | [Namechk](https://namechk.com/) | Domains + 100+ social platforms | Free |
-| [KnowEm](https://knowem.com/) | 500+ social networks | Free check; paid registration |
 | [Namecheckr](https://www.namecheckr.com/) | Domains + social platforms | Free |
 | [Instant Username Search](https://instantusername.com/) | Popular platforms | Free |
+
+!!! warning "Subject to change"
+    KnowEm's domain (knowem.com) no longer resolves as of this read-through (2026-09-23); it appears to have shut down. It has been removed from this table—check for a successor before recommending it.
 
 ### What to Secure
 
@@ -310,9 +315,11 @@ These services check username availability across multiple platforms simultaneou
 
 ## Visual Identity by Stage
 
+The cost bands below are rough stage-of-growth budgets, not vendor quotes. For current, checked prices on the specific tools named (Canva, Squarespace, Wix, 99designs, and others), see the [Service Providers guide](../resources/service-providers.md#marketing-and-web-services).
+
 ### Stage 1: Just Starting (0-25 Patients)
 
-**Logo:** Your practice name in a clean, professional font. Create free in Canva or Google Docs.
+**Logo:** Your practice name in a clean, professional font. Create free in [Canva](https://www.canva.com/) or Google Docs.
 
 **Colors:** Pick one primary color you like. Use it consistently.
 
@@ -326,13 +333,13 @@ These services check username availability across multiple platforms simultaneou
 
 ### Stage 2: Growing (25-100 Patients)
 
-**Logo:** Consider a simple upgrade—Fiverr ($25-$100) or Canva Pro templates.
+**Logo:** Consider a simple upgrade—a Fiverr freelancer, a design-contest site such as 99designs, or Canva Pro templates (see the [Service Providers guide](../resources/service-providers.md#logo-and-branding) for current price ranges on each).
 
 **Colors:** Define 2-3 colors. Write down the hex codes so you use them consistently.
 
 **Photography:** Invest in a professional headshot ($100-$200).
 
-**Website:** Simple Squarespace or Wix site with consistent colors and messaging.
+**Website:** A simple site on a platform such as Squarespace or Wix, with consistent colors and messaging (see the [Service Providers guide](../resources/service-providers.md#website) for current pricing).
 
 **Cost:** $200-$500
 
@@ -340,7 +347,7 @@ These services check username availability across multiple platforms simultaneou
 
 ### Stage 3: Established (100+ Patients)
 
-**Logo:** Professional design if desired ($200-$500).
+**Logo:** Professional design if desired—see the [Service Providers guide](../resources/service-providers.md#logo-and-branding) for current price ranges from a local designer or branding agency.
 
 **Brand guidelines:** Simple one-page document with colors, fonts, logo usage.
 
@@ -481,8 +488,11 @@ These services check username availability across multiple platforms simultaneou
 - [Canva](https://www.canva.com/) - DIY design tool
 - [Coolors](https://coolors.co/) - Color palette generator
 - [Google Fonts](https://fonts.google.com/) - Free professional fonts
+- [Service Providers](../resources/service-providers.md) - Current, checked prices for website builders, logo/design options, and other vendors named on this page
 - [Practice Website Essentials](../technology/practice-website-essentials.md)
 - [Website Content Guide](website-content-guide.md)
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
@@ -492,3 +502,13 @@ After developing your brand foundation:
 - [Practice Website Essentials](../technology/practice-website-essentials.md) - Apply brand online
 - [Website Content Guide](website-content-guide.md) - Write branded content
 - [Launch Marketing Plan](launch-marketing-plan.md) - Spread the word
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

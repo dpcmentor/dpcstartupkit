@@ -367,6 +367,18 @@ As practice fills:
 - [Social Media for DPC](social-media-for-dpc.md) - Online visibility
 - Local Chamber of Commerce - Networking opportunities
 
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
 ---
 
 ## Next Steps
