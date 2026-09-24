@@ -110,11 +110,11 @@ practicing in that state may promote one to Reviewed.
 |----------|--------|----------|------|-------|
 | [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Read-through | JF | 2026-06-15 | |
 | [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | New - DPC EMR comparison |
-| [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Not Reviewed | | | |
-| [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Not Reviewed | | | |
-| [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Not Reviewed | | | |
-| [scheduling-systems.md](docs/technology/scheduling-systems.md) | Not Reviewed | | | |
-| [lab-imaging-integration.md](docs/technology/lab-imaging-integration.md) | Not Reviewed | | | |
+| [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Read-through | JF | 2026-09-24 | Zoom pricing corrected 10x too high; Klara acquired by ModMed; Skype retirement reflected |
+| [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Read-through | JF | 2026-09-24 | OhMD price is now $300+/mo, was listed as $0-200; fax vendor BAA scope detailed |
+| [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Read-through | JF | 2026-09-24 | Builder prices updated; Google Domains removed (sold to Squarespace 2023); 2026 HSA note on tiered pricing |
+| [scheduling-systems.md](docs/technology/scheduling-systems.md) | Read-through | JF | 2026-09-24 | No HIPAA/BAA content despite handling PHI; added, with per-vendor BAA availability |
+| [lab-imaging-integration.md](docs/technology/lab-imaging-integration.md) | Read-through | JF | 2026-09-24 | A listed lab vendor domain now redirects through an ad-fingerprinting chain; removed; Healthcare Bluebook renamed Valenz Bluebook |
 | [ai-clinical-tools.md](docs/technology/ai-clinical-tools.md) | Reviewed | JF | 2026-09-22 | Every legal, regulatory and pricing claim checked against primary sources 2026-09-22; state AI-disclosure laws added |
 
 ## Marketing
@@ -187,7 +187,7 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [template-language-guide.md](docs/kit-templates/documents/template-language-guide.md) | Not Reviewed | | | |
+| [template-language-guide.md](docs/kit-templates/documents/template-language-guide.md) | Read-through | JF | 2026-09-24 | NPP example gains the 2026-02-16 Part 2 statements; records-release example was missing two federally required elements, fixed |
 
 ## State Guides
 
@@ -271,11 +271,11 @@ All 50 state guides require review. Each includes:
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [README.md](README.md) | Not Reviewed | | | |
+| [README.md](README.md) | Read-through | JF | 2026-09-24 | GitHub badge link 404s; repo is private, see maintainer note |
 | [index.md](docs/index.md) | Read-through | JF | 2026-09-22 | Home page; authorship claim aligned with About page; entity wording |
 | [getting-started.md](docs/getting-started.md) | Read-through | JF | 2026-09-22 | Template links now point at the files; timing wording |
 | [CONTRIBUTING.md](docs/CONTRIBUTING.md) | Read-through | JF | 2026-09-22 | Rewritten in #43/#44 |
-| [CONTENT-ROADMAP.md](CONTENT-ROADMAP.md) | Not Reviewed | | | |
+| [CONTENT-ROADMAP.md](CONTENT-ROADMAP.md) | Read-through | JF | 2026-09-24 | Status line added; 62 of 68 planned documents now written |
 
 ---
 

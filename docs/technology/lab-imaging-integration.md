@@ -4,7 +4,10 @@
 
 Laboratory and imaging services are essential components of primary care. While DPC practices don't typically perform these in-house, establishing efficient ordering, receiving results, and offering competitive pricing adds significant value for patients.
 
-This guide covers setting up lab and imaging workflows for your DPC practice.
+This guide covers setting up lab and imaging workflows for your DPC practice. For vendor comparisons, negotiated pricing detail, and the two rules to know before you sign with a lab, see [Lab Partners](../resources/lab-partners.md); this page focuses on the ordering and results workflow.
+
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
 
 ## Prerequisites
 
@@ -34,6 +37,9 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 
 ## Lab Services Options
 
+!!! tip
+    Before you sign with any lab, read [the two rules in Lab Partners](../resources/lab-partners.md#two-rules-before-you-sign-anything) — one about contracting, one about how you're allowed to price lab work for members versus non-members.
+
 ### Option 1: National Reference Labs
 
 **Major national labs:**
@@ -41,7 +47,7 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 - Labcorp
 
 **How to establish accounts:**
-- Apply as ordering provider
+- Apply as ordering physician
 - Need NPI and credentials
 - Set up electronic ordering/results (if available)
 - Negotiate pricing
@@ -80,11 +86,10 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 
 ### Option 3: Direct-Pay/DPC-Friendly Lab Services
 
-**Companies catering to DPC/cash-pay:**
+**Companies catering to DPC/cash-pay (names checked 2026-09-24):**
 - Ulta Lab Tests
 - True Health Labs
-- Access Medical Labs
-- Various regional options
+- Various regional options — confirm any vendor's site is still active and still theirs before you send patient orders there; domains in this space change hands
 
 **How they work:**
 - Pre-negotiated low pricing
@@ -125,7 +130,7 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 **CLIA Waiver:**
 - Required for in-office testing
 - "Waived" tests have simplified compliance
-- Apply through CMS
+- Apply via CMS Form 116 through your state agency; see [Lab Partners](../resources/lab-partners.md#in-office-testing) for the current fee
 - Maintain compliance documentation
 
 ---
@@ -153,13 +158,13 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 ### The Ordering Process
 
 **Standard workflow:**
-1. Provider decides labs needed
+1. Physician decides labs needed
 2. Order created in EMR (or paper req)
 3. Order transmitted to lab (or given to patient)
 4. Patient goes to draw site (or in-office)
 5. Lab processes specimen
 6. Results returned (electronic or fax)
-7. Provider reviews results
+7. Physician reviews results
 8. Patient notified
 9. Results documented in chart
 
@@ -185,6 +190,9 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 - Simpler for patient
 - More predictable costs
 
+!!! warning "Subject to change"
+    Bundling labs into the membership fee, or pricing pass-through labs differently for members than non-members, can affect your patients' HSA eligibility. See the HSA note in [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) before you design a tier around included labs.
+
 **Common DPC approach:** Pass through at cost or minimal markup; compete on convenience and value, not lab revenue.
 
 ---
@@ -201,7 +209,7 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 | Urinalysis | $50-$100 | $4-$8 |
 | Basic STI Panel | $200-$500 | $30-$60 |
 
-*Prices vary by vendor and volume; negotiate for your practice.*
+*Prices vary by vendor and volume; negotiate for your practice. See [Lab Partners](../resources/lab-partners.md#typical-lab-pricing-cash-pay) for a more detailed comparison table.*
 
 ---
 
@@ -238,21 +246,21 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 - Establish referral relationship
 - May get preferred pricing or faster scheduling
 
-**Resources:**
-- MDsave.com (imaging pricing transparency)
+**Resources (checked 2026-09-24):**
+- MDsave (imaging and procedure pricing marketplace, [mdsave.com](https://www.mdsave.com/))
 - Local cash-pay imaging centers
-- Healthcare Bluebook (pricing comparison)
+- Valenz Bluebook (pricing comparison; the former Healthcare Bluebook, now part of Valenz Health, [valenzhealth.com](https://www.valenzhealth.com/solutions/member-experience/))
 
 ---
 
 ### Imaging Workflow
 
-1. Provider determines imaging needed
+1. Physician determines imaging needed
 2. Order created with clinical indication
 3. Referral provided to patient with imaging options
 4. Patient schedules and has imaging
 5. Results sent to practice (fax/portal)
-6. Provider reviews and interprets
+6. Physician reviews and interprets
 7. Patient notified of results
 8. Follow-up arranged if needed
 
@@ -326,12 +334,28 @@ This guide covers setting up lab and imaging workflows for your DPC practice.
 
 ---
 
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+---
+
 ## Resources
 
+- [Lab Partners](../resources/lab-partners.md) - Vendor comparison, the BAA and pass-through-pricing rules, and negotiated pricing detail
+- [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) - 2026 HSA fee caps and the pass-through pricing requirement
 - [EMR Selection Guide](emr-selection-guide.md) - Integration capabilities
 - [Equipment and Supplies Checklist](../operations/equipment-supplies-checklist.md) - Point-of-care equipment
 - Quest Diagnostics, Labcorp - National lab accounts
 - DPC-friendly lab services (research current options)
+
+---
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 

@@ -29,6 +29,9 @@ Direct, accessible communication is a defining feature of Direct Primary Care. P
 
 This guide covers communication options and strategies for DPC practices.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Understanding of your communication availability commitment
@@ -94,21 +97,15 @@ This guide covers communication options and strategies for DPC practices.
 !!! tip
     Invest in a professional VoIP service from the start. The cost is minimal and the features (auto-attendant, call routing, mobile app) make a significant difference in how your practice is perceived.
 
-**[Webfones](https://www.webfones.com/) - Recommended VoIP for DPC:**
-- Designed with small medical practices in mind
-- HIPAA-compliant options
-- Professional features at competitive pricing
-- Auto-attendant and call routing
-- Mobile app for answering anywhere
-- Fax capability included
-- Reliable customer support
+VoIP vendors are named here as examples, not a recommendation — the kit does not endorse one; compare at least two before you sign (see the [Service Providers](../resources/service-providers.md) page for the same rule applied to other vendor categories).
 
-**Other VoIP options:**
-- [RingCentral](https://www.ringcentral.com/) - Enterprise features, higher cost
-- [Grasshopper](https://grasshopper.com/) - Good for solo practices
+**VoIP options to compare:**
+- [Webfones](https://www.webfones.com/) - Markets itself to small medical practices, with auto-attendant, call routing, a mobile app and included fax. Confirm BAA availability directly with the vendor before using it for anything involving PHI; it was not stated on the vendor's public site as of 2026-09-24
+- [RingCentral](https://www.ringcentral.com/) - Enterprise features, higher cost; lists HIPAA among its compliance certifications on its own site, but confirm BAA availability before use
+- [Grasshopper](https://grasshopper.com/) - Good for solo practices; pricing starts at $14/month ([grasshopper.com/pricing](https://grasshopper.com/pricing), checked 2026-09-24)
 
 **Costs:**
-- VoIP services: $20-$50/month
+- VoIP services: roughly $14-$60/month depending on features and user count
 
 ---
 
@@ -167,8 +164,8 @@ VoIP is typically the better choice for most DPC practices because:
     Secure messaging through a patient portal or HIPAA-compliant platform should be your primary channel for clinical discussions. It's documented, secure, and creates a record.
 
 **Options:**
-- EMR built-in portal ([Akute Health](https://www.akutehealth.com/), [Elation](https://www.elationhealth.com/), [Atlas](https://atlas.md/), etc.)
-- Standalone platforms ([Spruce](https://www.sprucehealth.com/), [Klara](https://www.klara.com/), [OhMD](https://www.ohmd.com/))
+- EMR built-in portal ([Akute Health](https://www.akutehealth.com/), [Elation](https://www.elationhealth.com/), [Atlas.md](https://atlas.md/), etc. — see the [EMR Vendor Directory](emr-vendor-directory.md) for a fuller comparison)
+- Standalone platforms ([Spruce](https://www.sprucehealth.com/), [Klara](https://www.modmed.com/what-we-do/patient-engagement/), [OhMD](https://www.ohmd.com/))
 - Dedicated patient communication apps
 
 **Features to look for:**
@@ -182,12 +179,12 @@ VoIP is typically the better choice for most DPC practices because:
 **Popular DPC platforms:**
 - **[Spruce](https://www.sprucehealth.com/):** Messaging, phone, video—all HIPAA-compliant
 - **[OhMD](https://www.ohmd.com/):** Secure texting and communication
-- **[Klara](https://www.klara.com/):** Patient communication platform
+- **[Klara](https://www.modmed.com/what-we-do/patient-engagement/):** Now a ModMed product (klara.com redirects to ModMed's patient-engagement page); patient communication platform
 - **EMR portals:** Varies by vendor
 
 **Costs:**
-- Spruce: $24-$49/month
-- OhMD: $0-$200/month depending on features
+- Spruce: $24-$49/month ([sprucehealth.com/pricing](https://www.sprucehealth.com/pricing), checked 2026-09-24)
+- OhMD: starting around $300/month for the base plan, more for AI/automation add-ons ([ohmd.com/pricing](https://www.ohmd.com/pricing/), checked 2026-09-24) — this is materially higher than older quoted ranges, so confirm current pricing before budgeting
 - EMR portals: Often included
 
 ---
@@ -217,7 +214,7 @@ See [Telehealth Platforms](telehealth-platforms.md) for detailed coverage.
 **Still necessary for healthcare communication.**
 
 Despite being outdated technology, fax remains common in healthcare for:
-- Receiving records from other providers
+- Receiving records from other physicians' offices
 - Sending referrals to specialists
 - Pharmacy communications
 - Insurance and administrative documents
@@ -228,11 +225,11 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 | Service | Cost | Features |
 |---------|------|----------|
-| [Humblefax](https://www.humblefax.com/) | Low-cost | Simple, straightforward |
-| [eFax](https://www.efax.com/) | $15-20/month | Established, mobile app |
+| [Humblefax](https://www.humblefax.com/) | $10/month, unlimited pages ([humblefax.com](https://www.humblefax.com/), checked 2026-09-24) | Simple, straightforward; no stated BAA on the public site — confirm before use |
+| [eFax](https://www.efax.com/) | Personal plans from ~$15/month; business plan adds a BAA ([efax.com](https://www.efax.com/), checked 2026-09-24) | Established, mobile app |
 | [RingCentral Fax](https://www.ringcentral.com/fax.html) | Included with VoIP | Bundled option |
-| [Fax.Plus](https://www.fax.plus/) | Free tier available | HIPAA option available |
-| [SRFax](https://www.srfax.com/) | $10-15/month | Healthcare-focused |
+| [Fax.Plus](https://www.fax.plus/) | Free tier (10 pages); paid tiers $6.99-$79.99/month; HIPAA/BAA available on the Enterprise tier only ([fax.plus/pricing](https://www.fax.plus/pricing), checked 2026-09-24) | Free tier available |
+| [SRFax](https://www.srfax.com/) | Healthcare plans from ~$13/month ([srfax.com healthcare plans](https://www.srfax.com/fax-plans/healthcare-solutions/), checked 2026-09-24) | Healthcare-focused, HIPAA-compliant |
 
 **HIPAA Considerations:**
 - Ensure service offers BAA
@@ -355,6 +352,8 @@ These services let you send and receive faxes via email—no fax machine needed.
 
 ## HIPAA and Communication
 
+A cash-only DPC practice that never sends a HIPAA standard electronic transaction is not a covered entity, but the kit treats HIPAA as the floor regardless — see [Are You a Covered Entity?](../compliance-legal/hipaa-compliance-basics.md#are-you-a-covered-entity) for the test and why it matters. The table below assumes you are building to the HIPAA standard either way.
+
 ### Quick Reference
 
 | Channel | HIPAA Status | Use For |
@@ -412,11 +411,11 @@ DPC promises access—but unsustainable access leads to burnout.
 
 | Tool | Type | HIPAA | Cost | Best For |
 |------|------|-------|------|----------|
-| Webfones | Phone/VoIP/Fax | Yes | Competitive | DPC practices, medical-focused |
-| Spruce | All-in-one | Yes | $24-$49/mo | Comprehensive communication |
-| OhMD | Messaging | Yes | $0-$200/mo | Secure texting focus |
+| Webfones | Phone/VoIP/Fax | Confirm with vendor | Not published; contact for quote | DPC practices, medical-focused |
+| Spruce | All-in-one | Yes (BAA included) | $24-$49/mo | Comprehensive communication |
+| OhMD | Messaging | Yes (BAA included) | From ~$300/mo | Secure texting focus |
 | EMR Portal | Messaging | Yes | Included | EMR integration |
-| RingCentral | Phone/VoIP | Business | $30-$60/mo | Professional phone system |
+| RingCentral | Phone/VoIP | Lists HIPAA compliance; confirm BAA | Not published; contact for quote | Professional phone system |
 | Standard SMS | Text | No | Free | Non-clinical only |
 
 ---
@@ -449,6 +448,17 @@ DPC promises access—but unsustainable access leads to burnout.
 - [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) - Security requirements
 - [Telehealth Platforms](telehealth-platforms.md) - Video visit tools
 - [After-Hours Coverage](../operations/after-hours-coverage.md) - Non-business hours communication
+- [Service Providers](../resources/service-providers.md) - Vendor-neutral comparison notes
+
+*Read through and figures checked on 2026-09-23.*
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

@@ -6,6 +6,9 @@ Your website is often the first impression potential patients have of your Direc
 
 This guide covers what your website needs to accomplish and how to build it effectively on any budget.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Practice name and branding decisions made (or in progress)
@@ -181,6 +184,9 @@ Turn visitors into members:
 - Recommend maintaining health insurance for hospital/emergency/specialist coverage
 - Link to FAQ or What is DPC page for details
 
+!!! note "HSA-eligible pricing"
+    If you display family or tiered pricing, note that a 2026 IRS rule caps the monthly fee for HSA-eligible members at $150/month per individual or $300/month for a family arrangement (26 USC 223(c)(1)(E); [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf)). See [Pricing Your Practice](../pricing-membership/pricing-your-practice.md) before publishing a price list.
+
 ---
 
 ### Contact / Location
@@ -259,22 +265,24 @@ Offer low-commitment first step: "Schedule a Free Meet-and-Greet" or "Request In
 
 **Website Builders (Easiest):**
 
+Prices checked on the vendors' own pricing pages 2026-09-24 (annual billing unless noted).
+
 | Platform | Cost | Best For |
 |----------|------|----------|
-| Squarespace | $12-$40/month | Beautiful templates, easy to use |
-| Wix | $14-$39/month | Flexible, many features |
-| Weebly | $0-$26/month | Simple, affordable |
-| WordPress.com | $4-$45/month | Flexible, SEO-friendly |
+| [Squarespace](https://www.squarespace.com/pricing) | ~$19-49/month — see [Service Providers](../resources/service-providers.md#website) for the sourced figure | Beautiful templates, easy to use |
+| [Wix](https://www.wix.com/plans) | ~$18-$40/month on the Light through Business plans (Business Elite runs to ~$160/month); Wix renamed its plans from Combo/Unlimited/VIP to Light/Core/Business/Business Elite | Flexible, many features |
+| [Weebly](https://www.weebly.com/pricing) | $0-$36/month (Free, Personal, Professional, Performance); part of Square's product suite since 2018, still sold as its own product | Simple, affordable |
+| [WordPress.com](https://wordpress.com/pricing/) | $4-$45/month | Flexible, SEO-friendly |
 
 **For More Control:**
 
 | Platform | Cost | Best For |
 |----------|------|----------|
 | WordPress.org (self-hosted) | $5-$30/month hosting | Full customization, plugins |
-| Webflow | $14-$39/month | Designer quality, no coding |
+| [Webflow](https://webflow.com/pricing) | Roughly $15-$25/month for a standard site plan; Webflow has restructured its plan names, so confirm current tiers before buying | Designer quality, no coding |
 
-**Recommendation for Most DPC Practices:**
-Squarespace or Wix offer the best balance of quality, ease, and cost for solo practices.
+**For most DPC practices:**
+A simple builder like Squarespace or Wix is usually enough for a solo practice; several other builders above work too. The kit does not endorse a single vendor—compare at least two before you commit to a year of billing.
 
 ---
 
@@ -293,7 +301,7 @@ Squarespace or Wix offer the best balance of quality, ease, and cost for solo pr
 
 **Cost:** $10-$20/year for standard domains
 
-**Registration:** Google Domains, Namecheap, GoDaddy, or through your website builder
+**Registration:** Namecheap, GoDaddy, Squarespace Domains, or through your website builder. (Google Domains is gone—Google sold the business to Squarespace in 2023, and all remaining accounts were migrated to Squarespace Domains by mid-2024.)
 
 ---
 
@@ -321,10 +329,12 @@ Squarespace or Wix offer the best balance of quality, ease, and cost for solo pr
 - Include privacy policy
 
 **HIPAA-Compliant Form Options:**
-- JotForm (HIPAA version)
-- Formstack (HIPAA version)
+- [JotForm](https://www.jotform.com/hipaa/) — HIPAA features and a signed BAA are available on its Gold and Enterprise plans, confirmed on JotForm's site 2026-09-24
+- Formstack — advertises HIPAA-compliant form options; confirm current BAA availability and plan tier directly with Formstack before use
 - Patient portal systems
-- IntakeQ
+- IntakeQ — advertises HIPAA-compliant intake forms; confirm current BAA availability directly with IntakeQ before use
+
+Whether your practice needs a BAA from a form vendor at all depends on whether you're a HIPAA covered entity; see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) and [BAA Requirements](../compliance-legal/baa-requirements.md). This is not an exhaustive or endorsed list—compare options.
 
 ---
 
@@ -451,7 +461,7 @@ Search Engine Optimization (SEO) helps patients find you through Google.
 **Semi-DIY:**
 - Website builder premium plan
 - Professional headshot photography (~$150-$300)
-- Simple logo from Fiverr or 99designs (~$50-$300)
+- Simple logo from Fiverr (~$50-$150) or a 99designs contest (roughly $300-1,300—see [Service Providers](../resources/service-providers.md#logo-and-branding))
 - Template customization
 - Professional domain
 
@@ -552,3 +562,15 @@ After your website is live:
 - [Explaining DPC to Patients](../marketing/explaining-dpc-to-patients.md) - Master your message
 - [Launch Marketing Plan](../marketing/launch-marketing-plan.md) - Drive traffic to your site
 - [Patient Onboarding Workflow](../operations/patient-onboarding-workflow.md) - Convert website visitors to members
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
+
+*Read through and figures checked on 2026-09-23.*
