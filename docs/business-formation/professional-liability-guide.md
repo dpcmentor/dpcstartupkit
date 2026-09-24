@@ -15,6 +15,9 @@ This guide helps you understand malpractice insurance options and select appropr
 - Understanding of your practice scope and services
 - Budget parameters from [Startup Costs Overview](startup-costs-overview.md)
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor, claims history and year; treat them as orders of magnitude and confirm with a broker before you budget.
+
 ---
 
 ## Why Malpractice Insurance Matters
@@ -88,7 +91,7 @@ Some DPC physicians wonder if the model reduces malpractice risk:
 - Leaving practice
 - Changing carriers (sometimes)
 
-**Cost:** Typically 150-250% of your annual premium (one-time payment)
+**Cost:** Commonly cited as 150-300% of your mature annual premium (one-time payment). This is the single biggest swing factor in total claims-made cost - get a firm tail quote, not just an annual-premium quote, before you compare claims-made to occurrence or switch carriers.
 
 **Alternatives:**
 - Some carriers offer "nose" or "prior acts" coverage
@@ -144,10 +147,9 @@ Be sure your coverage addresses:
 
 ### Where to Look
 
-**Medical professional liability insurers:**
+**Medical professional liability insurers (examples, not a recommendation - shop several):**
 - The Doctors Company
-- NORCAL (Preferred Physicians Medical)
-- ProAssurance
+- ProAssurance (acquired NORCAL Mutual in 2021 - a "NORCAL" quote now comes through ProAssurance)
 - Medical Protective
 - Coverys
 - TMLT (Texas)
@@ -200,7 +202,7 @@ Be sure your coverage addresses:
 
 ### Typical DPC Malpractice Costs
 
-**Range:** $3,000-$12,000 per year
+**Range:** $4,000-$12,000 per year, matching the [Startup Costs Overview](startup-costs-overview.md#detailed-cost-breakdown) table. The same cost shows up framed monthly on the [Bootstrap path](../bootstrap/README.md), which budgets $300-800/month (roughly $3,600-$9,600/year) - consistent with the annual figure above, sitting at or slightly below it, which tracks with the lower patient volume of a bootstrap-stage launch.
 
 **Factors affecting cost:**
 - State (varies dramatically)
@@ -349,9 +351,23 @@ Report to your carrier:
 
 - [Business Insurance Guide](business-insurance-guide.md) - General liability and other coverage
 - [Choosing a Legal Entity](choosing-legal-entity.md) - Entity protections
+- [Startup Costs Overview](startup-costs-overview.md) - Where malpractice fits in your first-year budget
+- [Bootstrap Startup Guide](../bootstrap/README.md) - The $300-800/month monthly-billed framing
 - Your state medical board - Insurance requirements
 - State medical society - Insurance programs
 - A.M. Best - Carrier financial ratings
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

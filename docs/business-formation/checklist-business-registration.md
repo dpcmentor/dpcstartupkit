@@ -10,6 +10,9 @@ This checklist guides you through the process of legally registering your Direct
 
 Timelines vary by state; allow 2-8 weeks for full completion.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
+
 ## Prerequisites
 
 - Completed legal entity selection (see [Choosing a Legal Entity](choosing-legal-entity.md))
@@ -74,10 +77,12 @@ Timelines vary by state; allow 2-8 weeks for full completion.
 | State | LLC Filing Fee |
 |-------|----------------|
 | California | $70 |
-| Texas | $300 |
+| Texas | $300 ([Texas Secretary of State fee schedule, Form 806](https://www.sos.state.tx.us/corp/forms/806_boc.pdf)) |
 | Florida | $125 |
 | New York | $200 |
 | Delaware | $90 |
+
+These are base state filing fees only; they change periodically and some states add separate publication or registered-agent-designation charges. Confirm the current fee on your state's Secretary of State site before budgeting.
 
 **Timeline:** Same-day to 2 weeks depending on state and expedite options
 
@@ -123,9 +128,12 @@ Timelines vary by state; allow 2-8 weeks for full completion.
 **Recommendation:** Obtain an EIN even if not strictly required—most banks require it to open a business account.
 
 **Cost:** Free
-**Timeline:** Immediate if online
+**Timeline:** Immediate if you apply online directly at IRS.gov; mail or fax filings of Form SS-4 take several weeks
 
-**Link:** [IRS EIN Application](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
+!!! warning "Apply directly with the IRS"
+    The IRS never charges for an EIN, and the online application at irs.gov issues the number immediately at the end of the session. Third-party sites that charge a fee to "obtain" an EIN for you are not the IRS; you gain nothing by paying one.
+
+**Link:** [IRS EIN Application](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)
 
 ---
 
@@ -379,6 +387,18 @@ Timelines vary by state; allow 2-8 weeks for full completion.
 - Your state medical board website
 - [DEA Diversion Control Division](https://www.deadiversion.usdoj.gov/)
 - Local chamber of commerce (for local requirements)
+
+*Read through and figures checked on 2026-09-23.*
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 

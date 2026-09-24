@@ -7,7 +7,10 @@ Beyond malpractice insurance, your DPC practice needs additional coverage to pro
 This guide covers the business insurance needs for a DPC practice beyond professional liability.
 
 !!! warning "Caution"
-    **Consult an Insurance Professional:** Insurance requirements vary by state, and coverage needs depend on your specific practice model. Work with an insurance broker who understands healthcare businesses to ensure you have appropriate coverage without gaps. Verify that all your practice activities (home visits, telehealth, dispensing) are covered under your policies.
+    **Consult an Insurance Professional:** Insurance requirements vary by state, and coverage needs depend on your specific practice model. Work with an insurance broker who understands healthcare businesses to ensure you have appropriate coverage without gaps. Verify that all your practice activities (home visits, telehealth, dispensing) are covered under your policies. A broker is compensated to sell coverage, so weigh their recommendations against what a solo or two-physician practice plausibly needs (below) before adding a policy.
+
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend.
 
 ## Prerequisites
 
@@ -43,7 +46,9 @@ This guide covers the business insurance needs for a DPC practice beyond profess
 - $2,000,000 aggregate
 - May be higher depending on lease requirements
 
-**Cost:** $400-$1,500/year for most small DPC practices
+**Cost:** $400-$1,500/year for most small DPC practices. [Insureon](https://www.insureon.com/small-business-insurance/general-liability/cost) reports a median across small businesses generally of about $540/year (~$45/month), with a typical range of $250-$3,000/year depending on location, claims history and revenue.
+
+**Plausibly needed:** Yes, from day one, for essentially any practice that sees patients in person. It is also the coverage most landlords require before you can sign a lease (see Lease Requirements below).
 
 ---
 
@@ -90,7 +95,11 @@ This guide covers the business insurance needs for a DPC practice beyond profess
 - May include coverage you don't need
 - May not include coverage you do need
 
-**Recommendation:** For most small DPC practices, a BOP is a good starting point. Compare to separate policies.
+**Cost:** [Insureon](https://www.insureon.com/small-business-insurance/business-owners-policy/cost) reports a small-business average of about $996/year (~$83/month); low-risk office-based services (the category a DPC office fits best) typically run $660-$770/year, with high-risk industries running higher.
+
+**Recommendation:** For most small DPC practices, a BOP is a good starting point and often the most cost-effective way to get general liability and property coverage together. Compare to separate policies.
+
+**Plausibly needed:** Yes, once you have any dedicated office space and equipment worth protecting; this is the bundle most brokers will lead with, and reasonably so.
 
 ---
 
@@ -106,8 +115,8 @@ This guide covers the business insurance needs for a DPC practice beyond profess
 - Ransomware payments (some policies)
 
 **Why DPC practices need it:**
-- You have protected health information (PHI)
-- HIPAA breaches can be costly
+- You hold protected health information (PHI) and typically sign business associate agreements (BAAs) with your EMR, lab and other vendors — see [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md)
+- HIPAA breach notification, forensics and regulatory response can be expensive even for a small breach
 - Small practices are targets (perceived as less secure)
 - Even with good security, breaches happen
 
@@ -115,9 +124,9 @@ This guide covers the business insurance needs for a DPC practice beyond profess
 - $100,000-$1,000,000 depending on practice size
 - Consider higher if storing significant patient data
 
-**Cost:** $500-$2,000/year for small practices
+**Cost:** $500-$2,000/year is a reasonable planning range for a small practice with a handful of connected systems. [Insureon](https://www.insureon.com/small-business-insurance/cyber-liability/cost) reports a wider small-business average of about $1,550/year (~$129/month), with premiums from roughly $400 to over $8,000/year depending on data volume, coverage limits and prior claims — get quotes rather than assume the low end.
 
-**Increasingly important:** Cyber coverage has become essential for any healthcare practice handling electronic PHI.
+**Plausibly needed:** Yes. Given the HIPAA/BAA exposure above, this is one of the few coverages that is a genuine need rather than an upsell for a DPC practice, even a solo one.
 
 ---
 
@@ -156,9 +165,21 @@ This guide covers the business insurance needs for a DPC practice beyond profess
 - As panel grows and you add staff
 - If concerned about employment liability
 
-**For solo DPC:** Not needed until hiring staff.
+**For solo DPC:** Not needed until hiring staff. A broker may offer it earlier as part of a bundle; it has no purpose without at least one employee, so decline it until you hire.
 
-**Cost:** $500-$2,000/year depending on number of employees
+**Cost:** [Insureon](https://www.insureon.com/small-business-insurance/employment-practices-liability/cost) reports a small-business average of about $3,084/year, with most businesses paying $750-$14,000/year depending on number of employees and industry — noticeably more than the other coverages on this page, which is one reason to hold off until you actually have staff.
+
+**Plausibly needed:** Only once you have at least one employee, and then it is worth pricing seriously; a solo or two-physician practice with no staff has nothing for this policy to cover.
+
+---
+
+### Directors & Officers (D&O) Insurance
+
+**What it covers:** Claims against the people who govern the company — typically a corporation's board of directors and officers — for alleged mismanagement, breach of fiduciary duty, or similar governance failures.
+
+**When it matters:** D&O is built for businesses with an outside board, outside investors, or multiple unrelated shareholders who might sue over how the company was run — a venture-backed startup, a nonprofit board, or a multi-owner corporation with passive investors.
+
+**For a solo or two-physician DPC practice:** Usually not relevant. If the only owners are the physicians actively running the practice, there is no outside board or outside shareholder to bring the kind of claim this policy addresses; the risks that actually threaten a small DPC practice are covered by malpractice, general liability, cyber liability and (once you have partners) a solid operating or partnership agreement. Treat a broker's D&O pitch as something to evaluate only if your ownership structure changes (for example, bringing in outside investors or an unrelated board).
 
 ---
 
@@ -286,28 +307,35 @@ Landlords often require:
 ### Essential from Day One
 - Malpractice insurance (see separate guide)
 - General liability (especially if seeing patients at any location)
+- Cyber liability (essentially day one for any practice with an EMR or other system holding PHI, not a "grow into it" item)
 
 ### Add as You Grow
-- Cyber liability (as soon as you have electronic PHI)
-- Property insurance (when you have significant equipment)
-- Workers' comp (when hiring employees)
+- Property insurance (when you have significant equipment) — often bundled into a BOP with general liability
+- Workers' comp (when hiring employees; required in most states with even one employee)
 
 ### Consider Based on Situation
-- EPLI (when hiring employees)
+- EPLI (only once you have employees — see above)
 - Business auto (if doing house calls)
 - Umbrella coverage (for additional protection)
 
+### Usually Not Relevant for a Solo or Two-Physician Practice
+- D&O insurance (built for outside boards and outside shareholders; see above)
+- EPLI before you have any employees
+
+A broker may still quote these; that does not mean they fit your ownership and staffing structure. Ask what specific exposure a policy addresses for a practice your size before adding it.
+
 ### Budget Expectations
 
-| Coverage | Annual Cost Range |
-|----------|-------------------|
-| General liability | $400-$1,500 |
-| Property | $300-$1,000 |
-| Cyber liability | $500-$2,000 |
-| BOP (bundled) | $700-$2,000 |
-| Workers' comp | Varies by state/employees |
+| Coverage | Annual Cost Range | Source |
+|----------|-------------------|--------|
+| General liability | $400-$1,500 | [Insureon](https://www.insureon.com/small-business-insurance/general-liability/cost): median ~$540, range $250-$3,000 |
+| Property | $300-$1,000 | Estimate; get a quote based on equipment value |
+| Cyber liability | $500-$2,000 | [Insureon](https://www.insureon.com/small-business-insurance/cyber-liability/cost): average ~$1,550, range $400-$8,000+ |
+| BOP (bundled GL + property) | $700-$2,000 | [Insureon](https://www.insureon.com/small-business-insurance/business-owners-policy/cost): average ~$1,000, range $400-$6,000+ |
+| Workers' comp | Varies by state/employees | No single figure; state rating bureau or broker quote |
+| EPLI (once you have staff) | $750-$3,000+ | [Insureon](https://www.insureon.com/small-business-insurance/employment-practices-liability/cost): average ~$3,084, range $750-$14,000 |
 
-**Total for lean solo practice:** $1,000-$3,000/year (excluding malpractice)
+**Total for lean solo practice:** $1,000-$3,000/year (excluding malpractice), assuming general liability, cyber liability and modest property coverage, and no EPLI or D&O.
 
 ---
 
@@ -362,7 +390,10 @@ Landlords often require:
 - [Professional Liability Guide](professional-liability-guide.md) - Malpractice insurance
 - [Startup Costs Overview](startup-costs-overview.md) - Budgeting for insurance
 - [Office Space Guide](../operations/office-space-guide.md) - Lease insurance requirements
-- Insurance Information Institute (iii.org) - General insurance education
+- [HIPAA Compliance Basics](../compliance-legal/hipaa-compliance-basics.md) - Why cyber liability matters for PHI and BAAs
+- [Insurance Information Institute](https://www.iii.org/) (iii.org) - General insurance education
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
@@ -371,3 +402,13 @@ Landlords often require:
 After securing business insurance:
 - [Working with Attorneys](working-with-attorneys.md) - Legal support
 - [Business Registration Checklist](checklist-business-registration.md) - Continue setup
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

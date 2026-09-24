@@ -4,6 +4,9 @@
 
 Having the right legal support protects your DPC practice and helps you navigate complex healthcare regulations. This guide helps you understand when you need an attorney, how to find one, and how to work with them cost-effectively.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Legal fees vary widely by state, attorney experience and matter complexity; treat these ranges as orders of magnitude and get an actual quote before you commit.
+
 ## Prerequisites
 
 - Understanding of your practice structure needs
@@ -168,6 +171,10 @@ Having the right legal support protects your DPC practice and helps you navigate
 | Employment agreement | $500-$1,500 |
 | Hourly rate (healthcare attorney) | $200-$500/hour |
 
+[Legal industry data](https://www.legalzoom.com/articles/how-much-does-a-lawyer-cost) puts the average attorney hourly rate across all specialties at about $260/hour, ranging roughly $162-$392/hour by state. Healthcare and other specialized business attorneys typically bill at the higher end of that range or above it, consistent with the $200-$500/hour estimate above.
+
+The rows above are itemized. [Choosing a Legal Entity](choosing-legal-entity.md#working-with-professionals) quotes a bundled $1,500-$5,000 for a healthcare attorney to handle PLLC/PC entity formation together with the operating agreement and a corporate-practice-of-medicine review — consistent with the entity formation and operating agreement rows here added together, priced as one engagement rather than line by line.
+
 ### Managing Legal Costs
 
 **Do your homework:**
@@ -188,7 +195,7 @@ Having the right legal support protects your DPC practice and helps you navigate
 **Templates vs. custom:**
 - Templates are fine for some documents (with attorney review)
 - Complex or state-specific documents need custom drafting
-- Healthcare agreements generally need custom work
+- Your **membership agreement should not start from a template**: refund, termination and insurance-disclaimer clauses are dictated by state statute, and the kit deliberately does not publish one to copy. Have a healthcare attorney licensed in your state draft or review it from the checklist in [Membership Agreement Essentials](../pricing-membership/membership-agreement-essentials.md).
 
 **Bundle services:**
 - Formation + operating agreement + membership agreement
@@ -332,7 +339,7 @@ Even with limited budget:
 - State bar association information
 - SBA resources for small business legal basics
 - Medical association member resources
-- DPC community shared templates (use with caution)
+- DPC community shared templates for general business documents (use with caution, and have an attorney review before signing); this does not extend to your membership agreement, which should not be adapted from another practice's template or one found online — see above
 
 ### Lower-Cost Options
 
@@ -377,6 +384,8 @@ Even with limited budget:
 - State bar association - Attorney referral services
 - State medical association - Healthcare attorney referrals
 
+*Read through and figures checked on 2026-09-23.*
+
 ---
 
 ## Next Steps
@@ -384,3 +393,13 @@ Even with limited budget:
 After establishing legal support:
 - [Business Registration Checklist](checklist-business-registration.md) - Execute formation with legal guidance
 - [State DPC Laws Overview](../compliance-legal/state-dpc-laws-overview.md) - Understand your state's requirements
+
+---
+
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources

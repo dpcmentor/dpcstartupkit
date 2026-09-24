@@ -2,6 +2,9 @@
 
 > **Quick Summary:** Every DPC practice will end eventually - through sale, transition, or closure. Planning for your exit from day one protects your patients, your investment, and your options.
 
+!!! note "About the figures on this page"
+    Dollar amounts are estimates unless a source is linked next to them. Prices vary by state, vendor and year; treat them as orders of magnitude and confirm before you spend. Valuation multiples and sale-structure examples on this page are illustrative starting points, not appraisal standards - get a professional valuation and legal/tax advice before pricing or structuring an actual sale.
+
 ---
 
 ## Why Plan Your Exit Now?
@@ -47,12 +50,15 @@ Even if retirement is decades away:
 
 ### Typical DPC Valuations
 
-**Rules of thumb:**
-- 0.5x - 1.0x annual revenue (most common)
+!!! note "These are not appraisal standards"
+    The multiples below are informal rules of thumb circulating among DPC physicians, not a recognized valuation methodology. Practice valuation is judgment- and market-specific; get an actual business valuation (and your accountant's and attorney's input) before you price a sale or a buy-in.
+
+**Rules of thumb (illustrative, not a formula):**
+- 0.5x - 1.0x annual revenue (most commonly cited)
 - 2-4x annual net income (EBITDA)
 - Per-patient values: $200-500/patient
 
-**Example:**
+**Example (illustrative only):**
 - 500 patients at $100/month = $600K revenue
 - Valuation: $300K - $600K (0.5x - 1x)
 
@@ -81,7 +87,7 @@ Even if retirement is decades away:
 - Asset purchase (not stock)
 - Transition period (3-12 months)
 - Earn-out provisions (percentage of retained patients)
-- Non-compete agreement
+- Non-compete agreement (enforceability is state law - see below)
 
 **Buyer concerns:**
 - Will patients stay?
@@ -225,19 +231,22 @@ Even if retirement is decades away:
 
 ## Tax Considerations
 
-### Asset Sale vs. Stock Sale
+!!! note
+    Asset-vs-entity sale treatment depends on your entity structure (see [Choosing a Legal Entity](choosing-legal-entity.md)), your state, and the specific deal terms. The comparison below is general orientation, not a recommendation - have your CPA model both structures for your actual numbers before you negotiate.
 
-**Asset sale (more common):**
+### Asset Sale vs. Entity (Stock/Membership Interest) Sale
+
+**Asset sale (more common for solo/small DPC practices):**
 - Buyer purchases assets
 - Different tax treatment for each asset type
 - Generally better for buyer
 - Seller may have higher taxes
 
-**Stock sale:**
-- Buyer purchases ownership interest
+**Entity sale (stock sale for a PC, membership-interest sale for an LLC/PLLC):**
+- Buyer purchases the ownership interest
 - Simpler structure
 - Liability concerns for buyer
-- Better tax treatment for seller
+- Often better tax treatment for seller
 
 ### Installment Sales
 
@@ -263,6 +272,9 @@ Even if retirement is decades away:
 - Indemnification provisions
 - Non-compete terms
 - Transition period details
+
+!!! note
+    Non-compete enforceability is set by state law, not federal rule - the FTC's 2024 nationwide non-compete ban was vacated by a federal court before it took effect and the FTC conceded the vacatur in September 2025. See [Transitioning From Practice](../operations/transitioning-from-practice.md#review-your-employment-contract) for the state-by-state detail; don't assume a non-compete you're drafting or signing is enforceable (or not) without an attorney's read of your state.
 
 ### Financial Protection
 
@@ -327,11 +339,19 @@ Even if retirement is decades away:
 - [Partnership Structures](partnership-structures.md)
 - [Choosing a Legal Entity](choosing-legal-entity.md)
 - [Working with Attorneys](working-with-attorneys.md)
+- [Transitioning From Practice](../operations/transitioning-from-practice.md) - non-compete enforceability and employment-contract exit details
+
+*Read through and figures checked on 2026-09-23.*
 
 ---
 
-!!! note
-    Exit planning involves complex legal and tax issues. Work with experienced professionals. This guide provides concepts, not legal or tax advice.
+!!! warning "Educational Content Only"
+    **This is educational content, not legal or financial advice.**
+
+    - Regulations vary by state and change over time
+    - Always consult a healthcare attorney for legal matters
+    - Always consult an accountant for tax and financial matters
+    - Verify current requirements with official sources
 
 ---
 
