@@ -2,6 +2,8 @@
 
 This document outlines recommended guides and documents for each section, with suggested content and priority levels.
 
+**Status as of 2026-09-24:** 62 of the 68 documents originally planned here have been written. The six still open are `adding-services-pricing.md`, `employer-outreach-guide.md`, `media-and-press.md`, `patient-referral-programs.md`, `practice-analytics.md` and `remote-monitoring-devices.md`. The priority labels below reflect the original plan and are not re-ordered for what remains.
+
 **Priority Key:**
 - **P1** - Essential for launch; create first
 - **P2** - Important for early operations
