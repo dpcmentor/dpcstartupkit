@@ -251,6 +251,7 @@ All entries verified against the operator's own site on 2026-09-23.
 - **[Physician Support Line](https://www.physiciansupportline.com/):** 1-888-409-0141. A free, confidential and anonymous peer-support line for physicians and medical students, staffed by volunteer psychiatrists. Monday to Friday, 8:00 a.m. to 11:00 p.m. ET, closed on federal holidays; no appointment needed. It is not a 24-hour crisis line; outside those hours use 988.
 - **[Dr. Lorna Breen Heroes' Foundation](https://drlornabreen.org/):** an advocacy organization working on health-worker burnout and on removing mental-health questions from licensing and credentialing applications. It does not provide clinical care or run a hotline; its site has a "Find Support" page listing no- and low-cost services for health workers.
 - **State Physician Health Programs (PHPs):** most states have a program offering confidential assessment, referral and monitoring for physicians with mental health or substance use concerns. The [Federation of State Physician Health Programs directory](https://www.fsphp.org/state-programs) lists them by state. Terms of confidentiality and any reporting to the medical board differ by state; read your state program's description before enrolling.
+- **[Physicians Anonymous](https://physiciansanonymous.org/):** free, anonymous peer-support meetings for physicians dealing with burnout, held virtually; no diagnosis or credential check required to attend, and it is peer support rather than clinical treatment or a PHP.
 
 !!! note "About statistics on this page"
     This page deliberately quotes no burnout or suicide figures. If you want the survey data, the [AMA's physician burnout page](https://www.ama-assn.org/practice-management/physician-health/measuring-and-addressing-physician-burnout) links its annual national surveys.
@@ -299,6 +300,7 @@ That works only if you:
 - [Physician Support Line](https://www.physiciansupportline.com/) — 1-888-409-0141, weekdays 8 a.m. to 11 p.m. ET
 - [Dr. Lorna Breen Heroes' Foundation](https://drlornabreen.org/) — advocacy and a directory of support services
 - [FSPHP state physician health program directory](https://www.fsphp.org/state-programs)
+- [Physicians Anonymous](https://physiciansanonymous.org/) — free anonymous peer-support meetings for burnout
 - [DPC Communities](dpc-communities.md) — Peer support from other DPC physicians
 
 !!! warning "Educational Content Only"
