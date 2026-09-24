@@ -121,12 +121,12 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [explaining-dpc-to-patients.md](docs/marketing/explaining-dpc-to-patients.md) | Not Reviewed | | | |
-| [building-your-brand.md](docs/marketing/building-your-brand.md) | Not Reviewed | | | |
-| [website-content-guide.md](docs/marketing/website-content-guide.md) | Not Reviewed | | | |
-| [social-media-for-dpc.md](docs/marketing/social-media-for-dpc.md) | Not Reviewed | | | |
-| [launch-marketing-plan.md](docs/marketing/launch-marketing-plan.md) | Not Reviewed | | | |
-| [community-outreach-strategies.md](docs/marketing/community-outreach-strategies.md) | Not Reviewed | | | |
+| [explaining-dpc-to-patients.md](docs/marketing/explaining-dpc-to-patients.md) | Read-through | JF | 2026-09-24 | One spot could read as overstating what DPC replaces; clarified insurance is still needed for hospitalization, specialists, emergencies |
+| [building-your-brand.md](docs/marketing/building-your-brand.md) | Read-through | JF | 2026-09-24 | Handle checker and Google Domains both defunct; tool prices reconciled with the service-providers page |
+| [website-content-guide.md](docs/marketing/website-content-guide.md) | Read-through | JF | 2026-09-24 | FAQ told patients DPC is unconditionally HSA-eligible; corrected to the 2026 caps |
+| [social-media-for-dpc.md](docs/marketing/social-media-for-dpc.md) | Read-through | JF | 2026-09-24 | Every platform confirmed current; TikTok ownership status checked; vendor neutrality note added |
+| [launch-marketing-plan.md](docs/marketing/launch-marketing-plan.md) | Read-through | JF | 2026-09-24 | Facebook ads named as Meta Ads Manager; figures note added |
+| [community-outreach-strategies.md](docs/marketing/community-outreach-strategies.md) | Read-through | JF | 2026-09-24 | Named organizations confirmed to still exist |
 
 ## Compliance & Legal
 
