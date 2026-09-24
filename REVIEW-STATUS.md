@@ -69,13 +69,13 @@ practicing in that state may promote one to Reviewed.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
-| [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Not Reviewed | | | |
+| [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Read-through | JF | 2026-09-24 | EIN process clarified (free, irs.gov only); TX filing fee verified; no BOI filing |
 | [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Read-through | JF | 2026-09-22 | Totals recomputed; CLIA $248; 2026 retirement limits; broken table fixed |
-| [partnership-structures.md](docs/business-formation/partnership-structures.md) | Not Reviewed | | | New - partner models, buy-in |
-| [exit-planning.md](docs/business-formation/exit-planning.md) | Not Reviewed | | | New - succession, valuation |
-| [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Not Reviewed | | | |
-| [business-insurance-guide.md](docs/business-formation/business-insurance-guide.md) | Not Reviewed | | | |
-| [working-with-attorneys.md](docs/business-formation/working-with-attorneys.md) | Not Reviewed | | | |
+| [partnership-structures.md](docs/business-formation/partnership-structures.md) | Read-through | JF | 2026-09-24 | Valuation formulas no longer asserted as standard; fee-splitting/CPOM gap closed; non-compete deferred |
+| [exit-planning.md](docs/business-formation/exit-planning.md) | Read-through | JF | 2026-09-24 | Valuation multiples flagged as informal; sale-structure tax treatment deferred; non-compete deferred |
+| [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Read-through | JF | 2026-09-24 | Third malpractice-cost figure reconciled with the two already settled; ProAssurance/NORCAL merger fixed |
+| [business-insurance-guide.md](docs/business-formation/business-insurance-guide.md) | Read-through | JF | 2026-09-24 | Coverage sourced and split into plausibly-needed vs. usually-not-relevant; D&O section added |
+| [working-with-attorneys.md](docs/business-formation/working-with-attorneys.md) | Read-through | JF | 2026-09-24 | Hourly rates sourced; reconciled with entity-formation guide; no-template policy reinforced |
 | [tax-planning-basics.md](docs/business-formation/tax-planning-basics.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 
 ## Small Business Fundamentals (NEW SECTION)
