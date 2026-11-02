@@ -75,8 +75,9 @@ Systems designed specifically for Direct Primary Care practices.
 - [Elation Health](https://www.elationhealth.com/) (DPC-focused version)
 - [Atlas.md](https://atlas.md/)
 - [Hint Health](https://www.hint.com/) (practice management + EMR partnerships)
-- [Cerbo](https://www.cerbo.io/)
-- [Charm Health](https://www.charmhealth.com/)
+- [Cerbo](https://www.cer.bo/) (merged with OptiMantra in 2025)
+- [SigmaMD](https://www.sigmamd.com/)
+- [Notive Health](https://notivehealth.com/) (new in 2026)
 
 **Pros:**
 - Designed for DPC workflow
@@ -99,6 +100,7 @@ General small-practice EMRs that work well for DPC with some configuration.
 - [Practice Fusion](https://www.practicefusion.com/)
 - [DrChrono](https://www.drchrono.com/)
 - [Amazing Charts](https://amazingcharts.com/)
+- [Charm Health](https://www.charmhealth.com/) (free tier; no membership features)
 - [Jane App](https://jane.app/)
 - [SimplePractice](https://www.simplepractice.com/) (if also doing cash-pay behavioral health)
 

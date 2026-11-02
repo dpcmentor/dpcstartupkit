@@ -109,7 +109,7 @@ practicing in that state may promote one to Reviewed.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Read-through | JF | 2026-06-15 | |
-| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | New - DPC EMR comparison; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | Vendors, prices, BAA, EPCS and AI scribe re-checked on vendor sites 2026-11-02 (#82); awaiting JF read-through |
 | [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Read-through | JF | 2026-09-24 | Zoom pricing corrected 10x too high; Klara acquired by ModMed; Skype retirement reflected |
 | [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Read-through | JF | 2026-09-24 | OhMD price is now $300+/mo, was listed as $0-200; fax vendor BAA scope detailed |
 | [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Read-through | JF | 2026-09-24 | Builder prices updated; Google Domains removed (sold to Squarespace 2023); 2026 HSA note on tiered pricing; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
