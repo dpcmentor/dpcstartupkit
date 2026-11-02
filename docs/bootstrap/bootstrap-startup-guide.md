@@ -28,7 +28,7 @@ Bootstrapping means starting and growing a business using minimal external resou
 **Bootstrap approach says:** Start with a stethoscope, a smartphone, and a handful of patients. Grow from there.
 
 **Why this works for DPC:**
-- Low patient volume needed to break even (50-100 patients)
+- Low patient volume needed to break even (50-100 patients to cover costs and a starting salary)
 - No insurance credentialing delays
 - Direct patient relationships don't need fancy offices
 - Modern technology eliminates most overhead
