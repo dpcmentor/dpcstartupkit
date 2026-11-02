@@ -167,27 +167,26 @@ registered provider |
 
 ### Practice Fusion
 
-**Free/low-cost option**
+**General cloud EHR (paid)**
 
 | Feature | Details |
 |---------|---------|
-| Pricing | Free or $149/month |
+| Pricing | Paid plans only (the free, ad-supported version has ended); check current pricing |
 | Target | Small practices |
 | E-prescribing | Yes |
 | Telehealth | Limited |
 
 **Pros:**
-- Free tier available
+- Established, widely used cloud EHR
 - Low barrier to entry
 - Basic functionality works
 
 **Cons:**
-- Ad-supported (free version)
 - Not DPC-specific
 - Basic features
 - Acquired by Veradigm (changes possible)
 
-**Best for:** Ultra-bootstrap, testing the waters
+**Best for:** Physicians who want a familiar general EHR and will handle membership billing elsewhere
 
 ---
 
@@ -253,7 +252,7 @@ registered provider |
 | Hint | % revenue | ★★★★★ | Core focus | Via partner | Via partner | ★★★ |
 | Elation | ~$350 | ★★★★ | Limited | Yes | Excellent | ★★★ |
 | Cerbo | ~$300 | ★★★★ | Yes | Yes | Yes | ★★★ |
-| Practice Fusion | $0-149 | ★★ | No | Limited | Yes | ★★★★★ |
+| Practice Fusion | ~$199 | ★★ | No | Limited | Yes | ★★★ |
 | SimplePractice | $29-99 | ★★ | No | Yes | No | ★★★★★ |
 | Jane App | $54-99 | ★★★ | Limited | Yes | No | ★★★★ |
 
@@ -303,7 +302,7 @@ registered provider |
 **For most bootstrap DPC practices:**
 
 1. **Start with Atlas.md** - Purpose-built, all-in-one, reasonable price
-2. **Alternative: Practice Fusion** - Free tier to test, upgrade later
+2. **Alternative: Practice Fusion** - Use the free trial to test; paid plans only
 3. **If tight budget: SimplePractice** - $29/month is hard to beat
 
 **Add Hint later** if you need advanced membership management.

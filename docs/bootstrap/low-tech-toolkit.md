@@ -81,7 +81,7 @@ Medications: [List]
 
 **When to upgrade:** When searching/organizing becomes painful, or you need e-prescribing integration. Usually 40-50+ patients.
 
-**Fancy alternative you don't need yet:** Atlas.md, Elation, Practice Fusion ($0-400/month)
+**Fancy alternative you don't need yet:** Atlas.md, Elation, Practice Fusion ($150-400/month)
 
 ---
 
@@ -175,7 +175,7 @@ Medications: [List]
 - Columns: Patient, Start Date, Monthly Fee, Payment Method, Last Paid
 
 **Collecting:**
-- Venmo (free, 1.75% for instant transfer)
+- Venmo Business profile (use a business profile, not a personal account, for patient payments; check current fees)
 - Square (2.6% + $0.10)
 - Zelle (free, many banks)
 - Cash/check (0%, old school)

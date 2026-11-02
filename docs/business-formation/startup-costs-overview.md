@@ -408,7 +408,7 @@ These are the monthly and one-time tables above added together. On the Bootstrap
 - [Pricing Calculator Template](../kit-templates/spreadsheets/template-pricing-calculator.xlsx)
 - [Break-Even Calculator](../pricing-membership/pricing-your-practice.md#break-even-calculator) - the break-even spreadsheet template's math, in your browser
 - [SBA Business Loan Information](https://www.sba.gov/loans/)
-- [Bootstrap Startup Guide](../bootstrap/bootstrap-startup-guide.md) - the $1,500-3,000 path, itemised
+- [Minimum Viable Practice](../bootstrap/minimum-viable-practice.md) - the $1,500-3,000 path, itemised; the [Bootstrap Startup Guide](../bootstrap/bootstrap-startup-guide.md) adds an EMR and equipment
 
 *Read through and figures checked on 2026-09-22.*
 

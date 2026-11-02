@@ -121,7 +121,7 @@ When to spend on marketing: When word of mouth isn't growing you fast enough and
 
 **Only if doing point-of-care testing.**
 
-CLIA waiver ($180/2 years) is needed for:
+CLIA waiver ($248 per 2 years; check the [CMS fee schedule](https://www.cms.gov/files/document/clia-certificate-fee-schedule.pdf)) is needed for:
 - Rapid strep
 - Urine dipsticks
 - Glucose monitoring

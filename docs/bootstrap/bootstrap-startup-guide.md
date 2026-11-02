@@ -36,9 +36,11 @@ Bootstrapping means starting and growing a business using minimal external resou
 
 ---
 
-## The $5,000 Launch
+## The Equipped Bootstrap Launch
 
-### Minimum Viable Practice
+### Minimum Viable Practice, Plus a Few Tools
+
+The bare minimum is $1,500-3,000 (see [Minimum Viable Practice](minimum-viable-practice.md)). This fuller list adds a cloud EMR, basic equipment and a CLIA waiver, so it runs higher.
 
 **Essential startup costs:**
 
@@ -48,14 +50,14 @@ Bootstrapping means starting and growing a business using minimal external resou
 | Medical license (if moving) | $300-800 | Already have if staying |
 | DEA registration | $888 | 3-year registration |
 | NPI number | $0 | Free through CMS |
-| CLIA waiver | $180 | 2-year certificate |
-| Malpractice insurance | $200-400/mo | DPC rates are lower |
+| CLIA waiver | $248 | 2-year certificate ([CMS fee schedule](https://www.cms.gov/files/document/clia-certificate-fee-schedule.pdf)) |
+| Malpractice insurance | $300-800/mo | Estimate; varies widely by state and specialty |
 | Cloud EMR | $100-200/mo | Atlas.md, Elation, Hint |
 | Basic equipment | $500-1,500 | Stethoscope, BP cuff, otoscope |
 | Communication | $50-100/mo | Phone, texting platform |
 | Website | $15-50/mo | Squarespace, Carrd, free tier |
 
-**Total to launch:** ~$3,000-5,000 upfront + ~$500/mo recurring
+**Total to launch:** ~$3,000-5,000 upfront + ~$500-1,200/mo recurring
 
 **What you DON'T need to start:**
 - ❌ A dedicated office (use shared space, house calls, telehealth)
@@ -317,7 +319,7 @@ Nothing. Absolutely nothing.
 - Spreadsheet with patient names and payment dates
 - Wave (free accounting software)
 - Handwritten receipts are valid
-- Venmo/Zelle memo = documentation
+- Venmo Business/Zelle memo = documentation
 
 **Communication:**
 - Your cell phone (Google Voice for separation)

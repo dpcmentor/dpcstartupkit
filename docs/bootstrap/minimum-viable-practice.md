@@ -15,7 +15,7 @@ interactive_checklist: true
 - [ ] **Medical license** - Current in your state (you have this)
 - [ ] **DEA registration** - $888, apply at deadiversion.usdoj.gov (can delay if not prescribing controlled substances initially)
 - [ ] **NPI number** - Free, you have this or get at nppes.cms.hhs.gov
-- [ ] **Business entity** - LLC preferred, $50-500 depending on state
+- [ ] **Business entity** - LLC, or a PLLC/PC where your state requires a professional entity (California, New York and Texas do), $50-500 depending on state
 - [ ] **EIN** - Free, IRS.gov, takes 5 minutes
 - [ ] **Business bank account** - Free, any bank
 
@@ -24,10 +24,10 @@ interactive_checklist: true
 ### Insurance (Required)
 
 - [ ] **Malpractice insurance** - Contact broker, mention DPC for lower rates
-  - Expect: $200-400/month for family medicine
+  - Expect: $300-800/month for family medicine (estimate; varies widely by state)
   - Get quotes from: TMLT, The Doctors Company, ProAssurance, state medical society
 
-**Time:** 1 week | **Cost:** ~$200-400/month
+**Time:** 1 week | **Cost:** ~$300-800/month
 
 ### Patient Care (Minimum)
 
@@ -55,9 +55,9 @@ interactive_checklist: true
 - [ ] **Patient records** - Choose one:
   - Paper charts (legal, $0)
   - Google Docs with Workspace BAA ($6/month)
-  - Practice Fusion free tier ($0)
-- [ ] **Membership agreement** - Word document (template in this kit)
-- [ ] **Basic intake form** - Word document (template in this kit)
+  - A low-cost cloud EMR (see the [EMR Vendor Directory](../technology/emr-vendor-directory.md))
+- [ ] **Membership agreement** - drafted with a healthcare attorney for your state (the kit gives a what-to-cover list, not a template: see [Working with Attorneys](../business-formation/working-with-attorneys.md))
+- [ ] **Basic intake form** - Word or Google Docs
 
 **Time:** 1 hour | **Cost:** $0-6/month
 
@@ -92,11 +92,11 @@ interactive_checklist: true
 | Legal/Entity | $500-1,500 | - |
 | DEA | $888 | - |
 | Equipment | $150-350 | - |
-| Malpractice | - | $200-400 |
+| Malpractice | - | $300-800 |
 | Communication | - | $0-6 |
 | Website | $0-19 | - |
 | Space | $0-500 | $0-500 |
-| **TOTAL** | **$1,500-3,250** | **$200-900** |
+| **TOTAL** | **$1,500-3,250** | **$300-1,300** |
 
 **Break-even:** 3-10 patients at $100/month
 
@@ -170,7 +170,7 @@ Schedule: Paper calendar on desk
 
 Records: Google Docs folder / Paper charts
 
-Membership: $100/month, collected via Venmo/Square
+Membership: $100/month, collected via Square or a Venmo Business profile
 
 Location: Home office / House calls / Telehealth
 ```
