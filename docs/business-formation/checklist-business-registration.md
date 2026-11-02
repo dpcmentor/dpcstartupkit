@@ -141,7 +141,7 @@ These are base state filing fees only; they change periodically and some states 
 
 - [ ] Consult accountant on timing
 - [ ] File Form 2553 for S-Corp election
-- [ ] Must file within 75 days of formation OR by March 15 for current tax year
+- [ ] File no later than 2 months and 15 days after the start of the tax year the election takes effect (March 15 for a calendar-year business), or any time in the year before; a new entity counts from the day its first tax year begins (see the [Form 2553 instructions](https://www.irs.gov/instructions/i2553))
 - [ ] Receive IRS confirmation
 
 **Note:** This step is only if you have decided to elect S-Corp taxation. Many practices wait until year 2 to make this election.

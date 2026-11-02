@@ -114,7 +114,7 @@ Before selecting an entity type, you should:
 
 **Disadvantages:**
 - More complex formation and maintenance
-- Required formalities (board meetings, minutes, bylaws)
+- Required formalities if formed as a corporation (board meetings, minutes, bylaws); an LLC or PLLC that elects S-Corp tax treatment keeps its simpler LLC upkeep, but still runs payroll
 - Stricter ownership rules (100 shareholders max, one class of stock)
 - Payroll requirements for owner-employees
 - Higher accounting and legal costs

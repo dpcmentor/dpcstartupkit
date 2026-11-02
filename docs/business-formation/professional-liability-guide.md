@@ -188,7 +188,7 @@ Be sure your coverage addresses:
 
 ### Consent-to-Settle Clauses
 
-**Hammer clause:** Carrier can settle without your consent; if you refuse and lose at trial for more, you may be responsible for the difference.
+**Hammer clause:** The carrier still needs your consent to settle, but if you refuse a settlement it recommends and the case later costs more (a larger verdict, and often the extra defense costs), you may have to pay some or all of the difference. A "soft" hammer splits that excess; a "hard" hammer puts all of it on you.
 
 **Pure consent:** Carrier cannot settle without your consent.
 
@@ -272,7 +272,7 @@ Report to your carrier:
 1. **Report immediately** to your carrier
 2. **Don't discuss the case** with anyone except your attorney and carrier
 3. **Don't alter records** or destroy documents
-4. **Don't apologize or admit fault** (in ways that could be used against you)
+4. **Talk to your carrier before you apologize or explain fault.** Many states have apology laws, and some carriers and hospitals run communication-and-resolution programs, but the protections vary. Expressing sympathy is usually safe; admitting fault on your own is not
 5. **Document your recollection** of events
 6. **Cooperate fully** with your defense team
 
