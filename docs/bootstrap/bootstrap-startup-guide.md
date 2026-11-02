@@ -52,12 +52,12 @@ The bare minimum is $1,500-3,000 (see [Minimum Viable Practice](minimum-viable-p
 | NPI number | $0 | Free through CMS |
 | CLIA waiver | $248 | 2-year certificate ([CMS fee schedule](https://www.cms.gov/files/document/clia-certificate-fee-schedule.pdf)) |
 | Malpractice insurance | $300-800/mo | Estimate; varies widely by state and specialty |
-| Cloud EMR | $100-200/mo | Atlas.md, Elation, Hint |
+| Cloud EMR | $90-300/mo | SigmaMD or Notive launch tiers, Atlas.md, Hint ([EMR Vendor Directory](../technology/emr-vendor-directory.md)) |
 | Basic equipment | $500-1,500 | Stethoscope, BP cuff, otoscope |
 | Communication | $50-100/mo | Phone, texting platform |
 | Website | $15-50/mo | Squarespace, Carrd, free tier |
 
-**Total to launch:** ~$3,000-5,000 upfront + ~$500-1,200/mo recurring
+**Total to launch:** ~$3,000-5,000 upfront + ~$450-1,250/mo recurring
 
 **What you DON'T need to start:**
 - ❌ A dedicated office (use shared space, house calls, telehealth)
@@ -269,7 +269,7 @@ Many bootstrapped DPC docs have done initial consultations at coffee shops:
 ### When Free Isn't Enough
 
 **Invest in these (even bootstrapping):**
-- EMR: ~$100-200/mo (Atlas.md, Elation, Practice Fusion)
+- EMR: ~$90-300/mo (SigmaMD or Notive launch tiers, Atlas.md, Hint; see the [EMR Vendor Directory](../technology/emr-vendor-directory.md))
 - HIPAA-compliant communication: ~$30-100/mo
 - Malpractice insurance: Required
 - Domain + email: ~$20/year + $6/mo

@@ -81,7 +81,7 @@ Medications: [List]
 
 **When to upgrade:** When searching/organizing becomes painful, or you need e-prescribing integration. Usually 40-50+ patients.
 
-**Fancy alternative you don't need yet:** Atlas.md, Elation, Practice Fusion ($150-400/month)
+**Fancy alternative you don't need yet:** Atlas.md, Hint, SigmaMD and others ($90-350/month; see the [EMR Vendor Directory](../technology/emr-vendor-directory.md))
 
 ---
 
@@ -251,7 +251,7 @@ What to include:
 
 **Option B: Free E-Prescribe Options**
 - Some pharmacies offer prescriber portals
-- Practice Fusion (free tier) has e-prescribe
+- Some low-cost EHRs include e-prescribing on their cheapest plan (see the [EMR Vendor Directory](../technology/emr-vendor-directory.md))
 - Check if your state has free options
 
 **Controlled substances:**
