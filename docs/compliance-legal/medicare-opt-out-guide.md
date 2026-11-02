@@ -233,7 +233,7 @@ Once you terminate opt-out:
 
 ### Do I need to opt out if I never enrolled in Medicare?
 
-**Recommended yes.** Filing an opt-out affidavit provides clear documentation of your status. Some attorneys advise opting out even if you've never enrolled, to create an unambiguous paper trail.
+**Yes, if you will see Medicare patients for services Medicare covers.** Never enrolling does not take you outside Medicare. Under the mandatory claim submission rule, a physician who gives a beneficiary a covered service must submit the claim, and the only way to charge a beneficiary privately for covered services instead is a private contract, which requires an opt-out affidavit. If you will never see Medicare beneficiaries, you may not need to file, but confirm with a healthcare attorney.
 
 ### Can Medicare beneficiaries use their Medigap insurance?
 

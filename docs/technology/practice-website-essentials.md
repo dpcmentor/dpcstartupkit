@@ -388,7 +388,7 @@ Visitors can tell stock photos. Use sparingly, if at all, for people photos. Sto
 - Community involvement
 
 **Testimonial Best Practices:**
-- Get written permission
+- Get written permission (a HIPAA marketing authorization if you are a covered entity), and check your state board's advertising rules
 - Use first name and last initial
 - Specific testimonials are more powerful than generic
 - Video testimonials are highly effective if available
