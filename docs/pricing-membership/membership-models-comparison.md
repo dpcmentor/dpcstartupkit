@@ -183,8 +183,8 @@ Offer a discount for annual prepayment:
 As your practice grows, employers may approach you about covering their employees.
 
 **Typical Employer Pricing:**
-- Per Employee Per Month (PEPM): $100-$150
-- Often 10-15% below individual rates due to volume
+- Per Employee Per Month (PEPM): your individual rate less a group discount
+- Often 10-25% below individual rates, larger discounts for larger groups (typical convention; unsourced; see the [Employer Contracts Guide](employer-contracts-guide.md#typical-discounts))
 - Dependents at additional cost
 - Keep employee-only rates at or below $150/month and family tiers at or below $300/month so employees on high-deductible plans keep their HSA eligibility (see the 2026 HSA box above)
 

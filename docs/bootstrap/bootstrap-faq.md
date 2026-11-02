@@ -121,7 +121,7 @@ When to spend on marketing: When word of mouth isn't growing you fast enough and
 
 **Only if doing point-of-care testing.**
 
-CLIA waiver ($180/2 years) is needed for:
+CLIA waiver ($248 per 2 years; check the [CMS fee schedule](https://www.cms.gov/files/document/clia-certificate-fee-schedule.pdf)) is needed for:
 - Rapid strep
 - Urine dipsticks
 - Glucose monitoring
@@ -315,7 +315,7 @@ Burnout comes from volume, not from doing your own scheduling.
 They're wrong, or they're talking about traditional practices.
 
 DPC with 50 patients at $100/month = $5,000/month revenue.
-Break-even with minimal overhead = 20-30 patients.
+Break-even with minimal overhead and a small draw for you = 20-30 patients.
 
 You don't need $50K to get 20 patients.
 

@@ -136,7 +136,7 @@ TOTAL LIABILITIES + EQUITY         $32,500
 
 ### What to look at
 
-- **Cash position** — do you have enough in checking/savings to cover 2–3 months of expenses?
+- **Cash position** — do you have enough operating cash (not counting the tax reserve) to cover 2–3 months of expenses?
 - **Deferred revenue** — if you collect ahead, this liability represents care you still owe members
 - **Debt load** — how much does the business owe relative to what it owns?
 - **Owner's equity growth** — is your stake in the business increasing over time?
@@ -214,7 +214,7 @@ Don't chase metrics. A few are genuinely useful:
 
 - **Gross margin** = gross profit ÷ revenue. For a DPC practice with minimal supplies this is very high; the 85–95% range used in this kit is an illustrative assumption, not a survey figure. The example above is 94%.
 - **Operating margin** = operating profit ÷ revenue. This is how efficient your overhead is. Decide once whether owner compensation sits above or below the operating-profit line, and keep it there; the example above is 81% before owner compensation and 24% after.
-- **Months of runway** = cash on hand ÷ monthly operating expenses. Aim for at least 2–3 months; 6+ is safer. The balance sheet above holds $27,000 in cash against $3,120 of monthly operating expenses, roughly 8.7 months.
+- **Months of runway** = operating cash ÷ monthly operating expenses. Leave out the tax reserve: that money is already owed (see [Cash Flow Management](cash-flow-management.md)). Aim for at least 2–3 months; 6+ is safer. The balance sheet above holds $15,000 in checking against $3,120 of monthly operating expenses, roughly 4.8 months. Counting the $12,000 tax reserve would overstate it as 8.7.
 - **Current ratio** = current assets ÷ current liabilities. Should be > 1.0, ideally > 1.5. The balance sheet above gives $29,000 ÷ $8,000, about 3.6.
 
 See [Key Business Metrics for a DPC Practice](key-business-metrics.md) for DPC-specific metrics beyond these general ones.

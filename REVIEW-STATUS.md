@@ -57,23 +57,23 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [README.md](docs/bootstrap/README.md) | Read-through | JF | 2026-09-22 | Cost figures harmonised with other entry pages; entity wording |
-| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Read-through | JF | 2026-06-15 | $1,500-3,250 launch checklist |
-| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Read-through | JF | 2026-06-15 | $0-50/month tech stack |
-| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Read-through | JF | 2026-06-15 | Full philosophy, startup culture |
-| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Read-through | JF | 2026-06-15 | "Don't I need..." answered |
+| [README.md](docs/bootstrap/README.md) | Read-through | JF | 2026-09-22 | Cost figures harmonised with other entry pages; entity wording; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [minimum-viable-practice.md](docs/bootstrap/minimum-viable-practice.md) | Read-through | JF | 2026-06-15 | $1,500-3,250 launch checklist; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [low-tech-toolkit.md](docs/bootstrap/low-tech-toolkit.md) | Read-through | JF | 2026-06-15 | $0-50/month tech stack; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [bootstrap-startup-guide.md](docs/bootstrap/bootstrap-startup-guide.md) | Read-through | JF | 2026-06-15 | Full philosophy, startup culture; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [bootstrap-faq.md](docs/bootstrap/bootstrap-faq.md) | Read-through | JF | 2026-06-15 | "Don't I need..." answered; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [bootstrapping-resources.md](docs/bootstrap/bootstrapping-resources.md) | Read-through | JF | 2026-06-15 | Books, podcasts, communities |
 
 ## Business Formation
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
-| [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Read-through | JF | 2026-09-24 | EIN process clarified (free, irs.gov only); TX filing fee verified; no BOI filing |
-| [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Read-through | JF | 2026-09-22 | Totals recomputed; CLIA $248; 2026 retirement limits; broken table fixed |
+| [choosing-legal-entity.md](docs/business-formation/choosing-legal-entity.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [checklist-business-registration.md](docs/business-formation/checklist-business-registration.md) | Read-through | JF | 2026-09-24 | EIN process clarified (free, irs.gov only); TX filing fee verified; no BOI filing; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [startup-costs-overview.md](docs/business-formation/startup-costs-overview.md) | Read-through | JF | 2026-09-22 | Totals recomputed; CLIA $248; 2026 retirement limits; broken table fixed; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [partnership-structures.md](docs/business-formation/partnership-structures.md) | Read-through | JF | 2026-09-24 | Valuation formulas no longer asserted as standard; fee-splitting/CPOM gap closed; non-compete deferred |
 | [exit-planning.md](docs/business-formation/exit-planning.md) | Read-through | JF | 2026-09-24 | Valuation multiples flagged as informal; sale-structure tax treatment deferred; non-compete deferred |
-| [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Read-through | JF | 2026-09-24 | Third malpractice-cost figure reconciled with the two already settled; ProAssurance/NORCAL merger fixed |
+| [professional-liability-guide.md](docs/business-formation/professional-liability-guide.md) | Read-through | JF | 2026-09-24 | Third malpractice-cost figure reconciled with the two already settled; ProAssurance/NORCAL merger fixed; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [business-insurance-guide.md](docs/business-formation/business-insurance-guide.md) | Read-through | JF | 2026-09-24 | Coverage sourced and split into plausibly-needed vs. usually-not-relevant; D&O section added |
 | [working-with-attorneys.md](docs/business-formation/working-with-attorneys.md) | Read-through | JF | 2026-09-24 | Hourly rates sourced; reconciled with entity-formation guide; no-template policy reinforced |
 | [tax-planning-basics.md](docs/business-formation/tax-planning-basics.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
@@ -86,7 +86,7 @@ practicing in that state may promote one to Reviewed.
 | [accounting-basics.md](docs/small-business-fundamentals/accounting-basics.md) | Read-through | JF | 2026-09-22 | Cash method available with inventory (471(c)); example near national average |
 | [business-banking.md](docs/small-business-fundamentals/business-banking.md) | Read-through | JF | 2026-09-22 | EIN, FDIC, no BOI filing; several banks named, none endorsed |
 | [bookkeeping-setup.md](docs/small-business-fundamentals/bookkeeping-setup.md) | Read-through | JF | 2026-09-22 | Software prices re-read from vendor pages 2026-09-22; neutral wording |
-| [reading-financial-statements.md](docs/small-business-fundamentals/reading-financial-statements.md) | Read-through | JF | 2026-09-22 | Tables recomputed; margin definition made explicit; payroll-tax line explained |
+| [reading-financial-statements.md](docs/small-business-fundamentals/reading-financial-statements.md) | Read-through | JF | 2026-09-22 | Tables recomputed; margin definition made explicit; payroll-tax line explained; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [cash-flow-management.md](docs/small-business-fundamentals/cash-flow-management.md) | Read-through | JF | 2026-09-22 | Tax line corrected to profit basis and settled SE-tax method; estimated-tax dates |
 | [understanding-business-taxes.md](docs/small-business-fundamentals/understanding-business-taxes.md) | Read-through | JF | 2026-09-22 | Aligned to the Reviewed tax page; 2026 limits; 1099 thresholds verified on irs.gov |
 | [working-with-accountants.md](docs/small-business-fundamentals/working-with-accountants.md) | Read-through | JF | 2026-09-22 | Credentials per IRS; fee ranges enclose the tax page; neutral referrals |
@@ -96,8 +96,8 @@ practicing in that state may promote one to Reviewed.
 
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
-| [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
-| [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Read-through | JF | 2026-09-22 | 2026 HSA caps; benchmarks aligned to State of DPC 2026 |
+| [pricing-your-practice.md](docs/pricing-membership/pricing-your-practice.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
+| [membership-models-comparison.md](docs/pricing-membership/membership-models-comparison.md) | Read-through | JF | 2026-09-22 | 2026 HSA caps; benchmarks aligned to State of DPC 2026; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [membership-agreement-essentials.md](docs/pricing-membership/membership-agreement-essentials.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22; sample clauses now state-conditional |
 | [payment-processing-options.md](docs/pricing-membership/payment-processing-options.md) | Read-through | JF | 2026-09-22 | Processor fees re-read from vendor pricing pages 2026-09-22 |
 | [family-pricing-strategies.md](docs/pricing-membership/family-pricing-strategies.md) | Read-through | JF | 2026-09-22 | 2026 HSA $300 household cap added to examples |
@@ -109,10 +109,10 @@ practicing in that state may promote one to Reviewed.
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [emr-selection-guide.md](docs/technology/emr-selection-guide.md) | Read-through | JF | 2026-06-15 | |
-| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | New - DPC EMR comparison |
+| [emr-vendor-directory.md](docs/technology/emr-vendor-directory.md) | Read-through | JF | 2026-06-15 | New - DPC EMR comparison; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [telehealth-platforms.md](docs/technology/telehealth-platforms.md) | Read-through | JF | 2026-09-24 | Zoom pricing corrected 10x too high; Klara acquired by ModMed; Skype retirement reflected |
 | [patient-communication-tools.md](docs/technology/patient-communication-tools.md) | Read-through | JF | 2026-09-24 | OhMD price is now $300+/mo, was listed as $0-200; fax vendor BAA scope detailed |
-| [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Read-through | JF | 2026-09-24 | Builder prices updated; Google Domains removed (sold to Squarespace 2023); 2026 HSA note on tiered pricing |
+| [practice-website-essentials.md](docs/technology/practice-website-essentials.md) | Read-through | JF | 2026-09-24 | Builder prices updated; Google Domains removed (sold to Squarespace 2023); 2026 HSA note on tiered pricing; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [scheduling-systems.md](docs/technology/scheduling-systems.md) | Read-through | JF | 2026-09-24 | No HIPAA/BAA content despite handling PHI; added, with per-vendor BAA availability |
 | [lab-imaging-integration.md](docs/technology/lab-imaging-integration.md) | Read-through | JF | 2026-09-24 | A listed lab vendor domain now redirects through an ad-fingerprinting chain; removed; Healthcare Bluebook renamed Valenz Bluebook |
 | [ai-clinical-tools.md](docs/technology/ai-clinical-tools.md) | Reviewed | JF | 2026-09-22 | Every legal, regulatory and pricing claim checked against primary sources 2026-09-22; state AI-disclosure laws added |
@@ -124,7 +124,7 @@ practicing in that state may promote one to Reviewed.
 | [explaining-dpc-to-patients.md](docs/marketing/explaining-dpc-to-patients.md) | Read-through | JF | 2026-09-24 | One spot could read as overstating what DPC replaces; clarified insurance is still needed for hospitalization, specialists, emergencies |
 | [building-your-brand.md](docs/marketing/building-your-brand.md) | Read-through | JF | 2026-09-24 | Handle checker and Google Domains both defunct; tool prices reconciled with the service-providers page |
 | [website-content-guide.md](docs/marketing/website-content-guide.md) | Read-through | JF | 2026-09-24 | FAQ told patients DPC is unconditionally HSA-eligible; corrected to the 2026 caps |
-| [social-media-for-dpc.md](docs/marketing/social-media-for-dpc.md) | Read-through | JF | 2026-09-24 | Every platform confirmed current; TikTok ownership status checked; vendor neutrality note added |
+| [social-media-for-dpc.md](docs/marketing/social-media-for-dpc.md) | Read-through | JF | 2026-09-24 | Every platform confirmed current; TikTok ownership status checked; vendor neutrality note added; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [launch-marketing-plan.md](docs/marketing/launch-marketing-plan.md) | Read-through | JF | 2026-09-24 | Facebook ads named as Meta Ads Manager; figures note added |
 | [community-outreach-strategies.md](docs/marketing/community-outreach-strategies.md) | Read-through | JF | 2026-09-24 | Named organizations confirmed to still exist |
 
@@ -134,7 +134,7 @@ practicing in that state may promote one to Reviewed.
 |----------|--------|----------|------|-------|
 | [hipaa-compliance-basics.md](docs/compliance-legal/hipaa-compliance-basics.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 | [state-dpc-laws-overview.md](docs/compliance-legal/state-dpc-laws-overview.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
-| [medicare-opt-out-guide.md](docs/compliance-legal/medicare-opt-out-guide.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
+| [medicare-opt-out-guide.md](docs/compliance-legal/medicare-opt-out-guide.md) | Reviewed | JF | 2026-09-22 | Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [controlled-substances-compliance.md](docs/compliance-legal/controlled-substances-compliance.md) | Reviewed | JF | 2026-09-22 | New - DEA, PDMP, EPCS; Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 | [telehealth-legal-considerations.md](docs/compliance-legal/telehealth-legal-considerations.md) | Reviewed | JF | 2026-09-22 | New - licensing, platforms; Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
 | [corporate-practice-medicine.md](docs/compliance-legal/corporate-practice-medicine.md) | Reviewed | JF | 2026-09-22 | New - CPOM, MSO structures; Every legal, tax, regulatory and pricing claim checked against primary sources 2026-09-22 (PRs #45, #46); sources linked on page |
@@ -272,7 +272,7 @@ All 50 state guides require review. Each includes:
 | Document | Status | Reviewer | Date | Notes |
 |----------|--------|----------|------|-------|
 | [README.md](README.md) | Read-through | JF | 2026-09-24 | GitHub badge link 404s; repo is private, see maintainer note |
-| [index.md](docs/index.md) | Read-through | JF | 2026-09-22 | Home page; authorship claim aligned with About page; entity wording |
+| [index.md](docs/index.md) | Read-through | JF | 2026-09-22 | Home page; authorship claim aligned with About page; entity wording; targeted corrections 2026-11-01 (#75-#80), not a new read-through |
 | [getting-started.md](docs/getting-started.md) | Read-through | JF | 2026-09-22 | Template links now point at the files; timing wording |
 | [CONTRIBUTING.md](docs/CONTRIBUTING.md) | Read-through | JF | 2026-09-22 | Rewritten in #43/#44 |
 | [CONTENT-ROADMAP.md](CONTENT-ROADMAP.md) | Read-through | JF | 2026-09-24 | Status line added; 62 of 68 planned documents now written |

@@ -219,9 +219,10 @@ Create multiple posts at once:
 ### Gray Areas
 
 **Patient testimonials:**
-- Get written consent
+- Get written consent; if you are a HIPAA covered entity, use a HIPAA marketing authorization, since a testimonial identifies the person as your patient
 - Let patient write or approve content
 - Keep consent on file
+- Check your state board's rules; some restrict testimonials in physician advertising
 
 **Before/after photos:**
 - Written consent essential

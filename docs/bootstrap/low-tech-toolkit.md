@@ -81,7 +81,7 @@ Medications: [List]
 
 **When to upgrade:** When searching/organizing becomes painful, or you need e-prescribing integration. Usually 40-50+ patients.
 
-**Fancy alternative you don't need yet:** Atlas.md, Elation, Practice Fusion ($0-400/month)
+**Fancy alternative you don't need yet:** Atlas.md, Elation, Practice Fusion ($150-400/month)
 
 ---
 
@@ -114,9 +114,11 @@ Medications: [List]
 
 **How it works:**
 - End-to-end encrypted
-- HIPAA-appropriate (encryption + access controls)
 - Text, photos, voice messages
 - Works like regular texting
+
+!!! warning "Signal does not sign a BAA"
+    Strong encryption is not the same as HIPAA compliance. Signal will not sign a business associate agreement, so it sits outside HIPAA (see [BAA Requirements](../compliance-legal/baa-requirements.md)). If you use it, get the patient's written agreement to message this way, keep PHI to the minimum, and move clinical details into your record. If you want a HIPAA-covered tool from day one, pick a messaging service that signs a BAA. Confirm your approach with your healthcare attorney.
 
 **Patient adoption:** "Download Signal so we can communicate securely"
 
@@ -173,7 +175,7 @@ Medications: [List]
 - Columns: Patient, Start Date, Monthly Fee, Payment Method, Last Paid
 
 **Collecting:**
-- Venmo (free, 1.75% for instant transfer)
+- Venmo Business profile (use a business profile, not a personal account, for patient payments; check current fees)
 - Square (2.6% + $0.10)
 - Zelle (free, many banks)
 - Cash/check (0%, old school)

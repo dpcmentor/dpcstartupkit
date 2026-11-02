@@ -227,7 +227,7 @@ Before finalizing:
 Employers often expect volume discounts:
 
 **Typical employer pricing:**
-- 10-20% below individual rates (typical convention; unsourced)
+- 10-25% below individual rates, larger discounts for larger groups (typical convention; unsourced; see the [Employer Contracts Guide](employer-contracts-guide.md#typical-discounts))
 - Per Employee Per Month (PEPM) structure
 - May include dependents at additional cost
 

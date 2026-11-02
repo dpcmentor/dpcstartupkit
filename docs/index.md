@@ -104,7 +104,7 @@ Tick off each day as you go — your progress is saved in your browser.
 - [ ] **Day 6:** Basic equipment, home office — see [Minimum Viable Practice](bootstrap/minimum-viable-practice.md)
 - [ ] **Day 7:** Tell everyone, sign first patient — you're open
 
-**Total cost: $1,500-3,000. Break-even: 3-10 patients.** (Illustrative; your numbers will differ.)
+**Total cost: $1,500-3,000. Break-even on overhead: 3-10 patients, before you pay yourself.** (Illustrative; your numbers will differ.)
 
 ### :building_construction: Comprehensive Quick Start (Launch in 3-6 Months)
 

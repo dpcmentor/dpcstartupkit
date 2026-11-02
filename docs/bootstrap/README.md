@@ -41,7 +41,7 @@
 - Break-even at 150+ patients
 - Stress, debt, pressure
 
-(Both columns are illustrative, not survey data.)
+(Both columns are illustrative, not survey data. Break-even here means covering overhead plus a modest salary for you; covering overhead alone takes far fewer members.)
 
 **Bootstrap launch:**
 - $1,500-3,000 startup costs
