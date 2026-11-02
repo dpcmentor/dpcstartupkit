@@ -114,9 +114,11 @@ Medications: [List]
 
 **How it works:**
 - End-to-end encrypted
-- HIPAA-appropriate (encryption + access controls)
 - Text, photos, voice messages
 - Works like regular texting
+
+!!! warning "Signal does not sign a BAA"
+    Strong encryption is not the same as HIPAA compliance. Signal will not sign a business associate agreement, so it sits outside HIPAA (see [BAA Requirements](../compliance-legal/baa-requirements.md)). If you use it, get the patient's written agreement to message this way, keep PHI to the minimum, and move clinical details into your record. If you want a HIPAA-covered tool from day one, pick a messaging service that signs a BAA. Confirm your approach with your healthcare attorney.
 
 **Patient adoption:** "Download Signal so we can communicate securely"
 

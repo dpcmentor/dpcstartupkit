@@ -43,8 +43,8 @@ interactive_checklist: true
 
 ### Communication (Free/Cheap)
 
-- [ ] **Phone number** - Google Voice (free) or your cell
-- [ ] **Secure messaging** - Signal app (free, HIPAA-appropriate)
+- [ ] **Phone number** - Google Voice (free) or your cell (free Google Voice is not covered by a BAA; Google Voice through a paid Workspace plan can be)
+- [ ] **Secure messaging** - Signal app (free, encrypted, but no BAA: see the [Low-Tech Toolkit](low-tech-toolkit.md) note) or a messaging service that signs a BAA
 - [ ] **Email** - Gmail or professional domain ($0-6/month)
 - [ ] **Video visits** - Doxy.me free tier
 

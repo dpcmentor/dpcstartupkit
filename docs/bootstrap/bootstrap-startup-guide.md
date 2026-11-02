@@ -321,7 +321,7 @@ Nothing. Absolutely nothing.
 
 **Communication:**
 - Your cell phone (Google Voice for separation)
-- Text messages (Signal for HIPAA)
+- Text messages (Signal is encrypted but does not sign a BAA; see the [Low-Tech Toolkit](low-tech-toolkit.md) note)
 - Email
 - Actual phone calls—remember those?
 

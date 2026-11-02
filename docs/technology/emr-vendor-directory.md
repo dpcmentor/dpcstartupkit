@@ -370,7 +370,7 @@ Physicians practiced medicine for decades with paper charts, phone calls, and ap
 | Scheduling | Paper calendar or Google Calendar | $0 |
 | Patient records | Paper charts or Google Docs (with BAA) | $0-6/mo |
 | Prescriptions | Paper Rx pads or free e-prescribe (via pharmacy) | $0 |
-| Communication | Google Voice + Signal | $0 |
+| Communication | Google Voice + Signal (neither free tool signs a BAA; see [BAA Requirements](../compliance-legal/baa-requirements.md)) | $0 |
 | Billing | Spreadsheet + Venmo/Square | $0 |
 | Forms | Word/Google Docs templates | $0 |
 
