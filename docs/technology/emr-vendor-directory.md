@@ -1,6 +1,6 @@
 # EMR Vendor Directory for DPC Practices
 
-> **Quick Summary:** Choosing the right EMR is critical for DPC efficiency. Unlike traditional practices buried in billing codes, DPC EMRs should optimize for patient relationships, communication, and simplicity.
+> **Quick Summary:** Choosing the right EMR is critical for DPC efficiency. Unlike traditional practices buried in billing codes, DPC EMRs should optimize for patient relationships, communication, and simplicity. Vendors and prices checked 2026-11-02.
 !!! warning "Caution"
     **Pricing and features change frequently.** The information below reflects our understanding at the time of writing and may be outdated. Always verify current pricing, features, and terms directly with each vendor before making decisions. This is not an exhaustive list, and inclusion or exclusion does not constitute an endorsement or recommendation.
 ---
@@ -34,229 +34,272 @@
 
 ---
 
+## How DPC Practices Choose Today
+
+The [AAFP's 2026 DPC Data Brief](https://www.aafp.org/assets/image/upload/v1792512986/pdf_dpc26_data_brief.pdf) found Atlas.md was the EHR most used by respondents (26%). Elation Health led earlier surveys (53% in 2022, 26% in 2024). Two in three respondents' practices use AI tools, and every DPC-focused vendor below now sells or includes an AI scribe except Akute.
+
+Prices and features below were checked on each vendor's own site on 2026-11-02 unless marked otherwise. "Ask" means we could not confirm it; ask the vendor.
+
+---
+
 ## DPC-Focused EMRs
 
 ### Atlas.md
 
-**Built specifically for DPC**
+**Built specifically for DPC; the most used EHR in the AAFP 2026 survey**
 
 | Feature | Details |
 |---------|---------|
-| Pricing | $300/month for each
-registered provider |
-| Target | DPC practices |
-| Charting | Flexible, DPC-optimized |
-| Messaging | Built-in secure messaging |
-| Telehealth | Integrated |
-| Membership | Built-in management |
-| Payments | Integrated billing |
-| Labs | Quest, Labcorp integration |
-| E-prescribing | Yes, including EPCS |
+| Pricing | $300/month per registered provider ([atlas.md/pricing](https://www.atlas.md/pricing)); card and ACH processing fees extra |
+| Free trial | 30 days |
+| Membership and payments | Built in |
+| Messaging and portal | Built in |
+| Telehealth | Built in |
+| Labs | Quest and Labcorp; regional labs through an interface partner |
+| E-prescribing | Yes, including EPCS (via DrFirst) |
+| AI scribe | Built in ("Ask Atlas"), included |
+| BAA | Yes, on request |
+| Data on exit | Export on request in a standard format; migration may carry a fee |
 
 **Pros:**
-- Purpose-built for DPC workflow
-- All-in-one platform
-- Strong DPC community
-- Responsive to DPC needs
-- Clean interface
+- Purpose-built for DPC workflow, all in one
+- Large DPC user community
+- Month-to-month; cancel any time
 
 **Cons:**
-- Limited to DPC use case
-- Smaller company (support considerations)
-- Less customizable than larger platforms
+- Built for DPC only
+- Smaller company than general EHR vendors
 
-**Best for:** DPC practices wanting turnkey solution
+**Best for:** DPC practices wanting a turnkey all-in-one system
 
-**Website:** atlas.md
+**Website:** [atlas.md](https://www.atlas.md/)
 
 ---
 
-### Hint Health
+### Hint Health (Hint Clinical)
 
-**DPC practice management platform**
+**Membership platform with its own EMR**
 
 | Feature | Details |
 |---------|---------|
-| Pricing | Per-member or % of revenue |
-| Target | DPC and direct care |
-| Focus | Membership management |
-| EMR | Integrates with others or has basic charting |
-| Payments | Core strength |
-| Membership | Primary focus |
+| Pricing | Flat monthly tiers, not a percentage of revenue: Launch $290 (one clinician, EMR included), Pro $320, Scale $770, Enterprise custom ([hint.com/pricing](https://www.hint.com/pricing)); card processing extra. A billing-only option is available |
+| Free trial | No; billing starts when you launch |
+| Membership and payments | Core product, including employer contracts |
+| EMR | Hint Clinical, included in Launch |
+| E-prescribing | Yes, including EPCS |
+| AI scribe | Hint AI, on Pro or as an add-on |
+| BAA | Yes ([hint.com/baa](https://www.hint.com/baa)) |
+| Integrations | Partners with other EMRs (Akute, Cerbo, Elation, athenahealth and others) if you'd rather chart elsewhere |
 
 **Pros:**
-- Industry leader in DPC billing
-- Strong payment automation
-- Employer contract management
-- Integrates with various EMRs
+- Long-standing leader in DPC membership billing
+- Employer contract and payment automation
+- Use it as your EMR or alongside another one
 
 **Cons:**
-- Not a full EMR
-- Pricing can add up
-- May need separate EMR
+- Tiers step up with member count
+- No free trial
 
-**Best for:** Practices wanting best-in-class membership/billing
+**Best for:** Practices that want best-in-class membership billing, with or without its EMR
 
-**Website:** hint.com
+**Website:** [hint.com](https://www.hint.com/)
 
 ---
 
 ### Elation Health
 
-**Primary care EMR with DPC-friendly features**
+**Primary care EHR with a large DPC user base**
 
 | Feature | Details |
 |---------|---------|
-| Pricing | ~$300-400/month |
-| Target | Primary care, including DPC |
-| Charting | Clinical-focused, well-designed |
-| Messaging | Passport feature for patient communication |
-| Telehealth | Integrated |
+| Pricing | Quote only ([elationhealth.com/pricing](https://www.elationhealth.com/pricing)) |
+| Free trial | No; guided demo |
+| Membership and payments | Built-in membership management (Stripe and ACH) since December 2025; also integrates with Hint |
+| Messaging and portal | Built in |
+| Telehealth | Built in |
 | Labs | Strong integrations |
 | E-prescribing | Yes, including EPCS |
+| AI scribe | Note Assist (a small number of free notes a month; more on a paid tier) |
+| BAA | Yes (published) |
 
 **Pros:**
-- Clinically excellent design
-- Built by physicians
-- Works for DPC and traditional
-- Strong lab integration
-- Good patient portal
+- Clinically excellent charting, built by physicians
+- Works for DPC and hybrid practices
+- Acquired Aster, an AI-native EHR, in June 2026; expect more AI features
 
 **Cons:**
-- Higher price point
-- More features than some DPC needs
-- Not DPC-exclusive
+- No published pricing
+- More features than a small DPC practice may need
 
-**Best for:** Clinically-focused physicians who want excellent charting
+**Best for:** Clinically focused physicians who want excellent charting
 
-**Website:** elationhealth.com
+**Website:** [elationhealth.com](https://www.elationhealth.com/)
 
 ---
 
-### Cerbo
+### Akute Health
 
-**Direct care and concierge medicine focus**
+**Built for DPC and cash-pay primary care**
 
 | Feature | Details |
 |---------|---------|
-| Pricing | ~$250-350/month |
-| Target | Direct care, functional medicine, concierge |
-| Charting | Flexible templates |
-| Telehealth | Integrated |
-| Supplements | Inventory management |
-| Labs | Integration available |
+| Pricing | Essentials $300/month (one clinician, 100 patients, then $0.75 per added patient); Premium $550/month (two clinicians, 300 patients, then $0.85 per patient) ([akutehealth.com/pricing](https://akutehealth.com/pricing)) |
+| Free trial | Ask |
+| Membership and payments | Through a Hint Core billing add-on ($50-110/month); Akute's own payments on Premium |
+| Labs | Ordering and results included |
+| Telehealth | Yes |
+| E-prescribing | Yes; ask about EPCS |
+| AI scribe | None |
+| BAA | Yes |
+
+**Pros:**
+- Designed for DPC; premier exhibitor at the 2026 DPC Summit
+- Published, predictable pricing
+
+**Cons:**
+- Small company (stability consideration)
+- Membership billing is an add-on
+- No AI scribe
+
+**Best for:** DPC practices that want a DPC-built EHR and are happy to bill through Hint
+
+**Website:** [akutehealth.com](https://akutehealth.com/)
+
+---
+
+### SigmaMD
+
+**All-in-one EHR that lists DPC first among its specialties**
+
+| Feature | Details |
+|---------|---------|
+| Pricing | Launch $90 per clinician/month (until 50 patients or 12 months), Standard $350, Group Plan $500; month to month ([sigmamd.com/pricing](https://www.sigmamd.com/pricing)) |
+| Free trial | Clinician trial; ask for terms |
+| Membership and payments | Built in |
+| Telehealth | Included |
+| E-prescribing | Yes, EPCS and PDMP included |
+| AI scribe | Add-on: $30 per user on Launch, $75 on Standard and Group |
+| BAA | Yes |
+
+**Pros:**
+- Low launch price that grows with your panel
+- Membership billing and EPCS included
+- Premier exhibitor at the 2026 DPC Summit
+
+**Cons:**
+- Newer to most DPC physicians; ask for references
+- Price jumps after the launch period
+
+**Best for:** New practices that want an all-in-one system at a bootstrap price
+
+**Website:** [sigmamd.com](https://www.sigmamd.com/)
+
+---
+
+### Cerbo (now with OptiMantra)
+
+**Membership, concierge and functional medicine EHR**
+
+| Feature | Details |
+|---------|---------|
+| Pricing | Per seat: about $281/month per prescribing provider, plus a one-time setup fee; patient portal and telemedicine are paid add-ons. Confirm current pricing at [cer.bo/pricing](https://www.cer.bo/pricing) |
+| Free trial | Demo only |
+| Membership and payments | Subscription management; several payment processors |
+| Supplements | Inventory and dispensing |
+| E-prescribing | Yes, including EPCS |
+| AI scribe | Add-on |
+| BAA | Yes |
+
+Cerbo and OptiMantra merged in December 2025 under one company; both products continue. OptiMantra (from $99/month for the first practitioner, [optimantra.com/pricing](https://optimantra.com/pricing)) is the lower-cost, integrative-medicine-leaning option.
 
 **Pros:**
 - Designed for membership medicine
-- Supplement/inventory tracking
-- Functional medicine friendly
-- Good direct care features
+- Strong supplement and inventory tools
 
 **Cons:**
-- Less mainstream
-- Smaller user community
-- Learning curve
+- Setup fee and add-ons raise the real cost
+- Smaller DPC community than Atlas.md, Elation or Hint
 
-**Best for:** Functional medicine DPC, practices selling supplements
+**Best for:** Functional or integrative DPC practices, practices selling supplements
 
-**Website:** cerbo.io
+**Website:** [cer.bo](https://www.cer.bo/)
+
+---
+
+### Also worth a look
+
+- **[Notive Health](https://notivehealth.com/)**: new, DPC-focused all-in-one EHR (2026 DPC Summit exhibitor). $99, $249 or $349 per provider/month; staff seats free; free trial; EPCS and a BAA; AI scribe on the two higher plans. Too new to judge track record.
+- **[Spruce](https://www.sprucehealth.com/)**: not an EHR. Patient phone, text and video communication that signs a BAA on all plans; widely used by DPC practices alongside their EHR.
 
 ---
 
 ## General EMRs Used by DPC
 
-### Practice Fusion
+These are not built for DPC and have no membership billing, so you would pair them with Hint, Stripe or a spreadsheet.
 
-**General cloud EHR (paid)**
+### Practice Fusion
 
 | Feature | Details |
 |---------|---------|
-| Pricing | Paid plans only (the free, ad-supported version has ended); check current pricing |
-| Target | Small practices |
-| E-prescribing | Yes |
-| Telehealth | Limited |
+| Pricing | From $199 per provider/month, billed monthly with a required annual commitment ([practicefusion.com/pricing](https://www.practicefusion.com/pricing/)). The free, ad-supported version has ended |
+| Free trial | Two weeks |
+| E-prescribing | Yes, including controlled substances |
+| BAA | Ask |
 
-**Pros:**
-- Established, widely used cloud EHR
-- Low barrier to entry
-- Basic functionality works
-
-**Cons:**
-- Not DPC-specific
-- Basic features
-- Acquired by Veradigm (changes possible)
-
-**Best for:** Physicians who want a familiar general EHR and will handle membership billing elsewhere
+**Pros:** Established, widely used cloud EHR. **Cons:** Annual commitment, not DPC-specific. Owned by Veradigm.
 
 ---
 
 ### SimplePractice
 
-**Originally mental health, expanding**
-
 | Feature | Details |
 |---------|---------|
-| Pricing | $29-99/month |
-| Target | Solo practitioners, originally therapists |
-| Charting | Template-based |
-| Telehealth | Built-in |
-| Scheduling | Strong |
+| Pricing | $49, $79 or $99/month ([simplepractice.com/pricing](https://www.simplepractice.com/pricing/)) |
+| Free trial | Yes |
+| E-prescribing | Add-on ($49/month plus setup); EPCS available |
+| AI scribe | Add-on |
+| BAA | Yes |
 
-**Pros:**
-- Very affordable
-- Clean interface
-- Good telehealth
-- Simple to learn
-
-**Cons:**
-- Not medical-focused originally
-- Limited clinical features
-- May outgrow it
-
-**Best for:** Very simple practices, mental health integrated with DPC
+**Pros:** Simple, good telehealth. **Cons:** Built for behavioral health; limited primary care features. **Best for:** DPC practices with a large behavioral health component.
 
 ---
 
 ### Jane App
 
-**Canadian origin, growing in US**
-
 | Feature | Details |
 |---------|---------|
-| Pricing | ~$54-99/month |
-| Target | Allied health, primary care |
-| Interface | Modern, clean |
-| Scheduling | Excellent |
-| Payments | Integrated |
+| Pricing | $59, $79 or $99/month plus practitioner licences ([jane.app/pricing](https://jane.app/pricing)) |
+| Free trial | No |
+| Memberships | Top (Thrive) tier only |
+| E-prescribing | Not yet live in the US; Jane says US ePrescribe with EPCS is coming in winter 2026-27 |
+| BAA | Yes, on request |
 
-**Pros:**
-- Beautiful interface
-- Good patient experience
-- Flexible
-- Growing feature set
+**Pros:** Beautiful interface and booking. **Cons:** No US e-prescribing yet; built for allied health.
 
-**Cons:**
-- Not US-focused originally
-- E-prescribing limitations
-- Smaller US presence
+---
 
-**Best for:** Practices valuing modern interface
+### Other general options
+
+- **[CharmHealth](https://www.charmhealth.com/)**: free edition up to 50 encounters a month, then per-encounter or per-provider plans; e-prescribing and EPCS are add-ons; no membership features.
+- **[DrChrono](https://www.drchrono.com/)** (EverHealth): quote only; EPCS is an add-on.
+- **[Amazing Charts](https://www.amazingcharts.com/)**: from about $229/month (hosted).
 
 ---
 
 ## Comparison Matrix
 
-| EMR | Monthly Cost | DPC Focus | Membership | Telehealth | Labs | Bootstrap Score |
-|-----|--------------|-----------|------------|------------|------|-----------------|
-| Atlas.md | ~$150 | ★★★★★ | Built-in | Yes | Yes | ★★★★ |
-| Hint | % revenue | ★★★★★ | Core focus | Via partner | Via partner | ★★★ |
-| Elation | ~$350 | ★★★★ | Limited | Yes | Excellent | ★★★ |
-| Cerbo | ~$300 | ★★★★ | Yes | Yes | Yes | ★★★ |
-| Practice Fusion | ~$199 | ★★ | No | Limited | Yes | ★★★ |
-| SimplePractice | $29-99 | ★★ | No | Yes | No | ★★★★★ |
-| Jane App | $54-99 | ★★★ | Limited | Yes | No | ★★★★ |
-
-**Bootstrap Score:** Based on cost-to-value ratio for starting practices
+| EMR | Monthly cost (1 physician) | Built for DPC | Membership billing | EPCS | AI scribe | BAA | Free trial |
+|-----|---------------------------|---------------|--------------------|------|-----------|-----|-----------|
+| Atlas.md | $300 | Yes | Built in | Yes | Included | Yes | 30 days |
+| Hint (Clinical) | From $290 | Yes | Core | Yes | Pro or add-on | Yes | No |
+| Elation | Quote | DPC offering | Built in | Yes | Note Assist | Yes | No |
+| Akute | From $300 | Yes | Hint add-on | Ask | None | Yes | Ask |
+| SigmaMD | $90 launch, then $350 | Yes | Built in | Included | Add-on | Yes | Ask |
+| Cerbo | ~$281 + setup | Membership medicine | Built in | Yes | Add-on | Yes | Demo |
+| Notive | $99-349 | Yes | Included | Yes | Higher plans | Yes | Yes |
+| Practice Fusion | From $199, annual | No | None | Yes | Ask | Ask | 2 weeks |
+| SimplePractice | $49-99 + eRx add-on | No | None | Add-on | Add-on | Yes | Yes |
+| Jane App | $59-99 | No | Top tier only | Not yet (US) | Add-on | On request | No |
 
 ---
 
@@ -270,29 +313,33 @@ registered provider |
    - Telehealth
    - Patient portal
    - Messaging
+   - AI scribe
 
-2. **What integrations are available?**
+2. **Will you sign a BAA?** Get it before any patient data goes in.
+
+3. **What integrations are available?**
    - Labs (Quest, Labcorp, regional)
    - Pharmacy networks
    - Billing/payment systems
 
-3. **What's the contract term?**
+4. **What's the contract term?**
    - Monthly preferred for bootstrap
    - Avoid annual commitments initially
 
-4. **How's the support?**
+5. **How's the support?**
    - Response time
    - Training included
    - Ongoing help
 
-5. **Can I export my data?**
+6. **Can I export my data?**
    - Critical for switching
    - HIPAA requires patient access
 
 ### Red Flags
 
 - Long-term contracts required
-- Hidden fees (eFax, EPCS, etc.)
+- Hidden fees (setup, eFax, EPCS, portal, telehealth)
+- No BAA, or a BAA only on a higher tier
 - No data export
 - Poor reviews on support
 - Company instability
@@ -301,11 +348,11 @@ registered provider |
 
 **For most bootstrap DPC practices:**
 
-1. **Start with Atlas.md** - Purpose-built, all-in-one, reasonable price
-2. **Alternative: Practice Fusion** - Use the free trial to test; paid plans only
-3. **If tight budget: SimplePractice** - $29/month is hard to beat
+1. **Start with an all-in-one DPC system.** SigmaMD's launch tier and Notive's Launch plan are the cheapest way in. Atlas.md is the most widely used and has a 30-day trial.
+2. **If membership billing matters most:** Hint Launch includes its own EMR.
+3. **Avoid annual commitments** (Practice Fusion requires one) until you know your workflow.
 
-**Add Hint later** if you need advanced membership management.
+Many bootstrap practices start with no EMR at all; see [DIY / Minimal EMR Options](#diy-minimal-emr-options) below.
 
 ---
 
@@ -331,7 +378,7 @@ registered provider |
 
 ### Common Mistakes
 
-1. **Choosing based on demo only** - Get hands-on trial
+1. **Choosing based on demo only** - Get a hands-on trial where one exists (Atlas.md, Notive, Practice Fusion and SimplePractice offer one; Hint, Elation, Jane and Cerbo don't)
 2. **Over-building before launch** - Start simple, customize later
 3. **Skipping training** - Invest the time upfront
 4. **Not testing integrations** - Lab orders must work before patients
@@ -481,8 +528,8 @@ Most EMRs offer migration support (sometimes for a fee). Get data in:
 
 ### Trends to Watch
 
-- AI documentation assistance
-- Voice charting
+- AI scribes are now standard (built in or an add-on with most DPC vendors); check where audio and notes are stored and that the BAA covers them
+- AI front-office automation (phones, scheduling, intake)
 - Automated coding (less relevant for DPC)
 - Enhanced patient engagement
 - Chronic care management tools
